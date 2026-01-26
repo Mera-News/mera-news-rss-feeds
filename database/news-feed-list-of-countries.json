@@ -1072,11 +1072,6 @@
       "publication_rss_feed_uri": "https://www.ecuavisa.com/rss/noticias"
     },
     {
-      "publication_name": "Diario El Mercurio",
-      "publication_website_uri": "https://elmercurio.com.ec/",
-      "publication_rss_feed_uri": "https://elmercurio.com.ec/feed/"
-    },
-    {
       "publication_name": "Ecuador en vivo",
       "publication_website_uri": "https://ecuadorenvivo.com/",
       "publication_rss_feed_uri": "https://ecuadorenvivo.com/feed/"
@@ -1880,12 +1875,6 @@
       "publication_website_uri": "http://timesofindia.indiatimes.com/",
       "publication_rss_feed_uri": "http://timesofindia.indiatimes.com/rssfeeds/30359486.cms",
       "category": "US"
-    },
-    {
-      "publication_name": "Times of India",
-      "publication_website_uri": "http://timesofindia.indiatimes.com/",
-      "publication_rss_feed_uri": "http://timesofindia.indiatimes.com/rssfeeds/7098551.cms",
-      "category": "NRI"
     },
     {
       "publication_name": "Times of India",
@@ -4995,11 +4984,6 @@
       "publication_name": "The Independent",
       "publication_website_uri": "http://www.independent.co.uk/",
       "publication_rss_feed_uri": "http://www.independent.co.uk/news/uk/rss"
-    },
-    {
-      "publication_name": "Daily Express :: News Feed",
-      "publication_website_uri": "http://feeds.feedburner.com/",
-      "publication_rss_feed_uri": "http://feeds.feedburner.com/daily-express-news-showbiz"
     }
   ],
   "USA": [
@@ -5475,12 +5459,6 @@
       "category": "Business & Economy"
     },
     {
-      "publication_name": "Economic Times",
-      "publication_website_uri": "https://economictimes.indiatimes.com/",
-      "publication_rss_feed_uri": "https://economictimes.indiatimes.com/rssfeedsdefault.cms",
-      "category": "Business & Economy"
-    },
-    {
       "publication_name": "Forbes - Business",
       "publication_website_uri": "https://www.forbes.com/",
       "publication_rss_feed_uri": "https://www.forbes.com/business/feed/",
@@ -5502,12 +5480,6 @@
       "publication_name": "The Blog of Author Tim Ferriss",
       "publication_website_uri": "https://tim.blog/",
       "publication_rss_feed_uri": "https://tim.blog/feed/",
-      "category": "Business & Economy"
-    },
-    {
-      "publication_name": "US Top News and Analysis",
-      "publication_website_uri": "https://www.cnbc.com/",
-      "publication_rss_feed_uri": "https://www.cnbc.com/id/100003114/device/rss/rss.html",
       "category": "Business & Economy"
     },
     {
@@ -5964,12 +5936,6 @@
       "publication_name": "World News Headlines, Latest International News, World Breaking News - Times of India",
       "publication_website_uri": "https://timesofindia.indiatimes.com/",
       "publication_rss_feed_uri": "https://timesofindia.indiatimes.com/rssfeeds/296589292.cms",
-      "category": "News"
-    },
-    {
-      "publication_name": "World news | The Guardian",
-      "publication_website_uri": "https://www.theguardian.com/",
-      "publication_rss_feed_uri": "https://www.theguardian.com/world/rss",
       "category": "News"
     },
     {

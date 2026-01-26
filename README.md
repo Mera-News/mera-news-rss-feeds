@@ -352,7 +352,7 @@
 - ✅ [CBC News](https://www.cbc.ca/) - [Feed](https://www.cbc.ca/cmlink/rss-topstories)
 - ✅ [Radio Canada](http://www.radio-canada.ca/) - [Feed](https://ici.radio-canada.ca/rss/4159)
 - ✅ [National Post](https://www.nationalpost.com/) - [Feed](https://nationalpost.com/feed/)
-- ✅ [Toronto Sun](https://www.torontosun.com/) - [Feed](https://torontosun.com/category/news/feed)
+- ❌ [Toronto Sun](https://www.torontosun.com/) - [Feed](https://torontosun.com/category/news/feed)
 - ✅ [Global News](https://www.globalnews.ca/) - [Feed](https://globalnews.ca/feed/)
 - ✅ [Calgary Herald](https://calgaryherald.com/) - [Feed](https://calgaryherald.com/feed)
 - ✅ [Vancouver Sun](https://torontosun.com/) - [Feed](https://torontosun.com/feed/)
@@ -478,7 +478,6 @@
 - ✅ [Qué!](https://quenoticias.com/) - [Feed](https://quenoticias.com/feed/)
 - ✅ [La Nación](https://lanacion.com.ec/) - [Feed](https://lanacion.com.ec/feed/)
 - ❌ [ecuavisa](https://ecuavisa.com/) - [Feed](https://www.ecuavisa.com/rss/noticias)
-- ✅ [Diario El Mercurio](https://elmercurio.com.ec/) - [Feed](https://elmercurio.com.ec/feed/)
 - ❌ [Ecuador en vivo](https://ecuadorenvivo.com/) - [Feed](https://ecuadorenvivo.com/feed/)
 - ✅ [futbolecuador.com](https://futbolecuador.com/) - [Feed](https://www.futbolecuador.com/stories/rss)
 - ✅ [StudioFútbol](https://studiofutbol.com.ec/) - [Feed](https://studiofutbol.com.ec/feed/)
@@ -515,8 +514,8 @@
 - ✅ [Iltalehti.fi](http://iltalehti.fi/) - [Feed](http://www.iltalehti.fi/rss/uutiset.xml)
 - ✅ [yle](http://yle.fi/) - [Feed](http://yle.fi/uutiset/rss/uutiset.rss?osasto=news)
 - ✅ [Kaleva.fi](http://kaleva.fi/) - [Feed](http://www.kaleva.fi/rss/show/?channels=1)
-- ❌ [Turun Sanomat](http://ts.fi/) - [Feed](http://www.ts.fi/rss.xml)
-- ✅ [Stara](http://stara.fi/) - [Feed](http://www.stara.fi/kilpailut/ystavanpaiva/feed/)
+- ✅ [Turun Sanomat](http://ts.fi/) - [Feed](http://www.ts.fi/rss.xml)
+- ❌ [Stara](http://stara.fi/) - [Feed](http://www.stara.fi/kilpailut/ystavanpaiva/feed/)
 - ✅ [Talouselama](http://talouselama.fi/) - [Feed](http://www.talouselama.fi/rss.xml)
 
 ## France
@@ -687,7 +686,6 @@
 - ✅ [Times of India](http://timesofindia.indiatimes.com/) Astrology - [Feed](https://timesofindia.indiatimes.com/rssfeeds/65857041.cms)
 - ✅ [Times of India](http://timesofindia.indiatimes.com/) Auto - [Feed](https://timesofindia.indiatimes.com/rssfeeds/74317216.cms)
 - ✅ [Times of India](http://timesofindia.indiatimes.com/) US - [Feed](http://timesofindia.indiatimes.com/rssfeeds/30359486.cms)
-- ✅ [Times of India](http://timesofindia.indiatimes.com/) NRI - [Feed](http://timesofindia.indiatimes.com/rssfeeds/7098551.cms)
 - ✅ [Times of India](http://timesofindia.indiatimes.com/) Pakistan - [Feed](http://timesofindia.indiatimes.com/rssfeeds/30359534.cms)
 - ✅ [Times of India](http://timesofindia.indiatimes.com/) South Asia - [Feed](http://timesofindia.indiatimes.com/rssfeeds/3907412.cms)
 - ✅ [Times of India](http://timesofindia.indiatimes.com/) UK - [Feed](http://timesofindia.indiatimes.com/rssfeeds/2177298.cms)
@@ -905,7 +903,7 @@
 - ✅ [RSS di   - ANSA.it](https://www.ansa.it/) - [Feed](https://www.ansa.it/sito/ansait_rss.xml)
 - ✅ [The Local](https://feeds.thelocal.com/) - [Feed](https://feeds.thelocal.com/rss/it)
 - ✅ [Libero Quotidiano](https://www.liberoquotidiano.it/) - [Feed](https://www.liberoquotidiano.it/rss.xml)
-- ✅ [Il Mattino Web](https://www.ilmattino.it/) - [Feed](https://www.ilmattino.it/?sez=XML&args&p=search&args[box]=Home&limit=20&layout=rss)
+- ❌ [Il Mattino Web](https://www.ilmattino.it/) - [Feed](https://www.ilmattino.it/?sez=XML&args&p=search&args[box]=Home&limit=20&layout=rss)
 - ✅ [Adnkronos - ultimoratop](http://rss.adnkronos.com/) - [Feed](http://rss.adnkronos.com/RSS_PrimaPagina.xml)
 - ✅ [Milan News](https://www.milannews.it/) - [Feed](https://www.milannews.it/rss/)
 - ✅ [Internazionale](https://www.internazionale.it/) - [Feed](https://www.internazionale.it/sitemaps/rss.xml)
@@ -1009,7 +1007,7 @@
 
 ## Malta
 
-- ❌ [Times of Malta](http://timesofmalta.com/) - [Feed](http://www.timesofmalta.com/rss)
+- ✅ [Times of Malta](http://timesofmalta.com/) - [Feed](http://www.timesofmalta.com/rss)
 - ✅ [Malta Today](http://maltatoday.com.mt/) - [Feed](http://www.maltatoday.com.mt/rss/)
 - ✅ [Gozo News](http://gozonews.com/) - [Feed](http://feed.gozonews.com/GozoNews)
 
@@ -1151,7 +1149,7 @@
 
 - ✅ [Daily Express](http://express.com.pk/) - [Feed](http://feeds.feedburner.com/daily-express-news-showbiz)
 - ✅ [Pakistan Today](http://pakistantoday.com.pk/) - [Feed](http://www.pakistantoday.com.pk/feed/)
-- ✅ [Daily Times](http://dailytimes.com.pk/) - [Feed](http://www.dailytimes.com.pk/rss_feeds)
+- ❌ [Daily Times](http://dailytimes.com.pk/) - [Feed](http://www.dailytimes.com.pk/rss_feeds)
 - ✅ [The Express Tribune](https://tribune.com.pk/) - [Feed](https://tribune.com.pk/feed/home)
 - ❌ [The Nation - Top Stories](https://nation.com.pk/) - [Feed](https://nation.com.pk/rss/top-stories)
 - ✅ [قومی خبریں](https://jang.com.pk/) - [Feed](https://jang.com.pk/rss/1/1)
@@ -1259,7 +1257,7 @@
 - ✅ [NEWSru.com :: Главные новости](https://rss.newsru.com/) - [Feed](https://rss.newsru.com/top/big/)
 - ❌ [RT - Daily news](https://www.rt.com/) - [Feed](https://www.rt.com/rss/)
 - ✅ [Meduza.io](https://meduza.io/) - [Feed](https://meduza.io/rss/all)
-- ❌ [TASS](http://tass.com/) - [Feed](http://tass.com/rss/v2.xml)
+- ✅ [TASS](http://tass.com/) - [Feed](http://tass.com/rss/v2.xml)
 - ✅ [The Moscow Times - Independent News From Russia](https://www.themoscowtimes.com/) - [Feed](https://www.themoscowtimes.com/rss/news)
 - ✅ [PravdaReport](https://www.pravdareport.com/) - [Feed](https://www.pravdareport.com/export.xml)
 
@@ -1420,7 +1418,7 @@
 
 ## The Republic of North Macedonia
 
-- ❌ [Kajgana](http://kajgana.com/) - [Feed](http://kajgana.com/rss.xml)
+- ✅ [Kajgana](http://kajgana.com/) - [Feed](http://kajgana.com/rss.xml)
 - ✅ [crnobelo.com](http://crnobelo.com/) - [Feed](http://forum.crnobelo.com/forums/%D0%A0%D0%B5%D0%BB%D0%B8%D0%B3%D0%B8%D1%98%D0%B0.68/index.rss)
 - ✅ [MKD](http://mkd.mk/) - [Feed](http://www.mkd.mk/feed)
 - ✅ [Daily Makedonia](http://daily.mk/) - [Feed](http://news.makedonias.gr/89309/erevna-daily-mail-to-chirotero-protathlima-ston-kosmo-ine-i-superleague/feed/)
@@ -1432,7 +1430,7 @@
 
 ## Tunisia
 
-- ❌ [leaders.com.tn](http://www.leaders.com.tn/) - [Feed](http://www.leaders.com.tn/rss)
+- ✅ [leaders.com.tn](http://www.leaders.com.tn/) - [Feed](http://www.leaders.com.tn/rss)
 
 ## Türkiye
 
@@ -1489,7 +1487,6 @@
 - ✅ [World news | The Guardian](https://www.theguardian.com/) - [Feed](https://www.theguardian.com/world/rss)
 - ✅ [Home | Mail Online](https://www.dailymail.co.uk/) - [Feed](https://www.dailymail.co.uk/home/index.rss)
 - ✅ [The Independent](http://www.independent.co.uk/) - [Feed](http://www.independent.co.uk/news/uk/rss)
-- ✅ [Daily Express :: News Feed](http://feeds.feedburner.com/) - [Feed](http://feeds.feedburner.com/daily-express-news-showbiz)
 
 ## United States of America
 
@@ -1603,12 +1600,10 @@
 - ❌ [Page Array – NewInBooks](https://www.newinbooks.com/) Books - [Feed](https://www.newinbooks.com/feed/)
 - ✅ [All News](https://www.investing.com/) Business & Economy - [Feed](https://www.investing.com/rss/news.rss)
 - ✅ [Breaking News on Seeking Alpha](https://seekingalpha.com/) Business & Economy - [Feed](https://seekingalpha.com/market_currents.xml)
-- ✅ [Economic Times](https://economictimes.indiatimes.com/) Business & Economy - [Feed](https://economictimes.indiatimes.com/rssfeedsdefault.cms)
 - ✅ [Forbes - Business](https://www.forbes.com/) Business & Economy - [Feed](https://www.forbes.com/business/feed/)
 - ✅ [Fortune](https://fortune.com/) Business & Economy - [Feed](https://fortune.com/feed)
 - ✅ [Startup Stories - Mixergy](https://feeds.feedburner.com/) Business & Economy - [Feed](https://feeds.feedburner.com/Mixergy-main-podcast)
 - ✅ [The Blog of Author Tim Ferriss](https://tim.blog/) Business & Economy - [Feed](https://tim.blog/feed/)
-- ✅ [US Top News and Analysis](https://www.cnbc.com/) Business & Economy - [Feed](https://www.cnbc.com/id/100003114/device/rss/rss.html)
 - ✅ [Yahoo Finance](https://finance.yahoo.com/) Business & Economy - [Feed](https://finance.yahoo.com/news/rssindex)
 - ❌ [Autocar India - All Bike Reviews](https://www.autocarindia.com/) Cars - [Feed](https://www.autocarindia.com/RSS/rss.ashx?type=all_bikes)
 - ❌ [Autocar India - All Car Reviews](https://www.autocarindia.com/) Cars - [Feed](https://www.autocarindia.com/RSS/rss.ashx?type=all_cars)
@@ -1685,7 +1680,6 @@
 - ✅ [NDTV News - World-news](http://feeds.feedburner.com/) News - [Feed](http://feeds.feedburner.com/ndtvnews-world-news)
 - ✅ [Top stories - Google News](https://news.google.com/) News - [Feed](https://news.google.com/rss)
 - ✅ [World News Headlines, Latest International News, World Breaking News - Times of India](https://timesofindia.indiatimes.com/) News - [Feed](https://timesofindia.indiatimes.com/rssfeeds/296589292.cms)
-- ✅ [World news | The Guardian](https://www.theguardian.com/) News - [Feed](https://www.theguardian.com/world/rss)
 - ✅ [Financial Samurai](https://www.financialsamurai.com/) Personal finance - [Feed](https://www.financialsamurai.com/feed/)
 - ✅ [Money Saving Mom®](https://moneysavingmom.com/) Personal finance - [Feed](https://moneysavingmom.com/feed/)
 - ✅ [MoneyNing](http://feeds.feedburner.com/) Personal finance - [Feed](http://feeds.feedburner.com/MoneyNing)
@@ -1745,7 +1739,7 @@
 - ✅ [The Verge -  All Posts](https://www.theverge.com/) Tech - [Feed](https://www.theverge.com/rss/index.xml)
 - ✅ [This Week in Tech (Audio)](https://feeds.twit.tv/) Tech - [Feed](https://feeds.twit.tv/twit.xml)
 - ✅ [https://www.engadget.com/](https://www.engadget.com/) Tech - [Feed](https://www.engadget.com/rss.xml)
-- ✅ [TV Fanatic](https://www.tvfanatic.com/) Television - [Feed](https://www.tvfanatic.com/rss.xml)
+- ❌ [TV Fanatic](https://www.tvfanatic.com/) Television - [Feed](https://www.tvfanatic.com/rss.xml)
 - ✅ [TVLine](https://tvline.com/) Television - [Feed](https://tvline.com/feed/)
 - ✅ [BBC Sport - Tennis](http://feeds.bbci.co.uk/) Tennis - [Feed](http://feeds.bbci.co.uk/sport/tennis/rss.xml)
 - ✅ [Tennis - ATP World Tour](https://www.atptour.com/) Tennis - [Feed](https://www.atptour.com/en/media/rss-feed/xml-feed)
@@ -1757,9 +1751,9 @@
 ## Statistics
 
 ```
-Countries with valid feeds: 146
-Total publications parsed: 1138
-Valid feeds (✅): 1037
+Countries with valid feeds: 147
+Total publications parsed: 1132
+Valid feeds (✅): 1031
 Invalid/Outdated feeds (❌): 101
 Success rate: 91.1%
 ```

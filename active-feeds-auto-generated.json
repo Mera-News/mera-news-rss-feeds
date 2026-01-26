@@ -589,11 +589,6 @@
       "publication_rss_feed_uri": "https://nationalpost.com/feed/"
     },
     {
-      "publication_name": "Toronto Sun",
-      "publication_website_uri": "https://www.torontosun.com/",
-      "publication_rss_feed_uri": "https://torontosun.com/category/news/feed"
-    },
-    {
       "publication_name": "Global News",
       "publication_website_uri": "https://www.globalnews.ca/",
       "publication_rss_feed_uri": "https://globalnews.ca/feed/"
@@ -960,11 +955,6 @@
       "publication_rss_feed_uri": "https://lanacion.com.ec/feed/"
     },
     {
-      "publication_name": "Diario El Mercurio",
-      "publication_website_uri": "https://elmercurio.com.ec/",
-      "publication_rss_feed_uri": "https://elmercurio.com.ec/feed/"
-    },
-    {
       "publication_name": "futbolecuador.com",
       "publication_website_uri": "https://futbolecuador.com/",
       "publication_rss_feed_uri": "https://www.futbolecuador.com/stories/rss"
@@ -1050,9 +1040,9 @@
       "publication_rss_feed_uri": "http://www.kaleva.fi/rss/show/?channels=1"
     },
     {
-      "publication_name": "Stara",
-      "publication_website_uri": "http://stara.fi/",
-      "publication_rss_feed_uri": "http://www.stara.fi/kilpailut/ystavanpaiva/feed/"
+      "publication_name": "Turun Sanomat",
+      "publication_website_uri": "http://ts.fi/",
+      "publication_rss_feed_uri": "http://www.ts.fi/rss.xml"
     },
     {
       "publication_name": "Talouselama",
@@ -1719,12 +1709,6 @@
       "publication_website_uri": "http://timesofindia.indiatimes.com/",
       "publication_rss_feed_uri": "http://timesofindia.indiatimes.com/rssfeeds/30359486.cms",
       "category": "US"
-    },
-    {
-      "publication_name": "Times of India",
-      "publication_website_uri": "http://timesofindia.indiatimes.com/",
-      "publication_rss_feed_uri": "http://timesofindia.indiatimes.com/rssfeeds/7098551.cms",
-      "category": "NRI"
     },
     {
       "publication_name": "Times of India",
@@ -2809,11 +2793,6 @@
       "publication_rss_feed_uri": "https://www.liberoquotidiano.it/rss.xml"
     },
     {
-      "publication_name": "Il Mattino Web",
-      "publication_website_uri": "https://www.ilmattino.it/",
-      "publication_rss_feed_uri": "https://www.ilmattino.it/?sez=XML&args&p=search&args[box]=Home&limit=20&layout=rss"
-    },
-    {
       "publication_name": "Adnkronos - ultimoratop",
       "publication_website_uri": "http://rss.adnkronos.com/",
       "publication_rss_feed_uri": "http://rss.adnkronos.com/RSS_PrimaPagina.xml"
@@ -3074,6 +3053,11 @@
     }
   ],
   "MLT": [
+    {
+      "publication_name": "Times of Malta",
+      "publication_website_uri": "http://timesofmalta.com/",
+      "publication_rss_feed_uri": "http://www.timesofmalta.com/rss"
+    },
     {
       "publication_name": "Malta Today",
       "publication_website_uri": "http://maltatoday.com.mt/",
@@ -3536,11 +3520,6 @@
       "publication_rss_feed_uri": "http://www.pakistantoday.com.pk/feed/"
     },
     {
-      "publication_name": "Daily Times",
-      "publication_website_uri": "http://dailytimes.com.pk/",
-      "publication_rss_feed_uri": "http://www.dailytimes.com.pk/rss_feeds"
-    },
-    {
       "publication_name": "The Express Tribune",
       "publication_website_uri": "https://tribune.com.pk/",
       "publication_rss_feed_uri": "https://tribune.com.pk/feed/home"
@@ -3913,6 +3892,11 @@
       "publication_name": "Meduza.io",
       "publication_website_uri": "https://meduza.io/",
       "publication_rss_feed_uri": "https://meduza.io/rss/all"
+    },
+    {
+      "publication_name": "TASS",
+      "publication_website_uri": "http://tass.com/",
+      "publication_rss_feed_uri": "http://tass.com/rss/v2.xml"
     },
     {
       "publication_name": "The Moscow Times - Independent News From Russia",
@@ -4417,6 +4401,11 @@
   ],
   "MKD": [
     {
+      "publication_name": "Kajgana",
+      "publication_website_uri": "http://kajgana.com/",
+      "publication_rss_feed_uri": "http://kajgana.com/rss.xml"
+    },
+    {
       "publication_name": "crnobelo.com",
       "publication_website_uri": "http://crnobelo.com/",
       "publication_rss_feed_uri": "http://forum.crnobelo.com/forums/%D0%A0%D0%B5%D0%BB%D0%B8%D0%B3%D0%B8%D1%98%D0%B0.68/index.rss"
@@ -4442,6 +4431,13 @@
       "publication_name": "Jeune Afrique Togo",
       "publication_website_uri": "http://www.jeuneafrique.com/pays/togo/togo.asp",
       "publication_rss_feed_uri": "http://feeds2.feedburner.com/Actualite_Togo"
+    }
+  ],
+  "TUN": [
+    {
+      "publication_name": "leaders.com.tn",
+      "publication_website_uri": "http://www.leaders.com.tn/",
+      "publication_rss_feed_uri": "http://www.leaders.com.tn/rss"
     }
   ],
   "TUR": [
@@ -4670,11 +4666,6 @@
       "publication_name": "The Independent",
       "publication_website_uri": "http://www.independent.co.uk/",
       "publication_rss_feed_uri": "http://www.independent.co.uk/news/uk/rss"
-    },
-    {
-      "publication_name": "Daily Express :: News Feed",
-      "publication_website_uri": "http://feeds.feedburner.com/",
-      "publication_rss_feed_uri": "http://feeds.feedburner.com/daily-express-news-showbiz"
     }
   ],
   "USA": [
@@ -5110,12 +5101,6 @@
       "category": "Business & Economy"
     },
     {
-      "publication_name": "Economic Times",
-      "publication_website_uri": "https://economictimes.indiatimes.com/",
-      "publication_rss_feed_uri": "https://economictimes.indiatimes.com/rssfeedsdefault.cms",
-      "category": "Business & Economy"
-    },
-    {
       "publication_name": "Forbes - Business",
       "publication_website_uri": "https://www.forbes.com/",
       "publication_rss_feed_uri": "https://www.forbes.com/business/feed/",
@@ -5137,12 +5122,6 @@
       "publication_name": "The Blog of Author Tim Ferriss",
       "publication_website_uri": "https://tim.blog/",
       "publication_rss_feed_uri": "https://tim.blog/feed/",
-      "category": "Business & Economy"
-    },
-    {
-      "publication_name": "US Top News and Analysis",
-      "publication_website_uri": "https://www.cnbc.com/",
-      "publication_rss_feed_uri": "https://www.cnbc.com/id/100003114/device/rss/rss.html",
       "category": "Business & Economy"
     },
     {
@@ -5524,12 +5503,6 @@
       "category": "News"
     },
     {
-      "publication_name": "World news | The Guardian",
-      "publication_website_uri": "https://www.theguardian.com/",
-      "publication_rss_feed_uri": "https://www.theguardian.com/world/rss",
-      "category": "News"
-    },
-    {
       "publication_name": "Financial Samurai",
       "publication_website_uri": "https://www.financialsamurai.com/",
       "publication_rss_feed_uri": "https://www.financialsamurai.com/feed/",
@@ -5846,12 +5819,6 @@
       "publication_website_uri": "https://www.engadget.com/",
       "publication_rss_feed_uri": "https://www.engadget.com/rss.xml",
       "category": "Tech"
-    },
-    {
-      "publication_name": "TV Fanatic",
-      "publication_website_uri": "https://www.tvfanatic.com/",
-      "publication_rss_feed_uri": "https://www.tvfanatic.com/rss.xml",
-      "category": "Television"
     },
     {
       "publication_name": "TVLine",
