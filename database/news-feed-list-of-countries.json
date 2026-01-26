@@ -1401,13 +1401,7 @@
       "publication_rss_feed_uri": "http://www.ghanamma.com/category/business/feed/"
     }
   ],
-  "GIB": [
-    {
-      "publication_name": "VOX",
-      "publication_website_uri": "http://www.vox.gi/",
-      "publication_rss_feed_uri": "https://www.vox.com/rss/index.xml"
-    }
-  ],
+  "GIB": [],
   "GRC": [
     {
       "publication_name": "in.gr",
@@ -5253,12 +5247,6 @@
   ],
   "GLOBAL": [
     {
-      "publication_name": "Android Developers",
-      "publication_website_uri": "https://www.youtube.com/",
-      "publication_rss_feed_uri": "https://www.youtube.com/feeds/videos.xml?user=androiddevelopers",
-      "category": "Android Development"
-    },
-    {
       "publication_name": "Android Developers - Medium",
       "publication_website_uri": "https://medium.com/",
       "publication_rss_feed_uri": "https://medium.com/feed/androiddevelopers",
@@ -5274,12 +5262,6 @@
       "publication_name": "Android in The Airbnb Tech Blog on Medium",
       "publication_website_uri": "https://medium.com/",
       "publication_rss_feed_uri": "https://medium.com/feed/airbnb-engineering/tagged/android",
-      "category": "Android Development"
-    },
-    {
-      "publication_name": "Developing Android Apps",
-      "publication_website_uri": "https://reddit.com/",
-      "publication_rss_feed_uri": "https://reddit.com/r/androiddev.rss",
       "category": "Android Development"
     },
     {
@@ -5310,12 +5292,6 @@
       "publication_name": "All About Android (Audio)",
       "publication_website_uri": "https://feeds.twit.tv/",
       "publication_rss_feed_uri": "https://feeds.twit.tv/aaa.xml",
-      "category": "Android"
-    },
-    {
-      "publication_name": "Android",
-      "publication_website_uri": "https://www.reddit.com/",
-      "publication_rss_feed_uri": "https://www.reddit.com/r/android/.rss",
       "category": "Android"
     },
     {
@@ -5367,12 +5343,6 @@
       "category": "Apple"
     },
     {
-      "publication_name": "Apple",
-      "publication_website_uri": "https://www.youtube.com/",
-      "publication_rss_feed_uri": "https://www.youtube.com/feeds/videos.xml?user=Apple",
-      "category": "Apple"
-    },
-    {
       "publication_name": "AppleInsider News",
       "publication_website_uri": "https://appleinsider.com/",
       "publication_rss_feed_uri": "https://appleinsider.com/rss/news/",
@@ -5409,18 +5379,6 @@
       "category": "Apple"
     },
     {
-      "publication_name": "The unofficial Apple community",
-      "publication_website_uri": "https://www.reddit.com/",
-      "publication_rss_feed_uri": "https://www.reddit.com/r/apple/.rss",
-      "category": "Apple"
-    },
-    {
-      "publication_name": "r/iPhone",
-      "publication_website_uri": "https://www.reddit.com/",
-      "publication_rss_feed_uri": "https://www.reddit.com/r/iphone/.rss",
-      "category": "Apple"
-    },
-    {
       "publication_name": "A Daily Dose of Architecture Books",
       "publication_website_uri": "http://feeds.feedburner.com/",
       "publication_rss_feed_uri": "http://feeds.feedburner.com/archidose",
@@ -5436,12 +5394,6 @@
       "publication_name": "Architectural Digest",
       "publication_website_uri": "https://www.architecturaldigest.com/",
       "publication_rss_feed_uri": "https://www.architecturaldigest.com/feed/rss",
-      "category": "Architecture"
-    },
-    {
-      "publication_name": "Architecture",
-      "publication_website_uri": "https://www.reddit.com/",
-      "publication_rss_feed_uri": "https://www.reddit.com/r/architecture/.rss",
       "category": "Architecture"
     },
     {
@@ -5511,12 +5463,6 @@
       "category": "Books"
     },
     {
-      "publication_name": "So many books, so little time",
-      "publication_website_uri": "https://reddit.com/",
-      "publication_rss_feed_uri": "https://reddit.com/r/books/.rss",
-      "category": "Books"
-    },
-    {
       "publication_name": "All News",
       "publication_website_uri": "https://www.investing.com/",
       "publication_rss_feed_uri": "https://www.investing.com/rss/news.rss",
@@ -5526,12 +5472,6 @@
       "publication_name": "Breaking News on Seeking Alpha",
       "publication_website_uri": "https://seekingalpha.com/",
       "publication_rss_feed_uri": "https://seekingalpha.com/market_currents.xml",
-      "category": "Business & Economy"
-    },
-    {
-      "publication_name": "Business Insider",
-      "publication_website_uri": "https://www.youtube.com/",
-      "publication_rss_feed_uri": "https://www.youtube.com/feeds/videos.xml?user=businessinsider",
       "category": "Business & Economy"
     },
     {
@@ -5619,12 +5559,6 @@
       "category": "Cars"
     },
     {
-      "publication_name": "Formula 1",
-      "publication_website_uri": "https://www.reddit.com/",
-      "publication_rss_feed_uri": "https://www.reddit.com/r/formula1/.rss",
-      "category": "Cars"
-    },
-    {
       "publication_name": "Jalopnik",
       "publication_website_uri": "https://jalopnik.com/",
       "publication_rss_feed_uri": "https://jalopnik.com/rss",
@@ -5655,18 +5589,6 @@
       "category": "Cricket"
     },
     {
-      "publication_name": "Cricbuzz",
-      "publication_website_uri": "https://www.youtube.com/",
-      "publication_rss_feed_uri": "https://www.youtube.com/feeds/videos.xml?channel_id=UCSRQXk5yErn4e14vN76upOw",
-      "category": "Cricket"
-    },
-    {
-      "publication_name": "Cricket",
-      "publication_website_uri": "https://www.reddit.com/",
-      "publication_rss_feed_uri": "https://www.reddit.com/r/Cricket/.rss",
-      "category": "Cricket"
-    },
-    {
       "publication_name": "Cricket news from ESPN Cricinfo.com",
       "publication_website_uri": "http://www.espncricinfo.com/",
       "publication_rss_feed_uri": "http://www.espncricinfo.com/rss/content/story/feeds/0.xml",
@@ -5685,21 +5607,9 @@
       "category": "Cricket"
     },
     {
-      "publication_name": "England & Wales Cricket Board",
-      "publication_website_uri": "https://www.youtube.com/",
-      "publication_rss_feed_uri": "https://www.youtube.com/feeds/videos.xml?user=ecbcricket",
-      "category": "Cricket"
-    },
-    {
       "publication_name": "NDTV Sports - Cricket",
       "publication_website_uri": "http://feeds.feedburner.com/",
       "publication_rss_feed_uri": "http://feeds.feedburner.com/ndtvsports-cricket",
-      "category": "Cricket"
-    },
-    {
-      "publication_name": "Pakistan Cricket",
-      "publication_website_uri": "https://www.youtube.com/",
-      "publication_rss_feed_uri": "https://www.youtube.com/feeds/videos.xml?channel_id=UCiWrjBhlICf_L_RK5y6Vrxw",
       "category": "Cricket"
     },
     {
@@ -5724,12 +5634,6 @@
       "publication_name": "Wisden Cricket Weekly",
       "publication_website_uri": "http://feeds.soundcloud.com/",
       "publication_rss_feed_uri": "http://feeds.soundcloud.com/users/soundcloud:users:341034518/sounds.rss",
-      "category": "Cricket"
-    },
-    {
-      "publication_name": "cricket.com.au",
-      "publication_website_uri": "https://www.youtube.com/",
-      "publication_rss_feed_uri": "https://www.youtube.com/feeds/videos.xml?user=cricketaustraliatv",
       "category": "Cricket"
     },
     {
@@ -5805,18 +5709,6 @@
       "category": "Fashion"
     },
     {
-      "publication_name": "Babish Culinary Universe",
-      "publication_website_uri": "https://www.youtube.com/",
-      "publication_rss_feed_uri": "https://www.youtube.com/feeds/videos.xml?user=bgfilms",
-      "category": "Food"
-    },
-    {
-      "publication_name": "Bon Appétit",
-      "publication_website_uri": "https://www.youtube.com/",
-      "publication_rss_feed_uri": "https://www.youtube.com/feeds/videos.xml?user=BonAppetitDotCom",
-      "category": "Food"
-    },
-    {
       "publication_name": "How Sweet Eats",
       "publication_website_uri": "https://www.howsweeteats.com/",
       "publication_rss_feed_uri": "https://www.howsweeteats.com/feed/",
@@ -5833,18 +5725,6 @@
       "publication_website_uri": "https://www.skinnytaste.com/",
       "publication_rss_feed_uri": "https://www.skinnytaste.com/feed/",
       "category": "Food"
-    },
-    {
-      "publication_name": "EFL Championship",
-      "publication_website_uri": "https://www.reddit.com/",
-      "publication_rss_feed_uri": "https://www.reddit.com/r/Championship/.rss?format=xml",
-      "category": "Football"
-    },
-    {
-      "publication_name": "Football - The People's Sport",
-      "publication_website_uri": "https://www.reddit.com/",
-      "publication_rss_feed_uri": "https://www.reddit.com/r/football/.rss?format=xml",
-      "category": "Football"
     },
     {
       "publication_name": "Soccer News",
@@ -5955,12 +5835,6 @@
       "category": "Gaming"
     },
     {
-      "publication_name": "r/gaming",
-      "publication_website_uri": "https://www.reddit.com/",
-      "publication_rss_feed_uri": "https://www.reddit.com/r/gaming.rss",
-      "category": "Gaming"
-    },
-    {
       "publication_name": "Apartment Therapy| Saving the world, one room at a time",
       "publication_website_uri": "https://www.apartmenttherapy.com/",
       "publication_rss_feed_uri": "https://www.apartmenttherapy.com/design.rss",
@@ -5976,12 +5850,6 @@
       "publication_name": "Ideal Home",
       "publication_website_uri": "https://www.idealhome.co.uk/",
       "publication_rss_feed_uri": "https://www.idealhome.co.uk/feed",
-      "category": "Interior design"
-    },
-    {
-      "publication_name": "Interior Design (Interior Architecture)",
-      "publication_website_uri": "https://www.reddit.com/",
-      "publication_rss_feed_uri": "https://www.reddit.com/r/InteriorDesign/.rss",
       "category": "Interior design"
     },
     {
@@ -6045,12 +5913,6 @@
       "category": "Movies"
     },
     {
-      "publication_name": "Movie News and Discussion",
-      "publication_website_uri": "https://reddit.com/",
-      "publication_rss_feed_uri": "https://reddit.com/r/movies/.rss",
-      "category": "Movies"
-    },
-    {
       "publication_name": "Variety",
       "publication_website_uri": "https://variety.com/",
       "publication_rss_feed_uri": "https://variety.com/feed/",
@@ -6099,12 +5961,6 @@
       "category": "News"
     },
     {
-      "publication_name": "World News",
-      "publication_website_uri": "https://www.reddit.com/",
-      "publication_rss_feed_uri": "https://www.reddit.com/r/worldnews/.rss",
-      "category": "News"
-    },
-    {
       "publication_name": "World News Headlines, Latest International News, World Breaking News - Times of India",
       "publication_website_uri": "https://timesofindia.indiatimes.com/",
       "publication_rss_feed_uri": "https://timesofindia.indiatimes.com/rssfeeds/296589292.cms",
@@ -6141,22 +5997,10 @@
       "category": "Personal finance"
     },
     {
-      "publication_name": "Personal Finance",
-      "publication_website_uri": "https://reddit.com/",
-      "publication_rss_feed_uri": "https://reddit.com/r/personalfinance/.rss",
-      "category": "Personal finance"
-    },
-    {
       "publication_name": "The College Investor",
       "publication_website_uri": "https://thecollegeinvestor.com/",
       "publication_rss_feed_uri": "https://thecollegeinvestor.com/feed/",
       "category": "Personal finance"
-    },
-    {
-      "publication_name": "500px",
-      "publication_website_uri": "https://iso.500px.com/",
-      "publication_rss_feed_uri": "https://iso.500px.com/feed/",
-      "category": "Photography"
     },
     {
       "publication_name": "Big Picture",
@@ -6267,12 +6111,6 @@
       "category": "Programming"
     },
     {
-      "publication_name": "programming",
-      "publication_website_uri": "https://www.reddit.com/",
-      "publication_rss_feed_uri": "https://www.reddit.com/r/programming/.rss",
-      "category": "Programming"
-    },
-    {
       "publication_name": "60-Second Science",
       "publication_website_uri": "http://rss.sciam.com/",
       "publication_rss_feed_uri": "http://rss.sciam.com/sciam/60secsciencepodcast",
@@ -6300,12 +6138,6 @@
       "publication_name": "Phys.org - latest science and technology news stories",
       "publication_website_uri": "https://phys.org/",
       "publication_rss_feed_uri": "https://phys.org/rss-feed/",
-      "category": "Science"
-    },
-    {
-      "publication_name": "Reddit Science",
-      "publication_website_uri": "https://reddit.com/",
-      "publication_rss_feed_uri": "https://reddit.com/r/science/.rss",
       "category": "Science"
     },
     {
@@ -6339,12 +6171,6 @@
       "category": "Science"
     },
     {
-      "publication_name": "/r/space: news, articles and discussion",
-      "publication_website_uri": "https://www.reddit.com/",
-      "publication_rss_feed_uri": "https://www.reddit.com/r/space/.rss?format=xml",
-      "category": "Space"
-    },
-    {
       "publication_name": "NASA Breaking News",
       "publication_website_uri": "https://www.nasa.gov/",
       "publication_rss_feed_uri": "https://www.nasa.gov/rss/dyn/breaking_news.rss",
@@ -6372,12 +6198,6 @@
       "publication_name": "BBC Sport - Sport",
       "publication_website_uri": "http://feeds.bbci.co.uk/",
       "publication_rss_feed_uri": "http://feeds.bbci.co.uk/sport/rss.xml",
-      "category": "Sports"
-    },
-    {
-      "publication_name": "Reddit Sports",
-      "publication_website_uri": "https://www.reddit.com/",
-      "publication_rss_feed_uri": "https://www.reddit.com/r/sports.rss",
       "category": "Sports"
     },
     {
@@ -6411,12 +6231,6 @@
       "category": "Startups"
     },
     {
-      "publication_name": "GaryVee",
-      "publication_website_uri": "https://www.youtube.com/",
-      "publication_rss_feed_uri": "https://www.youtube.com/feeds/videos.xml?user=GaryVaynerchuk",
-      "category": "Startups"
-    },
-    {
       "publication_name": "Hacker News: Front Page",
       "publication_website_uri": "https://hnrss.org/",
       "publication_rss_feed_uri": "https://hnrss.org/frontpage",
@@ -6426,12 +6240,6 @@
       "publication_name": "Inc.com",
       "publication_website_uri": "https://www.inc.com/",
       "publication_rss_feed_uri": "https://www.inc.com/rss/",
-      "category": "Startups"
-    },
-    {
-      "publication_name": "Marie Forleo",
-      "publication_website_uri": "https://www.youtube.com/",
-      "publication_rss_feed_uri": "https://www.youtube.com/feeds/videos.xml?user=marieforleo",
       "category": "Startups"
     },
     {
@@ -6450,12 +6258,6 @@
       "publication_name": "Ars Technica",
       "publication_website_uri": "http://feeds.arstechnica.com/",
       "publication_rss_feed_uri": "http://feeds.arstechnica.com/arstechnica/index",
-      "category": "Tech"
-    },
-    {
-      "publication_name": "CNET",
-      "publication_website_uri": "https://www.youtube.com/",
-      "publication_rss_feed_uri": "https://www.youtube.com/feeds/videos.xml?user=CNETTV",
       "category": "Tech"
     },
     {
@@ -6483,12 +6285,6 @@
       "category": "Tech"
     },
     {
-      "publication_name": "Linus Tech Tips",
-      "publication_website_uri": "https://www.youtube.com/",
-      "publication_rss_feed_uri": "https://www.youtube.com/feeds/videos.xml?user=LinusTechTips",
-      "category": "Tech"
-    },
-    {
       "publication_name": "Mashable",
       "publication_website_uri": "http://feeds.mashable.com/",
       "publication_rss_feed_uri": "http://feeds.mashable.com/Mashable",
@@ -6510,12 +6306,6 @@
       "publication_name": "The Next Web",
       "publication_website_uri": "https://thenextweb.com/",
       "publication_rss_feed_uri": "https://thenextweb.com/feed/",
-      "category": "Tech"
-    },
-    {
-      "publication_name": "The Verge",
-      "publication_website_uri": "https://www.youtube.com/",
-      "publication_rss_feed_uri": "https://www.youtube.com/feeds/videos.xml?user=TheVerge",
       "category": "Tech"
     },
     {
@@ -6549,12 +6339,6 @@
       "category": "Television"
     },
     {
-      "publication_name": "Television News and Discussion",
-      "publication_website_uri": "https://reddit.com/",
-      "publication_rss_feed_uri": "https://reddit.com/r/television/.rss",
-      "category": "Television"
-    },
-    {
       "publication_name": "BBC Sport - Tennis",
       "publication_website_uri": "http://feeds.bbci.co.uk/",
       "publication_rss_feed_uri": "http://feeds.bbci.co.uk/sport/tennis/rss.xml",
@@ -6564,12 +6348,6 @@
       "publication_name": "Tennis - ATP World Tour",
       "publication_website_uri": "https://www.atptour.com/",
       "publication_rss_feed_uri": "https://www.atptour.com/en/media/rss-feed/xml-feed",
-      "category": "Tennis"
-    },
-    {
-      "publication_name": "Tennis News & Discussion",
-      "publication_website_uri": "https://www.reddit.com/",
-      "publication_rss_feed_uri": "https://www.reddit.com/r/tennis/.rss",
       "category": "Tennis"
     },
     {
@@ -6588,12 +6366,6 @@
       "publication_name": "UX Collective - Medium",
       "publication_website_uri": "https://uxdesign.cc/",
       "publication_rss_feed_uri": "https://uxdesign.cc/feed",
-      "category": "UI - UX"
-    },
-    {
-      "publication_name": "User Experience",
-      "publication_website_uri": "https://www.reddit.com/",
-      "publication_rss_feed_uri": "https://www.reddit.com/r/userexperience/.rss",
       "category": "UI - UX"
     },
     {

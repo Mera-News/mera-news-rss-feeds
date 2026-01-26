@@ -173,7 +173,7 @@
 
 ## Algeria
 
-- ✅ [Djelfa.info](http://www.djelfa.info/) - [Feed](http://www.djelfa.info/vb/external.php?type=RSS2)
+- ❌ [Djelfa.info](http://www.djelfa.info/) - [Feed](http://www.djelfa.info/vb/external.php?type=RSS2)
 - ✅ [Algerie360.com](http://www.algerie360.com/) - [Feed](http://www.algerie360.com/feed/)
 - ✅ [El Khadra](http://www.elkhadra.com/) - [Feed](http://elkhadra.com/fr/feed/)
 - ✅ [TSA](http://www.tsa-algerie.com/) - [Feed](http://www.tsa-algerie.com/feed/)
@@ -217,12 +217,12 @@
 - ✅ [The Age](http://theage.com.au/) - [Feed](http://www.theage.com.au/rssheadlines/top.xml)
 - ✅ [Brisbane Times](http://brisbanetimes.com.au/) - [Feed](http://www.brisbanetimes.com.au/rssheadlines/top.xml)
 - ✅ [Sydney Morning Herald - Latest News](https://www.smh.com.au/) - [Feed](https://www.smh.com.au/rss/feed.xml)
-- ✅ [ABC News](https://www.abc.net.au/) - [Feed](https://www.abc.net.au/news/feed/1948/rss.xml)
+- ❌ [ABC News](https://www.abc.net.au/) - [Feed](https://www.abc.net.au/news/feed/1948/rss.xml)
 - ✅ [The Age - Latest News](https://www.theage.com.au/) - [Feed](https://www.theage.com.au/rss/feed.xml)
 - ✅ [PerthNow](https://www.perthnow.com.au/) - [Feed](https://www.perthnow.com.au/news/feed)
 - ✅ [The Canberra Times - Local News](https://www.canberratimes.com.au/) - [Feed](https://www.canberratimes.com.au/rss.xml)
 - ✅ [Brisbane Times - Latest News](https://www.brisbanetimes.com.au/) - [Feed](https://www.brisbanetimes.com.au/rss/feed.xml)
-- ✅ [Business News - Latest Headlines](https://www.businessnews.com.au/) - [Feed](https://www.businessnews.com.au/rssfeed/latest.rss)
+- ❌ [Business News - Latest Headlines](https://www.businessnews.com.au/) - [Feed](https://www.businessnews.com.au/rssfeed/latest.rss)
 - ✅ [Michael West](https://www.michaelwest.com.au/) - [Feed](https://www.michaelwest.com.au/feed/)
 
 ## Austria
@@ -281,7 +281,7 @@
 
 - ✅ [Channel 5](http://channel5belize.com/) - [Feed](http://edition.channel5belize.com/OYE/?feed=rss2&tag=love)
 - ✅ [The Reporter](http://www.reporter.bz/) - [Feed](http://www.hollywoodreporter.com/taxonomy/term/59/0/feed)
-- ✅ [Amandala](http://amandala.com.bz/) - [Feed](http://amandala.com.bz/news/feed/)
+- ❌ [Amandala](http://amandala.com.bz/) - [Feed](http://amandala.com.bz/news/feed/)
 
 ## Benin
 
@@ -327,7 +327,7 @@
 - ✅ [Dnes Dir.bg](http://dnes.dir.bg/) - [Feed](http://dnes.dir.bg/support/cat_rss.php)
 - ✅ [Dnes.bg](http://dnes.bg/) - [Feed](http://www.dnes.bg/rss.php?today)
 - ✅ [Darik News](http://dariknews.bg/) - [Feed](http://dariknews.bg/rss.php)
-- ✅ [24 Chasa](http://24chasa.bg/) - [Feed](http://www.24chasa.bg/RSS.asp)
+- ❌ [24 Chasa](http://24chasa.bg/) - [Feed](http://www.24chasa.bg/RSS.asp)
 - ✅ [Dnevnik](http://dnevnik.bg/) - [Feed](http://www.dnevnik.bg/rss/)
 - ✅ [Actualno](http://actualno.com/) - [Feed](http://rss.actualno.com/2)
 - ✅ [gong.bg](http://gong.bg/) - [Feed](http://gong.bg/rss.php)
@@ -344,7 +344,7 @@
 
 ## Cameroon
 
-- ✅ [AllAfrica Cameroon](http://allafrica.com/cameroon/) - [Feed](http://allafrica.com/tools/headlines/rdf/cameroon/headlines.rdf)
+- ❌ [AllAfrica Cameroon](http://allafrica.com/cameroon/) - [Feed](http://allafrica.com/tools/headlines/rdf/cameroon/headlines.rdf)
 - ✅ [Afrik.com](http://www.afrik.com/) - [Feed](http://www.afrik.com/affiliation/backend-foot-pays34.html)
 
 ## Canada
@@ -359,8 +359,8 @@
 - ✅ [Edmonton Journal](https://edmontonjournal.com/) - [Feed](https://edmontonjournal.com/feed/)
 - ✅ [Ottawa Citizen](https://www.ottawacitizen.com/) - [Feed](https://ottawacitizen.com/feed/)
 - ✅ [Montreal Gazette](https://montrealgazette.com/) - [Feed](https://montrealgazette.com/feed/)
-- ✅ [Edmonton Sun](https://www.edmontonsun.com/) - [Feed](https://edmontonsun.com/feed)
-- ✅ [Calgary Sun](https://www.calgarysun.com/) - [Feed](https://calgarysun.com/feed)
+- ❌ [Edmonton Sun](https://www.edmontonsun.com/) - [Feed](https://edmontonsun.com/feed)
+- ❌ [Calgary Sun](https://www.calgarysun.com/) - [Feed](https://calgarysun.com/feed)
 - ✅ [Canada.com](https://canada.com/) - [Feed](https://o.canada.com/feed/)
 - ✅ [City News Toronto](https://toronto.citynews.ca/) - [Feed](https://toronto.citynews.ca/feed/)
 - ✅ [Financial Post](https://financialpost.com/) - [Feed](http://feeds.feedburner.com/FP_TopStories)
@@ -374,13 +374,13 @@
 - ✅ [The National Observer](https://www.nationalobserver.com/) - [Feed](https://www.nationalobserver.com/front/rss)
 - ✅ [Business in Vancouver](https://www.biv.com/) - [Feed](https://www.biv.com/rss)
 - ✅ [Regina Leader](https://leaderpost.com/) - [Feed](https://leaderpost.com/feed/)
-- ✅ [Grande Prairie Daily Herald](https://www.dailyheraldtribune.com/) - [Feed](https://www.dailyheraldtribune.com/feed)
+- ❌ [Grande Prairie Daily Herald](https://www.dailyheraldtribune.com/) - [Feed](https://www.dailyheraldtribune.com/feed)
 - ✅ [Le Journal de Quebec](https://www.journaldequebec.com/) - [Feed](https://www.journaldequebec.com/rss.xml)
 - ✅ [Financial Post](https://business.financialpost.com/) - [Feed](https://business.financialpost.com/feed/)
 
 ## Cayman Islands
 
-- ✅ [Cayman News Service](http://caymannewsservice.com/) - [Feed](https://caymannewsservice.com/feed/)
+- ❌ [Cayman News Service](http://caymannewsservice.com/) - [Feed](https://caymannewsservice.com/feed/)
 
 ## Chile
 
@@ -388,7 +388,7 @@
 - ✅ [The Clinic](https://www.theclinic.cl/) - [Feed](https://www.theclinic.cl/feed/)
 - ✅ [Diario Financiero](https://www.df.cl/) - [Feed](https://www.df.cl/noticias/site/list/port/rss.xml)
 - ✅ [Publimetro](https://publimetro.cl/) - [Feed](https://www.publimetro.cl/arc/outboundfeeds/rss/?outputType=xml)
-- ✅ [El Siglo](https://elsiglo.cl/) - [Feed](https://elsiglo.cl/feed/)
+- ❌ [El Siglo](https://elsiglo.cl/) - [Feed](https://elsiglo.cl/feed/)
 - ✅ [La Nación](https://lanacion.cl/) - [Feed](https://www.lanacion.cl/feed/)
 
 ## Colombia
@@ -411,7 +411,7 @@
 - ✅ [CubaNet](http://cubanet.org/) - [Feed](http://www.cubanet.org/feed/)
 - ✅ [Diario de Cuba](http://diariodecuba.com/) - [Feed](http://www.diariodecuba.com/rss.xml)
 - ✅ [Marti](http://martinoticias.com/) - [Feed](http://www.martinoticias.com/podcast/video.aspx?count=20&zoneId=128)
-- ✅ [Prensa latina](http://prensa-latina.cu/) - [Feed](http://www.laprensalatina.com/feed/)
+- ❌ [Prensa latina](http://prensa-latina.cu/) - [Feed](http://www.laprensalatina.com/feed/)
 
 ## Cyprus
 
@@ -428,7 +428,7 @@
 - ✅ [Aktualne.cz](http://aktualne.centrum.cz/) - [Feed](http://zpravy.aktualne.cz/rss/)
 - ✅ [Denik.cz](http://denik.cz/) - [Feed](http://www.denik.cz/rss/sport.html)
 - ✅ [Lidovky.cz](http://lidovky.cz/) - [Feed](http://servis.lidovky.cz/rss.aspx?c=ln_lidovky)
-- ✅ [Penize.cz](http://penize.cz/) - [Feed](http://feeds.feedburner.com/penize?format=xml)
+- ❌ [Penize.cz](http://penize.cz/) - [Feed](http://feeds.feedburner.com/penize?format=xml)
 - ✅ [IHNED.cz](http://ihned.cz/) - [Feed](http://ihned.cz/?p=000000_rss)
 - ✅ [Kurzy.cz](http://kurzy.cz/) - [Feed](http://www.kurzy.cz/zpravy/util/forext.dat?type=rss)
 - ✅ [Aha!](http://ahaonline.cz/) - [Feed](http://www.ahaonline.cz/rss.php)
@@ -452,34 +452,34 @@
 
 ## Dominican Republic
 
-- ❌ [Remolacha.net](http://remolacha.net/) - [Feed](http://remolacha.net/feed/)
+- ✅ [Remolacha.net](http://remolacha.net/) - [Feed](http://remolacha.net/feed/)
 - ✅ [Almomento.net](http://almomento.net/) - [Feed](http://almomento.net/feed/)
-- ✅ [Acento](http://acento.com.do/) - [Feed](http://acento.com/feed/)
-- ✅ [GenteTuya.com](http://gentetuya.com/) - [Feed](http://www.gentetuya.com/feed/)
+- ❌ [Acento](http://acento.com.do/) - [Feed](http://acento.com/feed/)
+- ❌ [GenteTuya.com](http://gentetuya.com/) - [Feed](http://www.gentetuya.com/feed/)
 
 ## Ecuador
 
 - ✅ [El Comercio](https://elcomercio.pe/) - [Feed](https://www.elcomercio.com/feed/)
 - ✅ [El Universo](https://eluniverso.com/) - [Feed](https://www.eluniverso.com/arc/outboundfeeds/rss-subsection/noticias/ecuador?outputType=xml)
-- ✅ [GK City](https://gk.city/) - [Feed](https://gk.city/feed/)
+- ❌ [GK City](https://gk.city/) - [Feed](https://gk.city/feed/)
 - ✅ [Expreso](https://expreso.ec/) - [Feed](https://www.expreso.ec/rss/)
 - ✅ [El Mercurio](https://elmercurio.com.ec/) - [Feed](https://elmercurio.com.ec/feed/)
 - ✅ [La Prensa](https://www.laprensa.com.ec/) - [Feed](https://www.laprensa.com.ec/feed/)
-- ✅ [Los Andes](https://www.diariolosandes.com.ec/) - [Feed](https://www.diariolosandes.com.ec/feed/)
+- ❌ [Los Andes](https://www.diariolosandes.com.ec/) - [Feed](https://www.diariolosandes.com.ec/feed/)
 - ✅ [La Republica](https://larepublica.ec/) - [Feed](https://www.larepublica.ec/feed/)
 - ✅ [El Heraldo](https://www.elheraldo.com.ec/) - [Feed](https://www.elheraldo.com.ec/feed/)
 - ✅ [El Norte](https://elnorte.ec/) - [Feed](https://elnorte.ec/feed/)
-- ✅ [La Gaceta](https://lagaceta.com.ec/) - [Feed](https://lagaceta.com.ec/feed/)
+- ❌ [La Gaceta](https://lagaceta.com.ec/) - [Feed](https://lagaceta.com.ec/feed/)
 - ✅ [Crónica](https://cronica.com.ec/) - [Feed](https://cronica.com.ec/feed/)
 - ✅ [Manabí Noticias](https://manabinoticias.com/) - [Feed](https://manabinoticias.com/feed/)
-- ✅ [ECOAmazónico](https://ecoamazonico.com/) - [Feed](https://ecoamazonico.com/feed/)
+- ❌ [ECOAmazónico](https://ecoamazonico.com/) - [Feed](https://ecoamazonico.com/feed/)
 - ✅ [Noti Amazonía](https://www.notiamazonia.com/) - [Feed](https://www.notiamazonia.com/feed/)
 - ✅ [El Amazónico](https://www.elamazonico.com/portal/) - [Feed](https://www.elamazonico.com/portal/feed/)
 - ✅ [Qué!](https://quenoticias.com/) - [Feed](https://quenoticias.com/feed/)
 - ✅ [La Nación](https://lanacion.com.ec/) - [Feed](https://lanacion.com.ec/feed/)
-- ✅ [ecuavisa](https://ecuavisa.com/) - [Feed](https://www.ecuavisa.com/rss/noticias)
+- ❌ [ecuavisa](https://ecuavisa.com/) - [Feed](https://www.ecuavisa.com/rss/noticias)
 - ✅ [Diario El Mercurio](https://elmercurio.com.ec/) - [Feed](https://elmercurio.com.ec/feed/)
-- ✅ [Ecuador en vivo](https://ecuadorenvivo.com/) - [Feed](https://ecuadorenvivo.com/feed/)
+- ❌ [Ecuador en vivo](https://ecuadorenvivo.com/) - [Feed](https://ecuadorenvivo.com/feed/)
 - ✅ [futbolecuador.com](https://futbolecuador.com/) - [Feed](https://www.futbolecuador.com/stories/rss)
 - ✅ [StudioFútbol](https://studiofutbol.com.ec/) - [Feed](https://studiofutbol.com.ec/feed/)
 
@@ -487,7 +487,7 @@
 
 - ✅ [Shorouk](http://www.shorouknews.com/) - [Feed](http://www.shorouknews.com/columns/rss/)
 - ✅ [Stad El Ahly](http://www.stadelahly.com/) - [Feed](http://www.fifplay.com/pes2015-wishlist/feed/)
-- ✅ [IkhwanOnline.com](http://www.ikhwanonline.com/) - [Feed](http://www.ikhwanwiki.com/index.php?title=%D9%85%D9%84%D9%81_%D8%A7%D9%84%D8%A5%D8%AE%D9%88%D8%A7%D9%86_%D9%81%D9%8A_%D8%A7%D9%84%D9%8A%D9%85%D9%86&feed=atom&action=history)
+- ❌ [IkhwanOnline.com](http://www.ikhwanonline.com/) - [Feed](http://www.ikhwanwiki.com/index.php?title=%D9%85%D9%84%D9%81_%D8%A7%D9%84%D8%A5%D8%AE%D9%88%D8%A7%D9%86_%D9%81%D9%8A_%D8%A7%D9%84%D9%8A%D9%85%D9%86&feed=atom&action=history)
 
 ## Eritrea
 
@@ -508,14 +508,14 @@
 
 ## Faroe Islands
 
-- ✅ [PLANET](http://planet.fo/) - [Feed](http://www.npr.org/rss/podcast.php?id=510289)
+- ❌ [PLANET](http://planet.fo/) - [Feed](http://www.npr.org/rss/podcast.php?id=510289)
 
 ## Finland
 
 - ✅ [Iltalehti.fi](http://iltalehti.fi/) - [Feed](http://www.iltalehti.fi/rss/uutiset.xml)
 - ✅ [yle](http://yle.fi/) - [Feed](http://yle.fi/uutiset/rss/uutiset.rss?osasto=news)
 - ✅ [Kaleva.fi](http://kaleva.fi/) - [Feed](http://www.kaleva.fi/rss/show/?channels=1)
-- ✅ [Turun Sanomat](http://ts.fi/) - [Feed](http://www.ts.fi/rss.xml)
+- ❌ [Turun Sanomat](http://ts.fi/) - [Feed](http://www.ts.fi/rss.xml)
 - ✅ [Stara](http://stara.fi/) - [Feed](http://www.stara.fi/kilpailut/ystavanpaiva/feed/)
 - ✅ [Talouselama](http://talouselama.fi/) - [Feed](http://www.talouselama.fi/rss.xml)
 
@@ -538,14 +538,14 @@
 - ✅ [Le Progrès](https://www.leprogres.fr/) - [Feed](https://www.leprogres.fr/rss)
 - ✅ [Les Dernières Nouvelles d'Alsace (DNA)](https://www.dna.fr/) - [Feed](https://www.dna.fr/rss)
 - ✅ [Franceinfo](https://www.francetvinfo.fr/) - [Feed](https://www.francetvinfo.fr/titres.rss)
-- ✅ [Ouest France](https://www.ouest-france.fr/) - [Feed](https://www.ouest-france.fr/rss/france)
+- ❌ [Ouest France](https://www.ouest-france.fr/) - [Feed](https://www.ouest-france.fr/rss/france)
 - ✅ [france24.com](https://www.france24.com/) - [Feed](https://www.france24.com/en/rss)
 - ✅ [L'Obs - A la une](https://www.nouvelobs.com/) - [Feed](https://www.nouvelobs.com/a-la-une/rss.xml)
 - ✅ [Le Huffington Post](https://www.huffingtonpost.fr/) - [Feed](https://www.huffingtonpost.fr/feeds/index.xml)
 - ✅ [La Dépêche du Midi : actualités et info en direct de la région Occitanie et des environs - ladepeche.fr](https://www.ladepeche.fr/) - [Feed](https://www.ladepeche.fr/rss.xml)
-- ✅ [Ministry for Europe and Foreign Affairs - Actualités](https://www.diplomatie.gouv.fr/) - [Feed](https://www.diplomatie.gouv.fr/spip.php?page=backend-fd&lang=en)
+- ❌ [Ministry for Europe and Foreign Affairs - Actualités](https://www.diplomatie.gouv.fr/) - [Feed](https://www.diplomatie.gouv.fr/spip.php?page=backend-fd&lang=en)
 - ✅ [L&#039;essentiel](https://www.sudouest.fr/) - [Feed](https://www.sudouest.fr/essentiel/rss.xml)
-- ✅ [Ouest-France - Actualité](https://www.ouest-france.fr/) - [Feed](https://www.ouest-france.fr/rss-en-continu.xml)
+- ❌ [Ouest-France - Actualité](https://www.ouest-france.fr/) - [Feed](https://www.ouest-france.fr/rss-en-continu.xml)
 
 ## French Guiana
 
@@ -578,7 +578,6 @@
 
 ## Gibraltar
 
-- ✅ [VOX](http://www.vox.gi/) - [Feed](https://www.vox.com/rss/index.xml)
 
 ## Greece
 
@@ -624,7 +623,7 @@
 - ✅ [Blikk](http://blikk.hu/) - [Feed](http://www.blikk.hu/rss/blikk)
 - ✅ [Velvet](http://velvet.hu/) - [Feed](http://velvet.hu/24ora/rss/)
 - ✅ [Sport Geza](http://sportgeza.hu/) - [Feed](http://sportgeza.hu/24ora/rss/)
-- ✅ [Nepszava](http://nepszava.hu/) - [Feed](http://nepszava.hu/rss/)
+- ❌ [Nepszava](http://nepszava.hu/) - [Feed](http://nepszava.hu/rss/)
 
 ## Iceland
 
@@ -683,7 +682,7 @@
 - ✅ [Times of India](http://timesofindia.indiatimes.com/) Education - [Feed](http://timesofindia.indiatimes.com/rssfeeds/913168846.cms)
 - ✅ [Times of India](http://timesofindia.indiatimes.com/) Entertainment - [Feed](http://timesofindia.indiatimes.com/rssfeeds/1081479906.cms)
 - ✅ [Times of India](http://timesofindia.indiatimes.com/) Life & Style - [Feed](http://timesofindia.indiatimes.com/rssfeeds/2886704.cms)
-- ✅ [Times of India](http://timesofindia.indiatimes.com/) Most Read - [Feed](http://timesofindia.indiatimes.com/rssfeedmostread.cms)
+- ❌ [Times of India](http://timesofindia.indiatimes.com/) Most Read - [Feed](http://timesofindia.indiatimes.com/rssfeedmostread.cms)
 - ✅ [Times of India](http://timesofindia.indiatimes.com/) Most Shared - [Feed](http://timesofindia.indiatimes.com/rssfeedmostshared.cms)
 - ✅ [Times of India](http://timesofindia.indiatimes.com/) Astrology - [Feed](https://timesofindia.indiatimes.com/rssfeeds/65857041.cms)
 - ✅ [Times of India](http://timesofindia.indiatimes.com/) Auto - [Feed](https://timesofindia.indiatimes.com/rssfeeds/74317216.cms)
@@ -829,13 +828,13 @@
 - ✅ [SEBI RSS Feed](https://www.sebi.gov.in/) - [Feed](https://www.sebi.gov.in/sebirss.xml)
 - ✅ [Times of India](https://timesofindia.indiatimes.com/) - [Feed](https://timesofindia.indiatimes.com/rssfeedstopstories.cms)
 - ✅ [Top World News- News18.com](https://www.news18.com/) - [Feed](https://www.news18.com/rss/world.xml)
-- ✅ [India News](https://www.dnaindia.com/) - [Feed](https://www.dnaindia.com/feeds/india.xml)
+- ❌ [India News](https://www.dnaindia.com/) - [Feed](https://www.dnaindia.com/feeds/india.xml)
 - ✅ [Free Press Journal](https://www.freepressjournal.in/) - [Feed](https://www.freepressjournal.in/stories.rss)
 - ✅ [Deccan Chronicle - Latest India news | Breaking news | Hyderabad News | World news | Business news | Politics | Technology news](https://www.deccanchronicle.com/) - [Feed](https://www.deccanchronicle.com/rss_feed/)
 - ✅ [Economic Times](https://economictimes.indiatimes.com/) - [Feed](https://economictimes.indiatimes.com/rssfeedsdefault.cms)
 - ✅ [Scroll.in](http://feeds.feedburner.com/) - [Feed](http://feeds.feedburner.com/ScrollinArticles.rss)
 - ✅ [Business Line - Home](https://www.thehindubusinessline.com/) - [Feed](https://www.thehindubusinessline.com/feeder/default.rss)
-- ✅ [TechGenyz](http://feeds.feedburner.com/) - [Feed](http://feeds.feedburner.com/techgenyz)
+- ❌ [TechGenyz](http://feeds.feedburner.com/) - [Feed](http://feeds.feedburner.com/techgenyz)
 - ✅ [Top Stories News - Gujarat Samachar : World's Leading Gujarati Newspaper](https://www.gujaratsamachar.com/) - [Feed](https://www.gujaratsamachar.com/rss/top-stories)
 - ✅ [Swarajya](https://prod-qt-images.s3.amazonaws.com/) - [Feed](https://prod-qt-images.s3.amazonaws.com/production/swarajya/feed.xml)
 - ✅ [Latest And Breaking Hindi News Headlines, News In Hindi | अमर उजाला हिंदी न्यूज़ | - Amar Ujala](https://www.amarujala.com/) - [Feed](https://www.amarujala.com/rss/breaking-news.xml)
@@ -867,20 +866,20 @@
 
 ## Islamic Republic of Iran
 
-- ✅ [Tabnak](http://tabnak.ir/) - [Feed](http://www.tabnak.ir/fa/rss/allnews)
+- ❌ [Tabnak](http://tabnak.ir/) - [Feed](http://www.tabnak.ir/fa/rss/allnews)
 - ✅ [Khabar Online](http://khabaronline.ir/) - [Feed](http://english.khabaronline.ir/rss/)
 - ✅ [Radiofarda.com](http://radiofarda.com/) - [Feed](http://www.radiofarda.com/api/)
-- ✅ [Mehr News](http://mehrnews.com/) - [Feed](http://www.mehrnews.com/rss)
+- ❌ [Mehr News](http://mehrnews.com/) - [Feed](http://www.mehrnews.com/rss)
 - ✅ [DW - Iran](http://www.dw.de/%D8%AF%D9%88%DB%8C%DA%86%D9%87-%D9%88%D9%84%D9%87-%D9%81%D8%A7%D8%B1%D8%B3%DB%8C/s-9993) - [Feed](http://rss.wn.com/English/related-articles/2014/12/08/Major_Iranian_world_wire_industries_to_assemble_in_Tehran/)
 - ✅ [Voice of America - Iran](http://ir.voanews.com/) - [Feed](http://ir.voanews.com/api/zkup_empmy)
-- ✅ [Hamshahri](http://hamshahrionline.ir/) - [Feed](http://www.hamshahrionline.ir/rss)
-- ✅ [Asriran.com](http://asriran.com/) - [Feed](http://www.asriran.com/fa/rss/allnews)
-- ✅ [خبرگزاری باشگاه خبرنگاران | آخرین اخبار ایران و جهان | YJC](https://www.yjc.ir/) - [Feed](https://www.yjc.ir/fa/rss/allnews)
-- ✅ [تابناک | TABNAK](https://www.tabnak.ir/) - [Feed](https://www.tabnak.ir/fa/rss/allnews)
-- ✅ [خبرگزاری مهر | اخبار ایران و جهان | Mehr News Agency](https://www.mehrnews.com/) - [Feed](https://www.mehrnews.com/rss)
+- ❌ [Hamshahri](http://hamshahrionline.ir/) - [Feed](http://www.hamshahrionline.ir/rss)
+- ❌ [Asriran.com](http://asriran.com/) - [Feed](http://www.asriran.com/fa/rss/allnews)
+- ❌ [خبرگزاری باشگاه خبرنگاران | آخرین اخبار ایران و جهان | YJC](https://www.yjc.ir/) - [Feed](https://www.yjc.ir/fa/rss/allnews)
+- ❌ [تابناک | TABNAK](https://www.tabnak.ir/) - [Feed](https://www.tabnak.ir/fa/rss/allnews)
+- ❌ [خبرگزاری مهر | اخبار ایران و جهان | Mehr News Agency](https://www.mehrnews.com/) - [Feed](https://www.mehrnews.com/rss)
 - ✅ [خبرگزاری خبرآنلاین - آخرین اخبار ایران و جهان | Khabaronline](https://www.khabaronline.ir/) - [Feed](https://www.khabaronline.ir/rss)
-- ✅ [اخبار ایران و جهان](https://www.tasnimnews.com/) - [Feed](https://www.tasnimnews.com/fa/rss/feed/0/8/0/%D9%85%D9%87%D9%85%D8%AA%D8%B1%DB%8C%D9%86-%D8%A7%D8%AE%D8%A8%D8%A7%D8%B1-%D8%AA%D8%B3%D9%86%DB%8C%D9%85)
-- ✅ [عصر ايران](https://www.asriran.com/) - [Feed](https://www.asriran.com/fa/rss/allnews)
+- ❌ [اخبار ایران و جهان](https://www.tasnimnews.com/) - [Feed](https://www.tasnimnews.com/fa/rss/feed/0/8/0/%D9%85%D9%87%D9%85%D8%AA%D8%B1%DB%8C%D9%86-%D8%A7%D8%AE%D8%A8%D8%A7%D8%B1-%D8%AA%D8%B3%D9%86%DB%8C%D9%85)
+- ❌ [عصر ايران](https://www.asriran.com/) - [Feed](https://www.asriran.com/fa/rss/allnews)
 
 ## Isle of Man
 
@@ -915,7 +914,7 @@
 
 ## Jamaica
 
-- ✅ [Jamaica Gleaner](http://jamaica-gleaner.com/) - [Feed](http://jamaica-gleaner.com/feed/rss.xml)
+- ❌ [Jamaica Gleaner](http://jamaica-gleaner.com/) - [Feed](http://jamaica-gleaner.com/feed/rss.xml)
 - ✅ [The Jamaica Star](http://jamaica-star.com/) - [Feed](http://jamaica-star.com/feed/news.xml)
 
 ## Japan
@@ -947,7 +946,7 @@
 ## Kosovo
 
 - ✅ [RTK Live](http://rtklive.com/) - [Feed](https://www.rtklive.com/sq/feed/)
-- ✅ [ZERI.info](http://zeri.info/) - [Feed](https://zeri.info/rss/zerat)
+- ❌ [ZERI.info](http://zeri.info/) - [Feed](https://zeri.info/rss/zerat)
 - ✅ [Radio Evropa e Lire](http://evropaelire.org/) - [Feed](http://www.evropaelire.org/api/ayiiyqveqjiyqv)
 
 ## Kyrgyzstan
@@ -955,7 +954,7 @@
 - ✅ [AKIpress](http://www.akipress.com/) - [Feed](http://www.akipress.com/rss/en.rss)
 - ✅ [Tazabek](http://tazabek.kg/) - [Feed](http://www.tazabek.kg/rss/news.rss)
 - ✅ [CA-News.org](http://ca-news.org/) - [Feed](http://uz.ca-news.org/rss/main.rss)
-- ✅ [K-News](http://knews.kg/) - [Feed](http://www.knews.kg/pro_dengi/rss/)
+- ❌ [K-News](http://knews.kg/) - [Feed](http://www.knews.kg/pro_dengi/rss/)
 - ✅ [Vesti.kg](http://vesti.kg/) - [Feed](http://www.vesti.kg/index.php?option=com_k2&view=itemlist&format=feed)
 
 ## Latvia
@@ -998,7 +997,7 @@
 - ✅ [The Star online](http://thestar.com.my/) - [Feed](http://www.thestar.com.my/RSS/News/Nation/)
 - ✅ [myMetro](http://hmetro.com.my/) - [Feed](http://www.hmetro.com.my/utama.xml)
 - ✅ [BH Berita Harian](http://www.bharian.com.my/) - [Feed](http://www.bharian.com.my/terkini.xml)
-- ✅ [Business Times](http://btimes.com.my/) - [Feed](http://thebusinesstimes.com/feed/)
+- ❌ [Business Times](http://btimes.com.my/) - [Feed](http://thebusinesstimes.com/feed/)
 
 ## Maldives
 
@@ -1089,7 +1088,7 @@
 ## Myanmar
 
 - ✅ [The Irrawaddy](http://irrawaddy.org/) - [Feed](http://www.irrawaddy.org/feed)
-- ✅ [Myanmar Gazette News Media Forum Network](http://myanmargazette.net/) - [Feed](http://myanmargazette.net/feed)
+- ❌ [Myanmar Gazette News Media Forum Network](http://myanmargazette.net/) - [Feed](http://myanmargazette.net/feed)
 
 ## Namibia
 
@@ -1136,7 +1135,7 @@
 - ✅ [Daily Post Nigeria](https://dailypost.ng/) - [Feed](https://dailypost.ng/feed)
 - ✅ [Premium Times Nigeria](https://www.premiumtimesng.com/) - [Feed](https://www.premiumtimesng.com/feed)
 - ✅ [Information Nigeria](https://www.informationng.com/) - [Feed](https://www.informationng.com/feed)
-- ✅ [The Guardian Nigeria News – Nigeria and World News](https://guardian.ng/) - [Feed](https://guardian.ng/feed/)
+- ❌ [The Guardian Nigeria News – Nigeria and World News](https://guardian.ng/) - [Feed](https://guardian.ng/feed/)
 
 ## Norway
 
@@ -1154,11 +1153,11 @@
 - ✅ [Pakistan Today](http://pakistantoday.com.pk/) - [Feed](http://www.pakistantoday.com.pk/feed/)
 - ✅ [Daily Times](http://dailytimes.com.pk/) - [Feed](http://www.dailytimes.com.pk/rss_feeds)
 - ✅ [The Express Tribune](https://tribune.com.pk/) - [Feed](https://tribune.com.pk/feed/home)
-- ✅ [The Nation - Top Stories](https://nation.com.pk/) - [Feed](https://nation.com.pk/rss/top-stories)
+- ❌ [The Nation - Top Stories](https://nation.com.pk/) - [Feed](https://nation.com.pk/rss/top-stories)
 - ✅ [قومی خبریں](https://jang.com.pk/) - [Feed](https://jang.com.pk/rss/1/1)
 - ✅ [The News International - Pakistan](https://www.thenews.com.pk/) - [Feed](https://www.thenews.com.pk/rss/1/1)
-- ✅ [News Blog](https://newsnblogs.com/) - [Feed](https://newsnblogs.com/feed/)
-- ❌ [UrduPoint.com All Urdu News](https://www.urdupoint.com/) - [Feed](https://www.urdupoint.com/rss/urdupoint.rss)
+- ❌ [News Blog](https://newsnblogs.com/) - [Feed](https://newsnblogs.com/feed/)
+- ✅ [UrduPoint.com All Urdu News](https://www.urdupoint.com/) - [Feed](https://www.urdupoint.com/rss/urdupoint.rss)
 - ✅ [ایکسپریس اردو](https://www.express.pk/) - [Feed](https://www.express.pk/feed/)
 
 ## Panama
@@ -1214,7 +1213,7 @@
 - ✅ [Correio da Manhã](https://www.cmjornal.pt/) - [Feed](https://www.cmjornal.pt/rss)
 - ✅ [Jornal Record](https://www.record.pt/) - [Feed](https://www.record.pt/rss/)
 - ✅ [TVI](https://tvi.iol.pt/) - [Feed](https://tvi.iol.pt/rss.xml)
-- ❌ [Renascença](https://rr.sapo.pt/) - [Feed](https://rr.pt/rss/rssfeed.aspx?section=section_noticias)
+- ✅ [Renascença](https://rr.sapo.pt/) - [Feed](https://rr.pt/rss/rssfeed.aspx?section=section_noticias)
 - ✅ [Notícias ao Minuto](https://www.noticiasaominuto.com.br/) - [Feed](https://www.noticiasaominuto.com.br/rss/ultima-hora)
 - ✅ [IOL](https://www.iol.pt/) - [Feed](https://www.iol.pt/rss.xml)
 - ✅ [Jornal de Negocios](https://www.jornaldenegocios.pt/) - [Feed](https://www.jornaldenegocios.pt/rss)
@@ -1237,7 +1236,7 @@
 ## Romania
 
 - ✅ [adevarul.ro](http://adevarul.ro/) - [Feed](http://adevarul.ro/rss/)
-- ✅ [Realitatea.net](http://realitatea.net/) - [Feed](http://rss.realitatea.net/stiri.xml)
+- ❌ [Realitatea.net](http://realitatea.net/) - [Feed](http://rss.realitatea.net/stiri.xml)
 - ✅ [Stirile Pro TV](http://stirileprotv.ro/) - [Feed](http://rss.stirileprotv.ro/)
 - ✅ [Ziare.com](http://ziare.com/) - [Feed](http://www.ziare.com/rss/actualitate.xml)
 - ✅ [jurnalul.ro](http://jurnalul.ro/) - [Feed](http://jurnalul.ro/rss)
@@ -1247,20 +1246,20 @@
 
 ## Russian Federation
 
-- ✅ [RIA Novosti](http://ria.ru/) - [Feed](https://ria.ru/export/rss2/index.xml)
-- ✅ [Lenta.ru](http://lenta.ru/) - [Feed](http://lenta.ru/rss/)
+- ❌ [RIA Novosti](http://ria.ru/) - [Feed](https://ria.ru/export/rss2/index.xml)
+- ❌ [Lenta.ru](http://lenta.ru/) - [Feed](http://lenta.ru/rss/)
 - ✅ [Utro.ru](http://utro.ru/) - [Feed](http://www.utro.ru/export/rss2.xml)
-- ✅ [RG.ru Rossiyskaya Gazeta](http://rg.ru/) - [Feed](http://www.rg.ru/xml/index.xml)
+- ❌ [RG.ru Rossiyskaya Gazeta](http://rg.ru/) - [Feed](http://www.rg.ru/xml/index.xml)
 - ✅ [infox.ru](http://infox.ru/) - [Feed](http://www.infox.ru/rss.xml)
 - ✅ [interfax](http://interfax.ru/) - [Feed](http://www.interfax.ru/rss.asp)
 - ✅ [TASS](https://tass.ru/) - [Feed](https://tass.ru/rss/all.xml)
-- ✅ [Lenta.ru : Новости](https://lenta.ru/) - [Feed](https://lenta.ru/rss)
+- ❌ [Lenta.ru : Новости](https://lenta.ru/) - [Feed](https://lenta.ru/rss)
 - ✅ [Все материалы - Московский Комсомолец](https://www.mk.ru/) - [Feed](https://www.mk.ru/rss/index.xml)
-- ✅ [Российская Газета](https://rg.ru/) - [Feed](https://rg.ru/xml/index.xml)
+- ❌ [Российская Газета](https://rg.ru/) - [Feed](https://rg.ru/xml/index.xml)
 - ✅ [NEWSru.com :: Главные новости](https://rss.newsru.com/) - [Feed](https://rss.newsru.com/top/big/)
-- ✅ [RT - Daily news](https://www.rt.com/) - [Feed](https://www.rt.com/rss/)
+- ❌ [RT - Daily news](https://www.rt.com/) - [Feed](https://www.rt.com/rss/)
 - ✅ [Meduza.io](https://meduza.io/) - [Feed](https://meduza.io/rss/all)
-- ✅ [TASS](http://tass.com/) - [Feed](http://tass.com/rss/v2.xml)
+- ❌ [TASS](http://tass.com/) - [Feed](http://tass.com/rss/v2.xml)
 - ✅ [The Moscow Times - Independent News From Russia](https://www.themoscowtimes.com/) - [Feed](https://www.themoscowtimes.com/rss/news)
 - ✅ [PravdaReport](https://www.pravdareport.com/) - [Feed](https://www.pravdareport.com/export.xml)
 
@@ -1331,7 +1330,7 @@
 ## Somalia
 
 - ✅ [Jowhar.com](http://jowhar.com/) - [Feed](http://www.jowhar.com/?feed=rss2&author=1)
-- ✅ [Waagacusub Media](http://waagacusub.com/) - [Feed](http://feeds.feedburner.com/waagacusubmedia)
+- ❌ [Waagacusub Media](http://waagacusub.com/) - [Feed](http://feeds.feedburner.com/waagacusubmedia)
 - ✅ [VOA Somali](http://www.voasomali.com/) - [Feed](http://www.voasomali.com/api/)
 - ✅ [Puntland Post](http://www.puntlandpost.com/) - [Feed](http://puntlandpost.net/request-for-proposals-for-supply-and-installation-of-solar-lighting-in-garowe-puntland-somalia/feed/)
 
@@ -1373,7 +1372,7 @@
 - ✅ [La Región](https://www.laregion.es/) - [Feed](https://www.laregion.es/rss/)
 - ✅ [El Norte de Castilla](https://www.elnortedecastilla.es/) - [Feed](https://www.elnortedecastilla.es/rss/atom/portada/)
 - ✅ [Marca](https://www.marca.com/) - [Feed](https://e00-marca.uecdn.es/rss/portada.xml)
-- ❌ [The Local](https://feeds.thelocal.com/) - [Feed](https://feeds.thelocal.com/rss/es)
+- ✅ [The Local](https://feeds.thelocal.com/) - [Feed](https://feeds.thelocal.com/rss/es)
 - ✅ [El Periódico - portada](https://www.elperiodico.com/) - [Feed](https://www.elperiodico.com/es/rss/rss_portada.xml)
 - ✅ [huffingtonpost.es](https://www.huffingtonpost.es/) - [Feed](https://www.huffingtonpost.es/feeds/index.xml)
 - ✅ [Euro Weekly News Spain](https://www.euroweeklynews.com/) - [Feed](https://www.euroweeklynews.com/feed/)
@@ -1413,7 +1412,7 @@
 
 ## Syrian Arab Republic
 
-- ✅ [SANA](http://sana.sy/index_eng.html) - [Feed](http://www.sana.sy/tr/?feed=rss2)
+- ❌ [SANA](http://sana.sy/index_eng.html) - [Feed](http://www.sana.sy/tr/?feed=rss2)
 
 ## Thailand
 
@@ -1421,7 +1420,7 @@
 
 ## The Republic of North Macedonia
 
-- ✅ [Kajgana](http://kajgana.com/) - [Feed](http://kajgana.com/rss.xml)
+- ❌ [Kajgana](http://kajgana.com/) - [Feed](http://kajgana.com/rss.xml)
 - ✅ [crnobelo.com](http://crnobelo.com/) - [Feed](http://forum.crnobelo.com/forums/%D0%A0%D0%B5%D0%BB%D0%B8%D0%B3%D0%B8%D1%98%D0%B0.68/index.rss)
 - ✅ [MKD](http://mkd.mk/) - [Feed](http://www.mkd.mk/feed)
 - ✅ [Daily Makedonia](http://daily.mk/) - [Feed](http://news.makedonias.gr/89309/erevna-daily-mail-to-chirotero-protathlima-ston-kosmo-ine-i-superleague/feed/)
@@ -1433,7 +1432,7 @@
 
 ## Tunisia
 
-- ✅ [leaders.com.tn](http://www.leaders.com.tn/) - [Feed](http://www.leaders.com.tn/rss)
+- ❌ [leaders.com.tn](http://www.leaders.com.tn/) - [Feed](http://www.leaders.com.tn/rss)
 
 ## Türkiye
 
@@ -1513,7 +1512,7 @@
 - ✅ [The Christian Science Monitor](http://csmonitor.com/) - [Feed](http://rss.csmonitor.com/feeds/csm)
 - ✅ [TechCrunch](http://techcrunch.com/) - [Feed](http://techcrunch.com/feed/)
 - ✅ [Breitbart](http://breitbart.com/) - [Feed](http://feeds.feedburner.com/breitbart)
-- ✅ [World News - Breaking News, Top Stories](https://www.huffpost.com/) - [Feed](https://www.huffpost.com/section/world-news/feed)
+- ❌ [World News - Breaking News, Top Stories](https://www.huffpost.com/) - [Feed](https://www.huffpost.com/section/world-news/feed)
 - ✅ [World & Nation](https://www.latimes.com/) - [Feed](https://www.latimes.com/world-nation/rss2.0.xml)
 - ✅ [Yahoo News - Latest News & Headlines](https://news.yahoo.com/) - [Feed](https://news.yahoo.com/rss/mostviewed)
 - ✅ [US Top News and Analysis](https://www.cnbc.com/) - [Feed](https://www.cnbc.com/id/100003114/device/rss/rss.html)
@@ -1522,7 +1521,7 @@
 ## Uruguay
 
 - ✅ [El Observador](https://elobservador.com.uy/) - [Feed](https://www.elobservador.com.uy/rss/pages/ultimo-momento.xml)
-- ❌ [Montevideo Portal](https://www.montevideo.com.uy/) - [Feed](https://www.montevideo.com.uy/anxml.aspx?58)
+- ✅ [Montevideo Portal](https://www.montevideo.com.uy/) - [Feed](https://www.montevideo.com.uy/anxml.aspx?58)
 - ✅ [La Diaria](https://ladiaria.com.uy/) - [Feed](https://ladiaria.com.uy/feeds/articulos)
 - ✅ [El Popular](https://elpopular.uy/) - [Feed](https://elpopular.uy/feed/)
 - ✅ [La Mañana](https://www.lamañana.uy/) - [Feed](https://www.xn--lamaana-7za.uy/feed/)
@@ -1548,7 +1547,7 @@
 
 ## Yemen
 
-- ✅ [Mareb Press](http://marebpress.net/) - [Feed](https://marebpress.net/news_rss.php)
+- ❌ [Mareb Press](http://marebpress.net/) - [Feed](https://marebpress.net/news_rss.php)
 - ✅ [Al-Tagheer.com](http://al-tagheer.com/) - [Feed](http://al-tagheer.com/rss.php)
 - ✅ [hshd.net](http://hshd.net/) - [Feed](http://hshd.net/rss.php)
 
@@ -1566,17 +1565,14 @@
 
 ## Global
 
-- ✅ [Android Developers](https://www.youtube.com/) Android Development - [Feed](https://www.youtube.com/feeds/videos.xml?user=androiddevelopers)
 - ✅ [Android Developers - Medium](https://medium.com/) Android Development - [Feed](https://medium.com/feed/androiddevelopers)
 - ✅ [Android in MindOrks on Medium](https://medium.com/) Android Development - [Feed](https://medium.com/feed/mindorks/tagged/android)
 - ✅ [Android in The Airbnb Tech Blog on Medium](https://medium.com/) Android Development - [Feed](https://medium.com/feed/airbnb-engineering/tagged/android)
-- ✅ [Developing Android Apps](https://reddit.com/) Android Development - [Feed](https://reddit.com/r/androiddev.rss)
-- ✅ [Jake Wharton](https://jakewharton.com/) Android Development - [Feed](https://jakewharton.com/atom.xml)
+- ❌ [Jake Wharton](https://jakewharton.com/) Android Development - [Feed](https://jakewharton.com/atom.xml)
 - ✅ [Kt. Academy - Medium](https://blog.kotlin-academy.com/) Android Development - [Feed](https://blog.kotlin-academy.com/feed)
 - ✅ [Public Object](https://publicobject.com/) Android Development - [Feed](https://publicobject.com/rss/)
 - ✅ [chRyNaN Codes](https://chrynan.codes/) Android Development - [Feed](https://chrynan.codes/rss/)
-- ✅ [All About Android (Audio)](https://feeds.twit.tv/) Android - [Feed](https://feeds.twit.tv/aaa.xml)
-- ✅ [Android](https://www.reddit.com/) Android - [Feed](https://www.reddit.com/r/android/.rss)
+- ❌ [All About Android (Audio)](https://feeds.twit.tv/) Android - [Feed](https://feeds.twit.tv/aaa.xml)
 - ✅ [Android Authority](https://www.androidauthority.com/) Android - [Feed](https://www.androidauthority.com/feed)
 - ✅ [Android Central - Android Forums, News, Reviews, Help and Android Wallpapers](http://feeds.androidcentral.com/) Android - [Feed](http://feeds.androidcentral.com/androidcentral)
 - ✅ [Android Police – Android news, reviews, apps, games, phones, tablets](http://feeds.feedburner.com/) Android - [Feed](http://feeds.feedburner.com/AndroidPolice)
@@ -1585,34 +1581,28 @@
 - ✅ [Phandroid](http://feeds2.feedburner.com/) Android - [Feed](http://feeds2.feedburner.com/AndroidPhoneFans)
 - ✅ [TalkAndroid](http://feeds.feedburner.com/) Android - [Feed](http://feeds.feedburner.com/AndroidNewsGoogleAndroidForums)
 - ✅ [9to5Mac](https://9to5mac.com/) Apple - [Feed](https://9to5mac.com/feed)
-- ✅ [Apple](https://www.youtube.com/) Apple - [Feed](https://www.youtube.com/feeds/videos.xml?user=Apple)
 - ✅ [AppleInsider News](https://appleinsider.com/) Apple - [Feed](https://appleinsider.com/rss/news/)
 - ✅ [Cult of Mac](https://www.cultofmac.com/) Apple - [Feed](https://www.cultofmac.com/feed)
 - ✅ [Daring Fireball](https://daringfireball.net/) Apple - [Feed](https://daringfireball.net/feeds/main)
 - ✅ [MacRumors: Mac News and Rumors - Mac Blog](http://feeds.macrumors.com/) Apple - [Feed](http://feeds.macrumors.com/MacRumors-Mac)
 - ✅ [MacStories](https://www.macstories.net/) Apple - [Feed](https://www.macstories.net/feed)
 - ✅ [Macworld.com](https://www.macworld.com/) Apple - [Feed](https://www.macworld.com/index.rss)
-- ✅ [The unofficial Apple community](https://www.reddit.com/) Apple - [Feed](https://www.reddit.com/r/apple/.rss)
-- ✅ [r/iPhone](https://www.reddit.com/) Apple - [Feed](https://www.reddit.com/r/iphone/.rss)
-- ✅ [A Daily Dose of Architecture Books](http://feeds.feedburner.com/) Architecture - [Feed](http://feeds.feedburner.com/archidose)
+- ❌ [A Daily Dose of Architecture Books](http://feeds.feedburner.com/) Architecture - [Feed](http://feeds.feedburner.com/archidose)
 - ✅ [ArchDaily](http://feeds.feedburner.com/) Architecture - [Feed](http://feeds.feedburner.com/Archdaily)
 - ✅ [Architectural Digest](https://www.architecturaldigest.com/) Architecture - [Feed](https://www.architecturaldigest.com/feed/rss)
-- ✅ [Architecture](https://www.reddit.com/) Architecture - [Feed](https://www.reddit.com/r/architecture/.rss)
 - ✅ [Architecture – Dezeen](https://www.dezeen.com/) Architecture - [Feed](https://www.dezeen.com/architecture/feed/)
 - ✅ [Design MilkArchitecture – Design Milk](https://design-milk.com/) Architecture - [Feed](https://design-milk.com/category/architecture/feed/)
 - ✅ [The Architect’s Newspaper](https://archpaper.com/) Architecture - [Feed](https://archpaper.com/feed)
 - ✅ [architecture – designboom | architecture & design magazine](https://www.designboom.com/) Architecture - [Feed](https://www.designboom.com/architecture/feed/)
 - ✅ [Beauty - ELLE](https://www.elle.com/) Beauty - [Feed](https://www.elle.com/rss/beauty.xml/)
 - ✅ [Beauty - Fashionista](https://fashionista.com/) Beauty - [Feed](https://fashionista.com/.rss/excerpt/beauty)
-- ✅ [From Head To Toe](http://feeds.feedburner.com/) Beauty - [Feed](http://feeds.feedburner.com/frmheadtotoe)
+- ❌ [From Head To Toe](http://feeds.feedburner.com/) Beauty - [Feed](http://feeds.feedburner.com/frmheadtotoe)
 - ✅ [Refinery29](https://www.refinery29.com/) Beauty - [Feed](https://www.refinery29.com/beauty/rss.xml)
 - ✅ [BOOK RIOT](https://bookriot.com/) Books - [Feed](https://bookriot.com/feed/)
 - ✅ [Kirkus Reviews](https://www.kirkusreviews.com/) Books - [Feed](https://www.kirkusreviews.com/feeds/rss/)
-- ✅ [Page Array – NewInBooks](https://www.newinbooks.com/) Books - [Feed](https://www.newinbooks.com/feed/)
-- ✅ [So many books, so little time](https://reddit.com/) Books - [Feed](https://reddit.com/r/books/.rss)
+- ❌ [Page Array – NewInBooks](https://www.newinbooks.com/) Books - [Feed](https://www.newinbooks.com/feed/)
 - ✅ [All News](https://www.investing.com/) Business & Economy - [Feed](https://www.investing.com/rss/news.rss)
 - ✅ [Breaking News on Seeking Alpha](https://seekingalpha.com/) Business & Economy - [Feed](https://seekingalpha.com/market_currents.xml)
-- ✅ [Business Insider](https://www.youtube.com/) Business & Economy - [Feed](https://www.youtube.com/feeds/videos.xml?user=businessinsider)
 - ✅ [Economic Times](https://economictimes.indiatimes.com/) Business & Economy - [Feed](https://economictimes.indiatimes.com/rssfeedsdefault.cms)
 - ✅ [Forbes - Business](https://www.forbes.com/) Business & Economy - [Feed](https://www.forbes.com/business/feed/)
 - ✅ [Fortune](https://fortune.com/) Business & Economy - [Feed](https://fortune.com/feed)
@@ -1620,33 +1610,27 @@
 - ✅ [The Blog of Author Tim Ferriss](https://tim.blog/) Business & Economy - [Feed](https://tim.blog/feed/)
 - ✅ [US Top News and Analysis](https://www.cnbc.com/) Business & Economy - [Feed](https://www.cnbc.com/id/100003114/device/rss/rss.html)
 - ✅ [Yahoo Finance](https://finance.yahoo.com/) Business & Economy - [Feed](https://finance.yahoo.com/news/rssindex)
-- ✅ [Autocar India - All Bike Reviews](https://www.autocarindia.com/) Cars - [Feed](https://www.autocarindia.com/RSS/rss.ashx?type=all_bikes)
-- ✅ [Autocar India - All Car Reviews](https://www.autocarindia.com/) Cars - [Feed](https://www.autocarindia.com/RSS/rss.ashx?type=all_cars)
-- ✅ [Autocar India - News](https://www.autocarindia.com/) Cars - [Feed](https://www.autocarindia.com/RSS/rss.ashx?type=News)
+- ❌ [Autocar India - All Bike Reviews](https://www.autocarindia.com/) Cars - [Feed](https://www.autocarindia.com/RSS/rss.ashx?type=all_bikes)
+- ❌ [Autocar India - All Car Reviews](https://www.autocarindia.com/) Cars - [Feed](https://www.autocarindia.com/RSS/rss.ashx?type=all_cars)
+- ❌ [Autocar India - News](https://www.autocarindia.com/) Cars - [Feed](https://www.autocarindia.com/RSS/rss.ashx?type=News)
 - ✅ [Autocar RSS Feed](https://www.autocar.co.uk/) Cars - [Feed](https://www.autocar.co.uk/rss)
 - ✅ [BMW BLOG](https://feeds.feedburner.com/) Cars - [Feed](https://feeds.feedburner.com/BmwBlog)
 - ✅ [Bike EXIF](https://www.bikeexif.com/) Cars - [Feed](https://www.bikeexif.com/feed)
 - ✅ [Carscoops](https://www.carscoops.com/) Cars - [Feed](https://www.carscoops.com/feed/)
-- ✅ [Formula 1](https://www.reddit.com/) Cars - [Feed](https://www.reddit.com/r/formula1/.rss)
 - ✅ [Jalopnik](https://jalopnik.com/) Cars - [Feed](https://jalopnik.com/rss)
 - ✅ [Latest Content - Car and Driver](https://www.caranddriver.com/) Cars - [Feed](https://www.caranddriver.com/rss/all.xml/)
 - ✅ [The Truth About Cars](https://www.thetruthaboutcars.com/) Cars - [Feed](https://www.thetruthaboutcars.com/feed/)
 - ✅ [The best vintage and classic cars for sale online | Bring a Trailer](https://bringatrailer.com/) Cars - [Feed](https://bringatrailer.com/feed/)
 - ✅ [BBC Sport - Cricket](http://feeds.bbci.co.uk/) Cricket - [Feed](http://feeds.bbci.co.uk/sport/cricket/rss.xml)
-- ✅ [Cricbuzz](https://www.youtube.com/) Cricket - [Feed](https://www.youtube.com/feeds/videos.xml?channel_id=UCSRQXk5yErn4e14vN76upOw)
-- ✅ [Cricket](https://www.reddit.com/) Cricket - [Feed](https://www.reddit.com/r/Cricket/.rss)
 - ✅ [Cricket news from ESPN Cricinfo.com](http://www.espncricinfo.com/) Cricket - [Feed](http://www.espncricinfo.com/rss/content/story/feeds/0.xml)
 - ✅ [Cricket | The Guardian](https://www.theguardian.com/) Cricket - [Feed](https://www.theguardian.com/sport/cricket/rss)
-- ✅ [Cricket – The Roar](https://www.theroar.com.au/) Cricket - [Feed](https://www.theroar.com.au/cricket/feed/)
-- ✅ [England & Wales Cricket Board](https://www.youtube.com/) Cricket - [Feed](https://www.youtube.com/feeds/videos.xml?user=ecbcricket)
+- ❌ [Cricket – The Roar](https://www.theroar.com.au/) Cricket - [Feed](https://www.theroar.com.au/cricket/feed/)
 - ✅ [NDTV Sports - Cricket](http://feeds.feedburner.com/) Cricket - [Feed](http://feeds.feedburner.com/ndtvsports-cricket)
-- ✅ [Pakistan Cricket](https://www.youtube.com/) Cricket - [Feed](https://www.youtube.com/feeds/videos.xml?channel_id=UCiWrjBhlICf_L_RK5y6Vrxw)
-- ✅ [Switch Hit Podcast](https://feeds.megaphone.fm/) Cricket - [Feed](https://feeds.megaphone.fm/ESP9247246951)
-- ✅ [Test Match Special](https://podcasts.files.bbci.co.uk/) Cricket - [Feed](https://podcasts.files.bbci.co.uk/p02nrsl2.rss)
+- ❌ [Switch Hit Podcast](https://feeds.megaphone.fm/) Cricket - [Feed](https://feeds.megaphone.fm/ESP9247246951)
+- ❌ [Test Match Special](https://podcasts.files.bbci.co.uk/) Cricket - [Feed](https://podcasts.files.bbci.co.uk/p02nrsl2.rss)
 - ✅ [Wisden](https://www.wisden.com/) Cricket - [Feed](https://www.wisden.com/feed)
 - ✅ [Wisden Cricket Weekly](http://feeds.soundcloud.com/) Cricket - [Feed](http://feeds.soundcloud.com/users/soundcloud:users:341034518/sounds.rss)
-- ✅ [cricket.com.au](https://www.youtube.com/) Cricket - [Feed](https://www.youtube.com/feeds/videos.xml?user=cricketaustraliatv)
-- ✅ [A Beautiful Mess](https://abeautifulmess.com/) DIY - [Feed](https://abeautifulmess.com/feed)
+- ❌ [A Beautiful Mess](https://abeautifulmess.com/) DIY - [Feed](https://abeautifulmess.com/feed)
 - ✅ [Apartment Therapy| Saving the world, one room at a time](https://www.apartmenttherapy.com/) DIY - [Feed](https://www.apartmenttherapy.com/projects.rss)
 - ✅ [Blog – Hackaday](https://hackaday.com/) DIY - [Feed](https://hackaday.com/blog/feed/)
 - ✅ [How-To Geek](https://www.howtogeek.com/) DIY - [Feed](https://www.howtogeek.com/feed/)
@@ -1658,21 +1642,17 @@
 - ✅ [Fashionista](https://fashionista.com/) Fashion - [Feed](https://fashionista.com/.rss/excerpt/)
 - ✅ [POPSUGAR Fashion](https://www.popsugar.com/) Fashion - [Feed](https://www.popsugar.com/fashion/feed)
 - ✅ [Who What Wear](https://www.whowhatwear.com/) Fashion - [Feed](https://www.whowhatwear.com/rss)
-- ✅ [Babish Culinary Universe](https://www.youtube.com/) Food - [Feed](https://www.youtube.com/feeds/videos.xml?user=bgfilms)
-- ✅ [Bon Appétit](https://www.youtube.com/) Food - [Feed](https://www.youtube.com/feeds/videos.xml?user=BonAppetitDotCom)
 - ✅ [How Sweet Eats](https://www.howsweeteats.com/) Food - [Feed](https://www.howsweeteats.com/feed/)
 - ✅ [Kitchn | Inspiring cooks, nourishing homes](https://www.thekitchn.com/) Food - [Feed](https://www.thekitchn.com/main.rss)
-- ✅ [Skinnytaste](https://www.skinnytaste.com/) Food - [Feed](https://www.skinnytaste.com/feed/)
-- ✅ [EFL Championship](https://www.reddit.com/) Football - [Feed](https://www.reddit.com/r/Championship/.rss?format=xml)
-- ✅ [Football - The People's Sport](https://www.reddit.com/) Football - [Feed](https://www.reddit.com/r/football/.rss?format=xml)
+- ❌ [Skinnytaste](https://www.skinnytaste.com/) Food - [Feed](https://www.skinnytaste.com/feed/)
 - ✅ [Soccer News](https://www.soccernews.com/) Football - [Feed](https://www.soccernews.com/feed)
-- ✅ [Cracked: All Posts](http://feeds.feedburner.com/) Funny - [Feed](http://feeds.feedburner.com/CrackedRSS)
+- ❌ [Cracked: All Posts](http://feeds.feedburner.com/) Funny - [Feed](http://feeds.feedburner.com/CrackedRSS)
 - ✅ [FAIL Blog](http://feeds.feedburner.com/) Funny - [Feed](http://feeds.feedburner.com/failblog)
 - ✅ [I Can Has Cheezburger?](http://feeds.feedburner.com/) Funny - [Feed](http://feeds.feedburner.com/icanhascheezburger)
 - ✅ [Penny Arcade](https://www.penny-arcade.com/) Funny - [Feed](https://www.penny-arcade.com/feed)
-- ✅ [PostSecret](https://postsecret.com/) Funny - [Feed](https://postsecret.com/feed/?alt=rss)
+- ❌ [PostSecret](https://postsecret.com/) Funny - [Feed](https://postsecret.com/feed/?alt=rss)
 - ✅ [Saturday Morning Breakfast Cereal](https://www.smbc-comics.com/) Funny - [Feed](https://www.smbc-comics.com/comic/rss)
-- ✅ [The Bloggess](https://thebloggess.com/) Funny - [Feed](https://thebloggess.com/feed/)
+- ❌ [The Bloggess](https://thebloggess.com/) Funny - [Feed](https://thebloggess.com/feed/)
 - ✅ [The Daily WTF](http://syndication.thedailywtf.com/) Funny - [Feed](http://syndication.thedailywtf.com/TheDailyWtf)
 - ✅ [Escapist Magazine](https://www.escapistmagazine.com/) Gaming - [Feed](https://www.escapistmagazine.com/v2/feed/)
 - ✅ [Eurogamer.net](https://www.eurogamer.net/) Gaming - [Feed](https://www.eurogamer.net/?format=rss)
@@ -1681,16 +1661,14 @@
 - ✅ [Kotaku](https://kotaku.com/) Gaming - [Feed](https://kotaku.com/rss)
 - ✅ [Polygon -  All](https://www.polygon.com/) Gaming - [Feed](https://www.polygon.com/rss/index.xml)
 - ✅ [Rock, Paper, Shotgun](http://feeds.feedburner.com/) Gaming - [Feed](http://feeds.feedburner.com/RockPaperShotgun)
-- ✅ [Steam RSS News Feed](https://store.steampowered.com/) Gaming - [Feed](https://store.steampowered.com/feeds/news.xml)
+- ❌ [Steam RSS News Feed](https://store.steampowered.com/) Gaming - [Feed](https://store.steampowered.com/feeds/news.xml)
 - ✅ [Xbox's Major Nelson](https://majornelson.com/) Gaming - [Feed](https://majornelson.com/feed/)
-- ✅ [r/gaming](https://www.reddit.com/) Gaming - [Feed](https://www.reddit.com/r/gaming.rss)
 - ✅ [Apartment Therapy| Saving the world, one room at a time](https://www.apartmenttherapy.com/) Interior design - [Feed](https://www.apartmenttherapy.com/design.rss)
 - ✅ [Design MilkInterior Design – Design Milk](https://design-milk.com/) Interior design - [Feed](https://design-milk.com/category/interior-design/feed/)
 - ✅ [Ideal Home](https://www.idealhome.co.uk/) Interior design - [Feed](https://www.idealhome.co.uk/feed)
-- ✅ [Interior Design (Interior Architecture)](https://www.reddit.com/) Interior design - [Feed](https://www.reddit.com/r/InteriorDesign/.rss)
-- ❌ [Interiors – Dezeen](https://www.dezeen.com/) Interior design - [Feed](https://www.dezeen.com/interiors/feed/)
+- ✅ [Interiors – Dezeen](https://www.dezeen.com/) Interior design - [Feed](https://www.dezeen.com/interiors/feed/)
 - ✅ [The Design Files | Australia's most popular design blog.The Design Files | Australia's most popular design blog.](https://thedesignfiles.net/) Interior design - [Feed](https://thedesignfiles.net/feed/)
-- ✅ [The Inspired Room](https://theinspiredroom.net/) Interior design - [Feed](https://theinspiredroom.net/feed/)
+- ❌ [The Inspired Room](https://theinspiredroom.net/) Interior design - [Feed](https://theinspiredroom.net/feed/)
 - ✅ [Thrifty Decor Chick](http://feeds.feedburner.com/) Interior design - [Feed](http://feeds.feedburner.com/blogspot/ZBcZ)
 - ✅ [Yanko Design](http://feeds.feedburner.com/) Interior design - [Feed](http://feeds.feedburner.com/yankodesign)
 - ✅ [/Film](https://feeds2.feedburner.com/) Movies - [Feed](https://feeds2.feedburner.com/slashfilm)
@@ -1698,7 +1676,6 @@
 - ✅ [Deadline](https://deadline.com/) Movies - [Feed](https://deadline.com/feed/)
 - ✅ [FirstShowing.net](https://www.firstshowing.net/) Movies - [Feed](https://www.firstshowing.net/feed/)
 - ✅ [IndieWire](https://www.indiewire.com/) Movies - [Feed](https://www.indiewire.com/feed)
-- ✅ [Movie News and Discussion](https://reddit.com/) Movies - [Feed](https://reddit.com/r/movies/.rss)
 - ✅ [Variety](https://variety.com/) Movies - [Feed](https://variety.com/feed/)
 - ✅ [Consequence](http://consequenceofsound.net/) Music - [Feed](http://consequenceofsound.net/feed)
 - ✅ [Metal Injection](http://feeds.feedburner.com/) Music - [Feed](http://feeds.feedburner.com/metalinjection)
@@ -1707,97 +1684,82 @@
 - ✅ [International: Top News And Analysis](https://www.cnbc.com/) News - [Feed](https://www.cnbc.com/id/100727362/device/rss/rss.html)
 - ✅ [NDTV News - World-news](http://feeds.feedburner.com/) News - [Feed](http://feeds.feedburner.com/ndtvnews-world-news)
 - ✅ [Top stories - Google News](https://news.google.com/) News - [Feed](https://news.google.com/rss)
-- ✅ [World News](https://www.reddit.com/) News - [Feed](https://www.reddit.com/r/worldnews/.rss)
 - ✅ [World News Headlines, Latest International News, World Breaking News - Times of India](https://timesofindia.indiatimes.com/) News - [Feed](https://timesofindia.indiatimes.com/rssfeeds/296589292.cms)
 - ✅ [World news | The Guardian](https://www.theguardian.com/) News - [Feed](https://www.theguardian.com/world/rss)
 - ✅ [Financial Samurai](https://www.financialsamurai.com/) Personal finance - [Feed](https://www.financialsamurai.com/feed/)
 - ✅ [Money Saving Mom®](https://moneysavingmom.com/) Personal finance - [Feed](https://moneysavingmom.com/feed/)
 - ✅ [MoneyNing](http://feeds.feedburner.com/) Personal finance - [Feed](http://feeds.feedburner.com/MoneyNing)
 - ✅ [NerdWallet](https://www.nerdwallet.com/) Personal finance - [Feed](https://www.nerdwallet.com/blog/feed/)
-- ✅ [Personal Finance](https://reddit.com/) Personal finance - [Feed](https://reddit.com/r/personalfinance/.rss)
 - ✅ [The College Investor](https://thecollegeinvestor.com/) Personal finance - [Feed](https://thecollegeinvestor.com/feed/)
-- ✅ [500px](https://iso.500px.com/) Photography - [Feed](https://iso.500px.com/feed/)
 - ✅ [Big Picture](https://www.bostonglobe.com/) Photography - [Feed](https://www.bostonglobe.com/rss/bigpicture)
-- ✅ [Canon Rumors – Your best source for Canon rumors, leaks and gossip](https://www.canonrumors.com/) Photography - [Feed](https://www.canonrumors.com/feed/)
+- ❌ [Canon Rumors – Your best source for Canon rumors, leaks and gossip](https://www.canonrumors.com/) Photography - [Feed](https://www.canonrumors.com/feed/)
 - ✅ [PetaPixel](https://petapixel.com/) Photography - [Feed](https://petapixel.com/feed/)
 - ✅ [Better Programming - Medium](https://medium.com/) Programming - [Feed](https://medium.com/feed/better-programming)
 - ✅ [Code as Craft](https://codeascraft.com/) Programming - [Feed](https://codeascraft.com/feed/atom/)
-- ✅ [FLOSS Weekly (Audio)](https://feeds.twit.tv/) Programming - [Feed](https://feeds.twit.tv/floss.xml)
+- ❌ [FLOSS Weekly (Audio)](https://feeds.twit.tv/) Programming - [Feed](https://feeds.twit.tv/floss.xml)
 - ✅ [Google Developers Blog](http://feeds.feedburner.com/) Programming - [Feed](http://feeds.feedburner.com/GDBcode)
 - ✅ [HackerNoon.com - Medium](https://medium.com/) Programming - [Feed](https://medium.com/feed/hackernoon)
 - ✅ [JetBrains Blog](https://blog.jetbrains.com/) Programming - [Feed](https://blog.jetbrains.com/feed)
 - ✅ [Programming Throwdown](http://feeds.feedburner.com/) Programming - [Feed](http://feeds.feedburner.com/ProgrammingThrowdown)
 - ✅ [Scripting News](http://scripting.com/) Programming - [Feed](http://scripting.com/rss.xml)
 - ✅ [Software Defined Talk](https://feeds.fireside.fm/) Programming - [Feed](https://feeds.fireside.fm/sdt/rss)
-- ✅ [Software Engineering Radio - The Podcast for Professional Software Developers](http://feeds.feedburner.com/) Programming - [Feed](http://feeds.feedburner.com/se-radio)
+- ❌ [Software Engineering Radio - The Podcast for Professional Software Developers](http://feeds.feedburner.com/) Programming - [Feed](http://feeds.feedburner.com/se-radio)
 - ✅ [Spotify Engineering](https://labs.spotify.com/) Programming - [Feed](https://labs.spotify.com/feed/)
 - ✅ [Stack Abuse](https://stackabuse.com/) Programming - [Feed](https://stackabuse.com/rss/)
 - ✅ [Stack Overflow Blog](https://stackoverflow.blog/) Programming - [Feed](https://stackoverflow.blog/feed/)
 - ✅ [The Airbnb Tech Blog - Medium](https://medium.com/) Programming - [Feed](https://medium.com/feed/airbnb-engineering)
 - ✅ [The GitHub Blog](https://github.blog/) Programming - [Feed](https://github.blog/feed/)
-- ✅ [programming](https://www.reddit.com/) Programming - [Feed](https://www.reddit.com/r/programming/.rss)
 - ✅ [60-Second Science](http://rss.sciam.com/) Science - [Feed](http://rss.sciam.com/sciam/60secsciencepodcast)
 - ✅ [BBC News - Science & Environment](http://feeds.bbci.co.uk/) Science - [Feed](http://feeds.bbci.co.uk/news/science_and_environment/rss.xml)
 - ✅ [FlowingData](https://flowingdata.com/) Science - [Feed](https://flowingdata.com/feed)
 - ✅ [Latest Science News -- ScienceDaily](https://www.sciencedaily.com/) Science - [Feed](https://www.sciencedaily.com/rss/all.xml)
 - ✅ [Phys.org - latest science and technology news stories](https://phys.org/) Science - [Feed](https://phys.org/rss-feed/)
-- ✅ [Reddit Science](https://reddit.com/) Science - [Feed](https://reddit.com/r/science/.rss)
-- ✅ [Sawbones: A Marital Tour of Misguided Medicine](https://feeds.simplecast.com/) Science - [Feed](https://feeds.simplecast.com/y1LF_sn2)
+- ❌ [Sawbones: A Marital Tour of Misguided Medicine](https://feeds.simplecast.com/) Science - [Feed](https://feeds.simplecast.com/y1LF_sn2)
 - ✅ [Science Latest](https://www.wired.com/) Science - [Feed](https://www.wired.com/feed/category/science/latest/rss)
 - ✅ [Scientific American Content: Global](http://rss.sciam.com/) Science - [Feed](http://rss.sciam.com/ScientificAmerican-Global)
 - ✅ [TED Talks Daily (SD video)](https://pa.tedcdn.com/) Science - [Feed](https://pa.tedcdn.com/feeds/talks.rss)
-- ✅ [The Infinite Monkey Cage](https://podcasts.files.bbci.co.uk/) Science - [Feed](https://podcasts.files.bbci.co.uk/b00snr0w.rss)
-- ✅ [/r/space: news, articles and discussion](https://www.reddit.com/) Space - [Feed](https://www.reddit.com/r/space/.rss?format=xml)
+- ❌ [The Infinite Monkey Cage](https://podcasts.files.bbci.co.uk/) Science - [Feed](https://podcasts.files.bbci.co.uk/b00snr0w.rss)
 - ✅ [NASA Breaking News](https://www.nasa.gov/) Space - [Feed](https://www.nasa.gov/rss/dyn/breaking_news.rss)
 - ✅ [New Scientist - Space](https://www.newscientist.com/) Space - [Feed](https://www.newscientist.com/subject/space/feed/)
 - ✅ [Space | The Guardian](https://www.theguardian.com/) Space - [Feed](https://www.theguardian.com/science/space/rss)
 - ✅ [Space.com](https://www.space.com/) Space - [Feed](https://www.space.com/feeds/all)
 - ✅ [BBC Sport - Sport](http://feeds.bbci.co.uk/) Sports - [Feed](http://feeds.bbci.co.uk/sport/rss.xml)
-- ✅ [Reddit Sports](https://www.reddit.com/) Sports - [Feed](https://www.reddit.com/r/sports.rss)
 - ✅ [Sports News - Latest Sports and Football News | Sky News](http://feeds.skynews.com/) Sports - [Feed](http://feeds.skynews.com/feeds/rss/sports.xml)
 - ✅ [Sportskeeda](https://www.sportskeeda.com/) Sports - [Feed](https://www.sportskeeda.com/feed)
 - ✅ [Yahoo! Sports - News, Scores, Standings, Rumors, Fantasy Games](https://sports.yahoo.com/) Sports - [Feed](https://sports.yahoo.com/rss/)
 - ✅ [www.espn.com - TOP](https://www.espn.com/) Sports - [Feed](https://www.espn.com/espn/rss/news)
 - ✅ [Entrepreneur](http://feeds.feedburner.com/) Startups - [Feed](http://feeds.feedburner.com/entrepreneur/latest)
-- ✅ [GaryVee](https://www.youtube.com/) Startups - [Feed](https://www.youtube.com/feeds/videos.xml?user=GaryVaynerchuk)
 - ✅ [Hacker News: Front Page](https://hnrss.org/) Startups - [Feed](https://hnrss.org/frontpage)
 - ✅ [Inc.com](https://www.inc.com/) Startups - [Feed](https://www.inc.com/rss/)
-- ✅ [Marie Forleo](https://www.youtube.com/) Startups - [Feed](https://www.youtube.com/feeds/videos.xml?user=marieforleo)
 - ✅ [Product Hunt — The best new products, every day](https://www.producthunt.com/) Startups - [Feed](https://www.producthunt.com/feed)
-- ✅ [Accidental Tech Podcast](https://atp.fm/) Tech - [Feed](https://atp.fm/rss)
+- ❌ [Accidental Tech Podcast](https://atp.fm/) Tech - [Feed](https://atp.fm/rss)
 - ✅ [Ars Technica](http://feeds.arstechnica.com/) Tech - [Feed](http://feeds.arstechnica.com/arstechnica/index)
-- ✅ [CNET](https://www.youtube.com/) Tech - [Feed](https://www.youtube.com/feeds/videos.xml?user=CNETTV)
 - ✅ [CNET News](https://www.cnet.com/) Tech - [Feed](https://www.cnet.com/rss/news/)
 - ✅ [Gizmodo](https://gizmodo.com/) Tech - [Feed](https://gizmodo.com/rss)
 - ✅ [Hacker News](https://news.ycombinator.com/) Tech - [Feed](https://news.ycombinator.com/rss)
 - ✅ [Lifehacker](https://lifehacker.com/) Tech - [Feed](https://lifehacker.com/rss)
-- ✅ [Linus Tech Tips](https://www.youtube.com/) Tech - [Feed](https://www.youtube.com/feeds/videos.xml?user=LinusTechTips)
 - ✅ [Mashable](http://feeds.mashable.com/) Tech - [Feed](http://feeds.mashable.com/Mashable)
 - ✅ [ReadWrite](https://readwrite.com/) Tech - [Feed](https://readwrite.com/feed/)
 - ✅ [The Keyword](https://www.blog.google/) Tech - [Feed](https://www.blog.google/rss/)
 - ✅ [The Next Web](https://thenextweb.com/) Tech - [Feed](https://thenextweb.com/feed/)
-- ✅ [The Verge](https://www.youtube.com/) Tech - [Feed](https://www.youtube.com/feeds/videos.xml?user=TheVerge)
 - ✅ [The Verge -  All Posts](https://www.theverge.com/) Tech - [Feed](https://www.theverge.com/rss/index.xml)
 - ✅ [This Week in Tech (Audio)](https://feeds.twit.tv/) Tech - [Feed](https://feeds.twit.tv/twit.xml)
 - ✅ [https://www.engadget.com/](https://www.engadget.com/) Tech - [Feed](https://www.engadget.com/rss.xml)
 - ✅ [TV Fanatic](https://www.tvfanatic.com/) Television - [Feed](https://www.tvfanatic.com/rss.xml)
 - ✅ [TVLine](https://tvline.com/) Television - [Feed](https://tvline.com/feed/)
-- ✅ [Television News and Discussion](https://reddit.com/) Television - [Feed](https://reddit.com/r/television/.rss)
 - ✅ [BBC Sport - Tennis](http://feeds.bbci.co.uk/) Tennis - [Feed](http://feeds.bbci.co.uk/sport/tennis/rss.xml)
 - ✅ [Tennis - ATP World Tour](https://www.atptour.com/) Tennis - [Feed](https://www.atptour.com/en/media/rss-feed/xml-feed)
-- ✅ [Tennis News & Discussion](https://www.reddit.com/) Tennis - [Feed](https://www.reddit.com/r/tennis/.rss)
 - ✅ [www.espn.com - TENNIS](https://www.espn.com/) Tennis - [Feed](https://www.espn.com/espn/rss/tennis/news)
 - ✅ [Atlas Obscura - Latest Articles and Places](https://www.atlasobscura.com/) Travel - [Feed](https://www.atlasobscura.com/feeds/latest)
 - ✅ [UX Collective - Medium](https://uxdesign.cc/) UI - UX - [Feed](https://uxdesign.cc/feed)
-- ✅ [User Experience](https://www.reddit.com/) UI - UX - [Feed](https://www.reddit.com/r/userexperience/.rss)
 - ✅ [CSS-Tricks](https://css-tricks.com/) Web Development - [Feed](https://css-tricks.com/feed/)
 
 ## Statistics
 
 ```
-Countries with valid feeds: 151
-Total publications parsed: 1176
-Valid feeds (✅): 1155
-Invalid/Outdated feeds (❌): 21
-Success rate: 98.2%
+Countries with valid feeds: 146
+Total publications parsed: 1138
+Valid feeds (✅): 1037
+Invalid/Outdated feeds (❌): 101
+Success rate: 91.1%
 ```
