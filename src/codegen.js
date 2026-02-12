@@ -61,16 +61,18 @@ function generateCountrySection(countryCode, publications) {
   let section = `## ${countryName}\n\n`;
 
   publications.forEach(pub => {
-    let statusIcon;
-    if (pub.isValid === 'bot_protected') {
-      statusIcon = '⚠️';
-    } else if (pub.isValid === true) {
-      statusIcon = '✅';
-    } else {
-      statusIcon = '❌';
-    }
-    const categoryText = pub.category ? ` ${pub.category}` : '';
-    section += `- ${statusIcon} [${pub.publication_name}](${pub.publication_website_uri})${categoryText} - [Feed](${pub.publication_rss_feed_uri})\n`;
+    pub.publication_rss_feed_uris.forEach(feedObj => {
+      let statusIcon;
+      if (feedObj.isValid === 'bot_protected') {
+        statusIcon = '⚠️';
+      } else if (feedObj.isValid === true) {
+        statusIcon = '✅';
+      } else {
+        statusIcon = '❌';
+      }
+      const categoryText = feedObj.category ? ` ${feedObj.category}` : '';
+      section += `- ${statusIcon} [${pub.publication_name}](${pub.publication_website_uri})${categoryText} - [Feed](${feedObj.uri})\n`;
+    });
   });
 
   section += '\n';
@@ -104,8 +106,11 @@ async function generateMarkdown() {
   let totalFeeds = 0;
   let validFeeds = 0;
 
+  // Helper to count total feed URIs for a country
+  const countFeeds = (pubs) => pubs.reduce((sum, pub) => sum + pub.publication_rss_feed_uris.length, 0);
+
   // Sort countries by feed count (descending) for better distribution
-  const allCountries = Object.keys(data).sort((a, b) => data[b].length - data[a].length);
+  const allCountries = Object.keys(data).sort((a, b) => countFeeds(data[b]) - countFeeds(data[a]));
 
   // Initialize worker chunks with feed counts
   const countryChunks = Array.from({ length: PARALLEL_WORKERS }, () => []);
@@ -113,7 +118,7 @@ async function generateMarkdown() {
 
   // Distribute countries using greedy algorithm - assign each country to the worker with fewest feeds
   for (const country of allCountries) {
-    const feedCount = data[country].length;
+    const feedCount = countFeeds(data[country]);
     // Find worker with minimum feeds
     let minWorkerIndex = 0;
     for (let i = 1; i < PARALLEL_WORKERS; i++) {
@@ -158,27 +163,31 @@ async function generateMarkdown() {
         const validatedPublications = [];
 
         for (const pub of publications) {
-          // Skip validation if bot_protection is true
-          let isValid = false;
-          if (pub.bot_protection === true) {
-            isValid = 'bot_protected'; // Special status for bot-protected feeds
-          } else {
-            isValid = await validateFeed(
-              pub.publication_rss_feed_uri,
-              pub.publication_name,
-              !enableLogging // silent mode when logging is disabled
-            );
+          const validatedUris = [];
+
+          for (const feedObj of pub.publication_rss_feed_uris) {
+            let isValid = false;
+            if (feedObj.bot_protection === true) {
+              isValid = 'bot_protected';
+            } else {
+              isValid = await validateFeed(
+                feedObj.uri,
+                pub.publication_name + (feedObj.category ? ` (${feedObj.category})` : ''),
+                !enableLogging
+              );
+            }
+
+            validatedUris.push({ ...feedObj, isValid });
+
+            if (progressBars[workerIndex]) {
+              progressBars[workerIndex].increment();
+            }
           }
 
           validatedPublications.push({
             ...pub,
-            isValid
+            publication_rss_feed_uris: validatedUris
           });
-
-          // Update progress bar for this worker
-          if (progressBars[workerIndex]) {
-            progressBars[workerIndex].increment();
-          }
         }
 
         results[country] = validatedPublications;
@@ -200,7 +209,9 @@ async function generateMarkdown() {
   allResults.forEach(workerResults => {
     Object.entries(workerResults).forEach(([country, publications]) => {
       validatedData[country] = publications;
-      validFeeds += publications.filter(p => p.isValid === true).length;
+      validFeeds += publications.reduce(
+        (sum, pub) => sum + pub.publication_rss_feed_uris.filter(f => f.isValid === true).length, 0
+      );
     });
   });
 
@@ -237,28 +248,29 @@ async function generateMarkdown() {
   const activeFeedsJson = {};
 
   countryCodes.forEach(countryCode => {
-    // For active feeds JSON - include valid feeds and bot-protected feeds
-    const activeFeeds = validatedData[countryCode]
-      .filter(pub => pub.isValid === true || pub.isValid === 'bot_protected')
-      .map(pub => {
-        const feed = {
+    const activePublications = [];
+
+    validatedData[countryCode].forEach(pub => {
+      const activeUris = pub.publication_rss_feed_uris
+        .filter(feedObj => feedObj.isValid === true || feedObj.isValid === 'bot_protected')
+        .map(feedObj => {
+          const uriEntry = { uri: feedObj.uri };
+          if (feedObj.category) uriEntry.category = feedObj.category;
+          if (feedObj.bot_protection === true) uriEntry.bot_protection = true;
+          return uriEntry;
+        });
+
+      if (activeUris.length > 0) {
+        activePublications.push({
           publication_name: pub.publication_name,
           publication_website_uri: pub.publication_website_uri,
-          publication_rss_feed_uri: pub.publication_rss_feed_uri
-        };
-        // Include category if present
-        if (pub.category) {
-          feed.category = pub.category;
-        }
-        // Include bot_protection flag if present
-        if (pub.bot_protection === true) {
-          feed.bot_protection = true;
-        }
-        return feed;
-      });
+          publication_rss_feed_uris: activeUris
+        });
+      }
+    });
 
-    if (activeFeeds.length > 0) {
-      activeFeedsJson[countryCode] = activeFeeds;
+    if (activePublications.length > 0) {
+      activeFeedsJson[countryCode] = activePublications;
     }
   });
 

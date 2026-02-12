@@ -5,7 +5,8 @@
   "type": "module",
   "main": "src/codegen.js",
   "scripts": {
-    "codegen": "node src/codegen.js"
+    "codegen": "node src/codegen.js",
+    "migrate": "node src/migrate-to-array-uris.js"
   },
   "keywords": [
     "news",
