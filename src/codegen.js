@@ -8,6 +8,7 @@ import pLimit from 'p-limit';
 import countries from 'i18n-iso-countries';
 import { createRequire } from 'module';
 import { validateFeed, generateStatisticsBlock, PARALLEL_WORKERS } from './utils.js';
+import { initLanguageDetector } from './language-detection.js';
 
 const require = createRequire(import.meta.url);
 const en = require('i18n-iso-countries/langs/en.json');
@@ -85,6 +86,8 @@ function generateCountrySection(countryCode, publications) {
 async function generateMarkdown() {
   // Check for -log parameter
   const enableLogging = process.argv.includes('-log') || process.argv.includes('--log');
+
+  await initLanguageDetector();
 
   console.log('🚀 Starting feed validation and markdown generation...\n');
   console.log(`⚙️  Using ${PARALLEL_WORKERS} parallel workers for faster processing\n`);
@@ -167,17 +170,19 @@ async function generateMarkdown() {
 
           for (const feedObj of pub.publication_rss_feed_uris) {
             let isValid = false;
+            let language_code = null;
+            let language_name = null;
             if (feedObj.bot_protection === true) {
               isValid = 'bot_protected';
             } else {
-              isValid = await validateFeed(
+              ({ isValid, language_code, language_name } = await validateFeed(
                 feedObj.uri,
                 pub.publication_name + (feedObj.category ? ` (${feedObj.category})` : ''),
                 !enableLogging
-              );
+              ));
             }
 
-            validatedUris.push({ ...feedObj, isValid });
+            validatedUris.push({ ...feedObj, isValid, language_code, language_name });
 
             if (progressBars[workerIndex]) {
               progressBars[workerIndex].increment();
@@ -257,6 +262,8 @@ async function generateMarkdown() {
           const uriEntry = { uri: feedObj.uri };
           if (feedObj.category) uriEntry.category = feedObj.category;
           if (feedObj.bot_protection === true) uriEntry.bot_protection = true;
+          if (feedObj.language_code) uriEntry.language_code = feedObj.language_code;
+          if (feedObj.language_name) uriEntry.language_name = feedObj.language_name;
           return uriEntry;
         });
 

@@ -5,8 +5,7 @@
   "type": "module",
   "main": "src/codegen.js",
   "scripts": {
-    "codegen": "node src/codegen.js",
-    "migrate": "node src/migrate-to-array-uris.js"
+    "codegen": "node src/codegen.js"
   },
   "keywords": [
     "news",
@@ -18,6 +17,7 @@
   "author": "",
   "license": "MIT",
   "dependencies": {
+    "cld3-asm": "^4.0.0",
     "cli-progress": "^3.12.0",
     "i18n-iso-countries": "^7.14.0",
     "p-limit": "^7.2.0",
