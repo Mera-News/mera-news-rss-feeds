@@ -51,6 +51,17 @@
   ],
   "AND": [
     {
+      "publication_name": "ANA",
+      "publication_website_uri": "http://www.ana.ad/",
+      "publication_rss_feed_uris": [
+        {
+          "uri": "http://www.fotomac.com.tr/rss/anasayfa.xml",
+          "language_code": "tr",
+          "language_name": "Turkish"
+        }
+      ]
+    },
+    {
       "publication_name": "Diari Més",
       "publication_website_uri": "http://www.mes.ad/",
       "publication_rss_feed_uris": [
@@ -531,7 +542,9 @@
       "publication_website_uri": "https://www.jagonews24.com/",
       "publication_rss_feed_uris": [
         {
-          "uri": "https://www.jagonews24.com/rss/rss.xml"
+          "uri": "https://www.jagonews24.com/rss/rss.xml",
+          "language_code": "sv",
+          "language_name": "Swedish"
         }
       ]
     },
@@ -801,17 +814,6 @@
           "uri": "http://www.uzivoradio.com/index.php?strana=rss&opcija=najslusanije-bih",
           "language_code": "hr",
           "language_name": "Croatian"
-        }
-      ]
-    },
-    {
-      "publication_name": "Istraga",
-      "publication_website_uri": "https://istraga.ba/",
-      "publication_rss_feed_uris": [
-        {
-          "uri": "https://istraga.ba/rss",
-          "language_code": "bs",
-          "language_name": "Bosnian"
         }
       ]
     },
@@ -1820,7 +1822,9 @@
       "publication_website_uri": "http://borsen.dk/",
       "publication_rss_feed_uris": [
         {
-          "uri": "http://borsen.dk/rss/"
+          "uri": "http://borsen.dk/rss/",
+          "language_code": "da",
+          "language_name": "Danish"
         }
       ]
     }
@@ -1873,6 +1877,17 @@
           "language_name": "Spanish"
         }
       ]
+    },
+    {
+      "publication_name": "GenteTuya.com",
+      "publication_website_uri": "http://gentetuya.com/",
+      "publication_rss_feed_uris": [
+        {
+          "uri": "http://www.gentetuya.com/feed/",
+          "language_code": "es",
+          "language_name": "Spanish"
+        }
+      ]
     }
   ],
   "ECU": [
@@ -1893,17 +1908,6 @@
       "publication_rss_feed_uris": [
         {
           "uri": "https://www.eluniverso.com/arc/outboundfeeds/rss-subsection/noticias/ecuador?outputType=xml",
-          "language_code": "es",
-          "language_name": "Spanish"
-        }
-      ]
-    },
-    {
-      "publication_name": "GK City",
-      "publication_website_uri": "https://gk.city/",
-      "publication_rss_feed_uris": [
-        {
-          "uri": "https://gk.city/feed/",
           "language_code": "es",
           "language_name": "Spanish"
         }
@@ -1976,17 +1980,6 @@
       ]
     },
     {
-      "publication_name": "Noti Amazonía",
-      "publication_website_uri": "https://www.notiamazonia.com/",
-      "publication_rss_feed_uris": [
-        {
-          "uri": "https://www.notiamazonia.com/feed/",
-          "language_code": "es",
-          "language_name": "Spanish"
-        }
-      ]
-    },
-    {
       "publication_name": "El Amazónico",
       "publication_website_uri": "https://www.elamazonico.com/portal/",
       "publication_rss_feed_uris": [
@@ -2003,17 +1996,6 @@
       "publication_rss_feed_uris": [
         {
           "uri": "https://quenoticias.com/feed/",
-          "language_code": "es",
-          "language_name": "Spanish"
-        }
-      ]
-    },
-    {
-      "publication_name": "La Nación",
-      "publication_website_uri": "https://lanacion.com.ec/",
-      "publication_rss_feed_uris": [
-        {
-          "uri": "https://lanacion.com.ec/feed/",
           "language_code": "es",
           "language_name": "Spanish"
         }
@@ -2056,17 +2038,6 @@
     }
   ],
   "ERI": [
-    {
-      "publication_name": "Asmarino Independent",
-      "publication_website_uri": "http://www.asmarino.com/",
-      "publication_rss_feed_uris": [
-        {
-          "uri": "http://asmarino.com/?format=feed&type=rss",
-          "language_code": "en",
-          "language_name": "English"
-        }
-      ]
-    },
     {
       "publication_name": "Eritrea Profile",
       "publication_website_uri": "http://www.shabait.com/eritrea-profile",
@@ -3788,6 +3759,17 @@
       ]
     },
     {
+      "publication_name": "Dainik Jagran",
+      "publication_website_uri": "http://jagran.com/",
+      "publication_rss_feed_uris": [
+        {
+          "uri": "http://rss.jagran.com/local/uttar-pradesh/lucknow-city.xml",
+          "language_code": "hi",
+          "language_name": "Hindi"
+        }
+      ]
+    },
+    {
       "publication_name": "News Laundry",
       "publication_website_uri": "https://www.newslaundry.com/",
       "publication_rss_feed_uris": [
@@ -4325,9 +4307,7 @@
       "publication_website_uri": "http://okezone.com/",
       "publication_rss_feed_uris": [
         {
-          "uri": "http://sindikasi.okezone.com/index.php/rss/0/RSS2.0",
-          "language_code": "id",
-          "language_name": "Indonesian"
+          "uri": "http://sindikasi.okezone.com/index.php/rss/0/RSS2.0"
         }
       ]
     },
@@ -4339,19 +4319,6 @@
           "uri": "https://www.republika.co.id/rss/",
           "language_code": "id",
           "language_name": "Indonesian"
-        }
-      ]
-    }
-  ],
-  "IRQ": [
-    {
-      "publication_name": "Ahewar.org",
-      "publication_website_uri": "http://ahewar.org/",
-      "publication_rss_feed_uris": [
-        {
-          "uri": "http://www.ahewar.org/rss/default.asp?lt=7",
-          "language_code": "ar",
-          "language_name": "Arabic"
         }
       ]
     }
@@ -4740,17 +4707,6 @@
       ]
     },
     {
-      "publication_name": "The Local",
-      "publication_website_uri": "https://feeds.thelocal.com/",
-      "publication_rss_feed_uris": [
-        {
-          "uri": "https://feeds.thelocal.com/rss/it",
-          "language_code": "en",
-          "language_name": "English"
-        }
-      ]
-    },
-    {
       "publication_name": "Libero Quotidiano",
       "publication_website_uri": "https://www.liberoquotidiano.it/",
       "publication_rss_feed_uris": [
@@ -4865,17 +4821,6 @@
       ]
     },
     {
-      "publication_name": "Daily Sports Online",
-      "publication_website_uri": "http://daily.co.jp/",
-      "publication_rss_feed_uris": [
-        {
-          "uri": "http://www.dailymail.co.uk/sport/index.rss",
-          "language_code": "en",
-          "language_name": "English"
-        }
-      ]
-    },
-    {
       "publication_name": "nikkansports.com",
       "publication_website_uri": "http://www.nikkansports.com/",
       "publication_rss_feed_uris": [
@@ -4975,6 +4920,17 @@
           "uri": "https://www.rtklive.com/sq/feed/",
           "language_code": "sq",
           "language_name": "Albanian"
+        }
+      ]
+    },
+    {
+      "publication_name": "ZERI.info",
+      "publication_website_uri": "http://zeri.info/",
+      "publication_rss_feed_uris": [
+        {
+          "uri": "https://zeri.info/rss/zerat",
+          "language_code": "al",
+          "language_name": "al"
         }
       ]
     },
@@ -5280,17 +5236,6 @@
   ],
   "MEX": [
     {
-      "publication_name": "Reforma.com",
-      "publication_website_uri": "http://reforma.com/",
-      "publication_rss_feed_uris": [
-        {
-          "uri": "http://www.reforma.com/rss/portada.xml",
-          "language_code": "es",
-          "language_name": "Spanish"
-        }
-      ]
-    },
-    {
       "publication_name": "SDPnoticias.com",
       "publication_website_uri": "http://sdpnoticias.com/",
       "publication_rss_feed_uris": [
@@ -5309,17 +5254,6 @@
           "uri": "https://www.theguardian.com/world/mexico/rss",
           "language_code": "en",
           "language_name": "English"
-        }
-      ]
-    },
-    {
-      "publication_name": "Reforma",
-      "publication_website_uri": "https://www.reforma.com/",
-      "publication_rss_feed_uris": [
-        {
-          "uri": "https://www.reforma.com/rss/portada.xml",
-          "language_code": "es",
-          "language_name": "Spanish"
         }
       ]
     },
@@ -5403,17 +5337,6 @@
   ],
   "MDA": [
     {
-      "publication_name": "Point",
-      "publication_website_uri": "http://point.md/",
-      "publication_rss_feed_uris": [
-        {
-          "uri": "http://point.md/ru/rss/novosti/",
-          "language_code": "ru",
-          "language_name": "Russian"
-        }
-      ]
-    },
-    {
       "publication_name": "Timpul.md",
       "publication_website_uri": "http://timpul.md/",
       "publication_rss_feed_uris": [
@@ -5432,6 +5355,17 @@
           "uri": "http://www.noi.md/ru/feed",
           "language_code": "ru",
           "language_name": "Russian"
+        }
+      ]
+    },
+    {
+      "publication_name": "Moldova1",
+      "publication_website_uri": "https://moldova1.md/",
+      "publication_rss_feed_uris": [
+        {
+          "uri": "https://moldova1.md/rss",
+          "language_code": "ro",
+          "language_name": "Romanian"
         }
       ]
     },
@@ -5605,17 +5539,6 @@
       ]
     },
     {
-      "publication_name": "Kodex.me",
-      "publication_website_uri": "https://kodex.me/feed/",
-      "publication_rss_feed_uris": [
-        {
-          "uri": "https://kodex.me/feed/",
-          "language_code": "bs",
-          "language_name": "Bosnian"
-        }
-      ]
-    },
-    {
       "publication_name": "Onogošt",
       "publication_website_uri": "https://onogost.me/",
       "publication_rss_feed_uris": [
@@ -5632,17 +5555,6 @@
       "publication_rss_feed_uris": [
         {
           "uri": "https://www.novineniksica.me/feed/",
-          "language_code": "sr",
-          "language_name": "Serbian"
-        }
-      ]
-    },
-    {
-      "publication_name": "SrpskeNovine",
-      "publication_website_uri": "https://s-medijicg.com/",
-      "publication_rss_feed_uris": [
-        {
-          "uri": "https://s-medijicg.com/?format=feed&type=atom",
           "language_code": "sr",
           "language_name": "Serbian"
         }
@@ -5687,17 +5599,6 @@
       "publication_rss_feed_uris": [
         {
           "uri": "https://mne.ul-info.com/feed/",
-          "language_code": "en",
-          "language_name": "English"
-        }
-      ]
-    },
-    {
-      "publication_name": "RadioBar",
-      "publication_website_uri": "https://barinfo.me/",
-      "publication_rss_feed_uris": [
-        {
-          "uri": "https://barinfo.me/feed/",
           "language_code": "en",
           "language_name": "English"
         }
@@ -6347,6 +6248,17 @@
       ]
     },
     {
+      "publication_name": "INQUIRER.net",
+      "publication_website_uri": "https://www.inquirer.net/",
+      "publication_rss_feed_uris": [
+        {
+          "uri": "https://www.inquirer.net/fullfeed",
+          "language_code": "en",
+          "language_name": "English"
+        }
+      ]
+    },
+    {
       "publication_name": "Interaksyon",
       "publication_website_uri": "https://www.interaksyon.com/",
       "publication_rss_feed_uris": [
@@ -6396,17 +6308,6 @@
       "publication_rss_feed_uris": [
         {
           "uri": "https://www.unbox.ph/feed/",
-          "language_code": "en",
-          "language_name": "English"
-        }
-      ]
-    },
-    {
-      "publication_name": "Abante Tonite",
-      "publication_website_uri": "https://tonite.abante.com.ph/",
-      "publication_rss_feed_uris": [
-        {
-          "uri": "https://tonite.abante.com.ph/feed/",
           "language_code": "en",
           "language_name": "English"
         }
@@ -6746,17 +6647,6 @@
       ]
     },
     {
-      "publication_name": "A Voz de Trás-os-Montes",
-      "publication_website_uri": "https://www.avozdetrasosmontes.pt/",
-      "publication_rss_feed_uris": [
-        {
-          "uri": "https://www.avozdetrasosmontes.pt/feed",
-          "language_code": "pt",
-          "language_name": "Portuguese"
-        }
-      ]
-    },
-    {
       "publication_name": "Sapo Notícias (Destaques)",
       "publication_website_uri": "https://sapo.pt/",
       "publication_rss_feed_uris": [
@@ -6884,11 +6774,44 @@
   ],
   "RUS": [
     {
+      "publication_name": "RIA Novosti",
+      "publication_website_uri": "http://ria.ru/",
+      "publication_rss_feed_uris": [
+        {
+          "uri": "https://ria.ru/export/rss2/index.xml",
+          "language_code": "ru",
+          "language_name": "Russian"
+        }
+      ]
+    },
+    {
+      "publication_name": "Lenta.ru",
+      "publication_website_uri": "http://lenta.ru/",
+      "publication_rss_feed_uris": [
+        {
+          "uri": "http://lenta.ru/rss/",
+          "language_code": "ru",
+          "language_name": "Russian"
+        }
+      ]
+    },
+    {
       "publication_name": "Utro.ru",
       "publication_website_uri": "http://utro.ru/",
       "publication_rss_feed_uris": [
         {
           "uri": "http://www.utro.ru/export/rss2.xml",
+          "language_code": "ru",
+          "language_name": "Russian"
+        }
+      ]
+    },
+    {
+      "publication_name": "RG.ru Rossiyskaya Gazeta",
+      "publication_website_uri": "http://rg.ru/",
+      "publication_rss_feed_uris": [
+        {
+          "uri": "http://www.rg.ru/xml/index.xml",
           "language_code": "ru",
           "language_name": "Russian"
         }
@@ -6928,11 +6851,33 @@
       ]
     },
     {
+      "publication_name": "Lenta.ru : Новости",
+      "publication_website_uri": "https://lenta.ru/",
+      "publication_rss_feed_uris": [
+        {
+          "uri": "https://lenta.ru/rss",
+          "language_code": "ru",
+          "language_name": "Russian"
+        }
+      ]
+    },
+    {
       "publication_name": "Все материалы - Московский Комсомолец",
       "publication_website_uri": "https://www.mk.ru/",
       "publication_rss_feed_uris": [
         {
           "uri": "https://www.mk.ru/rss/index.xml",
+          "language_code": "ru",
+          "language_name": "Russian"
+        }
+      ]
+    },
+    {
+      "publication_name": "Российская Газета",
+      "publication_website_uri": "https://rg.ru/",
+      "publication_rss_feed_uris": [
+        {
+          "uri": "https://rg.ru/xml/index.xml",
           "language_code": "ru",
           "language_name": "Russian"
         }
@@ -6950,6 +6895,17 @@
       ]
     },
     {
+      "publication_name": "RT - Daily news",
+      "publication_website_uri": "https://www.rt.com/",
+      "publication_rss_feed_uris": [
+        {
+          "uri": "https://www.rt.com/rss/",
+          "language_code": "en",
+          "language_name": "English"
+        }
+      ]
+    },
+    {
       "publication_name": "Meduza.io",
       "publication_website_uri": "https://meduza.io/",
       "publication_rss_feed_uris": [
@@ -6957,17 +6913,6 @@
           "uri": "https://meduza.io/rss/all",
           "language_code": "ru",
           "language_name": "Russian"
-        }
-      ]
-    },
-    {
-      "publication_name": "TASS",
-      "publication_website_uri": "http://tass.com/",
-      "publication_rss_feed_uris": [
-        {
-          "uri": "http://tass.com/rss/v2.xml",
-          "language_code": "en",
-          "language_name": "English"
         }
       ]
     },
@@ -7001,17 +6946,6 @@
       "publication_rss_feed_uris": [
         {
           "uri": "http://giornalesm.com/feed/",
-          "language_code": "it",
-          "language_name": "Italian"
-        }
-      ]
-    },
-    {
-      "publication_name": "San Marino RTV (SMRTV)",
-      "publication_website_uri": "https://www.sanmarinortv.sm",
-      "publication_rss_feed_uris": [
-        {
-          "uri": "https://www.sanmarinortv.sm/rss.xml",
           "language_code": "it",
           "language_name": "Italian"
         }
@@ -7143,6 +7077,28 @@
       ]
     },
     {
+      "publication_name": "Danas",
+      "publication_website_uri": "http://danas.rs/",
+      "publication_rss_feed_uris": [
+        {
+          "uri": "http://www.danas.rs/rss/rss.asp?column_id=0",
+          "language_code": "sr",
+          "language_name": "Serbian"
+        }
+      ]
+    },
+    {
+      "publication_name": "Vesti.rs",
+      "publication_website_uri": "http://vesti.rs/",
+      "publication_rss_feed_uris": [
+        {
+          "uri": "http://www.pirotskevesti.rs/sport/13135/feed/",
+          "language_code": "hr",
+          "language_name": "Croatian"
+        }
+      ]
+    },
+    {
       "publication_name": "Televizija N1",
       "publication_website_uri": "https://n1info.rs/",
       "publication_rss_feed_uris": [
@@ -7198,6 +7154,17 @@
       "publication_rss_feed_uris": [
         {
           "uri": "http://servis.pravda.sk/rss.asp",
+          "language_code": "sk",
+          "language_name": "Slovak"
+        }
+      ]
+    },
+    {
+      "publication_name": "Pluska.sk",
+      "publication_website_uri": "http://pluska.sk/",
+      "publication_rss_feed_uris": [
+        {
+          "uri": "http://www.pluska.sk/rss.xml",
           "language_code": "sk",
           "language_name": "Slovak"
         }
@@ -7354,17 +7321,6 @@
     }
   ],
   "ZAF": [
-    {
-      "publication_name": "Channel24",
-      "publication_website_uri": "http://www.channel24.co.za/",
-      "publication_rss_feed_uris": [
-        {
-          "uri": "http://www.channel24.pk/feed/",
-          "language_code": "en",
-          "language_name": "English"
-        }
-      ]
-    },
     {
       "publication_name": "Business Day",
       "publication_website_uri": "http://www.bdlive.co.za/",
@@ -7930,17 +7886,6 @@
       ]
     },
     {
-      "publication_name": "Daily Makedonia",
-      "publication_website_uri": "http://daily.mk/",
-      "publication_rss_feed_uris": [
-        {
-          "uri": "http://news.makedonias.gr/89309/erevna-daily-mail-to-chirotero-protathlima-ston-kosmo-ine-i-superleague/feed/",
-          "language_code": "el",
-          "language_name": "Greek"
-        }
-      ]
-    },
-    {
       "publication_name": "Makedonska Radio Televizija (MRT)",
       "publication_website_uri": "https://www.mrt.com.mk/",
       "publication_rss_feed_uris": [
@@ -8051,17 +7996,6 @@
       "publication_rss_feed_uris": [
         {
           "uri": "http://www.sporx.com/_xml/rss.php",
-          "language_code": "tr",
-          "language_name": "Turkish"
-        }
-      ]
-    },
-    {
-      "publication_name": "STAR",
-      "publication_website_uri": "http://stargazete.com/",
-      "publication_rss_feed_uris": [
-        {
-          "uri": "http://www.stargazete.com/rss/rss.asp",
           "language_code": "tr",
           "language_name": "Turkish"
         }
@@ -8505,17 +8439,6 @@
       ]
     },
     {
-      "publication_name": "UsMagazine.com",
-      "publication_website_uri": "http://usmagazine.com/",
-      "publication_rss_feed_uris": [
-        {
-          "uri": "http://www.usmagazine.com/celebrity_news/rss",
-          "language_code": "en",
-          "language_name": "English"
-        }
-      ]
-    },
-    {
       "publication_name": "CBSSports.com",
       "publication_website_uri": "http://cbssports.com/",
       "publication_rss_feed_uris": [
@@ -8704,17 +8627,6 @@
       ]
     },
     {
-      "publication_name": "Montevideo Portal",
-      "publication_website_uri": "https://www.montevideo.com.uy/",
-      "publication_rss_feed_uris": [
-        {
-          "uri": "https://www.montevideo.com.uy/anxml.aspx?58",
-          "language_code": "es",
-          "language_name": "Spanish"
-        }
-      ]
-    },
-    {
       "publication_name": "La Diaria",
       "publication_website_uri": "https://ladiaria.com.uy/",
       "publication_rss_feed_uris": [
@@ -8823,6 +8735,17 @@
     }
   ],
   "YEM": [
+    {
+      "publication_name": "Mareb Press",
+      "publication_website_uri": "http://marebpress.net/",
+      "publication_rss_feed_uris": [
+        {
+          "uri": "https://marebpress.net/news_rss.php",
+          "language_code": "ar",
+          "language_name": "Arabic"
+        }
+      ]
+    },
     {
       "publication_name": "hshd.net",
       "publication_website_uri": "http://hshd.net/",
@@ -9243,18 +9166,6 @@
         {
           "uri": "https://www.macworld.com/index.rss",
           "category": "Apple",
-          "language_code": "en",
-          "language_name": "English"
-        }
-      ]
-    },
-    {
-      "publication_name": "Architectural Digest",
-      "publication_website_uri": "https://www.architecturaldigest.com/",
-      "publication_rss_feed_uris": [
-        {
-          "uri": "https://www.architecturaldigest.com/feed/rss",
-          "category": "Architecture",
           "language_code": "en",
           "language_name": "English"
         }
@@ -10293,6 +10204,18 @@
       ]
     },
     {
+      "publication_name": "Phys.org - latest science and technology news stories",
+      "publication_website_uri": "https://phys.org/",
+      "publication_rss_feed_uris": [
+        {
+          "uri": "https://phys.org/rss-feed/",
+          "category": "Science",
+          "language_code": "en",
+          "language_name": "English"
+        }
+      ]
+    },
+    {
       "publication_name": "Science Latest",
       "publication_website_uri": "https://www.wired.com/",
       "publication_rss_feed_uris": [
@@ -10599,6 +10522,18 @@
       ]
     },
     {
+      "publication_name": "CSS-Tricks",
+      "publication_website_uri": "https://css-tricks.com/",
+      "publication_rss_feed_uris": [
+        {
+          "uri": "https://css-tricks.com/feed/",
+          "category": "Web Development",
+          "language_code": "en",
+          "language_name": "English"
+        }
+      ]
+    },
+    {
       "publication_name": "Android Developers",
       "publication_website_uri": "https://www.youtube.com/",
       "publication_rss_feed_uris": [
@@ -10652,7 +10587,9 @@
       "publication_rss_feed_uris": [
         {
           "uri": "https://www.youtube.com/feeds/videos.xml?channel_id=UCSRQXk5yErn4e14vN76upOw",
-          "category": "Cricket"
+          "category": "Cricket",
+          "language_code": "en",
+          "language_name": "English"
         }
       ]
     },

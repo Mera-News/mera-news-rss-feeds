@@ -72,7 +72,8 @@ function generateCountrySection(countryCode, publications) {
         statusIcon = '❌';
       }
       const categoryText = feedObj.category ? ` ${feedObj.category}` : '';
-      section += `- ${statusIcon} [${pub.publication_name}](${pub.publication_website_uri})${categoryText} - [Feed](${feedObj.uri})\n`;
+      const languageText = feedObj.language_name ? ` - ${feedObj.language_name}` : '';
+      section += `- ${statusIcon} [${pub.publication_name}](${pub.publication_website_uri})${categoryText} - [Feed](${feedObj.uri})${languageText}\n`;
     });
   });
 
