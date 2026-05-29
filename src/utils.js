@@ -1,4 +1,25 @@
 import Parser from 'rss-parser';
+import { detectLanguage } from './language-detection.js';
+
+const langNames = new Intl.DisplayNames(['en'], { type: 'language' });
+
+function resolveLanguage(feed) {
+  let code = null;
+  if (feed.language) {
+    code = feed.language.split('-')[0].toLowerCase();
+  } else {
+    const sample = [
+      feed.title,
+      feed.description,
+      ...(feed.items?.slice(0, 5).map(i => i.title ?? i.contentSnippet ?? '') ?? []),
+    ].filter(Boolean).join(' ').slice(0, 1000);
+    code = detectLanguage(sample);
+  }
+  if (!code) return { language_code: null, language_name: null };
+  let name = null;
+  try { name = langNames.of(code) ?? null; } catch { /* unsupported code */ }
+  return { language_code: code, language_name: name };
+}
 
 // RSS Parser configuration
 const parser = new Parser({
@@ -20,8 +41,8 @@ export const PARALLEL_WORKERS = 5;
  * @returns {Promise<boolean>} - True if feed is valid and recent, false otherwise
  */
 export async function validateFeed(feedUrl, publicationName, silent = false) {
+  const invalid = { isValid: false, language_code: null, language_name: null };
   try {
-    // Parse the RSS feed directly from URL
     const feed = await parser.parseURL(feedUrl);
 
     // Some publishers (notably Xinhua) publish RSS items with very old or
@@ -31,16 +52,17 @@ export async function validateFeed(feedUrl, publicationName, silent = false) {
       /xinhuanet\.com|english\.news\.cn/i.test(feedUrl) ||
       /^xinhua/i.test(publicationName);
 
-    // Check lastBuildDate
+    const { language_code, language_name } = resolveLanguage(feed);
+
     const lastBuildDate = feed.lastBuildDate || feed.pubDate || (feed.items[0] && feed.items[0].pubDate);
 
     if (!lastBuildDate) {
       if (isTimestampUnreliableFeed) {
         if (!silent) console.log(`✅ [${publicationName}] Valid feed (timestamp unavailable, parse succeeded): ${feedUrl}`);
-        return true;
+        return { isValid: true, language_code, language_name };
       }
       if (!silent) console.error(`❌ [${publicationName}] No lastBuildDate found in feed: ${feedUrl}`);
-      return false;
+      return invalid;
     }
 
     const lastUpdate = new Date(lastBuildDate);
@@ -50,14 +72,14 @@ export async function validateFeed(feedUrl, publicationName, silent = false) {
     if (now - lastUpdate > TWENTY_FOUR_HOURS_MS) {
       if (isTimestampUnreliableFeed) {
         if (!silent) console.log(`✅ [${publicationName}] Valid feed (timestamps stale, parse succeeded): ${feedUrl}`);
-        return true;
+        return { isValid: true, language_code, language_name };
       }
       if (!silent) console.error(`❌ [${publicationName}] Feed outdated (${hoursSinceUpdate.toFixed(1)} hours old): ${feedUrl}`);
-      return false;
+      return invalid;
     }
 
     if (!silent) console.log(`✅ [${publicationName}] Valid feed (updated ${hoursSinceUpdate.toFixed(1)} hours ago)`);
-    return true;
+    return { isValid: true, language_code, language_name };
 
   } catch (error) {
     if (!silent) {
@@ -69,7 +91,7 @@ export async function validateFeed(feedUrl, publicationName, silent = false) {
         console.error(`❌ [${publicationName}] Error validating feed: ${feedUrl} - ${error.message}`);
       }
     }
-    return false;
+    return invalid;
   }
 }
 

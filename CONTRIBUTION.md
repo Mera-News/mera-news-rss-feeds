@@ -28,12 +28,14 @@ Follow these steps to add your RSS feed:
 1. **Add your RSS feed** to the respective country in `database/news-feed-list-of-countries.json`
    - Find your country in the JSON file using its **ISO Alpha-3 country code** (e.g., `"USA"` for United States, `"GBR"` for United Kingdom, `"IND"` for India)
    - You can find your country's Alpha-3 code at [ISO 3166-1 alpha-3 on Wikipedia](https://en.wikipedia.org/wiki/ISO_3166-1_alpha-3)
-   - Add your publication details following the existing format:
+   - Add your publication details following the existing format. If the publication already exists, add your feed to its `publication_rss_feed_uris` array instead of creating a new entry:
      ```json
      {
        "publication_name": "Your Publication Name",
        "publication_website_uri": "https://yourwebsite.com",
-       "publication_rss_feed_uri": "https://yourwebsite.com/rss"
+       "publication_rss_feed_uris": [
+         { "uri": "https://yourwebsite.com/rss" }
+       ]
      }
      ```
 
@@ -41,20 +43,23 @@ Follow these steps to add your RSS feed:
      ```json
      {
        "publication_name": "Your Publication Name",
-       "category": "Region/Category",
        "publication_website_uri": "https://yourwebsite.com",
-       "publication_rss_feed_uri": "https://yourwebsite.com/rss"
+       "publication_rss_feed_uris": [
+         { "uri": "https://yourwebsite.com/rss/city1", "category": "City1" },
+         { "uri": "https://yourwebsite.com/rss/city2", "category": "City2" }
+       ]
      }
      ```
      The category will be displayed in the README (e.g., for regional editions like "Mumbai", "Delhi", etc.)
 
-   - **For feeds behind bot protection**, add the `bot_protection` flag:
+   - **For feeds behind bot protection**, add the `bot_protection` flag to the feed URI object:
      ```json
      {
        "publication_name": "Your Publication Name",
        "publication_website_uri": "https://yourwebsite.com",
-       "publication_rss_feed_uri": "https://yourwebsite.com/rss",
-       "bot_protection": true
+       "publication_rss_feed_uris": [
+         { "uri": "https://yourwebsite.com/rss", "bot_protection": true }
+       ]
      }
      ```
      Feeds with `bot_protection: true` will be marked with ⚠️ in the README and will skip automatic validation.
