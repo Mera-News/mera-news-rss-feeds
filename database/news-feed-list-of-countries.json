@@ -5110,6 +5110,234 @@
           "uri": "http://www.virumaateataja.ee/rss/"
         }
       ]
+    },
+    {
+      "publication_name": "Äripäev",
+      "publication_website_uri": "https://www.aripaev.ee/",
+      "category": "News",
+      "publication_rss_feed_uris": [
+        {
+          "uri": "https://www.aripaev.ee/rss",
+          "gated": false,
+          "category": "News"
+        }
+      ]
+    },
+    {
+      "publication_name": "Õhtuleht",
+      "publication_website_uri": "https://www.ohtuleht.ee/",
+      "category": "News",
+      "publication_rss_feed_uris": [
+        {
+          "uri": "https://www.ohtuleht.ee/rss",
+          "gated": false,
+          "category": "News"
+        }
+      ]
+    },
+    {
+      "publication_name": "Lääne Elu",
+      "publication_website_uri": "https://online.le.ee/",
+      "category": "Regional News: Läänemaa",
+      "publication_rss_feed_uris": [
+        {
+          "uri": "https://online.le.ee/feed/",
+          "gated": false,
+          "category": "Regional News: Läänemaa"
+        }
+      ]
+    },
+    {
+      "publication_name": "Sakala",
+      "publication_website_uri": "https://sakala.postimees.ee/",
+      "category": "Regional News: Viljandi County",
+      "publication_rss_feed_uris": [
+        {
+          "uri": "https://sakala.postimees.ee/rss",
+          "gated": false,
+          "category": "Regional News: Viljandi County"
+        }
+      ]
+    },
+    {
+      "publication_name": "Delovye Vedomosti",
+      "publication_website_uri": "https://www.dv.ee/",
+      "category": "News",
+      "publication_rss_feed_uris": [
+        {
+          "uri": "https://www.dv.ee/rss",
+          "gated": false,
+          "category": "News"
+        }
+      ]
+    },
+    {
+      "publication_name": "Harju Elu",
+      "publication_website_uri": "https://harjuelu.ee/",
+      "category": "Regional News: Harju County",
+      "publication_rss_feed_uris": [
+        {
+          "uri": "https://harjuelu.ee/feed/",
+          "gated": false,
+          "category": "Regional News: Harju County"
+        }
+      ]
+    },
+    {
+      "publication_name": "Kesknädal",
+      "publication_website_uri": "https://kesknadal.ee/",
+      "category": "Regional News: Central Estonia",
+      "publication_rss_feed_uris": [
+        {
+          "uri": "https://kesknadal.ee/feed/",
+          "gated": false,
+          "category": "Regional News: Central Estonia"
+        }
+      ]
+    },
+    {
+      "publication_name": "Sonumitooja",
+      "publication_website_uri": "https://sonumitooja.ee/",
+      "category": "Regional News: Raplamaa",
+      "publication_rss_feed_uris": [
+        {
+          "uri": "https://sonumitooja.ee/feed/",
+          "gated": false,
+          "category": "Regional News: Raplamaa"
+        }
+      ]
+    },
+    {
+      "publication_name": "Jarva Teataja",
+      "publication_website_uri": "https://jarvateataja.postimees.ee/",
+      "category": "Regional News: Järva County",
+      "publication_rss_feed_uris": [
+        {
+          "uri": "https://jarvateataja.postimees.ee/rss",
+          "gated": false,
+          "category": "Regional News: Järva County"
+        }
+      ]
+    },
+    {
+      "publication_name": "Severnoje Poberezje",
+      "publication_website_uri": "https://severnojepoberezhje.postimees.ee/",
+      "category": "Regional News: Northern Coast",
+      "publication_rss_feed_uris": [
+        {
+          "uri": "https://severnojepoberezhje.postimees.ee/rss",
+          "gated": false,
+          "category": "Regional News: Northern Coast"
+        }
+      ]
+    },
+    {
+      "publication_name": "MK Estoniia",
+      "publication_website_uri": "https://www.mke.ee/",
+      "category": "News",
+      "publication_rss_feed_uris": [
+        {
+          "uri": "https://www.mke.ee/feed/",
+          "gated": false,
+          "category": "News"
+        }
+      ]
+    },
+    {
+      "publication_name": "Vooremaa",
+      "publication_website_uri": "https://www.vooremaa.ee/",
+      "category": "Regional News: Võru County",
+      "publication_rss_feed_uris": [
+        {
+          "uri": "https://www.vooremaa.ee/feed/",
+          "gated": false,
+          "category": "Regional News: Võru County"
+        }
+      ]
+    },
+    {
+      "publication_name": "Hiiu Leht",
+      "publication_website_uri": "https://hiiuleht.ee/",
+      "category": "Regional News: Hiiumaa",
+      "publication_rss_feed_uris": [
+        {
+          "uri": "https://hiiuleht.ee/feed/",
+          "gated": false,
+          "category": "Regional News: Hiiumaa"
+        }
+      ]
+    },
+    {
+      "publication_name": "Baltische Rundschau",
+      "publication_website_uri": "https://baltische-rundschau.eu/",
+      "category": "Regional News: Baltic",
+      "publication_rss_feed_uris": [
+        {
+          "uri": "https://baltische-rundschau.eu/feed/",
+          "gated": false,
+          "category": "Regional News: Baltic"
+        }
+      ]
+    },
+    {
+      "publication_name": "Kuulutaja",
+      "publication_website_uri": "https://www.kuulutaja.ee/",
+      "category": "Classifieds",
+      "publication_rss_feed_uris": [
+        {
+          "uri": "https://www.kuulutaja.ee/feed/",
+          "gated": false,
+          "category": "Classifieds"
+        }
+      ]
+    },
+    {
+      "publication_name": "Stena.ee",
+      "publication_website_uri": "https://www.stena.ee/",
+      "category": "Lifestyle",
+      "publication_rss_feed_uris": [
+        {
+          "uri": "https://www.stena.ee/rss.xml",
+          "gated": false,
+          "category": "Lifestyle"
+        }
+      ]
+    },
+    {
+      "publication_name": "Baltija",
+      "publication_website_uri": "https://baltija.eu/",
+      "category": "News",
+      "publication_rss_feed_uris": [
+        {
+          "uri": "https://baltija.eu/feed/",
+          "gated": false,
+          "category": "News"
+        }
+      ]
+    },
+    {
+      "publication_name": "Telegram",
+      "publication_website_uri": "https://www.telegram.ee/",
+      "category": "News",
+      "publication_rss_feed_uris": [
+        {
+          "uri": "https://www.telegram.ee/feed",
+          "gated": false,
+          "category": "News"
+        }
+      ]
+    },
+    {
+      "publication_name": "Baltic Times",
+      "publication_website_uri": "https://www.baltictimes.com/",
+      "category": "News",
+      "publication_rss_feed_uris": [
+        {
+          "uri": "https://www.baltictimes.com/rss/",
+          "gated": false,
+          "category": "News"
+        }
+      ]
     }
   ],
   "ETH": [
@@ -8427,6 +8655,354 @@
           "uri": "https://www.republika.co.id/rss/"
         }
       ]
+    },
+    {
+      "publication_name": "Liputan6",
+      "publication_website_uri": "https://www.liputan6.com",
+      "category": "News",
+      "publication_rss_feed_uris": [
+        {
+          "uri": "https://feed.liputan6.com/rss/news",
+          "gated": false,
+          "category": "News"
+        }
+      ]
+    },
+    {
+      "publication_name": "CNN Indonesia",
+      "publication_website_uri": "https://www.cnnindonesia.com",
+      "category": "News",
+      "publication_rss_feed_uris": [
+        {
+          "uri": "https://www.cnnindonesia.com/nasional/rss",
+          "gated": false,
+          "category": "News"
+        }
+      ]
+    },
+    {
+      "publication_name": "Okezone",
+      "publication_website_uri": "https://www.okezone.com",
+      "category": "News",
+      "publication_rss_feed_uris": [
+        {
+          "uri": "https://www.okezone.com/feed",
+          "gated": false,
+          "category": "News"
+        }
+      ]
+    },
+    {
+      "publication_name": "Tribun News",
+      "publication_website_uri": "https://www.tribunnews.com",
+      "category": "News",
+      "publication_rss_feed_uris": [
+        {
+          "uri": "https://www.tribunnews.com/rss",
+          "gated": false,
+          "category": "News"
+        }
+      ]
+    },
+    {
+      "publication_name": "Inilah",
+      "publication_website_uri": "https://www.inilah.com",
+      "category": "News",
+      "publication_rss_feed_uris": [
+        {
+          "uri": "https://www.inilah.com/rss.xml",
+          "gated": false,
+          "category": "News"
+        }
+      ]
+    },
+    {
+      "publication_name": "Jawa Pos",
+      "publication_website_uri": "https://www.jawapos.com",
+      "category": "Regional News: East Java",
+      "publication_rss_feed_uris": [
+        {
+          "uri": "https://www.jawapos.com/rss.xml",
+          "gated": false,
+          "category": "Regional News: East Java"
+        }
+      ]
+    },
+    {
+      "publication_name": "Aktual",
+      "publication_website_uri": "https://www.aktual.com",
+      "category": "News",
+      "publication_rss_feed_uris": [
+        {
+          "uri": "https://www.aktual.com/rss",
+          "gated": false,
+          "category": "News"
+        }
+      ]
+    },
+    {
+      "publication_name": "Viva.co.id",
+      "publication_website_uri": "https://www.viva.co.id",
+      "category": "News",
+      "publication_rss_feed_uris": [
+        {
+          "uri": "https://www.viva.co.id/get/all",
+          "gated": false,
+          "category": "News"
+        }
+      ]
+    },
+    {
+      "publication_name": "Semarang Pos",
+      "publication_website_uri": "https://www.semarangpos.com",
+      "category": "Regional News: Central Java",
+      "publication_rss_feed_uris": [
+        {
+          "uri": "https://www.semarangpos.com/feed",
+          "gated": false,
+          "category": "Regional News: Central Java"
+        }
+      ]
+    },
+    {
+      "publication_name": "Republika",
+      "publication_website_uri": "https://www.republika.co.id",
+      "category": "News",
+      "publication_rss_feed_uris": [
+        {
+          "uri": "https://www.republika.co.id/feed",
+          "gated": false,
+          "category": "News"
+        }
+      ]
+    },
+    {
+      "publication_name": "Tribun News",
+      "publication_website_uri": "https://tribunnews.com",
+      "category": "News",
+      "publication_rss_feed_uris": [
+        {
+          "uri": "https://tribunnews.com/rss",
+          "gated": false,
+          "category": "News"
+        }
+      ]
+    },
+    {
+      "publication_name": "Media Indonesia",
+      "publication_website_uri": "https://www.mediaindonesia.com",
+      "category": "News",
+      "publication_rss_feed_uris": [
+        {
+          "uri": "https://www.mediaindonesia.com/rss",
+          "gated": false,
+          "category": "News"
+        }
+      ]
+    },
+    {
+      "publication_name": "CNN Indonesia",
+      "publication_website_uri": "https://www.cnnindonesia.com",
+      "category": "News",
+      "publication_rss_feed_uris": [
+        {
+          "uri": "https://www.cnnindonesia.com/rss",
+          "gated": false,
+          "category": "News"
+        }
+      ]
+    },
+    {
+      "publication_name": "InfoNews",
+      "publication_website_uri": "https://www.infonews.id",
+      "category": "News",
+      "publication_rss_feed_uris": [
+        {
+          "uri": "https://www.infonews.id/feed",
+          "gated": false,
+          "category": "News"
+        }
+      ]
+    },
+    {
+      "publication_name": "JPNN",
+      "publication_website_uri": "https://jpnn.com",
+      "category": "News",
+      "publication_rss_feed_uris": [
+        {
+          "uri": "https://jpnn.com/rss",
+          "gated": false,
+          "category": "News"
+        }
+      ]
+    },
+    {
+      "publication_name": "Sino Indonesia",
+      "publication_website_uri": "https://www.sindonews.com",
+      "category": "News",
+      "publication_rss_feed_uris": [
+        {
+          "uri": "https://www.sindonews.com/feed",
+          "gated": false,
+          "category": "News"
+        }
+      ]
+    },
+    {
+      "publication_name": "Medcom",
+      "publication_website_uri": "https://www.medcom.id",
+      "category": "News",
+      "publication_rss_feed_uris": [
+        {
+          "uri": "https://www.medcom.id/feed",
+          "gated": false,
+          "category": "News"
+        }
+      ]
+    },
+    {
+      "publication_name": "RMOL",
+      "publication_website_uri": "https://www.rmol.id",
+      "category": "News",
+      "publication_rss_feed_uris": [
+        {
+          "uri": "https://www.rmol.id/feed",
+          "gated": false,
+          "category": "News"
+        }
+      ]
+    },
+    {
+      "publication_name": "Radar Lampung",
+      "publication_website_uri": "https://radarlampung.co.id",
+      "category": "Regional News: Lampung",
+      "publication_rss_feed_uris": [
+        {
+          "uri": "https://radarlampung.co.id/feed",
+          "gated": false,
+          "category": "Regional News: Lampung"
+        }
+      ]
+    },
+    {
+      "publication_name": "Radar Karawang",
+      "publication_website_uri": "https://www.radarkarawang.com",
+      "category": "Regional News: Karawang",
+      "publication_rss_feed_uris": [
+        {
+          "uri": "https://radarkarawang.com/feed",
+          "gated": false,
+          "category": "Regional News: Karawang"
+        }
+      ]
+    },
+    {
+      "publication_name": "Radar Madura",
+      "publication_website_uri": "https://radarmadura.co.id",
+      "category": "Regional News: Madura",
+      "publication_rss_feed_uris": [
+        {
+          "uri": "https://radarmadura.co.id/feed",
+          "gated": false,
+          "category": "Regional News: Madura"
+        }
+      ]
+    },
+    {
+      "publication_name": "Radar Makassar",
+      "publication_website_uri": "https://www.radarmakassar.com",
+      "category": "Regional News: Makassar",
+      "publication_rss_feed_uris": [
+        {
+          "uri": "https://www.radarmakassar.com/feed",
+          "gated": false,
+          "category": "Regional News: Makassar"
+        }
+      ]
+    },
+    {
+      "publication_name": "Radar Manado",
+      "publication_website_uri": "https://www.radarmanado.com",
+      "category": "Regional News: Manado",
+      "publication_rss_feed_uris": [
+        {
+          "uri": "https://www.radarmanado.com/feed",
+          "gated": false,
+          "category": "Regional News: Manado"
+        }
+      ]
+    },
+    {
+      "publication_name": "Radar Pekanbaru",
+      "publication_website_uri": "https://www.radarpekanbaru.com",
+      "category": "Regional News: Pekanbaru",
+      "publication_rss_feed_uris": [
+        {
+          "uri": "https://www.radarpekanbaru.com/feed",
+          "gated": false,
+          "category": "Regional News: Pekanbaru"
+        }
+      ]
+    },
+    {
+      "publication_name": "Radar Lombok",
+      "publication_website_uri": "https://www.radarlombok.co.id",
+      "category": "Regional News: Lombok",
+      "publication_rss_feed_uris": [
+        {
+          "uri": "https://www.radarlombok.co.id/feed",
+          "gated": false,
+          "category": "Regional News: Lombok"
+        }
+      ]
+    },
+    {
+      "publication_name": "Radar Blitar",
+      "publication_website_uri": "https://www.radarblitar.com",
+      "category": "Regional News: Blitar",
+      "publication_rss_feed_uris": [
+        {
+          "uri": "https://www.radarblitar.com/feed",
+          "gated": false,
+          "category": "Regional News: Blitar"
+        }
+      ]
+    },
+    {
+      "publication_name": "Antara News",
+      "publication_website_uri": "https://www.antaranews.com",
+      "category": "News",
+      "publication_rss_feed_uris": [
+        {
+          "uri": "https://www.antaranews.com/feed",
+          "gated": false,
+          "category": "News"
+        }
+      ]
+    },
+    {
+      "publication_name": "Media Indonesia",
+      "publication_website_uri": "https://www.mediaindonesia.com",
+      "category": "News",
+      "publication_rss_feed_uris": [
+        {
+          "uri": "https://www.mediaindonesia.com/feed",
+          "gated": false,
+          "category": "News"
+        }
+      ]
+    },
+    {
+      "publication_name": "Warta Ekonomi",
+      "publication_website_uri": "https://www.wartaekonomi.co.id",
+      "category": "News",
+      "publication_rss_feed_uris": [
+        {
+          "uri": "https://www.wartaekonomi.co.id/feed",
+          "gated": false,
+          "category": "News"
+        }
+      ]
     }
   ],
   "IMN": [
@@ -10008,6 +10584,150 @@
           "uri": "https://www.irishmirror.ie/?service=rss"
         }
       ]
+    },
+    {
+      "publication_name": "Newstalk",
+      "publication_website_uri": "https://www.newstalk.com",
+      "category": "News",
+      "publication_rss_feed_uris": [
+        {
+          "uri": "https://newstalk.com/feed",
+          "gated": false,
+          "category": "News"
+        }
+      ]
+    },
+    {
+      "publication_name": "Today FM",
+      "publication_website_uri": "https://www.todayfm.com",
+      "category": "News",
+      "publication_rss_feed_uris": [
+        {
+          "uri": "https://todayfm.com/feed",
+          "gated": false,
+          "category": "News"
+        }
+      ]
+    },
+    {
+      "publication_name": "Limerick Post",
+      "publication_website_uri": "https://www.limerickpost.ie",
+      "category": "Regional News: Limerick",
+      "publication_rss_feed_uris": [
+        {
+          "uri": "https://www.limerickpost.ie/feed/",
+          "gated": false,
+          "category": "Regional News: Limerick"
+        }
+      ]
+    },
+    {
+      "publication_name": "Donegal Democrat",
+      "publication_website_uri": "https://www.donegaldemocrat.ie",
+      "category": "Regional News: Donegal",
+      "publication_rss_feed_uris": [
+        {
+          "uri": "https://www.donegaldemocrat.ie/rss/",
+          "gated": false,
+          "category": "Regional News: Donegal"
+        }
+      ]
+    },
+    {
+      "publication_name": "Offaly Independent",
+      "publication_website_uri": "https://www.offaly.ie",
+      "category": "Regional News: Offaly",
+      "publication_rss_feed_uris": [
+        {
+          "uri": "https://www.offaly.ie/feed/",
+          "gated": false,
+          "category": "Regional News: Offaly"
+        }
+      ]
+    },
+    {
+      "publication_name": "Longford Leader",
+      "publication_website_uri": "https://www.longfordleader.ie",
+      "category": "Regional News: Longford",
+      "publication_rss_feed_uris": [
+        {
+          "uri": "https://www.longfordleader.ie/rss/",
+          "gated": false,
+          "category": "Regional News: Longford"
+        }
+      ]
+    },
+    {
+      "publication_name": "Leitrim Observer",
+      "publication_website_uri": "https://www.leitrimobserver.ie",
+      "category": "Regional News: Leitrim",
+      "publication_rss_feed_uris": [
+        {
+          "uri": "https://www.leitrimobserver.ie/rss/",
+          "gated": false,
+          "category": "Regional News: Leitrim"
+        }
+      ]
+    },
+    {
+      "publication_name": "Mayo News",
+      "publication_website_uri": "https://www.mayonews.ie",
+      "category": "Regional News: Mayo",
+      "publication_rss_feed_uris": [
+        {
+          "uri": "https://www.mayonews.ie/rss/",
+          "gated": false,
+          "category": "Regional News: Mayo"
+        }
+      ]
+    },
+    {
+      "publication_name": "Midland Tribune",
+      "publication_website_uri": "https://www.midlandtribune.ie",
+      "category": "Regional News: Midlands",
+      "publication_rss_feed_uris": [
+        {
+          "uri": "https://www.midlandtribune.ie/rss/",
+          "gated": false,
+          "category": "Regional News: Midlands"
+        }
+      ]
+    },
+    {
+      "publication_name": "Tipperary Star",
+      "publication_website_uri": "https://www.tipperarystar.ie",
+      "category": "Regional News: Tipperary",
+      "publication_rss_feed_uris": [
+        {
+          "uri": "https://www.tipperarystar.ie/rss/",
+          "gated": false,
+          "category": "Regional News: Tipperary"
+        }
+      ]
+    },
+    {
+      "publication_name": "Kilkenny People",
+      "publication_website_uri": "https://www.kilkennypeople.ie",
+      "category": "Regional News: Kilkenny",
+      "publication_rss_feed_uris": [
+        {
+          "uri": "https://www.kilkennypeople.ie/rss/",
+          "gated": false,
+          "category": "Regional News: Kilkenny"
+        }
+      ]
+    },
+    {
+      "publication_name": "Laois Today",
+      "publication_website_uri": "https://www.laoistoday.ie",
+      "category": "Regional News: Laois",
+      "publication_rss_feed_uris": [
+        {
+          "uri": "https://www.laoistoday.ie/feed/",
+          "gated": false,
+          "category": "Regional News: Laois"
+        }
+      ]
     }
   ],
   "IRN": [
@@ -10904,38 +11624,11 @@
       ]
     },
     {
-      "publication_name": "Daily Sports Online",
-      "publication_website_uri": "http://daily.co.jp/",
-      "publication_rss_feed_uris": [
-        {
-          "uri": "http://www.dailymail.co.uk/sport/index.rss"
-        }
-      ]
-    },
-    {
       "publication_name": "nikkansports.com",
       "publication_website_uri": "http://www.nikkansports.com/",
       "publication_rss_feed_uris": [
         {
           "uri": "http://www.nikkansports.com/soccer/atom.xml"
-        }
-      ]
-    },
-    {
-      "publication_name": "livedoor News",
-      "publication_website_uri": "http://news.livedoor.com/",
-      "publication_rss_feed_uris": [
-        {
-          "uri": "http://news.livedoor.com/topics/rss/int.xml"
-        }
-      ]
-    },
-    {
-      "publication_name": "Japan Times latest articles",
-      "publication_website_uri": "https://www.japantimes.co.jp/",
-      "publication_rss_feed_uris": [
-        {
-          "uri": "https://www.japantimes.co.jp/feed/topstories/"
         }
       ]
     },
@@ -10967,11 +11660,98 @@
       ]
     },
     {
-      "publication_name": "ライブドアニュース - 主要トピックス",
-      "publication_website_uri": "https://news.livedoor.com/",
+      "publication_name": "Kyodo News",
+      "publication_website_uri": "https://www.kyodo.co.jp",
+      "category": "News",
       "publication_rss_feed_uris": [
         {
-          "uri": "https://news.livedoor.com/topics/rss/top.xml"
+          "uri": "https://www.kyodo.co.jp/feed/",
+          "gated": false,
+          "category": "News"
+        }
+      ]
+    },
+    {
+      "publication_name": "Jiji Press",
+      "publication_website_uri": "https://www.jiji.com",
+      "category": "News",
+      "publication_rss_feed_uris": [
+        {
+          "uri": "https://www.jiji.com/rss/ranking.rdf",
+          "gated": false,
+          "category": "News"
+        }
+      ]
+    },
+    {
+      "publication_name": "Fuji News Network",
+      "publication_website_uri": "https://www.fnn.jp",
+      "category": "News",
+      "publication_rss_feed_uris": [
+        {
+          "uri": "https://www.fnn.jp/list/feed/rss",
+          "gated": false,
+          "category": "News"
+        }
+      ]
+    },
+    {
+      "publication_name": "Business Insider Japan",
+      "publication_website_uri": "https://www.businessinsider.jp",
+      "category": "News",
+      "publication_rss_feed_uris": [
+        {
+          "uri": "https://www.businessinsider.jp/feed/index.xml",
+          "gated": false,
+          "category": "News"
+        }
+      ]
+    },
+    {
+      "publication_name": "Japan Times",
+      "publication_website_uri": "https://www.japantimes.co.jp",
+      "category": "News",
+      "publication_rss_feed_uris": [
+        {
+          "uri": "https://www.japantimes.co.jp/news/feed/",
+          "gated": false,
+          "category": "News"
+        }
+      ]
+    },
+    {
+      "publication_name": "Nishinippon Shimbun",
+      "publication_website_uri": "https://www.nishinippon.co.jp",
+      "category": "Regional News: Kyushu",
+      "publication_rss_feed_uris": [
+        {
+          "uri": "https://www.nishinippon.co.jp/feed/",
+          "gated": false,
+          "category": "Regional News: Kyushu"
+        }
+      ]
+    },
+    {
+      "publication_name": "Kumano Shimbun",
+      "publication_website_uri": "https://www.kumanichi.com",
+      "category": "Regional News: Wakayama",
+      "publication_rss_feed_uris": [
+        {
+          "uri": "https://www.kumanichi.com/rss.xml",
+          "gated": false,
+          "category": "Regional News: Wakayama"
+        }
+      ]
+    },
+    {
+      "publication_name": "Kita Nippon Shimbun",
+      "publication_website_uri": "https://www.kitanippon.co.jp",
+      "category": "Regional News: Hokuriku",
+      "publication_rss_feed_uris": [
+        {
+          "uri": "https://www.kitanippon.co.jp/rss/",
+          "gated": false,
+          "category": "Regional News: Hokuriku"
         }
       ]
     }
@@ -14595,6 +15375,127 @@
           "uri": "https://guardian.ng/feed/"
         }
       ]
+    },
+    {
+      "publication_name": "Aminiya (Daily Trust Hausa)",
+      "publication_website_uri": "https://aminiya.ng/",
+      "category": "Regional News: Hausa",
+      "publication_rss_feed_uris": [
+        {
+          "uri": "https://aminiya.ng/feed",
+          "category": "Regional News: Hausa"
+        }
+      ]
+    },
+    {
+      "publication_name": "Leadership (Hausa)",
+      "publication_website_uri": "https://hausa.leadership.ng/",
+      "category": "Regional News: Hausa",
+      "publication_rss_feed_uris": [
+        {
+          "uri": "https://hausa.leadership.ng/feed",
+          "category": "Regional News: Hausa"
+        }
+      ]
+    },
+    {
+      "publication_name": "Premium Times (Hausa)",
+      "publication_website_uri": "https://hausa.premiumtimesng.com/",
+      "category": "Regional News: Hausa",
+      "publication_rss_feed_uris": [
+        {
+          "uri": "https://hausa.premiumtimesng.com/feed",
+          "category": "Regional News: Hausa"
+        }
+      ]
+    },
+    {
+      "publication_name": "National Network",
+      "publication_website_uri": "https://nationalnetworkonline.com/",
+      "category": "Regional News: Rivers",
+      "publication_rss_feed_uris": [
+        {
+          "uri": "https://nationalnetworkonline.com/rss",
+          "category": "Regional News: Rivers"
+        }
+      ]
+    },
+    {
+      "publication_name": "Nigerian Observer",
+      "publication_website_uri": "https://nigerianobservernews.com/",
+      "category": "Regional News: Edo",
+      "publication_rss_feed_uris": [
+        {
+          "uri": "https://nigerianobservernews.com/feed",
+          "category": "Regional News: Edo"
+        }
+      ]
+    },
+    {
+      "publication_name": "Osun Defender",
+      "publication_website_uri": "https://osundefender.com/",
+      "category": "Regional News: Osun",
+      "publication_rss_feed_uris": [
+        {
+          "uri": "https://osundefender.com/rss",
+          "category": "Regional News: Osun"
+        }
+      ]
+    },
+    {
+      "publication_name": "The Pioneer",
+      "publication_website_uri": "https://pioneernewsng.com/",
+      "category": "Regional News: Akwa Ibom",
+      "publication_rss_feed_uris": [
+        {
+          "uri": "https://pioneernewsng.com/feed",
+          "category": "Regional News: Akwa Ibom"
+        }
+      ]
+    },
+    {
+      "publication_name": "PM News",
+      "publication_website_uri": "https://pmnewsnigeria.com/",
+      "category": "Regional News: Lagos",
+      "publication_rss_feed_uris": [
+        {
+          "uri": "https://pmnewsnigeria.com/feed",
+          "category": "Regional News: Lagos"
+        }
+      ]
+    },
+    {
+      "publication_name": "Abuja Inquirer",
+      "publication_website_uri": "https://theabujainquirer.com/",
+      "category": "Regional News: FCT",
+      "publication_rss_feed_uris": [
+        {
+          "uri": "https://theabujainquirer.com/rss",
+          "category": "Regional News: FCT"
+        }
+      ]
+    },
+    {
+      "publication_name": "The Herald",
+      "publication_website_uri": "https://www.theheraldnews.ng/",
+      "category": "Regional News: Kwara",
+      "publication_rss_feed_uris": [
+        {
+          "uri": "https://www.theheraldnews.ng/feed",
+          "category": "Regional News: Kwara"
+        }
+      ]
+    },
+    {
+      "publication_name": "The Pointer",
+      "publication_website_uri": "https://www.thepointersnewsonline.com/",
+      "category": "Regional News: Delta",
+      "publication_rss_feed_uris": [
+        {
+          "uri": "https://www.thepointersnewsonline.com/feed",
+          "category": "Regional News: Delta"
+        }
+      ]
     }
   ],
   "NIC": [
@@ -14848,11 +15749,218 @@
       ]
     },
     {
-      "publication_name": "NewsofNepal.com",
-      "publication_website_uri": "http://newsofnepal.com/",
+      "publication_name": "Artha Sarokar",
+      "publication_website_uri": "https://arthasarokar.com",
+      "category": "News",
       "publication_rss_feed_uris": [
         {
-          "uri": "http://www.newsofnepal.com/new/feed"
+          "uri": "https://arthasarokar.com/feed",
+          "gated": false,
+          "category": "News"
+        }
+      ]
+    },
+    {
+      "publication_name": "Baarah Khari",
+      "publication_website_uri": "https://baahrakhari.com",
+      "category": "News",
+      "publication_rss_feed_uris": [
+        {
+          "uri": "https://baahrakhari.com/feed",
+          "gated": false,
+          "category": "News"
+        }
+      ]
+    },
+    {
+      "publication_name": "Biz Mandu",
+      "publication_website_uri": "https://bizmandu.com",
+      "category": "News",
+      "publication_rss_feed_uris": [
+        {
+          "uri": "https://bizmandu.com/feed",
+          "gated": false,
+          "category": "News"
+        }
+      ]
+    },
+    {
+      "publication_name": "Desh Sanchar",
+      "publication_website_uri": "https://deshsanchar.com",
+      "category": "News",
+      "publication_rss_feed_uris": [
+        {
+          "uri": "https://deshsanchar.com/feed/",
+          "gated": false,
+          "category": "News"
+        }
+      ]
+    },
+    {
+      "publication_name": "Khabar Hub",
+      "publication_website_uri": "https://khabarhub.com",
+      "category": "News",
+      "publication_rss_feed_uris": [
+        {
+          "uri": "https://khabarhub.com/feed/",
+          "gated": false,
+          "category": "News"
+        }
+      ]
+    },
+    {
+      "publication_name": "Mero Khel",
+      "publication_website_uri": "https://merokhel.com",
+      "category": "Regional News: Sports",
+      "publication_rss_feed_uris": [
+        {
+          "uri": "https://merokhel.com/feed/",
+          "gated": false,
+          "category": "Regional News: Sports"
+        }
+      ]
+    },
+    {
+      "publication_name": "Nepal Khabar",
+      "publication_website_uri": "https://nepalkhabar.com",
+      "category": "News",
+      "publication_rss_feed_uris": [
+        {
+          "uri": "https://nepalkhabar.com/feed/",
+          "gated": false,
+          "category": "News"
+        }
+      ]
+    },
+    {
+      "publication_name": "Nepal Samaya",
+      "publication_website_uri": "https://nepalsamaya.com",
+      "category": "News",
+      "publication_rss_feed_uris": [
+        {
+          "uri": "https://nepalsamaya.com/feed",
+          "gated": false,
+          "category": "News"
+        }
+      ]
+    },
+    {
+      "publication_name": "Online TV Nepal",
+      "publication_website_uri": "https://onlinetvnepal.com",
+      "category": "News",
+      "publication_rss_feed_uris": [
+        {
+          "uri": "https://onlinetvnepal.com/feed/",
+          "gated": false,
+          "category": "News"
+        }
+      ]
+    },
+    {
+      "publication_name": "Rajdhani Daily",
+      "publication_website_uri": "https://rajdhanidaily.com",
+      "category": "Regional News: Kathmandu",
+      "publication_rss_feed_uris": [
+        {
+          "uri": "https://rajdhanidaily.com/feed/",
+          "gated": false,
+          "category": "Regional News: Kathmandu"
+        }
+      ]
+    },
+    {
+      "publication_name": "Rising Nepal Daily",
+      "publication_website_uri": "https://risingnepaldaily.com",
+      "category": "News",
+      "publication_rss_feed_uris": [
+        {
+          "uri": "https://risingnepaldaily.com/rss",
+          "gated": false,
+          "category": "News"
+        }
+      ]
+    },
+    {
+      "publication_name": "Hamro Khel Kud",
+      "publication_website_uri": "https://www.hamrokhelkud.com",
+      "category": "Regional News: Sports",
+      "publication_rss_feed_uris": [
+        {
+          "uri": "https://www.hamrokhelkud.com/feed",
+          "gated": false,
+          "category": "Regional News: Sports"
+        }
+      ]
+    },
+    {
+      "publication_name": "Himalini",
+      "publication_website_uri": "https://www.himalini.com",
+      "category": "News",
+      "publication_rss_feed_uris": [
+        {
+          "uri": "https://www.himalini.com/feed/",
+          "gated": false,
+          "category": "News"
+        }
+      ]
+    },
+    {
+      "publication_name": "Himal Khabar",
+      "publication_website_uri": "https://www.himalkhabar.com",
+      "category": "News",
+      "publication_rss_feed_uris": [
+        {
+          "uri": "https://www.himalkhabar.com/feed",
+          "gated": false,
+          "category": "News"
+        }
+      ]
+    },
+    {
+      "publication_name": "Image Khabar",
+      "publication_website_uri": "https://www.imagekhabar.com",
+      "category": "News",
+      "publication_rss_feed_uris": [
+        {
+          "uri": "https://www.imagekhabar.com/feed/",
+          "gated": false,
+          "category": "News"
+        }
+      ]
+    },
+    {
+      "publication_name": "Nepal Press",
+      "publication_website_uri": "https://www.nepalpress.com",
+      "category": "News",
+      "publication_rss_feed_uris": [
+        {
+          "uri": "https://www.nepalpress.com/feed/",
+          "gated": false,
+          "category": "News"
+        }
+      ]
+    },
+    {
+      "publication_name": "OS Nepal",
+      "publication_website_uri": "https://www.osnepal.com",
+      "category": "News",
+      "publication_rss_feed_uris": [
+        {
+          "uri": "https://www.osnepal.com/feed",
+          "gated": false,
+          "category": "News"
+        }
+      ]
+    },
+    {
+      "publication_name": "Setopati",
+      "publication_website_uri": "https://www.setopati.com",
+      "category": "News",
+      "publication_rss_feed_uris": [
+        {
+          "uri": "https://www.setopati.com/feed",
+          "gated": false,
+          "category": "News"
         }
       ]
     }
@@ -15006,15 +16114,6 @@
       ]
     },
     {
-      "publication_name": "Pakistan Today",
-      "publication_website_uri": "http://pakistantoday.com.pk/",
-      "publication_rss_feed_uris": [
-        {
-          "uri": "http://www.pakistantoday.com.pk/feed/"
-        }
-      ]
-    },
-    {
       "publication_name": "Daily Times",
       "publication_website_uri": "http://dailytimes.com.pk/",
       "publication_rss_feed_uris": [
@@ -15051,15 +16150,6 @@
       ]
     },
     {
-      "publication_name": "The News International - Pakistan",
-      "publication_website_uri": "https://www.thenews.com.pk/",
-      "publication_rss_feed_uris": [
-        {
-          "uri": "https://www.thenews.com.pk/rss/1/1"
-        }
-      ]
-    },
-    {
       "publication_name": "News Blog",
       "publication_website_uri": "https://newsnblogs.com/",
       "publication_rss_feed_uris": [
@@ -15083,6 +16173,102 @@
       "publication_rss_feed_uris": [
         {
           "uri": "https://www.express.pk/feed/"
+        }
+      ]
+    },
+    {
+      "publication_name": "DAWN",
+      "publication_website_uri": "https://www.dawn.com",
+      "category": "News",
+      "publication_rss_feed_uris": [
+        {
+          "uri": "https://www.dawn.com/feed",
+          "gated": false,
+          "category": "News"
+        }
+      ]
+    },
+    {
+      "publication_name": "ARY News",
+      "publication_website_uri": "https://www.arynews.tv",
+      "category": "News",
+      "publication_rss_feed_uris": [
+        {
+          "uri": "https://www.arynews.tv/feed",
+          "gated": false,
+          "category": "News"
+        }
+      ]
+    },
+    {
+      "publication_name": "ProPakistani",
+      "publication_website_uri": "https://www.propakistani.pk",
+      "category": "News",
+      "publication_rss_feed_uris": [
+        {
+          "uri": "https://www.propakistani.pk/feed",
+          "gated": false,
+          "category": "News"
+        }
+      ]
+    },
+    {
+      "publication_name": "BOL News",
+      "publication_website_uri": "https://www.bolnews.com",
+      "category": "News",
+      "publication_rss_feed_uris": [
+        {
+          "uri": "https://www.bolnews.com/feed",
+          "gated": false,
+          "category": "News"
+        }
+      ]
+    },
+    {
+      "publication_name": "News.com.pk",
+      "publication_website_uri": "https://news.com.pk",
+      "category": "News",
+      "publication_rss_feed_uris": [
+        {
+          "uri": "https://news.com.pk/feed",
+          "gated": false,
+          "category": "News"
+        }
+      ]
+    },
+    {
+      "publication_name": "APP",
+      "publication_website_uri": "https://www.APP.com.pk",
+      "category": "News",
+      "publication_rss_feed_uris": [
+        {
+          "uri": "https://www.APP.com.pk/feed",
+          "gated": false,
+          "category": "News"
+        }
+      ]
+    },
+    {
+      "publication_name": "Pak Observer",
+      "publication_website_uri": "https://www.pakobserver.net",
+      "category": "News",
+      "publication_rss_feed_uris": [
+        {
+          "uri": "https://www.pakobserver.net/feed",
+          "gated": false,
+          "category": "News"
+        }
+      ]
+    },
+    {
+      "publication_name": "Daily Times",
+      "publication_website_uri": "https://dailytimes.com.pk/",
+      "category": "News",
+      "publication_rss_feed_uris": [
+        {
+          "uri": "https://dailytimes.com.pk/feed",
+          "gated": false,
+          "category": "News"
         }
       ]
     }
@@ -17232,6 +18418,78 @@
       "publication_rss_feed_uris": [
         {
           "uri": "http://www.slovenskenovice.si/rss"
+        }
+      ]
+    },
+    {
+      "publication_name": "Nova24TV",
+      "publication_website_uri": "https://www.nova24tv.si",
+      "category": "News",
+      "publication_rss_feed_uris": [
+        {
+          "uri": "https://www.nova24tv.si/rss",
+          "gated": false,
+          "category": "News"
+        }
+      ]
+    },
+    {
+      "publication_name": "24ur",
+      "publication_website_uri": "https://www.24ur.com",
+      "category": "News",
+      "publication_rss_feed_uris": [
+        {
+          "uri": "https://www.24ur.com/rss",
+          "gated": false,
+          "category": "News"
+        }
+      ]
+    },
+    {
+      "publication_name": "Novice.si",
+      "publication_website_uri": "https://www.novice.si",
+      "category": "News",
+      "publication_rss_feed_uris": [
+        {
+          "uri": "https://www.novice.si/rss",
+          "gated": false,
+          "category": "News"
+        }
+      ]
+    },
+    {
+      "publication_name": "Primorske novice",
+      "publication_website_uri": "https://www.primorske.si",
+      "category": "Regional News: Primorska",
+      "publication_rss_feed_uris": [
+        {
+          "uri": "https://www.primorske.si/rss.xml",
+          "gated": false,
+          "category": "Regional News: Primorska"
+        }
+      ]
+    },
+    {
+      "publication_name": "Gorenjski glas",
+      "publication_website_uri": "https://www.gorenjskiglas.si",
+      "category": "Regional News: Gorenjska",
+      "publication_rss_feed_uris": [
+        {
+          "uri": "https://www.gorenjskiglas.si/rss.xml",
+          "gated": false,
+          "category": "Regional News: Gorenjska"
+        }
+      ]
+    },
+    {
+      "publication_name": "Dnevnik",
+      "publication_website_uri": "https://www.dnevnik.si",
+      "category": "News",
+      "publication_rss_feed_uris": [
+        {
+          "uri": "https://www.dnevnik.si/rss.xml",
+          "gated": false,
+          "category": "News"
         }
       ]
     }
