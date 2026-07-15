@@ -7940,16 +7940,6 @@
   ],
   "GLOBAL": [
     {
-      "publication_name": "Android Developers - Medium",
-      "publication_website_uri": "https://medium.com/",
-      "publication_rss_feed_uris": [
-        {
-          "uri": "https://medium.com/feed/airbnb-engineering",
-          "category": "Programming"
-        }
-      ]
-    },
-    {
       "publication_name": "Jake Wharton",
       "publication_website_uri": "https://jakewharton.com/",
       "publication_rss_feed_uris": [
@@ -9402,202 +9392,12 @@
       ]
     },
     {
-      "publication_name": "Android Developers",
-      "publication_website_uri": "https://www.youtube.com/",
-      "publication_rss_feed_uris": [
-        {
-          "uri": "https://www.youtube.com/feeds/videos.xml?user=androiddevelopers",
-          "category": "Android Development"
-        }
-      ]
-    },
-    {
-      "publication_name": "Developing Android Apps",
-      "publication_website_uri": "https://reddit.com/",
-      "publication_rss_feed_uris": [
-        {
-          "uri": "https://reddit.com/r/androiddev.rss",
-          "category": "Android Development"
-        }
-      ]
-    },
-    {
-      "publication_name": "Android",
-      "publication_website_uri": "https://www.reddit.com/",
-      "publication_rss_feed_uris": [
-        {
-          "uri": "https://www.reddit.com/r/android/.rss",
-          "category": "Android"
-        }
-      ]
-    },
-    {
-      "publication_name": "Apple",
-      "publication_website_uri": "https://www.youtube.com/",
-      "publication_rss_feed_uris": [
-        {
-          "uri": "https://www.youtube.com/feeds/videos.xml?user=Apple",
-          "category": "Apple"
-        }
-      ]
-    },
-    {
-      "publication_name": "The unofficial Apple community",
-      "publication_website_uri": "https://www.reddit.com/",
-      "publication_rss_feed_uris": [
-        {
-          "uri": "https://www.reddit.com/r/apple/.rss",
-          "category": "Apple"
-        }
-      ]
-    },
-    {
-      "publication_name": "r/iPhone",
-      "publication_website_uri": "https://www.reddit.com/",
-      "publication_rss_feed_uris": [
-        {
-          "uri": "https://www.reddit.com/r/iphone/.rss",
-          "category": "Apple"
-        }
-      ]
-    },
-    {
-      "publication_name": "Architecture",
-      "publication_website_uri": "https://www.reddit.com/",
-      "publication_rss_feed_uris": [
-        {
-          "uri": "https://www.reddit.com/r/architecture/.rss",
-          "category": "Architecture"
-        }
-      ]
-    },
-    {
-      "publication_name": "Cricbuzz",
-      "publication_website_uri": "https://www.youtube.com/",
-      "publication_rss_feed_uris": [
-        {
-          "uri": "https://www.youtube.com/feeds/videos.xml?channel_id=UCSRQXk5yErn4e14vN76upOw",
-          "category": "Cricket"
-        }
-      ]
-    },
-    {
-      "publication_name": "Cricket",
-      "publication_website_uri": "https://www.reddit.com/",
-      "publication_rss_feed_uris": [
-        {
-          "uri": "https://www.reddit.com/r/Cricket/.rss",
-          "category": "Cricket"
-        }
-      ]
-    },
-    {
-      "publication_name": "England & Wales Cricket Board",
-      "publication_website_uri": "https://www.youtube.com/",
-      "publication_rss_feed_uris": [
-        {
-          "uri": "https://www.youtube.com/feeds/videos.xml?user=ecbcricket",
-          "category": "Cricket"
-        }
-      ]
-    },
-    {
-      "publication_name": "Pakistan Cricket",
-      "publication_website_uri": "https://www.youtube.com/",
-      "publication_rss_feed_uris": [
-        {
-          "uri": "https://www.youtube.com/feeds/videos.xml?channel_id=UCiWrjBhlICf_L_RK5y6Vrxw",
-          "category": "Cricket"
-        }
-      ]
-    },
-    {
-      "publication_name": "cricket.com.au",
-      "publication_website_uri": "https://www.youtube.com/",
-      "publication_rss_feed_uris": [
-        {
-          "uri": "https://www.youtube.com/feeds/videos.xml?user=cricketaustraliatv",
-          "category": "Cricket"
-        }
-      ]
-    },
-    {
-      "publication_name": "Babish Culinary Universe",
-      "publication_website_uri": "https://www.youtube.com/",
-      "publication_rss_feed_uris": [
-        {
-          "uri": "https://www.youtube.com/feeds/videos.xml?user=bgfilms",
-          "category": "Food"
-        }
-      ]
-    },
-    {
-      "publication_name": "Bon Appétit",
-      "publication_website_uri": "https://www.youtube.com/",
-      "publication_rss_feed_uris": [
-        {
-          "uri": "https://www.youtube.com/feeds/videos.xml?user=BonAppetitDotCom",
-          "category": "Food"
-        }
-      ]
-    },
-    {
       "publication_name": "500px",
       "publication_website_uri": "https://iso.500px.com/",
       "publication_rss_feed_uris": [
         {
           "uri": "https://iso.500px.com/feed/",
           "category": "Photography"
-        }
-      ]
-    },
-    {
-      "publication_name": "GaryVee",
-      "publication_website_uri": "https://www.youtube.com/",
-      "publication_rss_feed_uris": [
-        {
-          "uri": "https://www.youtube.com/feeds/videos.xml?user=GaryVaynerchuk",
-          "category": "Startups"
-        }
-      ]
-    },
-    {
-      "publication_name": "Marie Forleo",
-      "publication_website_uri": "https://www.youtube.com/",
-      "publication_rss_feed_uris": [
-        {
-          "uri": "https://www.youtube.com/feeds/videos.xml?user=marieforleo",
-          "category": "Startups"
-        }
-      ]
-    },
-    {
-      "publication_name": "CNET",
-      "publication_website_uri": "https://www.youtube.com/",
-      "publication_rss_feed_uris": [
-        {
-          "uri": "https://www.youtube.com/feeds/videos.xml?user=CNETTV",
-          "category": "Tech"
-        }
-      ]
-    },
-    {
-      "publication_name": "Linus Tech Tips",
-      "publication_website_uri": "https://www.youtube.com/",
-      "publication_rss_feed_uris": [
-        {
-          "uri": "https://www.youtube.com/feeds/videos.xml?user=LinusTechTips",
-          "category": "Tech"
-        }
-      ]
-    },
-    {
-      "publication_name": "The Verge",
-      "publication_website_uri": "https://www.youtube.com/",
-      "publication_rss_feed_uris": [
-        {
-          "uri": "https://www.youtube.com/feeds/videos.xml?user=TheVerge",
-          "category": "Tech"
         }
       ]
     }
@@ -23340,30 +23140,6 @@
       "publication_rss_feed_uris": [
         {
           "uri": "https://www.cnbc.com/id/100727362/device/rss/rss.html",
-          "gated": false,
-          "category": "News"
-        }
-      ]
-    },
-    {
-      "publication_name": "Top stories - Google News",
-      "publication_website_uri": "https://news.google.com/",
-      "category": "News",
-      "publication_rss_feed_uris": [
-        {
-          "uri": "https://news.google.com/rss",
-          "gated": false,
-          "category": "News"
-        }
-      ]
-    },
-    {
-      "publication_name": "Business Insider",
-      "publication_website_uri": "https://www.youtube.com/",
-      "category": "News",
-      "publication_rss_feed_uris": [
-        {
-          "uri": "https://www.youtube.com/feeds/videos.xml?user=businessinsider",
           "gated": false,
           "category": "News"
         }
