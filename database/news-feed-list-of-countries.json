@@ -495,15 +495,6 @@
       ]
     },
     {
-      "publication_name": "La Voz del Interior",
-      "publication_website_uri": "https://www.lavoz.com.ar/",
-      "publication_rss_feed_uris": [
-        {
-          "uri": "https://www.lavoz.com.ar/arc/outboundfeeds/feeds/rss/?outputType=xml"
-        }
-      ]
-    },
-    {
       "publication_name": "El dia",
       "publication_website_uri": "https://www.eldia.com/",
       "publication_rss_feed_uris": [
@@ -545,6 +536,30 @@
       "publication_rss_feed_uris": [
         {
           "uri": "https://buenosairesherald.com/feed/atom"
+        }
+      ]
+    },
+    {
+      "publication_name": "Diario San Juan",
+      "publication_website_uri": "https://diariosanjuan.com.ar",
+      "category": "Regional News: San Juan",
+      "publication_rss_feed_uris": [
+        {
+          "uri": "https://diariosanjuan.com.ar/feed/",
+          "gated": false,
+          "category": "Regional News: San Juan"
+        }
+      ]
+    },
+    {
+      "publication_name": "MisionesOnline",
+      "publication_website_uri": "https://misionesonline.net",
+      "category": "Regional News: Misiones",
+      "publication_rss_feed_uris": [
+        {
+          "uri": "https://misionesonline.net/feed/",
+          "gated": false,
+          "category": "Regional News: Misiones"
         }
       ]
     }
@@ -11082,10 +11097,6 @@
           "category": "Environment"
         },
         {
-          "uri": "http://timesofindia.indiatimes.com/rssfeeds/66949542.cms",
-          "category": "Tech"
-        },
-        {
           "uri": "http://timesofindia.indiatimes.com/rssfeeds/913168846.cms",
           "category": "Education"
         },
@@ -11116,14 +11127,6 @@
         {
           "uri": "http://timesofindia.indiatimes.com/rssfeeds/30359486.cms",
           "category": "US"
-        },
-        {
-          "uri": "http://timesofindia.indiatimes.com/rssfeeds/30359534.cms",
-          "category": "Pakistan"
-        },
-        {
-          "uri": "http://timesofindia.indiatimes.com/rssfeeds/3907412.cms",
-          "category": "South Asia"
         },
         {
           "uri": "http://timesofindia.indiatimes.com/rssfeeds/2177298.cms",
@@ -11222,283 +11225,11 @@
       ]
     },
     {
-      "publication_name": "Economic Times B2B",
-      "publication_website_uri": "https://b2b.economictimes.indiatimes.com/",
-      "publication_rss_feed_uris": [
-        {
-          "uri": "https://b2b.economictimes.indiatimes.com/rss/recentstories",
-          "category": "Recent Stories"
-        },
-        {
-          "uri": "https://b2b.economictimes.indiatimes.com/rss/entrepreneur",
-          "category": "Entrepreneur"
-        },
-        {
-          "uri": "https://b2b.economictimes.indiatimes.com/rss/infra",
-          "category": "Infra"
-        },
-        {
-          "uri": "https://b2b.economictimes.indiatimes.com/rss/travel",
-          "category": "Travel"
-        },
-        {
-          "uri": "https://b2b.economictimes.indiatimes.com/rss/hr",
-          "category": "HR"
-        },
-        {
-          "uri": "https://b2b.economictimes.indiatimes.com/rss/hospitality",
-          "category": "Hospitality"
-        },
-        {
-          "uri": "https://b2b.economictimes.indiatimes.com/rss/legal",
-          "category": "Legal"
-        },
-        {
-          "uri": "https://b2b.economictimes.indiatimes.com/rss/auto",
-          "category": "Auto"
-        },
-        {
-          "uri": "https://b2b.economictimes.indiatimes.com/rss/retail",
-          "category": "Retail"
-        },
-        {
-          "uri": "https://b2b.economictimes.indiatimes.com/rss/health",
-          "category": "Health"
-        },
-        {
-          "uri": "https://b2b.economictimes.indiatimes.com/rss/telecom",
-          "category": "Telecom"
-        },
-        {
-          "uri": "https://b2b.economictimes.indiatimes.com/rss/energy",
-          "category": "Energy"
-        },
-        {
-          "uri": "https://b2b.economictimes.indiatimes.com/rss/cio",
-          "category": "CIO"
-        },
-        {
-          "uri": "https://b2b.economictimes.indiatimes.com/rss/realty",
-          "category": "Realty"
-        },
-        {
-          "uri": "https://b2b.economictimes.indiatimes.com/rss/government",
-          "category": "Government"
-        },
-        {
-          "uri": "https://b2b.economictimes.indiatimes.com/rss/brand-equity",
-          "category": "BrandEquity"
-        },
-        {
-          "uri": "https://b2b.economictimes.indiatimes.com/rss/bfsi",
-          "category": "BFSI"
-        },
-        {
-          "uri": "https://b2b.economictimes.indiatimes.com/rss/ciso",
-          "category": "CISO"
-        },
-        {
-          "uri": "https://b2b.economictimes.indiatimes.com/rss/cfo",
-          "category": "CFO"
-        }
-      ]
-    },
-    {
       "publication_name": "India.com",
       "publication_website_uri": "http://india.com/",
       "publication_rss_feed_uris": [
         {
           "uri": "http://www.india.com/feed/"
-        }
-      ]
-    },
-    {
-      "publication_name": "News18",
-      "publication_website_uri": "https://www.news18.com/movies/",
-      "publication_rss_feed_uris": [
-        {
-          "uri": "https://www.news18.com/commonfeeds/v1/eng/rss/movies.xml",
-          "category": "Movies"
-        }
-      ]
-    },
-    {
-      "publication_name": "News18",
-      "publication_website_uri": "https://www.news18.com/india/",
-      "publication_rss_feed_uris": [
-        {
-          "uri": "https://www.news18.com/commonfeeds/v1/eng/rss/india.xml",
-          "category": "India"
-        }
-      ]
-    },
-    {
-      "publication_name": "News18",
-      "publication_website_uri": "https://www.news18.com/entertainment/",
-      "publication_rss_feed_uris": [
-        {
-          "uri": "https://www.news18.com/commonfeeds/v1/eng/rss/entertainment.xml",
-          "category": "Entertainment"
-        }
-      ]
-    },
-    {
-      "publication_name": "News18",
-      "publication_website_uri": "https://www.news18.com/politics/",
-      "publication_rss_feed_uris": [
-        {
-          "uri": "https://www.news18.com/commonfeeds/v1/eng/rss/politics.xml",
-          "category": "Politics"
-        }
-      ]
-    },
-    {
-      "publication_name": "News18",
-      "publication_website_uri": "https://www.news18.com/cricket/",
-      "publication_rss_feed_uris": [
-        {
-          "uri": "https://www.news18.com/commonfeeds/v1/eng/rss/cricket.xml",
-          "category": "Cricket"
-        }
-      ]
-    },
-    {
-      "publication_name": "News18",
-      "publication_website_uri": "https://www.news18.com/world/",
-      "publication_rss_feed_uris": [
-        {
-          "uri": "https://www.news18.com/commonfeeds/v1/eng/rss/world.xml",
-          "category": "World"
-        }
-      ]
-    },
-    {
-      "publication_name": "News18",
-      "publication_website_uri": "https://www.news18.com/business/",
-      "publication_rss_feed_uris": [
-        {
-          "uri": "https://www.news18.com/commonfeeds/v1/eng/rss/business.xml",
-          "category": "Business"
-        }
-      ]
-    },
-    {
-      "publication_name": "News18",
-      "publication_website_uri": "https://www.news18.com/education-career/",
-      "publication_rss_feed_uris": [
-        {
-          "uri": "https://www.news18.com/commonfeeds/v1/eng/rss/education-career.xml",
-          "category": "Education-Career"
-        }
-      ]
-    },
-    {
-      "publication_name": "News18",
-      "publication_website_uri": "https://www.news18.com/opinion/",
-      "publication_rss_feed_uris": [
-        {
-          "uri": "https://www.news18.com/commonfeeds/v1/eng/rss/opinion.xml",
-          "category": "Opinion"
-        }
-      ]
-    },
-    {
-      "publication_name": "News18",
-      "publication_website_uri": "https://www.news18.com/explainers/",
-      "publication_rss_feed_uris": [
-        {
-          "uri": "https://www.news18.com/commonfeeds/v1/eng/rss/explainers.xml",
-          "category": "Explainers"
-        }
-      ]
-    },
-    {
-      "publication_name": "News18",
-      "publication_website_uri": "https://www.news18.com/tech/",
-      "publication_rss_feed_uris": [
-        {
-          "uri": "https://www.news18.com/commonfeeds/v1/eng/rss/tech.xml",
-          "category": "Tech"
-        }
-      ]
-    },
-    {
-      "publication_name": "News18",
-      "publication_website_uri": "https://www.news18.com/auto/",
-      "publication_rss_feed_uris": [
-        {
-          "uri": "https://www.news18.com/commonfeeds/v1/eng/rss/auto.xml",
-          "category": "Auto"
-        }
-      ]
-    },
-    {
-      "publication_name": "News18",
-      "publication_website_uri": "https://www.news18.com/sports/",
-      "publication_rss_feed_uris": [
-        {
-          "uri": "https://www.news18.com/commonfeeds/v1/eng/rss/sports.xml",
-          "category": "Sports"
-        }
-      ]
-    },
-    {
-      "publication_name": "News18",
-      "publication_website_uri": "https://www.news18.com/football/",
-      "publication_rss_feed_uris": [
-        {
-          "uri": "https://www.news18.com/commonfeeds/v1/eng/rss/football.xml",
-          "category": "Football"
-        }
-      ]
-    },
-    {
-      "publication_name": "News18",
-      "publication_website_uri": "https://www.news18.com/astrology/",
-      "publication_rss_feed_uris": [
-        {
-          "uri": "https://www.news18.com/commonfeeds/v1/eng/rss/astrology.xml",
-          "category": "Astrology"
-        }
-      ]
-    },
-    {
-      "publication_name": "News18",
-      "publication_website_uri": "https://www.news18.com/web-stories/",
-      "publication_rss_feed_uris": [
-        {
-          "uri": "https://www.news18.com/commonfeeds/v1/eng/rss/web-stories.xml",
-          "category": "Web Stories"
-        }
-      ]
-    },
-    {
-      "publication_name": "News18",
-      "publication_website_uri": "https://www.news18.com/viral/",
-      "publication_rss_feed_uris": [
-        {
-          "uri": "https://www.news18.com/commonfeeds/v1/eng/rss/viral.xml",
-          "category": "Viral"
-        }
-      ]
-    },
-    {
-      "publication_name": "News18",
-      "publication_website_uri": "https://www.news18.com/elections/",
-      "publication_rss_feed_uris": [
-        {
-          "uri": "https://www.news18.com/commonfeeds/v1/eng/rss/elections.xml",
-          "category": "Elections"
-        }
-      ]
-    },
-    {
-      "publication_name": "News18",
-      "publication_website_uri": "https://www.news18.com/lifestyle/",
-      "publication_rss_feed_uris": [
-        {
-          "uri": "https://www.news18.com/commonfeeds/v1/eng/rss/lifestyle-2.xml",
-          "category": "Lifestyle"
         }
       ]
     },
@@ -11529,16 +11260,6 @@
         {
           "uri": "https://zeenews.india.com/rss/india-news.xml",
           "category": "States"
-        }
-      ]
-    },
-    {
-      "publication_name": "Zee News",
-      "publication_website_uri": "https://zeenews.india.com/asia",
-      "publication_rss_feed_uris": [
-        {
-          "uri": "https://zeenews.india.com/rss/asia-news.xml",
-          "category": "Asia"
         }
       ]
     },
@@ -11594,16 +11315,6 @@
     },
     {
       "publication_name": "Zee News",
-      "publication_website_uri": "https://zeenews.india.com/blogs",
-      "publication_rss_feed_uris": [
-        {
-          "uri": "https://zeenews.india.com/rss/blog-news.xml",
-          "category": "Blogs"
-        }
-      ]
-    },
-    {
-      "publication_name": "Zee News",
       "publication_website_uri": "https://zeenews.india.com/technology",
       "publication_rss_feed_uris": [
         {
@@ -11652,17 +11363,6 @@
         {
           "uri": "https://www.thehindu.com/news/international/feeder/default.rss",
           "category": "World",
-          "bot_protection": true
-        }
-      ]
-    },
-    {
-      "publication_name": "The Hindu",
-      "publication_website_uri": "https://www.thehindu.com/news/states/",
-      "publication_rss_feed_uris": [
-        {
-          "uri": "https://www.thehindu.com/news/states/feeder/default.rss",
-          "category": "States",
           "bot_protection": true
         }
       ]
@@ -11768,28 +11468,8 @@
           "category": "Cover Story"
         },
         {
-          "uri": "https://www.indiatoday.in/rss/1206610",
-          "category": "Glass House"
-        },
-        {
-          "uri": "https://www.indiatoday.in/rss/1206494",
-          "category": "Eyecatchers"
-        },
-        {
-          "uri": "https://www.indiatoday.in/rss/1206613",
-          "category": "Glossary"
-        },
-        {
-          "uri": "https://www.indiatoday.in/rss/1206584",
-          "category": "Top Stories"
-        },
-        {
           "uri": "https://www.indiatoday.in/rss/1206500",
           "category": "States"
-        },
-        {
-          "uri": "https://www.indiatoday.in/rss/1206513",
-          "category": "Economy"
         },
         {
           "uri": "https://www.indiatoday.in/rss/1206577",
@@ -11841,16 +11521,6 @@
         },
         {
           "uri": "https://www.bhaskar.com/rss-feed/1061/"
-        }
-      ]
-    },
-    {
-      "publication_name": "Dainik Bhaskar",
-      "publication_website_uri": "https://www.bhaskar.com/business/budget/",
-      "publication_rss_feed_uris": [
-        {
-          "uri": "https://www.bhaskar.com/rss-v1--category-14994.xml",
-          "category": "Budget 2025"
         }
       ]
     },
@@ -11961,16 +11631,6 @@
         {
           "uri": "https://www.bhaskar.com/rss-v1--category-1053.xml",
           "category": "Sports"
-        }
-      ]
-    },
-    {
-      "publication_name": "Dainik Bhaskar",
-      "publication_website_uri": "https://www.bhaskar.com/no-fake-news/",
-      "publication_rss_feed_uris": [
-        {
-          "uri": "https://www.bhaskar.com/rss-v1--category-10891.xml",
-          "category": "Fake News Expose"
         }
       ]
     },
@@ -12167,7 +11827,8 @@
       "publication_website_uri": "https://www.sebi.gov.in/",
       "publication_rss_feed_uris": [
         {
-          "uri": "https://www.sebi.gov.in/sebirss.xml"
+          "uri": "https://www.sebi.gov.in/sebirss.xml",
+          "gated": true
         }
       ]
     },
@@ -12177,15 +11838,6 @@
       "publication_rss_feed_uris": [
         {
           "uri": "https://timesofindia.indiatimes.com/rssfeedstopstories.cms"
-        }
-      ]
-    },
-    {
-      "publication_name": "Top World News- News18.com",
-      "publication_website_uri": "https://www.news18.com/",
-      "publication_rss_feed_uris": [
-        {
-          "uri": "https://www.news18.com/rss/world.xml"
         }
       ]
     },
@@ -12204,15 +11856,6 @@
       "publication_rss_feed_uris": [
         {
           "uri": "https://www.freepressjournal.in/stories.rss"
-        }
-      ]
-    },
-    {
-      "publication_name": "Deccan Chronicle - Latest India news | Breaking news | Hyderabad News | World news | Business news | Politics | Technology news",
-      "publication_website_uri": "https://www.deccanchronicle.com/",
-      "publication_rss_feed_uris": [
-        {
-          "uri": "https://www.deccanchronicle.com/rss_feed/"
         }
       ]
     },
@@ -12249,15 +11892,6 @@
       "publication_rss_feed_uris": [
         {
           "uri": "https://www.thehindubusinessline.com/feeder/default.rss"
-        }
-      ]
-    },
-    {
-      "publication_name": "Top Stories News - Gujarat Samachar : World's Leading Gujarati Newspaper",
-      "publication_website_uri": "https://www.gujaratsamachar.com/",
-      "publication_rss_feed_uris": [
-        {
-          "uri": "https://www.gujaratsamachar.com/rss/top-stories"
         }
       ]
     },
@@ -12321,6 +11955,354 @@
           "uri": "https://economictimes.indiatimes.com/rssfeedsdefault.cms",
           "gated": false,
           "category": "News"
+        }
+      ]
+    },
+    {
+      "publication_name": "Ei Samay",
+      "publication_website_uri": "https://eisamay.com",
+      "category": "Regional News: Bengal",
+      "publication_rss_feed_uris": [
+        {
+          "uri": "https://eisamay.com/feed",
+          "gated": false,
+          "category": "Regional News: Bengal"
+        }
+      ]
+    },
+    {
+      "publication_name": "Sambad",
+      "publication_website_uri": "https://sambad.in",
+      "category": "Regional News: Odisha",
+      "publication_rss_feed_uris": [
+        {
+          "uri": "https://sambad.in/rss",
+          "gated": false,
+          "category": "Regional News: Odisha"
+        }
+      ]
+    },
+    {
+      "publication_name": "Asomiya Pratidin",
+      "publication_website_uri": "https://www.asomiyapratidin.in",
+      "category": "Regional News: Assam",
+      "publication_rss_feed_uris": [
+        {
+          "uri": "https://www.asomiyapratidin.in/rss",
+          "gated": false,
+          "category": "Regional News: Assam"
+        }
+      ]
+    },
+    {
+      "publication_name": "Pratidin Time",
+      "publication_website_uri": "https://www.pratidintime.com",
+      "category": "Regional News: Assam",
+      "publication_rss_feed_uris": [
+        {
+          "uri": "https://www.pratidintime.com/rss",
+          "gated": false,
+          "category": "Regional News: Assam"
+        }
+      ]
+    },
+    {
+      "publication_name": "Sangbad Pratidin",
+      "publication_website_uri": "https://sangbadpratidin.in",
+      "category": "Regional News: Odisha",
+      "publication_rss_feed_uris": [
+        {
+          "uri": "https://sangbadpratidin.in/feed",
+          "gated": true,
+          "category": "Regional News: Odisha"
+        }
+      ]
+    },
+    {
+      "publication_name": "Prabhat Khabar",
+      "publication_website_uri": "https://www.prabhatkhabar.com/",
+      "category": "Regional News: Jharkhand",
+      "publication_rss_feed_uris": [
+        {
+          "uri": "https://www.prabhatkhabar.com/feed",
+          "gated": false,
+          "category": "Regional News: Jharkhand"
+        }
+      ]
+    },
+    {
+      "publication_name": "The Hindi Print (TheHint)",
+      "publication_website_uri": "https://hindi.theprint.in/",
+      "category": "News",
+      "publication_rss_feed_uris": [
+        {
+          "uri": "https://hindi.theprint.in/feed",
+          "gated": false,
+          "category": "News"
+        }
+      ]
+    },
+    {
+      "publication_name": "The Hindu",
+      "publication_website_uri": "https://www.thehindu.com/",
+      "category": "News",
+      "publication_rss_feed_uris": [
+        {
+          "uri": "https://www.thehindu.com/news/?service=rss",
+          "gated": false,
+          "category": "News"
+        }
+      ]
+    },
+    {
+      "publication_name": "The News Minute",
+      "publication_website_uri": "https://www.thenewsminute.com/",
+      "category": "News",
+      "publication_rss_feed_uris": [
+        {
+          "uri": "https://www.thenewsminute.com/feed",
+          "gated": false,
+          "category": "News"
+        }
+      ]
+    },
+    {
+      "publication_name": "Greater Kashmir",
+      "publication_website_uri": "https://www.greaterkashmir.com",
+      "category": "Regional News: Jammu and Kashmir",
+      "publication_rss_feed_uris": [
+        {
+          "uri": "https://www.greaterkashmir.com/rss",
+          "gated": false,
+          "category": "Regional News: Jammu and Kashmir"
+        }
+      ]
+    },
+    {
+      "publication_name": "Kashmir Observer",
+      "publication_website_uri": "https://kashmirobserver.net",
+      "category": "Regional News: Jammu and Kashmir",
+      "publication_rss_feed_uris": [
+        {
+          "uri": "https://kashmirobserver.net/feed/",
+          "gated": false,
+          "category": "Regional News: Jammu and Kashmir"
+        }
+      ]
+    },
+    {
+      "publication_name": "Rising Kashmir",
+      "publication_website_uri": "https://risingkashmir.com",
+      "category": "Regional News: Jammu and Kashmir",
+      "publication_rss_feed_uris": [
+        {
+          "uri": "https://risingkashmir.com/feed",
+          "gated": false,
+          "category": "Regional News: Jammu and Kashmir"
+        }
+      ]
+    },
+    {
+      "publication_name": "Punjab Kesari",
+      "publication_website_uri": "https://www.punjabkesari.com",
+      "category": "Regional News: Punjab",
+      "publication_rss_feed_uris": [
+        {
+          "uri": "https://www.punjabkesari.com/feed",
+          "gated": false,
+          "category": "Regional News: Punjab"
+        }
+      ]
+    },
+    {
+      "publication_name": "Uttarakhand Live",
+      "publication_website_uri": "https://www.uttarakhandlive.com",
+      "category": "Regional News: Uttarakhand",
+      "publication_rss_feed_uris": [
+        {
+          "uri": "https://www.uttarakhandlive.com/feed",
+          "gated": false,
+          "category": "Regional News: Uttarakhand"
+        }
+      ]
+    },
+    {
+      "publication_name": "Organiser",
+      "publication_website_uri": "https://organiser.org",
+      "category": "News",
+      "publication_rss_feed_uris": [
+        {
+          "uri": "https://www.organiser.org/rss",
+          "gated": true,
+          "category": "News"
+        }
+      ]
+    },
+    {
+      "publication_name": "Nagaland Post",
+      "publication_website_uri": "https://nagalandpost.com",
+      "category": "Regional News: Nagaland",
+      "publication_rss_feed_uris": [
+        {
+          "uri": "https://nagalandpost.com/feed/",
+          "gated": false,
+          "category": "Regional News: Nagaland"
+        }
+      ]
+    },
+    {
+      "publication_name": "Mizoram Post",
+      "publication_website_uri": "https://www.mizorampost.com",
+      "category": "Regional News: Mizoram",
+      "publication_rss_feed_uris": [
+        {
+          "uri": "https://www.mizorampost.com/feed",
+          "gated": false,
+          "category": "Regional News: Mizoram"
+        }
+      ]
+    },
+    {
+      "publication_name": "Tripura Post",
+      "publication_website_uri": "https://tripurapost.com",
+      "category": "Regional News: Tripura",
+      "publication_rss_feed_uris": [
+        {
+          "uri": "https://tripurapost.com/feed/",
+          "gated": false,
+          "category": "Regional News: Tripura"
+        }
+      ]
+    },
+    {
+      "publication_name": "Vaartha",
+      "publication_website_uri": "https://vaartha.com",
+      "category": "Regional News: Telangana",
+      "publication_rss_feed_uris": [
+        {
+          "uri": "https://vaartha.com/feed",
+          "gated": false,
+          "category": "Regional News: Telangana"
+        }
+      ]
+    },
+    {
+      "publication_name": "Great Andhra",
+      "publication_website_uri": "https://www.greatandhra.com",
+      "category": "Regional News: Andhra Pradesh",
+      "publication_rss_feed_uris": [
+        {
+          "uri": "https://www.greatandhra.com/feed",
+          "gated": false,
+          "category": "Regional News: Andhra Pradesh"
+        }
+      ]
+    },
+    {
+      "publication_name": "Telugu Bulletin",
+      "publication_website_uri": "https://www.telugubulletin.com",
+      "category": "Regional News: Telangana",
+      "publication_rss_feed_uris": [
+        {
+          "uri": "https://www.telugubulletin.com/feed",
+          "gated": false,
+          "category": "Regional News: Telangana"
+        }
+      ]
+    },
+    {
+      "publication_name": "123 Telugu",
+      "publication_website_uri": "https://www.123telugu.com",
+      "category": "Regional News: Telangana",
+      "publication_rss_feed_uris": [
+        {
+          "uri": "https://www.123telugu.com/feed",
+          "gated": false,
+          "category": "Regional News: Telangana"
+        }
+      ]
+    },
+    {
+      "publication_name": "Prajavani",
+      "publication_website_uri": "https://www.prajavani.net",
+      "category": "Regional News: Karnataka",
+      "publication_rss_feed_uris": [
+        {
+          "uri": "https://www.prajavani.net/feed/",
+          "gated": false,
+          "category": "Regional News: Karnataka"
+        }
+      ]
+    },
+    {
+      "publication_name": "Kannada Prabha",
+      "publication_website_uri": "https://www.kannadaprabha.com",
+      "category": "Regional News: Karnataka",
+      "publication_rss_feed_uris": [
+        {
+          "uri": "https://www.kannadaprabha.com/feed/",
+          "gated": false,
+          "category": "Regional News: Karnataka"
+        }
+      ]
+    },
+    {
+      "publication_name": "Deccan Herald",
+      "publication_website_uri": "https://www.deccanherald.com",
+      "category": "News",
+      "publication_rss_feed_uris": [
+        {
+          "uri": "https://www.deccanherald.com/feed/",
+          "gated": false,
+          "category": "News"
+        }
+      ]
+    },
+    {
+      "publication_name": "The Hindu - Karnataka",
+      "publication_website_uri": "https://www.thehindu.com",
+      "category": "Regional News: Karnataka",
+      "publication_rss_feed_uris": [
+        {
+          "uri": "https://www.thehindu.com/news/national/karnataka/?service=rss",
+          "gated": false,
+          "category": "Regional News: Karnataka"
+        }
+      ]
+    },
+    {
+      "publication_name": "New Indian Express",
+      "publication_website_uri": "https://www.newindianexpress.com",
+      "category": "News",
+      "publication_rss_feed_uris": [
+        {
+          "uri": "https://www.newindianexpress.com/feed/",
+          "gated": false,
+          "category": "News"
+        }
+      ]
+    },
+    {
+      "publication_name": "The Hindu - Tamil Nadu Edition",
+      "publication_website_uri": "https://www.thehindu.com",
+      "category": "Regional News: Tamil Nadu",
+      "publication_rss_feed_uris": [
+        {
+          "uri": "https://www.thehindu.com/news/national/tamil-nadu/?service=rss",
+          "gated": false,
+          "category": "Regional News: Tamil Nadu"
+        }
+      ]
+    },
+    {
+      "publication_name": "Vikatan",
+      "publication_website_uri": "https://www.vikatan.com",
+      "category": "Regional News: Tamil Nadu",
+      "publication_rss_feed_uris": [
+        {
+          "uri": "https://www.vikatan.com/feed/",
+          "gated": false,
+          "category": "Regional News: Tamil Nadu"
         }
       ]
     }
@@ -20514,29 +20496,11 @@
       ]
     },
     {
-      "publication_name": "Lenta.ru",
-      "publication_website_uri": "http://lenta.ru/",
-      "publication_rss_feed_uris": [
-        {
-          "uri": "http://lenta.ru/rss/"
-        }
-      ]
-    },
-    {
       "publication_name": "Utro.ru",
       "publication_website_uri": "http://utro.ru/",
       "publication_rss_feed_uris": [
         {
           "uri": "http://www.utro.ru/export/rss2.xml"
-        }
-      ]
-    },
-    {
-      "publication_name": "RG.ru Rossiyskaya Gazeta",
-      "publication_website_uri": "http://rg.ru/",
-      "publication_rss_feed_uris": [
-        {
-          "uri": "http://www.rg.ru/xml/index.xml"
         }
       ]
     },
@@ -20581,7 +20545,8 @@
       "publication_website_uri": "https://www.mk.ru/",
       "publication_rss_feed_uris": [
         {
-          "uri": "https://www.mk.ru/rss/index.xml"
+          "uri": "https://www.mk.ru/rss/index.xml",
+          "gated": true
         }
       ]
     },
@@ -20591,15 +20556,6 @@
       "publication_rss_feed_uris": [
         {
           "uri": "https://rg.ru/xml/index.xml"
-        }
-      ]
-    },
-    {
-      "publication_name": "NEWSru.com :: Главные новости",
-      "publication_website_uri": "https://rss.newsru.com/",
-      "publication_rss_feed_uris": [
-        {
-          "uri": "https://rss.newsru.com/top/big/"
         }
       ]
     },
@@ -20645,6 +20601,95 @@
       "publication_rss_feed_uris": [
         {
           "uri": "https://www.pravdareport.com/export.xml"
+        }
+      ]
+    },
+    {
+      "publication_name": "Vedomosti",
+      "publication_website_uri": "https://vedomosti.ru",
+      "category": "News",
+      "publication_rss_feed_uris": [
+        {
+          "uri": "https://vedomosti.ru/rss/news",
+          "gated": false,
+          "category": "News"
+        }
+      ]
+    },
+    {
+      "publication_name": "Mail.ru News",
+      "publication_website_uri": "https://news.mail.ru",
+      "category": "News",
+      "publication_rss_feed_uris": [
+        {
+          "uri": "https://news.mail.ru/rss",
+          "gated": true,
+          "category": "News"
+        }
+      ]
+    },
+    {
+      "publication_name": "TVCentr",
+      "publication_website_uri": "https://tvcenter.ru",
+      "category": "News",
+      "publication_rss_feed_uris": [
+        {
+          "uri": "https://tvcenter.ru/rss",
+          "gated": false,
+          "category": "News"
+        }
+      ]
+    },
+    {
+      "publication_name": "REGNUM",
+      "publication_website_uri": "https://regnum.ru",
+      "category": "News",
+      "publication_rss_feed_uris": [
+        {
+          "uri": "https://regnum.ru/rss",
+          "gated": false,
+          "category": "News"
+        }
+      ]
+    },
+    {
+      "publication_name": "Yakutia.Info",
+      "publication_website_uri": "https://yakutia.info",
+      "category": "Regional News: Yakutia",
+      "publication_rss_feed_uris": [
+        {
+          "uri": "https://yakutia.info/feed",
+          "gated": false,
+          "category": "Regional News: Yakutia"
+        }
+      ]
+    },
+    {
+      "publication_name": "НИА Нижний Новгород (Nizhny Novgorod News Agency)",
+      "publication_website_uri": "https://niann.ru",
+      "category": "Regional News: Nizhny Novgorod",
+      "publication_rss_feed_uris": [
+        {
+          "uri": "https://niann.ru/rss",
+          "gated": false,
+          "category": "Regional News: Nizhny Novgorod"
+        }
+      ]
+    },
+    {
+      "publication_name": "66.RU",
+      "publication_website_uri": "https://66.ru",
+      "category": "Regional News: Sverdlovsk",
+      "publication_rss_feed_uris": [
+        {
+          "uri": "https://66.ru/feed",
+          "gated": false,
+          "category": "Regional News: Sverdlovsk"
+        },
+        {
+          "uri": "https://66.ru/rss",
+          "gated": false,
+          "category": "Regional News: Sverdlovsk"
         }
       ]
     }
@@ -22401,15 +22446,6 @@
       ]
     },
     {
-      "publication_name": "En Son Haber",
-      "publication_website_uri": "http://ensonhaber.com/",
-      "publication_rss_feed_uris": [
-        {
-          "uri": "http://www.ensonhaber.com/rss.xml"
-        }
-      ]
-    },
-    {
       "publication_name": "FotoMac",
       "publication_website_uri": "http://fotomac.com.tr/",
       "publication_rss_feed_uris": [
@@ -22464,15 +22500,6 @@
       ]
     },
     {
-      "publication_name": "Aktif Haber",
-      "publication_website_uri": "http://www.aktifhaber.com",
-      "publication_rss_feed_uris": [
-        {
-          "uri": "http://www.aktifhaber.com/rss/"
-        }
-      ]
-    },
-    {
       "publication_name": "Bursa Haber",
       "publication_website_uri": "https://www.bursahaber.com",
       "category": "Regional News: Bursa",
@@ -22493,6 +22520,42 @@
           "uri": "https://www.bursagundem.com/rss.xml",
           "gated": false,
           "category": "Regional News: Bursa"
+        }
+      ]
+    },
+    {
+      "publication_name": "Akşam",
+      "publication_website_uri": "https://www.aksam.com.tr",
+      "category": "News",
+      "publication_rss_feed_uris": [
+        {
+          "uri": "https://www.aksam.com.tr/rss",
+          "gated": false,
+          "category": "News"
+        }
+      ]
+    },
+    {
+      "publication_name": "Türkiye Gazetesi",
+      "publication_website_uri": "https://www.turkiyegazetesi.com.tr",
+      "category": "News",
+      "publication_rss_feed_uris": [
+        {
+          "uri": "https://www.turkiyegazetesi.com.tr/rss",
+          "gated": false,
+          "category": "News"
+        }
+      ]
+    },
+    {
+      "publication_name": "Milliyet",
+      "publication_website_uri": "https://www.milliyet.com.tr",
+      "category": "News",
+      "publication_rss_feed_uris": [
+        {
+          "uri": "https://www.milliyet.com.tr/rss/gundem.xml",
+          "gated": false,
+          "category": "News"
         }
       ]
     }
@@ -22803,6 +22866,138 @@
       "publication_rss_feed_uris": [
         {
           "uri": "https://gazeta.ua/rss"
+        }
+      ]
+    },
+    {
+      "publication_name": "1+1 Media",
+      "publication_website_uri": "https://1plus1.ua",
+      "category": "News",
+      "publication_rss_feed_uris": [
+        {
+          "uri": "https://1plus1.ua/rss",
+          "gated": false,
+          "category": "News"
+        }
+      ]
+    },
+    {
+      "publication_name": "Kyiv Post",
+      "publication_website_uri": "https://kyivpost.com",
+      "category": "News",
+      "publication_rss_feed_uris": [
+        {
+          "uri": "https://kyivpost.com/feed",
+          "gated": false,
+          "category": "News"
+        }
+      ]
+    },
+    {
+      "publication_name": "24 Channel",
+      "publication_website_uri": "https://24tv.ua",
+      "category": "News",
+      "publication_rss_feed_uris": [
+        {
+          "uri": "https://24tv.ua/rss",
+          "gated": false,
+          "category": "News"
+        }
+      ]
+    },
+    {
+      "publication_name": "Insider.ua",
+      "publication_website_uri": "https://www.insider.ua",
+      "category": "News",
+      "publication_rss_feed_uris": [
+        {
+          "uri": "https://www.insider.ua/feed",
+          "gated": false,
+          "category": "News"
+        }
+      ]
+    },
+    {
+      "publication_name": "NewsUA.biz",
+      "publication_website_uri": "https://newsua.biz",
+      "category": "News",
+      "publication_rss_feed_uris": [
+        {
+          "uri": "https://newsua.biz/rss",
+          "gated": false,
+          "category": "News"
+        }
+      ]
+    },
+    {
+      "publication_name": "GK Press (Ivano-Frankivsk)",
+      "publication_website_uri": "https://gk-press.if.ua",
+      "category": "Regional News: Ivano-Frankivsk",
+      "publication_rss_feed_uris": [
+        {
+          "uri": "https://gk-press.if.ua/rss",
+          "gated": false,
+          "category": "Regional News: Ivano-Frankivsk"
+        }
+      ]
+    },
+    {
+      "publication_name": "Dumskaya.net (Odesa)",
+      "publication_website_uri": "https://www.dumskaya.net",
+      "category": "Regional News: Odesa",
+      "publication_rss_feed_uris": [
+        {
+          "uri": "https://www.dumskaya.net/rss",
+          "gated": false,
+          "category": "Regional News: Odesa"
+        }
+      ]
+    },
+    {
+      "publication_name": "Zhitomir-Online",
+      "publication_website_uri": "https://zhitomir-online.com",
+      "category": "Regional News: Zhitomir",
+      "publication_rss_feed_uris": [
+        {
+          "uri": "https://zhitomir-online.com/rss",
+          "gated": false,
+          "category": "Regional News: Zhitomir"
+        }
+      ]
+    },
+    {
+      "publication_name": "Zaxid.net",
+      "publication_website_uri": "https://zaxid.net",
+      "category": "Regional News: Western Ukraine",
+      "publication_rss_feed_uris": [
+        {
+          "uri": "https://zaxid.net/rss",
+          "gated": false,
+          "category": "Regional News: Western Ukraine"
+        }
+      ]
+    },
+    {
+      "publication_name": "Inform.zp (Zaporizhzhia)",
+      "publication_website_uri": "https://inform.zp.ua",
+      "category": "Regional News: Zaporizhzhia",
+      "publication_rss_feed_uris": [
+        {
+          "uri": "https://inform.zp.ua/rss",
+          "gated": false,
+          "category": "Regional News: Zaporizhzhia"
+        }
+      ]
+    },
+    {
+      "publication_name": "Kyiv.News",
+      "publication_website_uri": "https://kyiv.news",
+      "category": "Regional News: Kyiv",
+      "publication_rss_feed_uris": [
+        {
+          "uri": "https://kyiv.news/rss",
+          "gated": false,
+          "category": "Regional News: Kyiv"
         }
       ]
     }
