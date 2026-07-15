@@ -11300,5 +11300,29 @@
         }
       ]
     }
+  ],
+  "ALA": [
+    {
+      "publication_name": "Nya Åland",
+      "publication_website_uri": "https://www.nyan.ax",
+      "category": "News",
+      "publication_rss_feed_uris": [
+        {
+          "uri": "https://www.nyan.ax/feed/",
+          "gated": false
+        }
+      ]
+    },
+    {
+      "publication_name": "Ålands Sjöfart",
+      "publication_website_uri": "https://www.sjofart.ax",
+      "category": "News",
+      "publication_rss_feed_uris": [
+        {
+          "uri": "https://www.sjofart.ax/feed/",
+          "gated": false
+        }
+      ]
+    }
   ]
 }
