@@ -1356,15 +1356,6 @@
       ]
     },
     {
-      "publication_name": "24 Chasa",
-      "publication_website_uri": "http://24chasa.bg/",
-      "publication_rss_feed_uris": [
-        {
-          "uri": "http://www.24chasa.bg/RSS.asp"
-        }
-      ]
-    },
-    {
       "publication_name": "Dnevnik",
       "publication_website_uri": "http://dnevnik.bg/",
       "publication_rss_feed_uris": [
@@ -1388,6 +1379,126 @@
       "publication_rss_feed_uris": [
         {
           "uri": "http://gong.bg/rss.php"
+        }
+      ]
+    },
+    {
+      "publication_name": "Mediapool.bg",
+      "publication_website_uri": "https://www.mediapool.bg",
+      "category": "News",
+      "publication_rss_feed_uris": [
+        {
+          "uri": "https://www.mediapool.bg/rss",
+          "gated": false,
+          "category": "News"
+        }
+      ]
+    },
+    {
+      "publication_name": "Standar News",
+      "publication_website_uri": "https://www.standartnews.com",
+      "category": "News",
+      "publication_rss_feed_uris": [
+        {
+          "uri": "https://www.standartnews.com/rss",
+          "gated": false,
+          "category": "News"
+        }
+      ]
+    },
+    {
+      "publication_name": "E-Vestnik",
+      "publication_website_uri": "https://www.e-vestnik.bg",
+      "category": "News",
+      "publication_rss_feed_uris": [
+        {
+          "uri": "https://www.e-vestnik.bg/rss",
+          "gated": false,
+          "category": "News"
+        }
+      ]
+    },
+    {
+      "publication_name": "Pravda",
+      "publication_website_uri": "https://www.pravda.bg",
+      "category": "News",
+      "publication_rss_feed_uris": [
+        {
+          "uri": "https://www.pravda.bg/rss",
+          "gated": false,
+          "category": "News"
+        }
+      ]
+    },
+    {
+      "publication_name": "Glas.bg",
+      "publication_website_uri": "https://www.glas.bg",
+      "category": "News",
+      "publication_rss_feed_uris": [
+        {
+          "uri": "https://www.glas.bg/rss",
+          "gated": false,
+          "category": "News"
+        }
+      ]
+    },
+    {
+      "publication_name": "Novinar.bg",
+      "publication_website_uri": "https://www.novinar.bg",
+      "category": "News",
+      "publication_rss_feed_uris": [
+        {
+          "uri": "https://www.novinar.bg/rss",
+          "gated": false,
+          "category": "News"
+        }
+      ]
+    },
+    {
+      "publication_name": "BNews",
+      "publication_website_uri": "https://www.bnews.bg",
+      "category": "News",
+      "publication_rss_feed_uris": [
+        {
+          "uri": "https://www.bnews.bg/rss",
+          "gated": false,
+          "category": "News"
+        }
+      ]
+    },
+    {
+      "publication_name": "RBB",
+      "publication_website_uri": "https://rbb.bg",
+      "category": "News",
+      "publication_rss_feed_uris": [
+        {
+          "uri": "https://rbb.bg/rss",
+          "gated": false,
+          "category": "News"
+        }
+      ]
+    },
+    {
+      "publication_name": "Actualno",
+      "publication_website_uri": "https://www.actualno.com",
+      "category": "News",
+      "publication_rss_feed_uris": [
+        {
+          "uri": "https://www.actualno.com/rss",
+          "gated": false,
+          "category": "News"
+        }
+      ]
+    },
+    {
+      "publication_name": "Sportal.bg",
+      "publication_website_uri": "https://www.sportal.bg",
+      "category": "Sports",
+      "publication_rss_feed_uris": [
+        {
+          "uri": "https://www.sportal.bg/rss",
+          "gated": false,
+          "category": "Sports"
         }
       ]
     }
@@ -1512,6 +1623,258 @@
       "publication_rss_feed_uris": [
         {
           "uri": "https://n1info.ba/feed/"
+        }
+      ]
+    },
+    {
+      "publication_name": "Vijesti",
+      "publication_website_uri": "https://www.vijesti.ba",
+      "category": "News",
+      "publication_rss_feed_uris": [
+        {
+          "uri": "https://www.vijesti.ba/rss",
+          "gated": false,
+          "category": "News"
+        }
+      ]
+    },
+    {
+      "publication_name": "Fokus",
+      "publication_website_uri": "https://www.fokus.ba",
+      "category": "News",
+      "publication_rss_feed_uris": [
+        {
+          "uri": "https://www.fokus.ba/rss",
+          "gated": false,
+          "category": "News"
+        }
+      ]
+    },
+    {
+      "publication_name": "24sata",
+      "publication_website_uri": "https://24sata.info",
+      "category": "News",
+      "publication_rss_feed_uris": [
+        {
+          "uri": "https://24sata.info/rss",
+          "gated": false,
+          "category": "News"
+        }
+      ]
+    },
+    {
+      "publication_name": "Capital",
+      "publication_website_uri": "https://capital.ba",
+      "category": "News",
+      "publication_rss_feed_uris": [
+        {
+          "uri": "https://capital.ba/rss",
+          "gated": false,
+          "category": "News"
+        }
+      ]
+    },
+    {
+      "publication_name": "FENA",
+      "publication_website_uri": "https://fena.ba",
+      "category": "News",
+      "publication_rss_feed_uris": [
+        {
+          "uri": "https://fena.ba/rss",
+          "gated": false,
+          "category": "News"
+        }
+      ]
+    },
+    {
+      "publication_name": "6yka",
+      "publication_website_uri": "https://6yka.com",
+      "category": "News",
+      "publication_rss_feed_uris": [
+        {
+          "uri": "https://6yka.com/rss",
+          "gated": false,
+          "category": "News"
+        }
+      ]
+    },
+    {
+      "publication_name": "Haber",
+      "publication_website_uri": "https://www.haber.ba",
+      "category": "News",
+      "publication_rss_feed_uris": [
+        {
+          "uri": "https://www.haber.ba/rss",
+          "gated": false,
+          "category": "News"
+        }
+      ]
+    },
+    {
+      "publication_name": "Pogled",
+      "publication_website_uri": "https://pogled.ba",
+      "category": "News",
+      "publication_rss_feed_uris": [
+        {
+          "uri": "https://pogled.ba/rss",
+          "gated": false,
+          "category": "News"
+        }
+      ]
+    },
+    {
+      "publication_name": "Poskok",
+      "publication_website_uri": "https://poskok.info",
+      "category": "News",
+      "publication_rss_feed_uris": [
+        {
+          "uri": "https://poskok.info/rss",
+          "gated": false,
+          "category": "News"
+        }
+      ]
+    },
+    {
+      "publication_name": "Akta",
+      "publication_website_uri": "https://www.akta.ba",
+      "category": "News",
+      "publication_rss_feed_uris": [
+        {
+          "uri": "https://www.akta.ba/rss",
+          "gated": false,
+          "category": "News"
+        }
+      ]
+    },
+    {
+      "publication_name": "Sportsport",
+      "publication_website_uri": "https://sportsport.ba",
+      "category": "News",
+      "publication_rss_feed_uris": [
+        {
+          "uri": "https://sportsport.ba/feed",
+          "gated": false,
+          "category": "News"
+        }
+      ]
+    },
+    {
+      "publication_name": "Glas Srpske",
+      "publication_website_uri": "https://www.glassrpske.com",
+      "category": "News",
+      "publication_rss_feed_uris": [
+        {
+          "uri": "https://www.glassrpske.com/rss",
+          "gated": false,
+          "category": "News"
+        }
+      ]
+    },
+    {
+      "publication_name": "Vecernji",
+      "publication_website_uri": "https://www.vecernji.ba",
+      "category": "News",
+      "publication_rss_feed_uris": [
+        {
+          "uri": "https://www.vecernji.ba/rss",
+          "gated": false,
+          "category": "News"
+        }
+      ]
+    },
+    {
+      "publication_name": "Tip",
+      "publication_website_uri": "https://tip.ba",
+      "category": "News",
+      "publication_rss_feed_uris": [
+        {
+          "uri": "https://tip.ba/rss",
+          "gated": false,
+          "category": "News"
+        }
+      ]
+    },
+    {
+      "publication_name": "Nasarijec",
+      "publication_website_uri": "https://nasarijec.ba",
+      "category": "Regional News: Sarajevo",
+      "publication_rss_feed_uris": [
+        {
+          "uri": "https://nasarijec.ba/rss",
+          "gated": false,
+          "category": "Regional News: Sarajevo"
+        }
+      ]
+    },
+    {
+      "publication_name": "Hrvatska Rijec",
+      "publication_website_uri": "https://www.hrvatskarijec.rs",
+      "category": "Regional News: Croatian Diaspora",
+      "publication_rss_feed_uris": [
+        {
+          "uri": "https://www.hrvatskarijec.rs/feed",
+          "gated": false,
+          "category": "Regional News: Croatian Diaspora"
+        }
+      ]
+    },
+    {
+      "publication_name": "BH-Index",
+      "publication_website_uri": "https://www.bh-index.com",
+      "category": "News",
+      "publication_rss_feed_uris": [
+        {
+          "uri": "https://www.bh-index.com/rss",
+          "gated": false,
+          "category": "News"
+        }
+      ]
+    },
+    {
+      "publication_name": "Krupljani",
+      "publication_website_uri": "https://www.krupljani.ba",
+      "category": "Regional News: Central Bosnia",
+      "publication_rss_feed_uris": [
+        {
+          "uri": "https://www.krupljani.ba/rss",
+          "gated": false,
+          "category": "Regional News: Central Bosnia"
+        }
+      ]
+    },
+    {
+      "publication_name": "Mojusk",
+      "publication_website_uri": "https://mojusk.ba",
+      "category": "Regional News: Travnik",
+      "publication_rss_feed_uris": [
+        {
+          "uri": "https://mojusk.ba/rss",
+          "gated": false,
+          "category": "Regional News: Travnik"
+        }
+      ]
+    },
+    {
+      "publication_name": "Krajina",
+      "publication_website_uri": "https://krajina.ba",
+      "category": "Regional News: Banja Luka",
+      "publication_rss_feed_uris": [
+        {
+          "uri": "https://krajina.ba/feed/",
+          "gated": false,
+          "category": "Regional News: Banja Luka"
+        }
+      ]
+    },
+    {
+      "publication_name": "Zenicablog",
+      "publication_website_uri": "https://www.zenicablog.com",
+      "category": "Regional News: Zenica",
+      "publication_rss_feed_uris": [
+        {
+          "uri": "https://www.zenicablog.com/rss",
+          "gated": false,
+          "category": "Regional News: Zenica"
         }
       ]
     }
@@ -2289,42 +2652,6 @@
   ],
   "CHN": [
     {
-      "publication_name": "Xinhua - World",
-      "publication_website_uri": "https://english.news.cn/",
-      "publication_rss_feed_uris": [
-        {
-          "uri": "http://www.xinhuanet.com/english/rss/worldrss.xml"
-        }
-      ]
-    },
-    {
-      "publication_name": "Xinhua - China",
-      "publication_website_uri": "https://english.news.cn/",
-      "publication_rss_feed_uris": [
-        {
-          "uri": "http://www.xinhuanet.com/english/rss/chinarss.xml"
-        }
-      ]
-    },
-    {
-      "publication_name": "Xinhua - Business",
-      "publication_website_uri": "https://english.news.cn/",
-      "publication_rss_feed_uris": [
-        {
-          "uri": "http://www.xinhuanet.com/english/rss/businessrss.xml"
-        }
-      ]
-    },
-    {
-      "publication_name": "Xinhua - Sci & Tech",
-      "publication_website_uri": "https://english.news.cn/",
-      "publication_rss_feed_uris": [
-        {
-          "uri": "http://www.xinhuanet.com/english/rss/scirss.xml"
-        }
-      ]
-    },
-    {
       "publication_name": "Ecns.cn",
       "publication_website_uri": "http://www.ecns.cn/",
       "publication_rss_feed_uris": [
@@ -2341,6 +2668,18 @@
           "uri": "https://www.scmp.com/rss/4/feed",
           "category": "China",
           "bot_protection": true
+        }
+      ]
+    },
+    {
+      "publication_name": "Sina News (新浪新闻)",
+      "publication_website_uri": "https://news.sina.com.cn",
+      "category": "News",
+      "publication_rss_feed_uris": [
+        {
+          "uri": "https://rss.sina.com.cn/news/marquee/ddt.xml",
+          "gated": false,
+          "category": "News"
         }
       ]
     }
@@ -2829,29 +3168,11 @@
       ]
     },
     {
-      "publication_name": "Marti",
-      "publication_website_uri": "http://martinoticias.com/",
-      "publication_rss_feed_uris": [
-        {
-          "uri": "http://www.martinoticias.com/podcast/video.aspx?count=20&zoneId=128"
-        }
-      ]
-    },
-    {
       "publication_name": "Prensa latina",
       "publication_website_uri": "http://prensa-latina.cu/",
       "publication_rss_feed_uris": [
         {
           "uri": "http://www.laprensalatina.com/feed/"
-        }
-      ]
-    },
-    {
-      "publication_name": "El Toque",
-      "publication_website_uri": "https://eltoque.com/",
-      "publication_rss_feed_uris": [
-        {
-          "uri": "https://eltoque.com/api/feed"
         }
       ]
     },
@@ -2865,20 +3186,95 @@
       ]
     },
     {
-      "publication_name": "ADN Cuba",
-      "publication_website_uri": "https://adncuba.com/",
-      "publication_rss_feed_uris": [
-        {
-          "uri": "https://adncuba.com/es/news/Actualidad/rss.xml"
-        }
-      ]
-    },
-    {
       "publication_name": "Cibercuba",
       "publication_website_uri": "https://www.cibercuba.com/",
       "publication_rss_feed_uris": [
         {
           "uri": "https://www.cibercuba.com/rss.xml"
+        }
+      ]
+    },
+    {
+      "publication_name": "Granma",
+      "publication_website_uri": "https://www.granma.cu",
+      "category": "News",
+      "publication_rss_feed_uris": [
+        {
+          "uri": "https://www.granma.cu/feed",
+          "gated": false,
+          "category": "News"
+        }
+      ]
+    },
+    {
+      "publication_name": "Trabajadores",
+      "publication_website_uri": "https://www.trabajadores.cu",
+      "category": "News",
+      "publication_rss_feed_uris": [
+        {
+          "uri": "https://www.trabajadores.cu/feed",
+          "gated": false,
+          "category": "News"
+        }
+      ]
+    },
+    {
+      "publication_name": "IPS Cuba",
+      "publication_website_uri": "https://www.ipscuba.net",
+      "category": "News",
+      "publication_rss_feed_uris": [
+        {
+          "uri": "https://www.ipscuba.net/feed",
+          "gated": false,
+          "category": "News"
+        }
+      ]
+    },
+    {
+      "publication_name": "Cafe Fuerte",
+      "publication_website_uri": "https://cafefuerte.com",
+      "category": "News",
+      "publication_rss_feed_uris": [
+        {
+          "uri": "https://cafefuerte.com/feed",
+          "gated": false,
+          "category": "News"
+        }
+      ]
+    },
+    {
+      "publication_name": "OnCuba News",
+      "publication_website_uri": "https://oncubanews.com",
+      "category": "News",
+      "publication_rss_feed_uris": [
+        {
+          "uri": "https://oncubanews.com/feed",
+          "gated": false,
+          "category": "News"
+        }
+      ]
+    },
+    {
+      "publication_name": "Havana Times",
+      "publication_website_uri": "https://havanatimes.org",
+      "category": "News",
+      "publication_rss_feed_uris": [
+        {
+          "uri": "https://havanatimes.org/feed",
+          "gated": false,
+          "category": "News"
+        }
+      ]
+    },
+    {
+      "publication_name": "Escambray",
+      "publication_website_uri": "https://www.escambray.cu",
+      "category": "Regional News: Sancti Spiritus",
+      "publication_rss_feed_uris": [
+        {
+          "uri": "https://www.escambray.cu/feed",
+          "gated": false,
+          "category": "Regional News: Sancti Spiritus"
         }
       ]
     }
@@ -4046,20 +4442,59 @@
   ],
   "ERI": [
     {
-      "publication_name": "Asmarino Independent",
-      "publication_website_uri": "http://www.asmarino.com/",
-      "publication_rss_feed_uris": [
-        {
-          "uri": "http://asmarino.com/?format=feed&type=rss"
-        }
-      ]
-    },
-    {
       "publication_name": "Eritrea Profile",
       "publication_website_uri": "http://www.shabait.com/eritrea-profile",
       "publication_rss_feed_uris": [
         {
           "uri": "http://feeds.bbci.co.uk/news/world/africa/rss.xml"
+        }
+      ]
+    },
+    {
+      "publication_name": "Awate",
+      "publication_website_uri": "https://awate.com",
+      "category": "News",
+      "publication_rss_feed_uris": [
+        {
+          "uri": "https://awate.com/feed/",
+          "gated": false,
+          "category": "News"
+        }
+      ]
+    },
+    {
+      "publication_name": "ZENA (Zagel Eritrean News Agency)",
+      "publication_website_uri": "https://zenazajel.net",
+      "category": "News",
+      "publication_rss_feed_uris": [
+        {
+          "uri": "https://zenazajel.net/feed/",
+          "gated": false,
+          "category": "News"
+        }
+      ]
+    },
+    {
+      "publication_name": "Adoulis",
+      "publication_website_uri": "https://adoulis.net",
+      "category": "News",
+      "publication_rss_feed_uris": [
+        {
+          "uri": "https://adoulis.net/feed/",
+          "gated": false,
+          "category": "News"
+        }
+      ]
+    },
+    {
+      "publication_name": "ASENA TV",
+      "publication_website_uri": "https://asenatv.com",
+      "category": "News",
+      "publication_rss_feed_uris": [
+        {
+          "uri": "https://asenatv.com/feed/",
+          "gated": false,
+          "category": "News"
         }
       ]
     }
@@ -9991,11 +10426,86 @@
       ]
     },
     {
-      "publication_name": "Kazakhstan Today",
-      "publication_website_uri": "http://kt.kz/",
+      "publication_name": "Time.kz",
+      "publication_website_uri": "https://time.kz",
+      "category": "News",
       "publication_rss_feed_uris": [
         {
-          "uri": "http://www.kt.kz/kaz/rss/"
+          "uri": "https://time.kz/rss",
+          "gated": false,
+          "category": "News"
+        }
+      ]
+    },
+    {
+      "publication_name": "The Astana Times",
+      "publication_website_uri": "https://astanatimes.com",
+      "category": "News",
+      "publication_rss_feed_uris": [
+        {
+          "uri": "https://astanatimes.com/feed/",
+          "gated": false,
+          "category": "News"
+        }
+      ]
+    },
+    {
+      "publication_name": "Orda.kz",
+      "publication_website_uri": "https://orda.kz",
+      "category": "News",
+      "publication_rss_feed_uris": [
+        {
+          "uri": "https://orda.kz/feed/",
+          "gated": false,
+          "category": "News"
+        }
+      ]
+    },
+    {
+      "publication_name": "Caravan.kz",
+      "publication_website_uri": "https://caravan.kz",
+      "category": "News",
+      "publication_rss_feed_uris": [
+        {
+          "uri": "https://caravan.kz/rss/",
+          "gated": false,
+          "category": "News"
+        }
+      ]
+    },
+    {
+      "publication_name": "Kapital",
+      "publication_website_uri": "https://kapital.kz",
+      "category": "Business News",
+      "publication_rss_feed_uris": [
+        {
+          "uri": "https://kapital.kz/feed",
+          "gated": false,
+          "category": "Business News"
+        }
+      ]
+    },
+    {
+      "publication_name": "Vlast.kz",
+      "publication_website_uri": "https://vlast.kz",
+      "category": "News",
+      "publication_rss_feed_uris": [
+        {
+          "uri": "https://vlast.kz/feed/",
+          "gated": false,
+          "category": "News"
+        }
+      ]
+    },
+    {
+      "publication_name": "Lada.kz",
+      "publication_website_uri": "https://lada.kz",
+      "category": "Regional News: Mangystau",
+      "publication_rss_feed_uris": [
+        {
+          "uri": "https://lada.kz/rss.xml",
+          "gated": false,
+          "category": "Regional News: Mangystau"
         }
       ]
     }
@@ -11367,11 +11877,98 @@
       ]
     },
     {
-      "publication_name": "hihi2",
-      "publication_website_uri": "http://www.hihi2.com/",
+      "publication_name": "Ahdath Maghribiya",
+      "publication_website_uri": "https://ahdath.info/",
+      "category": "News",
       "publication_rss_feed_uris": [
         {
-          "uri": "http://hihi2.com/feed"
+          "uri": "https://ahdath.info/feed/",
+          "gated": false,
+          "category": "News"
+        }
+      ]
+    },
+    {
+      "publication_name": "Alyaoum 24",
+      "publication_website_uri": "https://alyaoum24.com/",
+      "category": "News",
+      "publication_rss_feed_uris": [
+        {
+          "uri": "https://alyaoum24.com/feed",
+          "gated": false,
+          "category": "News"
+        }
+      ]
+    },
+    {
+      "publication_name": "Assabah",
+      "publication_website_uri": "https://www.assabah.ma/",
+      "category": "News",
+      "publication_rss_feed_uris": [
+        {
+          "uri": "https://www.assabah.ma/feed/",
+          "gated": false,
+          "category": "News"
+        }
+      ]
+    },
+    {
+      "publication_name": "Barlamane",
+      "publication_website_uri": "https://barlamane.com/",
+      "category": "News",
+      "publication_rss_feed_uris": [
+        {
+          "uri": "https://barlamane.com/feed/",
+          "gated": false,
+          "category": "News"
+        }
+      ]
+    },
+    {
+      "publication_name": "Cawalisse Alyoum",
+      "publication_website_uri": "https://cawalisse.com/",
+      "category": "News",
+      "publication_rss_feed_uris": [
+        {
+          "uri": "https://cawalisse.com/feed/",
+          "gated": false,
+          "category": "News"
+        }
+      ]
+    },
+    {
+      "publication_name": "LeSiteInfo",
+      "publication_website_uri": "https://www.lesiteinfo.com/",
+      "category": "News",
+      "publication_rss_feed_uris": [
+        {
+          "uri": "https://www.lesiteinfo.com/feed",
+          "gated": false,
+          "category": "News"
+        }
+      ]
+    },
+    {
+      "publication_name": "Medias24",
+      "publication_website_uri": "https://www.medias24.com/",
+      "category": "News",
+      "publication_rss_feed_uris": [
+        {
+          "uri": "https://www.medias24.com/feed/",
+          "gated": false,
+          "category": "News"
+        }
+      ]
+    },
+    {
+      "publication_name": "Rue20",
+      "publication_website_uri": "https://rue20.ma/",
+      "category": "News",
+      "publication_rss_feed_uris": [
+        {
+          "uri": "https://rue20.ma/feed/",
+          "gated": false,
+          "category": "News"
         }
       ]
     }
@@ -12946,11 +13543,74 @@
       ]
     },
     {
-      "publication_name": "La Republicain",
-      "publication_website_uri": "http://www.republicain-niger.com/",
+      "publication_name": "Le Sahel",
+      "publication_website_uri": "https://www.lesahel.org/",
+      "category": "News",
       "publication_rss_feed_uris": [
         {
-          "uri": "http://www.republicain-lorrain.fr/rss"
+          "uri": "https://www.lesahel.org/feed/",
+          "gated": false,
+          "category": "News"
+        }
+      ]
+    },
+    {
+      "publication_name": "Air Info Agadez",
+      "publication_website_uri": "https://airinfoagadez.com/",
+      "category": "Regional News: Agadez",
+      "publication_rss_feed_uris": [
+        {
+          "uri": "https://airinfoagadez.com/feed/",
+          "gated": false,
+          "category": "Regional News: Agadez"
+        }
+      ]
+    },
+    {
+      "publication_name": "Journal du Niger",
+      "publication_website_uri": "https://www.journalduniger.com/",
+      "category": "News",
+      "publication_rss_feed_uris": [
+        {
+          "uri": "https://www.journalduniger.com/feed/",
+          "gated": false,
+          "category": "News"
+        }
+      ]
+    },
+    {
+      "publication_name": "Agence Nigérienne de Presse (ANP)",
+      "publication_website_uri": "https://www.anp.ne/",
+      "category": "News",
+      "publication_rss_feed_uris": [
+        {
+          "uri": "https://www.anp.ne/feed",
+          "gated": false,
+          "category": "News"
+        }
+      ]
+    },
+    {
+      "publication_name": "Niger Inter",
+      "publication_website_uri": "https://www.nigerinter.com/",
+      "category": "News",
+      "publication_rss_feed_uris": [
+        {
+          "uri": "https://nigerinter.com/feed/",
+          "gated": true,
+          "category": "News"
+        }
+      ]
+    },
+    {
+      "publication_name": "RFI Afrique (French)",
+      "publication_website_uri": "https://www.rfi.fr/fr/afrique/",
+      "category": "News",
+      "publication_rss_feed_uris": [
+        {
+          "uri": "https://www.rfi.fr/fr/afrique/rss",
+          "gated": false,
+          "category": "News"
         }
       ]
     }
@@ -13788,11 +14448,223 @@
       ]
     },
     {
-      "publication_name": "Abante Tonite",
-      "publication_website_uri": "https://tonite.abante.com.ph/",
+      "publication_name": "Rappler",
+      "publication_website_uri": "https://rappler.com",
+      "category": "News",
       "publication_rss_feed_uris": [
         {
-          "uri": "https://tonite.abante.com.ph/feed/"
+          "uri": "https://rappler.com/feed",
+          "gated": false,
+          "category": "News"
+        }
+      ]
+    },
+    {
+      "publication_name": "SunStar",
+      "publication_website_uri": "https://www.sunstar.com.ph",
+      "category": "News",
+      "publication_rss_feed_uris": [
+        {
+          "uri": "https://www.sunstar.com.ph/feed",
+          "gated": false,
+          "category": "News"
+        }
+      ]
+    },
+    {
+      "publication_name": "Remate",
+      "publication_website_uri": "https://remate.ph",
+      "category": "News",
+      "publication_rss_feed_uris": [
+        {
+          "uri": "https://remate.ph/feed",
+          "gated": false,
+          "category": "News"
+        }
+      ]
+    },
+    {
+      "publication_name": "Philippine Daily Inquirer - Cebu Edition",
+      "publication_website_uri": "https://cebudailynews.inquirer.net",
+      "category": "Regional News: Cebu",
+      "publication_rss_feed_uris": [
+        {
+          "uri": "https://cebudailynews.inquirer.net/feed",
+          "gated": false,
+          "category": "Regional News: Cebu"
+        }
+      ]
+    },
+    {
+      "publication_name": "Philippine Daily Inquirer - General Feed",
+      "publication_website_uri": "https://www.inquirer.net",
+      "category": "News",
+      "publication_rss_feed_uris": [
+        {
+          "uri": "https://www.inquirer.net/feed",
+          "gated": false,
+          "category": "News"
+        },
+        {
+          "uri": "https://www.inquirer.net/rss",
+          "gated": false,
+          "category": "News"
+        }
+      ]
+    },
+    {
+      "publication_name": "Philippine Daily Inquirer - Sports",
+      "publication_website_uri": "https://sports.inquirer.net",
+      "category": "Sports",
+      "publication_rss_feed_uris": [
+        {
+          "uri": "https://sports.inquirer.net/feed",
+          "gated": false,
+          "category": "Sports"
+        }
+      ]
+    },
+    {
+      "publication_name": "Philippine Daily Inquirer - Entertainment",
+      "publication_website_uri": "https://entertainment.inquirer.net",
+      "category": "Entertainment",
+      "publication_rss_feed_uris": [
+        {
+          "uri": "https://entertainment.inquirer.net/feed",
+          "gated": false,
+          "category": "Entertainment"
+        }
+      ]
+    },
+    {
+      "publication_name": "Philippine Daily Inquirer - Technology",
+      "publication_website_uri": "https://technology.inquirer.net",
+      "category": "Technology",
+      "publication_rss_feed_uris": [
+        {
+          "uri": "https://technology.inquirer.net/feed",
+          "gated": false,
+          "category": "Technology"
+        }
+      ]
+    },
+    {
+      "publication_name": "Newsline Philippines",
+      "publication_website_uri": "https://newsline.ph",
+      "category": "News",
+      "publication_rss_feed_uris": [
+        {
+          "uri": "https://newsline.ph/feed",
+          "gated": false,
+          "category": "News"
+        }
+      ]
+    },
+    {
+      "publication_name": "PTV News",
+      "publication_website_uri": "https://ptvnews.ph",
+      "category": "News",
+      "publication_rss_feed_uris": [
+        {
+          "uri": "https://ptvnews.ph/feed",
+          "gated": false,
+          "category": "News"
+        }
+      ]
+    },
+    {
+      "publication_name": "Zamboanga",
+      "publication_website_uri": "https://www.zamboanga.com",
+      "category": "Regional News: Mindanao",
+      "publication_rss_feed_uris": [
+        {
+          "uri": "https://www.zamboanga.com/feed",
+          "gated": false,
+          "category": "Regional News: Mindanao"
+        }
+      ]
+    },
+    {
+      "publication_name": "Manila Times",
+      "publication_website_uri": "https://www.manilatimes.net",
+      "category": "News",
+      "publication_rss_feed_uris": [
+        {
+          "uri": "https://www.manilatimes.net/mns/feed",
+          "gated": false,
+          "category": "News"
+        }
+      ]
+    },
+    {
+      "publication_name": "PinoyBix",
+      "publication_website_uri": "https://www.pinoybix.org",
+      "category": "Technology",
+      "publication_rss_feed_uris": [
+        {
+          "uri": "https://www.pinoybix.org/feed",
+          "gated": false,
+          "category": "Technology"
+        }
+      ]
+    },
+    {
+      "publication_name": "Inquirer Newsinfo",
+      "publication_website_uri": "https://newsinfo.inquirer.net",
+      "category": "News",
+      "publication_rss_feed_uris": [
+        {
+          "uri": "https://newsinfo.inquirer.net/feed",
+          "gated": false,
+          "category": "News"
+        }
+      ]
+    },
+    {
+      "publication_name": "Rappler",
+      "publication_website_uri": "https://www.rappler.com",
+      "category": "News",
+      "publication_rss_feed_uris": [
+        {
+          "uri": "https://www.rappler.com/feed/",
+          "gated": false,
+          "category": "News"
+        }
+      ]
+    },
+    {
+      "publication_name": "Cebu Times",
+      "publication_website_uri": "https://cebutimes.com",
+      "category": "Regional News: Cebu",
+      "publication_rss_feed_uris": [
+        {
+          "uri": "https://cebutimes.com/feed/",
+          "gated": false,
+          "category": "Regional News: Cebu"
+        }
+      ]
+    },
+    {
+      "publication_name": "Mindanao Times",
+      "publication_website_uri": "https://www.mindanaotimes.net",
+      "category": "Regional News: Mindanao",
+      "publication_rss_feed_uris": [
+        {
+          "uri": "https://www.mindanaotimes.net/feed",
+          "gated": false,
+          "category": "Regional News: Mindanao"
+        }
+      ]
+    },
+    {
+      "publication_name": "Konrad News",
+      "publication_website_uri": "https://www.konradnews.com",
+      "category": "News",
+      "publication_rss_feed_uris": [
+        {
+          "uri": "https://www.konradnews.com/feed",
+          "gated": false,
+          "category": "News"
         }
       ]
     }
@@ -14920,6 +15792,30 @@
       "publication_rss_feed_uris": [
         {
           "uri": "https://www.sanmarinortv.sm/rss.xml"
+        }
+      ]
+    },
+    {
+      "publication_name": "Libertas",
+      "publication_website_uri": "https://www.libertas.sm/",
+      "category": "News",
+      "publication_rss_feed_uris": [
+        {
+          "uri": "https://www.libertas.sm/feed/",
+          "gated": false,
+          "category": "News"
+        }
+      ]
+    },
+    {
+      "publication_name": "La Stampa",
+      "publication_website_uri": "https://www.lastampa.it/",
+      "category": "Regional News: San Marino",
+      "publication_rss_feed_uris": [
+        {
+          "uri": "https://www.lastampa.it/rss/",
+          "gated": false,
+          "category": "Regional News: San Marino"
         }
       ]
     }
