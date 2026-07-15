@@ -795,24 +795,6 @@
       ]
     },
     {
-      "publication_name": "Nachrichten.at",
-      "publication_website_uri": "http://nachrichten.at/",
-      "publication_rss_feed_uris": [
-        {
-          "uri": "http://www.nachrichten.at/storage/rss/rss/wirtschaft.xml"
-        }
-      ]
-    },
-    {
-      "publication_name": "Salzburger Nachrichten",
-      "publication_website_uri": "http://salzburg.com/",
-      "publication_rss_feed_uris": [
-        {
-          "uri": "http://www.salzburg.com/nachrichten/kategorie/8/rss.xml"
-        }
-      ]
-    },
-    {
       "publication_name": "Tiroler Tageszeitung",
       "publication_website_uri": "http://tt.com/",
       "publication_rss_feed_uris": [
@@ -836,6 +818,114 @@
       "publication_rss_feed_uris": [
         {
           "uri": "http://www.vienna.at/rss/om:vienna:bezirk:1200"
+        }
+      ]
+    },
+    {
+      "publication_name": "ORF",
+      "publication_website_uri": "https://orf.at",
+      "category": "News",
+      "publication_rss_feed_uris": [
+        {
+          "uri": "https://rss.orf.at/news.xml",
+          "gated": false,
+          "category": "News"
+        }
+      ]
+    },
+    {
+      "publication_name": "Der Standard",
+      "publication_website_uri": "https://www.derstandard.at",
+      "category": "News",
+      "publication_rss_feed_uris": [
+        {
+          "uri": "https://www.derstandard.at/rss",
+          "gated": false,
+          "category": "News"
+        }
+      ]
+    },
+    {
+      "publication_name": "Wiener Zeitung",
+      "publication_website_uri": "https://www.wienerzeitung.at",
+      "category": "News",
+      "publication_rss_feed_uris": [
+        {
+          "uri": "https://www.wienerzeitung.at/rss.xml",
+          "gated": false,
+          "category": "News"
+        }
+      ]
+    },
+    {
+      "publication_name": "Profil",
+      "publication_website_uri": "https://www.profil.at",
+      "category": "News",
+      "publication_rss_feed_uris": [
+        {
+          "uri": "https://www.profil.at/xml/rss",
+          "gated": false,
+          "category": "News"
+        }
+      ]
+    },
+    {
+      "publication_name": "Mein Bezirk",
+      "publication_website_uri": "https://www.meinbezirk.at",
+      "category": "Regional News",
+      "publication_rss_feed_uris": [
+        {
+          "uri": "https://www.meinbezirk.at/rss",
+          "gated": false,
+          "category": "Regional News"
+        }
+      ]
+    },
+    {
+      "publication_name": "ORF FM4",
+      "publication_website_uri": "https://fm4.orf.at",
+      "category": "News",
+      "publication_rss_feed_uris": [
+        {
+          "uri": "https://fm4.orf.at/feed/rss.xml",
+          "gated": false,
+          "category": "News"
+        }
+      ]
+    },
+    {
+      "publication_name": "ORF Sports",
+      "publication_website_uri": "https://orf.at",
+      "category": "Sports News",
+      "publication_rss_feed_uris": [
+        {
+          "uri": "https://rss.orf.at/sport.xml",
+          "gated": false,
+          "category": "Sports News"
+        }
+      ]
+    },
+    {
+      "publication_name": "ORF Science",
+      "publication_website_uri": "https://orf.at",
+      "category": "Science News",
+      "publication_rss_feed_uris": [
+        {
+          "uri": "https://rss.orf.at/science.xml",
+          "gated": false,
+          "category": "Science News"
+        }
+      ]
+    },
+    {
+      "publication_name": "ORF OE3",
+      "publication_website_uri": "https://fm4.orf.at",
+      "category": "News",
+      "publication_rss_feed_uris": [
+        {
+          "uri": "https://rss.orf.at/oe3.xml",
+          "gated": false,
+          "category": "News"
         }
       ]
     }
@@ -869,11 +959,110 @@
       ]
     },
     {
-      "publication_name": "Azadliq Radiosu",
-      "publication_website_uri": "http://azadliq.org/",
+      "publication_name": "Report.az",
+      "publication_website_uri": "https://report.az",
+      "category": "News",
       "publication_rss_feed_uris": [
         {
-          "uri": "http://www.azadliq.org/api/aororegtor"
+          "uri": "https://report.az/rss",
+          "gated": false,
+          "category": "News"
+        }
+      ]
+    },
+    {
+      "publication_name": "Lent.az",
+      "publication_website_uri": "https://www.lent.az",
+      "category": "News",
+      "publication_rss_feed_uris": [
+        {
+          "uri": "https://www.lent.az/rss",
+          "gated": false,
+          "category": "News"
+        }
+      ]
+    },
+    {
+      "publication_name": "Moderator.az",
+      "publication_website_uri": "https://www.moderator.az",
+      "category": "News",
+      "publication_rss_feed_uris": [
+        {
+          "uri": "https://www.moderator.az/feed",
+          "gated": false,
+          "category": "News"
+        }
+      ]
+    },
+    {
+      "publication_name": "Metbuat.az",
+      "publication_website_uri": "https://www.metbuat.az",
+      "category": "News",
+      "publication_rss_feed_uris": [
+        {
+          "uri": "https://www.metbuat.az/rss.xml",
+          "gated": false,
+          "category": "News"
+        }
+      ]
+    },
+    {
+      "publication_name": "ANews",
+      "publication_website_uri": "https://www.anews.az",
+      "category": "News",
+      "publication_rss_feed_uris": [
+        {
+          "uri": "https://www.anews.az/feed",
+          "gated": false,
+          "category": "News"
+        }
+      ]
+    },
+    {
+      "publication_name": "Haqqin.az",
+      "publication_website_uri": "https://www.haqqin.az",
+      "category": "News",
+      "publication_rss_feed_uris": [
+        {
+          "uri": "https://www.haqqin.az/rss",
+          "gated": false,
+          "category": "News"
+        }
+      ]
+    },
+    {
+      "publication_name": "APA News Agency (Russian)",
+      "publication_website_uri": "https://ru.apa.az",
+      "category": "News",
+      "publication_rss_feed_uris": [
+        {
+          "uri": "https://ru.apa.az/rss",
+          "gated": false,
+          "category": "News"
+        }
+      ]
+    },
+    {
+      "publication_name": "APA News Agency",
+      "publication_website_uri": "https://apa.az",
+      "category": "News",
+      "publication_rss_feed_uris": [
+        {
+          "uri": "https://apa.az/rss",
+          "gated": false,
+          "category": "News"
+        }
+      ]
+    },
+    {
+      "publication_name": "Baku.ws",
+      "publication_website_uri": "https://baku.ws",
+      "category": "Regional News: Baku",
+      "publication_rss_feed_uris": [
+        {
+          "uri": "https://baku.ws/rss",
+          "gated": false,
+          "category": "Regional News: Baku"
         }
       ]
     }
@@ -8954,6 +9143,102 @@
           "uri": "http://nepszava.hu/rss/"
         }
       ]
+    },
+    {
+      "publication_name": "Magyar Nemzet",
+      "publication_website_uri": "https://magyarnemzet.hu/",
+      "category": "News",
+      "publication_rss_feed_uris": [
+        {
+          "uri": "https://magyarnemzet.hu/publicapi/hu/rss/magyar_nemzet/articles",
+          "gated": false,
+          "category": "News"
+        }
+      ]
+    },
+    {
+      "publication_name": "Telex",
+      "publication_website_uri": "https://telex.hu/",
+      "category": "News",
+      "publication_rss_feed_uris": [
+        {
+          "uri": "https://telex.hu/rss",
+          "gated": false,
+          "category": "News"
+        }
+      ]
+    },
+    {
+      "publication_name": "24.hu",
+      "publication_website_uri": "https://24.hu/",
+      "category": "News",
+      "publication_rss_feed_uris": [
+        {
+          "uri": "https://24.hu/feed/",
+          "gated": false,
+          "category": "News"
+        }
+      ]
+    },
+    {
+      "publication_name": "444.hu",
+      "publication_website_uri": "https://444.hu/",
+      "category": "News",
+      "publication_rss_feed_uris": [
+        {
+          "uri": "https://444.hu/feed",
+          "gated": false,
+          "category": "News"
+        }
+      ]
+    },
+    {
+      "publication_name": "Mandiner",
+      "publication_website_uri": "https://mandiner.hu/",
+      "category": "News",
+      "publication_rss_feed_uris": [
+        {
+          "uri": "https://mandiner.hu/rss",
+          "gated": false,
+          "category": "News"
+        }
+      ]
+    },
+    {
+      "publication_name": "168 ora",
+      "publication_website_uri": "https://168.hu/",
+      "category": "News",
+      "publication_rss_feed_uris": [
+        {
+          "uri": "https://168.hu/rss",
+          "gated": false,
+          "category": "News"
+        }
+      ]
+    },
+    {
+      "publication_name": "BBJ - Budapest Business Journal",
+      "publication_website_uri": "https://bbj.hu/",
+      "category": "News",
+      "publication_rss_feed_uris": [
+        {
+          "uri": "https://bbj.hu/feed/",
+          "gated": false,
+          "category": "News"
+        }
+      ]
+    },
+    {
+      "publication_name": "EconomX",
+      "publication_website_uri": "https://www.economx.hu/",
+      "category": "News",
+      "publication_rss_feed_uris": [
+        {
+          "uri": "https://www.economx.hu/feed",
+          "gated": false,
+          "category": "News"
+        }
+      ]
     }
   ],
   "IDN": [
@@ -11619,15 +11904,6 @@
       ]
     },
     {
-      "publication_name": "Corriere dello Sport",
-      "publication_website_uri": "http://corrieredellosport.it/",
-      "publication_rss_feed_uris": [
-        {
-          "uri": "http://www.corrieredellosport.it/rss/Altri-Sport-2.xml"
-        }
-      ]
-    },
-    {
       "publication_name": "Il Giornale",
       "publication_website_uri": "http://ilgiornale.it/",
       "publication_rss_feed_uris": [
@@ -11714,6 +11990,242 @@
       "publication_rss_feed_uris": [
         {
           "uri": "https://www.theguardian.com/world/italy/rss"
+        }
+      ]
+    },
+    {
+      "publication_name": "Il Resto del Carlino",
+      "publication_website_uri": "https://www.ilrestodelcarlino.it",
+      "category": "Regional News: Emilia-Romagna",
+      "publication_rss_feed_uris": [
+        {
+          "uri": "https://www.ilrestodelcarlino.it/feed",
+          "gated": false,
+          "category": "Regional News: Emilia-Romagna"
+        }
+      ]
+    },
+    {
+      "publication_name": "LaPresse",
+      "publication_website_uri": "https://www.lapresse.it",
+      "category": "News",
+      "publication_rss_feed_uris": [
+        {
+          "uri": "https://www.lapresse.it/feed",
+          "gated": false,
+          "category": "News"
+        }
+      ]
+    },
+    {
+      "publication_name": "Sardegna Oggi",
+      "publication_website_uri": "https://www.sardegnaoggi.it",
+      "category": "Regional News: Sardegna",
+      "publication_rss_feed_uris": [
+        {
+          "uri": "https://www.sardegnaoggi.it/feed",
+          "gated": false,
+          "category": "Regional News: Sardegna"
+        }
+      ]
+    },
+    {
+      "publication_name": "AGI - Agenzia Giornalistica Italiana",
+      "publication_website_uri": "https://www.agi.it",
+      "category": "News",
+      "publication_rss_feed_uris": [
+        {
+          "uri": "https://www.agi.it/rss",
+          "gated": false,
+          "category": "News"
+        }
+      ]
+    },
+    {
+      "publication_name": "Globalist",
+      "publication_website_uri": "https://www.globalist.it",
+      "category": "News",
+      "publication_rss_feed_uris": [
+        {
+          "uri": "https://www.globalist.it/feed",
+          "gated": false,
+          "category": "News"
+        }
+      ]
+    },
+    {
+      "publication_name": "Genova 24",
+      "publication_website_uri": "https://www.genova24.it",
+      "category": "Regional News: Liguria",
+      "publication_rss_feed_uris": [
+        {
+          "uri": "https://www.genova24.it/feed",
+          "gated": false,
+          "category": "Regional News: Liguria"
+        }
+      ]
+    },
+    {
+      "publication_name": "Anteprima24",
+      "publication_website_uri": "https://www.anteprima24.it",
+      "category": "Regional News: Campania",
+      "publication_rss_feed_uris": [
+        {
+          "uri": "https://www.anteprima24.it/feed",
+          "gated": false,
+          "category": "Regional News: Campania"
+        }
+      ]
+    },
+    {
+      "publication_name": "Teleromagna",
+      "publication_website_uri": "https://www.teleromagna.it",
+      "category": "Regional News: Emilia-Romagna",
+      "publication_rss_feed_uris": [
+        {
+          "uri": "https://www.teleromagna.it/feed",
+          "gated": false,
+          "category": "Regional News: Emilia-Romagna"
+        }
+      ]
+    },
+    {
+      "publication_name": "LecceNews24",
+      "publication_website_uri": "https://www.leccenews24.it",
+      "category": "Regional News: Puglia",
+      "publication_rss_feed_uris": [
+        {
+          "uri": "https://www.leccenews24.it/feed",
+          "gated": false,
+          "category": "Regional News: Puglia"
+        }
+      ]
+    },
+    {
+      "publication_name": "Vesuvio Live",
+      "publication_website_uri": "https://www.vesuviolive.it",
+      "category": "Regional News: Campania",
+      "publication_rss_feed_uris": [
+        {
+          "uri": "https://www.vesuviolive.it/feed",
+          "gated": false,
+          "category": "Regional News: Campania"
+        }
+      ]
+    },
+    {
+      "publication_name": "La Nazione",
+      "publication_website_uri": "https://www.lanazione.it",
+      "category": "Regional News: Tuscany",
+      "publication_rss_feed_uris": [
+        {
+          "uri": "https://www.lanazione.it/rss",
+          "gated": false,
+          "category": "Regional News: Tuscany"
+        }
+      ]
+    },
+    {
+      "publication_name": "Sardegna Oggi",
+      "publication_website_uri": "https://www.sardegnaoggi.it",
+      "category": "Regional News: Sardinia",
+      "publication_rss_feed_uris": [
+        {
+          "uri": "https://www.sardegnaoggi.it/rss",
+          "gated": false,
+          "category": "Regional News: Sardinia"
+        }
+      ]
+    },
+    {
+      "publication_name": "Corriere Cesenate",
+      "publication_website_uri": "https://www.corrierecesenate.it",
+      "category": "Regional News: Emilia-Romagna",
+      "publication_rss_feed_uris": [
+        {
+          "uri": "https://www.corrierecesenate.it/feed",
+          "gated": false,
+          "category": "Regional News: Emilia-Romagna"
+        },
+        {
+          "uri": "https://www.corrierecesenate.it/rss",
+          "gated": false,
+          "category": "Regional News: Emilia-Romagna"
+        }
+      ]
+    },
+    {
+      "publication_name": "Vesuvio Live",
+      "publication_website_uri": "https://www.vesuviolive.it",
+      "category": "Regional News: Campania",
+      "publication_rss_feed_uris": [
+        {
+          "uri": "https://www.vesuviolive.it/rss",
+          "gated": false,
+          "category": "Regional News: Campania"
+        }
+      ]
+    },
+    {
+      "publication_name": "Lucca News 24",
+      "publication_website_uri": "https://www.luccanews24.it",
+      "category": "Regional News: Tuscany",
+      "publication_rss_feed_uris": [
+        {
+          "uri": "https://www.luccanews24.it/feed",
+          "gated": false,
+          "category": "Regional News: Tuscany"
+        },
+        {
+          "uri": "https://www.luccanews24.it/rss",
+          "gated": false,
+          "category": "Regional News: Tuscany"
+        }
+      ]
+    },
+    {
+      "publication_name": "Lazio Notizie",
+      "publication_website_uri": "https://www.lazionotizie.it",
+      "category": "Regional News: Lazio",
+      "publication_rss_feed_uris": [
+        {
+          "uri": "https://www.lazionotizie.it/rss",
+          "gated": false,
+          "category": "Regional News: Lazio"
+        }
+      ]
+    },
+    {
+      "publication_name": "Reggio News",
+      "publication_website_uri": "https://www.reggionews.it",
+      "category": "Regional News: Calabria",
+      "publication_rss_feed_uris": [
+        {
+          "uri": "https://www.reggionews.it/feed",
+          "gated": false,
+          "category": "Regional News: Calabria"
+        },
+        {
+          "uri": "https://www.reggionews.it/rss",
+          "gated": false,
+          "category": "Regional News: Calabria"
+        }
+      ]
+    },
+    {
+      "publication_name": "Palermo Viva",
+      "publication_website_uri": "https://www.palermoviva.it",
+      "category": "Regional News: Sicily",
+      "publication_rss_feed_uris": [
+        {
+          "uri": "https://www.palermoviva.it/feed",
+          "gated": false,
+          "category": "Regional News: Sicily"
+        },
+        {
+          "uri": "https://www.palermoviva.it/rss",
+          "gated": false,
+          "category": "Regional News: Sicily"
         }
       ]
     }
@@ -14300,6 +14812,234 @@
           "uri": "https://8columnas.com.mx/feed/"
         }
       ]
+    },
+    {
+      "publication_name": "Diario de Querétaro",
+      "publication_website_uri": "https://www.diariodequeretaro.com.mx",
+      "category": "Regional News: Querétaro",
+      "publication_rss_feed_uris": [
+        {
+          "uri": "https://www.diariodequeretaro.com.mx/rss",
+          "gated": false,
+          "category": "Regional News: Querétaro"
+        }
+      ]
+    },
+    {
+      "publication_name": "Excelsior",
+      "publication_website_uri": "https://www.excelsior.com.mx",
+      "category": "News",
+      "publication_rss_feed_uris": [
+        {
+          "uri": "https://www.excelsior.com.mx/rss",
+          "gated": false,
+          "category": "News"
+        }
+      ]
+    },
+    {
+      "publication_name": "La Vibrante",
+      "publication_website_uri": "https://www.lavibrante.com",
+      "category": "News",
+      "publication_rss_feed_uris": [
+        {
+          "uri": "https://www.lavibrante.com/feed",
+          "gated": false,
+          "category": "News"
+        }
+      ]
+    },
+    {
+      "publication_name": "México Desconocido",
+      "publication_website_uri": "https://www.mexicodesconocido.com.mx",
+      "category": "News",
+      "publication_rss_feed_uris": [
+        {
+          "uri": "https://www.mexicodesconocido.com.mx/feed",
+          "gated": false,
+          "category": "News"
+        }
+      ]
+    },
+    {
+      "publication_name": "OEM",
+      "publication_website_uri": "https://www.oem.com.mx",
+      "category": "News",
+      "publication_rss_feed_uris": [
+        {
+          "uri": "https://www.oem.com.mx/rss.xml",
+          "gated": false,
+          "category": "News"
+        }
+      ]
+    },
+    {
+      "publication_name": "Sopitas",
+      "publication_website_uri": "https://www.sopitas.com",
+      "category": "News",
+      "publication_rss_feed_uris": [
+        {
+          "uri": "https://www.sopitas.com/feed",
+          "gated": false,
+          "category": "News"
+        }
+      ]
+    },
+    {
+      "publication_name": "Tribuna",
+      "publication_website_uri": "https://www.tribuna.com.mx",
+      "category": "Regional News: Multiple States",
+      "publication_rss_feed_uris": [
+        {
+          "uri": "https://www.tribuna.com.mx/feed",
+          "gated": false,
+          "category": "Regional News: Multiple States"
+        }
+      ]
+    },
+    {
+      "publication_name": "El Financiero",
+      "publication_website_uri": "https://www.elfinanciero.com.mx/",
+      "category": "News",
+      "publication_rss_feed_uris": [
+        {
+          "uri": "https://www.elfinanciero.com.mx/rss",
+          "gated": false,
+          "category": "News"
+        }
+      ]
+    },
+    {
+      "publication_name": "Yucatan",
+      "publication_website_uri": "https://www.yucatan.com.mx/",
+      "category": "Regional News: Yucatan",
+      "publication_rss_feed_uris": [
+        {
+          "uri": "https://www.yucatan.com.mx/feed",
+          "gated": true,
+          "category": "Regional News: Yucatan"
+        }
+      ]
+    },
+    {
+      "publication_name": "Capital Mexico",
+      "publication_website_uri": "https://www.capitalmexico.com.mx/",
+      "category": "Regional News: Mexico City",
+      "publication_rss_feed_uris": [
+        {
+          "uri": "https://www.capitalmexico.com.mx/feed",
+          "gated": false,
+          "category": "Regional News: Mexico City"
+        }
+      ]
+    },
+    {
+      "publication_name": "Esto es Noticia",
+      "publication_website_uri": "https://www.estoesnoticia.com/",
+      "category": "News",
+      "publication_rss_feed_uris": [
+        {
+          "uri": "https://www.estoesnoticia.com/feed",
+          "gated": false,
+          "category": "News"
+        }
+      ]
+    },
+    {
+      "publication_name": "El Vocero",
+      "publication_website_uri": "https://www.elvocero.com.mx/",
+      "category": "News",
+      "publication_rss_feed_uris": [
+        {
+          "uri": "https://www.elvocero.com.mx/feed",
+          "gated": false,
+          "category": "News"
+        }
+      ]
+    },
+    {
+      "publication_name": "Newspaper AM",
+      "publication_website_uri": "https://www.am.com.mx/",
+      "category": "News",
+      "publication_rss_feed_uris": [
+        {
+          "uri": "https://www.am.com.mx/feed",
+          "gated": false,
+          "category": "News"
+        }
+      ]
+    },
+    {
+      "publication_name": "Uno Mas Uno",
+      "publication_website_uri": "https://www.unomasuno.com.mx/",
+      "category": "News",
+      "publication_rss_feed_uris": [
+        {
+          "uri": "https://www.unomasuno.com.mx/feed",
+          "gated": false,
+          "category": "News"
+        }
+      ]
+    },
+    {
+      "publication_name": "Quadratin",
+      "publication_website_uri": "https://www.quadratin.com.mx/",
+      "category": "Regional News",
+      "publication_rss_feed_uris": [
+        {
+          "uri": "https://www.quadratin.com.mx/feed",
+          "gated": false,
+          "category": "Regional News"
+        }
+      ]
+    },
+    {
+      "publication_name": "Vanguardia",
+      "publication_website_uri": "https://www.vanguardia.com.mx/",
+      "category": "News",
+      "publication_rss_feed_uris": [
+        {
+          "uri": "https://www.vanguardia.com.mx/rss",
+          "gated": false,
+          "category": "News"
+        }
+      ]
+    },
+    {
+      "publication_name": "Tabasco Hoy",
+      "publication_website_uri": "https://www.tabascohoy.com/",
+      "category": "Regional News: Tabasco",
+      "publication_rss_feed_uris": [
+        {
+          "uri": "https://www.tabascohoy.com/feed",
+          "gated": false,
+          "category": "Regional News: Tabasco"
+        }
+      ]
+    },
+    {
+      "publication_name": "Noticias Chiapas",
+      "publication_website_uri": "https://www.noticiaschiapas.com/",
+      "category": "Regional News: Chiapas",
+      "publication_rss_feed_uris": [
+        {
+          "uri": "https://www.noticiaschiapas.com/feed",
+          "gated": false,
+          "category": "Regional News: Chiapas"
+        }
+      ]
+    },
+    {
+      "publication_name": "El Sol de Mexico",
+      "publication_website_uri": "https://www.elsoldemexico.com.mx/",
+      "category": "Regional News: Mexico State",
+      "publication_rss_feed_uris": [
+        {
+          "uri": "https://www.elsoldemexico.com.mx/rss",
+          "gated": false,
+          "category": "Regional News: Mexico State"
+        }
+      ]
     }
   ],
   "MKD": [
@@ -14892,7 +15632,8 @@
       "publication_website_uri": "https://svetigora.com/",
       "publication_rss_feed_uris": [
         {
-          "uri": "https://svetigora.com/feed/"
+          "uri": "https://svetigora.com/feed/",
+          "gated": true
         }
       ]
     },
@@ -14915,15 +15656,6 @@
       ]
     },
     {
-      "publication_name": "Kodex.me",
-      "publication_website_uri": "https://kodex.me/feed/",
-      "publication_rss_feed_uris": [
-        {
-          "uri": "https://kodex.me/feed/"
-        }
-      ]
-    },
-    {
       "publication_name": "Onogošt",
       "publication_website_uri": "https://onogost.me/",
       "publication_rss_feed_uris": [
@@ -14942,15 +15674,6 @@
       ]
     },
     {
-      "publication_name": "SrpskeNovine",
-      "publication_website_uri": "https://s-medijicg.com/",
-      "publication_rss_feed_uris": [
-        {
-          "uri": "https://s-medijicg.com/?format=feed&type=atom"
-        }
-      ]
-    },
-    {
       "publication_name": "PVInformer",
       "publication_website_uri": "https://www.pvinformer.me/",
       "publication_rss_feed_uris": [
@@ -14965,15 +15688,6 @@
       "publication_rss_feed_uris": [
         {
           "uri": "https://pvportal.me/feed/"
-        }
-      ]
-    },
-    {
-      "publication_name": "Roditelji.me",
-      "publication_website_uri": "https://www.roditelji.me/",
-      "publication_rss_feed_uris": [
-        {
-          "uri": "https://www.roditelji.me/feed/"
         }
       ]
     },
@@ -16065,6 +16779,126 @@
           "uri": "http://www.omroepbrabant.nl/rss/"
         }
       ]
+    },
+    {
+      "publication_name": "De Telegraaf",
+      "publication_website_uri": "https://www.telegraaf.nl",
+      "category": "News",
+      "publication_rss_feed_uris": [
+        {
+          "uri": "https://www.telegraaf.nl/rss",
+          "gated": false,
+          "category": "News"
+        }
+      ]
+    },
+    {
+      "publication_name": "Trouw",
+      "publication_website_uri": "https://www.trouw.nl",
+      "category": "News",
+      "publication_rss_feed_uris": [
+        {
+          "uri": "https://www.trouw.nl/rss.xml",
+          "gated": false,
+          "category": "News"
+        }
+      ]
+    },
+    {
+      "publication_name": "De Groene Amsterdammer",
+      "publication_website_uri": "https://www.groene.nl",
+      "category": "News",
+      "publication_rss_feed_uris": [
+        {
+          "uri": "https://www.groene.nl/rss",
+          "gated": false,
+          "category": "News"
+        }
+      ]
+    },
+    {
+      "publication_name": "RTL",
+      "publication_website_uri": "https://rtl.nl",
+      "category": "News",
+      "publication_rss_feed_uris": [
+        {
+          "uri": "https://rtl.nl/rss.xml",
+          "gated": false,
+          "category": "News"
+        }
+      ]
+    },
+    {
+      "publication_name": "Het Parool",
+      "publication_website_uri": "https://www.parool.nl",
+      "category": "News",
+      "publication_rss_feed_uris": [
+        {
+          "uri": "https://www.parool.nl/rss.xml",
+          "gated": false,
+          "category": "News"
+        }
+      ]
+    },
+    {
+      "publication_name": "DutchNews",
+      "publication_website_uri": "https://dutchnews.nl",
+      "category": "News",
+      "publication_rss_feed_uris": [
+        {
+          "uri": "https://dutchnews.nl/feed",
+          "gated": false,
+          "category": "News"
+        }
+      ]
+    },
+    {
+      "publication_name": "RTL XL",
+      "publication_website_uri": "https://www.rtlxl.nl",
+      "category": "News",
+      "publication_rss_feed_uris": [
+        {
+          "uri": "https://www.rtlxl.nl/rss.xml",
+          "gated": false,
+          "category": "News"
+        }
+      ]
+    },
+    {
+      "publication_name": "Volkskrant",
+      "publication_website_uri": "https://www.volkskrant.nl",
+      "category": "News",
+      "publication_rss_feed_uris": [
+        {
+          "uri": "https://www.vk.nl/rss.xml",
+          "gated": false,
+          "category": "News"
+        }
+      ]
+    },
+    {
+      "publication_name": "Metro Nieuws",
+      "publication_website_uri": "https://www.metronieuws.nl",
+      "category": "News",
+      "publication_rss_feed_uris": [
+        {
+          "uri": "https://www.metronieuws.nl/feed",
+          "gated": true,
+          "category": "News"
+        }
+      ]
+    },
+    {
+      "publication_name": "Welgelichte Kringen",
+      "publication_website_uri": "https://www.welingelichtekringen.nl",
+      "category": "News",
+      "publication_rss_feed_uris": [
+        {
+          "uri": "https://www.welingelichtekringen.nl/feed",
+          "gated": false,
+          "category": "News"
+        }
+      ]
     }
   ],
   "NOR": [
@@ -16849,6 +17683,210 @@
       "publication_rss_feed_uris": [
         {
           "uri": "https://libero.pe/rss/home.xml"
+        }
+      ]
+    },
+    {
+      "publication_name": "RPP Noticias",
+      "publication_website_uri": "https://rpp.pe",
+      "category": "News",
+      "publication_rss_feed_uris": [
+        {
+          "uri": "https://rpp.pe/rss",
+          "gated": false,
+          "category": "News"
+        }
+      ]
+    },
+    {
+      "publication_name": "En Línea",
+      "publication_website_uri": "https://enlinea.pe",
+      "category": "News",
+      "publication_rss_feed_uris": [
+        {
+          "uri": "https://enlinea.pe/feed/",
+          "gated": false,
+          "category": "News"
+        }
+      ]
+    },
+    {
+      "publication_name": "Wayka",
+      "publication_website_uri": "https://wayka.pe",
+      "category": "News",
+      "publication_rss_feed_uris": [
+        {
+          "uri": "https://wayka.pe/feed/",
+          "gated": false,
+          "category": "News"
+        }
+      ]
+    },
+    {
+      "publication_name": "Diario del País",
+      "publication_website_uri": "https://delpais.com.pe",
+      "category": "News",
+      "publication_rss_feed_uris": [
+        {
+          "uri": "https://delpais.com.pe/feed/",
+          "gated": false,
+          "category": "News"
+        }
+      ]
+    },
+    {
+      "publication_name": "El Diario del Cusco",
+      "publication_website_uri": "https://diariodelcusco.pe",
+      "category": "Regional News: Cusco",
+      "publication_rss_feed_uris": [
+        {
+          "uri": "https://diariodelcusco.pe/feed/",
+          "gated": false,
+          "category": "Regional News: Cusco"
+        }
+      ]
+    },
+    {
+      "publication_name": "Diario Sin Fronteras",
+      "publication_website_uri": "https://diariosinfronteras.com.pe",
+      "category": "Regional News: Arequipa",
+      "publication_rss_feed_uris": [
+        {
+          "uri": "https://diariosinfronteras.com.pe/feed/",
+          "gated": false,
+          "category": "Regional News: Arequipa"
+        }
+      ]
+    },
+    {
+      "publication_name": "El Búho",
+      "publication_website_uri": "https://elbuho.pe",
+      "category": "Regional News: Arequipa",
+      "publication_rss_feed_uris": [
+        {
+          "uri": "https://elbuho.pe/feed/",
+          "gated": false,
+          "category": "Regional News: Arequipa"
+        }
+      ]
+    },
+    {
+      "publication_name": "La Prensa Regional",
+      "publication_website_uri": "https://prensaregional.pe",
+      "category": "Regional News: Moquegua",
+      "publication_rss_feed_uris": [
+        {
+          "uri": "https://prensaregional.pe/feed/",
+          "gated": false,
+          "category": "Regional News: Moquegua"
+        }
+      ]
+    },
+    {
+      "publication_name": "La Hora",
+      "publication_website_uri": "https://lahora.pe",
+      "category": "Regional News: Piura",
+      "publication_rss_feed_uris": [
+        {
+          "uri": "https://lahora.pe/feed/",
+          "gated": false,
+          "category": "Regional News: Piura"
+        }
+      ]
+    },
+    {
+      "publication_name": "Pro & Contra",
+      "publication_website_uri": "https://proycontra.com.pe",
+      "category": "Regional News: Loreto",
+      "publication_rss_feed_uris": [
+        {
+          "uri": "https://proycontra.com.pe/feed/",
+          "gated": false,
+          "category": "Regional News: Loreto"
+        }
+      ]
+    },
+    {
+      "publication_name": "Jornada",
+      "publication_website_uri": "https://jornada.com.pe",
+      "category": "News",
+      "publication_rss_feed_uris": [
+        {
+          "uri": "https://jornada.com.pe/feed/",
+          "gated": false,
+          "category": "News"
+        }
+      ]
+    },
+    {
+      "publication_name": "Diario La Prensa",
+      "publication_website_uri": "https://diariolaprensaperu.pe",
+      "category": "Regional News: La Libertad",
+      "publication_rss_feed_uris": [
+        {
+          "uri": "https://diariolaprensaperu.pe/feed/",
+          "gated": false,
+          "category": "Regional News: La Libertad"
+        }
+      ]
+    },
+    {
+      "publication_name": "El Popular",
+      "publication_website_uri": "https://elpopular.pe",
+      "category": "News",
+      "publication_rss_feed_uris": [
+        {
+          "uri": "https://elpopular.pe/rss/home.xml",
+          "gated": false,
+          "category": "News"
+        }
+      ]
+    },
+    {
+      "publication_name": "Diario Uno",
+      "publication_website_uri": "https://diariouno.pe",
+      "category": "News",
+      "publication_rss_feed_uris": [
+        {
+          "uri": "https://diariouno.pe/feed/",
+          "gated": false,
+          "category": "News"
+        }
+      ]
+    },
+    {
+      "publication_name": "El Men",
+      "publication_website_uri": "https://elmen.pe",
+      "category": "News",
+      "publication_rss_feed_uris": [
+        {
+          "uri": "https://elmen.pe/feed/",
+          "gated": false,
+          "category": "News"
+        }
+      ]
+    },
+    {
+      "publication_name": "El Chino",
+      "publication_website_uri": "https://elchino.pe",
+      "category": "News",
+      "publication_rss_feed_uris": [
+        {
+          "uri": "https://elchino.pe/feed/",
+          "gated": false,
+          "category": "News"
+        }
+      ]
+    },
+    {
+      "publication_name": "Diario Ojo",
+      "publication_website_uri": "https://ojo.pe",
+      "category": "News",
+      "publication_rss_feed_uris": [
+        {
+          "uri": "https://ojo.pe/arcio/rss/",
+          "gated": true,
+          "category": "News"
         }
       ]
     }
@@ -17825,6 +18863,234 @@
           "uri": "https://www.biziday.ro/feed/"
         }
       ]
+    },
+    {
+      "publication_name": "Alba24",
+      "publication_website_uri": "https://alba24.ro",
+      "category": "Regional News: Alba",
+      "publication_rss_feed_uris": [
+        {
+          "uri": "https://alba24.ro/feed/",
+          "gated": false,
+          "category": "Regional News: Alba"
+        }
+      ]
+    },
+    {
+      "publication_name": "Bucharest Daily News",
+      "publication_website_uri": "https://bucharestdailynews.com",
+      "category": "News",
+      "publication_rss_feed_uris": [
+        {
+          "uri": "https://bucharestdailynews.com/feed/",
+          "gated": false,
+          "category": "News"
+        }
+      ]
+    },
+    {
+      "publication_name": "Cronica Romana",
+      "publication_website_uri": "https://cronicaromana.net",
+      "category": "News",
+      "publication_rss_feed_uris": [
+        {
+          "uri": "https://cronicaromana.net/feed/",
+          "gated": false,
+          "category": "News"
+        }
+      ]
+    },
+    {
+      "publication_name": "Curier",
+      "publication_website_uri": "https://curier.ro",
+      "category": "News",
+      "publication_rss_feed_uris": [
+        {
+          "uri": "https://curier.ro/feed/",
+          "gated": false,
+          "category": "News"
+        }
+      ]
+    },
+    {
+      "publication_name": "Curier National",
+      "publication_website_uri": "https://curierulnational.ro",
+      "category": "News",
+      "publication_rss_feed_uris": [
+        {
+          "uri": "https://curierulnational.ro/feed/",
+          "gated": false,
+          "category": "News"
+        }
+      ]
+    },
+    {
+      "publication_name": "CVL Press",
+      "publication_website_uri": "https://cvlpress.ro",
+      "category": "Regional News: Centrala Muntenia",
+      "publication_rss_feed_uris": [
+        {
+          "uri": "https://cvlpress.ro/feed/",
+          "gated": false,
+          "category": "Regional News: Centrala Muntenia"
+        }
+      ]
+    },
+    {
+      "publication_name": "Gazeta de Cluj",
+      "publication_website_uri": "https://gazetadecluj.ro",
+      "category": "Regional News: Cluj",
+      "publication_rss_feed_uris": [
+        {
+          "uri": "https://gazetadecluj.ro/feed",
+          "gated": false,
+          "category": "Regional News: Cluj"
+        }
+      ]
+    },
+    {
+      "publication_name": "Graiul Salajului",
+      "publication_website_uri": "https://graiulsalajului.ro",
+      "category": "Regional News: Salaj",
+      "publication_rss_feed_uris": [
+        {
+          "uri": "https://graiulsalajului.ro/feed/",
+          "gated": false,
+          "category": "Regional News: Salaj"
+        }
+      ]
+    },
+    {
+      "publication_name": "Nine O'Clock",
+      "publication_website_uri": "https://nineoclock.ro",
+      "category": "News",
+      "publication_rss_feed_uris": [
+        {
+          "uri": "https://nineoclock.ro/feed",
+          "gated": false,
+          "category": "News"
+        }
+      ]
+    },
+    {
+      "publication_name": "Obiectiv BR",
+      "publication_website_uri": "https://obiectivbr.ro",
+      "category": "Regional News: Bucharest",
+      "publication_rss_feed_uris": [
+        {
+          "uri": "https://obiectivbr.ro/feed/",
+          "gated": false,
+          "category": "Regional News: Bucharest"
+        }
+      ]
+    },
+    {
+      "publication_name": "Apro Polis TV",
+      "publication_website_uri": "https://www.apropotv.ro",
+      "category": "News",
+      "publication_rss_feed_uris": [
+        {
+          "uri": "https://www.apropotv.ro/feed/",
+          "gated": false,
+          "category": "News"
+        }
+      ]
+    },
+    {
+      "publication_name": "Aradon Online",
+      "publication_website_uri": "https://www.aradon.ro",
+      "category": "Regional News: Arad",
+      "publication_rss_feed_uris": [
+        {
+          "uri": "https://www.aradon.ro/feed/",
+          "gated": false,
+          "category": "Regional News: Arad"
+        }
+      ]
+    },
+    {
+      "publication_name": "B1 TV",
+      "publication_website_uri": "https://www.b1tv.ro",
+      "category": "News",
+      "publication_rss_feed_uris": [
+        {
+          "uri": "https://www.b1tv.ro/feed/",
+          "gated": false,
+          "category": "News"
+        }
+      ]
+    },
+    {
+      "publication_name": "Bacau.net",
+      "publication_website_uri": "https://www.bacau.net",
+      "category": "Regional News: Bacau",
+      "publication_rss_feed_uris": [
+        {
+          "uri": "https://www.bacau.net/feed/",
+          "gated": false,
+          "category": "Regional News: Bacau"
+        }
+      ]
+    },
+    {
+      "publication_name": "Bihor News",
+      "publication_website_uri": "https://www.bihon.ro",
+      "category": "Regional News: Bihor",
+      "publication_rss_feed_uris": [
+        {
+          "uri": "https://www.bihon.ro/feed/",
+          "gated": false,
+          "category": "Regional News: Bihor"
+        }
+      ]
+    },
+    {
+      "publication_name": "BZC Press",
+      "publication_website_uri": "https://www.bzc.ro",
+      "category": "Regional News: Buzau",
+      "publication_rss_feed_uris": [
+        {
+          "uri": "https://www.bzc.ro/feed/",
+          "gated": false,
+          "category": "Regional News: Buzau"
+        }
+      ]
+    },
+    {
+      "publication_name": "Cotidianul",
+      "publication_website_uri": "https://www.cotidianul.ro",
+      "category": "News",
+      "publication_rss_feed_uris": [
+        {
+          "uri": "https://www.cotidianul.ro/feed/",
+          "gated": false,
+          "category": "News"
+        }
+      ]
+    },
+    {
+      "publication_name": "DC News",
+      "publication_website_uri": "https://www.dcnews.ro",
+      "category": "News",
+      "publication_rss_feed_uris": [
+        {
+          "uri": "https://www.dcnews.ro/feed/",
+          "gated": false,
+          "category": "News"
+        }
+      ]
+    },
+    {
+      "publication_name": "BZ Iasi",
+      "publication_website_uri": "https://www.bzi.ro",
+      "category": "Regional News: Iasi",
+      "publication_rss_feed_uris": [
+        {
+          "uri": "https://www.bzi.ro/feed/",
+          "gated": true,
+          "category": "Regional News: Iasi"
+        }
+      ]
     }
   ],
   "RUS": [
@@ -18733,15 +19999,6 @@
       ]
     },
     {
-      "publication_name": "Pravda.sk",
-      "publication_website_uri": "http://pravda.sk/",
-      "publication_rss_feed_uris": [
-        {
-          "uri": "http://servis.pravda.sk/rss.asp"
-        }
-      ]
-    },
-    {
       "publication_name": "Pluska.sk",
       "publication_website_uri": "http://pluska.sk/",
       "publication_rss_feed_uris": [
@@ -18778,15 +20035,6 @@
       ]
     },
     {
-      "publication_name": "Webnoviny.sk",
-      "publication_website_uri": "http://webnoviny.sk/",
-      "publication_rss_feed_uris": [
-        {
-          "uri": "http://www.webnoviny.sk/rss/rss-trenciansky-kraj.rss"
-        }
-      ]
-    },
-    {
       "publication_name": "Slovenská televízia a rozhlas (STVR)",
       "publication_website_uri": "https://spravy.stvr.sk/",
       "publication_rss_feed_uris": [
@@ -18801,6 +20049,42 @@
       "publication_rss_feed_uris": [
         {
           "uri": "https://www.teraz.sk/rss/rss-vsetky-spravy.rss"
+        }
+      ]
+    },
+    {
+      "publication_name": "SME",
+      "publication_website_uri": "https://www.sme.sk",
+      "category": "News",
+      "publication_rss_feed_uris": [
+        {
+          "uri": "https://www.sme.sk/rss",
+          "gated": false,
+          "category": "News"
+        }
+      ]
+    },
+    {
+      "publication_name": "Postoj",
+      "publication_website_uri": "https://www.postoj.sk",
+      "category": "News",
+      "publication_rss_feed_uris": [
+        {
+          "uri": "https://www.postoj.sk/rss",
+          "gated": false,
+          "category": "News"
+        }
+      ]
+    },
+    {
+      "publication_name": "Hlavné Správy",
+      "publication_website_uri": "https://www.hlavnespravy.sk",
+      "category": "News",
+      "publication_rss_feed_uris": [
+        {
+          "uri": "https://www.hlavnespravy.sk/feed",
+          "gated": false,
+          "category": "News"
         }
       ]
     }
