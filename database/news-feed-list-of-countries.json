@@ -2439,15 +2439,6 @@
   ],
   "CAN": [
     {
-      "publication_name": "CBC News",
-      "publication_website_uri": "https://www.cbc.ca/",
-      "publication_rss_feed_uris": [
-        {
-          "uri": "https://www.cbc.ca/cmlink/rss-topstories"
-        }
-      ]
-    },
-    {
       "publication_name": "Radio Canada",
       "publication_website_uri": "http://www.radio-canada.ca/",
       "publication_rss_feed_uris": [
@@ -2520,15 +2511,6 @@
       ]
     },
     {
-      "publication_name": "Montreal Gazette",
-      "publication_website_uri": "https://montrealgazette.com/",
-      "publication_rss_feed_uris": [
-        {
-          "uri": "https://montrealgazette.com/feed/"
-        }
-      ]
-    },
-    {
       "publication_name": "Edmonton Sun",
       "publication_website_uri": "https://www.edmontonsun.com/",
       "publication_rss_feed_uris": [
@@ -2592,15 +2574,6 @@
       ]
     },
     {
-      "publication_name": "The Star Phoenix",
-      "publication_website_uri": "https://thestarphoenix.com/",
-      "publication_rss_feed_uris": [
-        {
-          "uri": "https://thestarphoenix.com/feed/"
-        }
-      ]
-    },
-    {
       "publication_name": "Le Journal de Montreal",
       "publication_website_uri": "http://www.journaldemontreal.com/",
       "publication_rss_feed_uris": [
@@ -2650,16 +2623,8 @@
       "publication_website_uri": "https://www.biv.com/",
       "publication_rss_feed_uris": [
         {
-          "uri": "https://www.biv.com/rss"
-        }
-      ]
-    },
-    {
-      "publication_name": "Regina Leader",
-      "publication_website_uri": "https://leaderpost.com/",
-      "publication_rss_feed_uris": [
-        {
-          "uri": "https://leaderpost.com/feed/"
+          "uri": "https://www.biv.com/rss",
+          "gated": true
         }
       ]
     },
@@ -2687,6 +2652,258 @@
       "publication_rss_feed_uris": [
         {
           "uri": "https://business.financialpost.com/feed/"
+        }
+      ]
+    },
+    {
+      "publication_name": "CTV News",
+      "publication_website_uri": "https://www.ctvnews.ca/",
+      "category": "News",
+      "publication_rss_feed_uris": [
+        {
+          "uri": "https://www.ctvnews.ca/arc/outboundfeeds/rss/?outputType=xml",
+          "gated": false,
+          "category": "News"
+        }
+      ]
+    },
+    {
+      "publication_name": "BNN Bloomberg",
+      "publication_website_uri": "https://www.bnnbloomberg.ca/",
+      "category": "News",
+      "publication_rss_feed_uris": [
+        {
+          "uri": "https://www.bnnbloomberg.ca/arc/outboundfeeds/rss/?outputType=xml",
+          "gated": false,
+          "category": "News"
+        }
+      ]
+    },
+    {
+      "publication_name": "CP24",
+      "publication_website_uri": "https://www.cp24.com/",
+      "category": "News",
+      "publication_rss_feed_uris": [
+        {
+          "uri": "https://www.cp24.com/arc/outboundfeeds/rss/?outputType=xml",
+          "gated": false,
+          "category": "News"
+        }
+      ]
+    },
+    {
+      "publication_name": "Vancouver Sun",
+      "publication_website_uri": "https://www.vancouversun.com/",
+      "category": "Regional News",
+      "publication_rss_feed_uris": [
+        {
+          "uri": "https://www.vancouversun.com/feed/",
+          "gated": false,
+          "category": "Regional News"
+        }
+      ]
+    },
+    {
+      "publication_name": "Red Deer Advocate",
+      "publication_website_uri": "https://www.reddeeradvocate.com/",
+      "category": "News",
+      "publication_rss_feed_uris": [
+        {
+          "uri": "https://www.reddeeradvocate.com/feed/",
+          "gated": false,
+          "category": "News"
+        }
+      ]
+    },
+    {
+      "publication_name": "The Kingston Whig-Standard",
+      "publication_website_uri": "https://www.thewhig.com/",
+      "category": "News",
+      "publication_rss_feed_uris": [
+        {
+          "uri": "https://www.thewhig.com/feed/",
+          "gated": false,
+          "category": "News"
+        }
+      ]
+    },
+    {
+      "publication_name": "London Free Press",
+      "publication_website_uri": "https://www.lfpress.com/",
+      "category": "News",
+      "publication_rss_feed_uris": [
+        {
+          "uri": "https://www.lfpress.com/feed/",
+          "gated": false,
+          "category": "News"
+        }
+      ]
+    },
+    {
+      "publication_name": "Brandon Sun",
+      "publication_website_uri": "https://www.brandonsun.com/",
+      "category": "Regional News",
+      "publication_rss_feed_uris": [
+        {
+          "uri": "https://www.brandonsun.com/feed",
+          "gated": false,
+          "category": "Regional News"
+        }
+      ]
+    },
+    {
+      "publication_name": "Sudbury Star",
+      "publication_website_uri": "https://www.sudburystar.com/",
+      "category": "Regional News",
+      "publication_rss_feed_uris": [
+        {
+          "uri": "https://www.sudburystar.com/feed/",
+          "gated": false,
+          "category": "Regional News"
+        }
+      ]
+    },
+    {
+      "publication_name": "Sault Ste. Marie Star",
+      "publication_website_uri": "https://www.saultstar.com/",
+      "category": "Regional News",
+      "publication_rss_feed_uris": [
+        {
+          "uri": "https://www.saultstar.com/feed/",
+          "gated": false,
+          "category": "Regional News"
+        }
+      ]
+    },
+    {
+      "publication_name": "Belleville Intelligencer",
+      "publication_website_uri": "https://www.intelligencer.ca/",
+      "category": "News",
+      "publication_rss_feed_uris": [
+        {
+          "uri": "https://www.intelligencer.ca/feed/",
+          "gated": false,
+          "category": "News"
+        }
+      ]
+    },
+    {
+      "publication_name": "Brockville Recorder & Times",
+      "publication_website_uri": "https://www.recorder.ca/",
+      "category": "News",
+      "publication_rss_feed_uris": [
+        {
+          "uri": "https://www.recorder.ca/feed/",
+          "gated": false,
+          "category": "News"
+        }
+      ]
+    },
+    {
+      "publication_name": "Medicine Hat News",
+      "publication_website_uri": "https://www.medicinehatnews.com/",
+      "category": "News",
+      "publication_rss_feed_uris": [
+        {
+          "uri": "https://www.medicinehatnews.com/feed/",
+          "gated": false,
+          "category": "News"
+        }
+      ]
+    },
+    {
+      "publication_name": "Le Soleil",
+      "publication_website_uri": "https://www.lesoleil.com/",
+      "category": "News",
+      "publication_rss_feed_uris": [
+        {
+          "uri": "https://www.lesoleil.com/arc/outboundfeeds/rss/?outputType=xml",
+          "gated": false,
+          "category": "News"
+        }
+      ]
+    },
+    {
+      "publication_name": "Sherbrooke Record",
+      "publication_website_uri": "https://www.sherbrookerecord.com/",
+      "category": "News",
+      "publication_rss_feed_uris": [
+        {
+          "uri": "https://www.sherbrookerecord.com/feed/",
+          "gated": false,
+          "category": "News"
+        }
+      ]
+    },
+    {
+      "publication_name": "Le Nouvelliste",
+      "publication_website_uri": "https://www.lenouvelliste.ca/",
+      "category": "News",
+      "publication_rss_feed_uris": [
+        {
+          "uri": "https://www.lenouvelliste.ca/arc/outboundfeeds/rss/?outputType=xml",
+          "gated": false,
+          "category": "News"
+        }
+      ]
+    },
+    {
+      "publication_name": "Canadaland",
+      "publication_website_uri": "https://www.canadaland.com/",
+      "category": "News",
+      "publication_rss_feed_uris": [
+        {
+          "uri": "https://www.canadaland.com/feed/",
+          "gated": false,
+          "category": "News"
+        }
+      ]
+    },
+    {
+      "publication_name": "Acadie Nouvelle",
+      "publication_website_uri": "https://www.acadienouvelle.com/",
+      "category": "News",
+      "publication_rss_feed_uris": [
+        {
+          "uri": "https://www.acadienouvelle.com/feed/",
+          "gated": false,
+          "category": "News"
+        }
+      ]
+    },
+    {
+      "publication_name": "PressProgress",
+      "publication_website_uri": "https://pressprogress.ca/",
+      "category": "News",
+      "publication_rss_feed_uris": [
+        {
+          "uri": "https://pressprogress.ca/feed/",
+          "gated": false,
+          "category": "News"
+        }
+      ]
+    },
+    {
+      "publication_name": "Ricochet",
+      "publication_website_uri": "https://ricochet.media/",
+      "category": "News",
+      "publication_rss_feed_uris": [
+        {
+          "uri": "https://ricochet.media/feed/",
+          "gated": false,
+          "category": "News"
+        }
+      ]
+    },
+    {
+      "publication_name": "The Narwhal",
+      "publication_website_uri": "https://thenarwhal.ca/",
+      "category": "News",
+      "publication_rss_feed_uris": [
+        {
+          "uri": "https://thenarwhal.ca/feed/",
+          "gated": false,
+          "category": "News"
         }
       ]
     }
@@ -2745,6 +2962,42 @@
           "uri": "http://www.tdg.ch/rss.html"
         }
       ]
+    },
+    {
+      "publication_name": "Blick",
+      "publication_website_uri": "https://www.blick.ch",
+      "category": "News",
+      "publication_rss_feed_uris": [
+        {
+          "uri": "https://www.blick.ch/rss.xml",
+          "gated": true,
+          "category": "News"
+        }
+      ]
+    },
+    {
+      "publication_name": "Der Bund",
+      "publication_website_uri": "https://www.derbund.ch",
+      "category": "News",
+      "publication_rss_feed_uris": [
+        {
+          "uri": "http://www.derbund.ch/rss.html",
+          "gated": false,
+          "category": "News"
+        }
+      ]
+    },
+    {
+      "publication_name": "Le Temps",
+      "publication_website_uri": "https://www.letemps.ch",
+      "category": "News",
+      "publication_rss_feed_uris": [
+        {
+          "uri": "https://www.letemps.ch/feed",
+          "gated": false,
+          "category": "News"
+        }
+      ]
     }
   ],
   "CHL": [
@@ -2799,6 +3052,18 @@
       "publication_rss_feed_uris": [
         {
           "uri": "https://www.lanacion.cl/feed/"
+        }
+      ]
+    },
+    {
+      "publication_name": "La Tercera",
+      "publication_website_uri": "https://www.latercera.com",
+      "category": "News",
+      "publication_rss_feed_uris": [
+        {
+          "uri": "https://latercera.com/rss",
+          "gated": false,
+          "category": "News"
         }
       ]
     }
@@ -3600,6 +3865,54 @@
       "publication_rss_feed_uris": [
         {
           "uri": "http://cyprus-mail.com/feed/"
+        }
+      ]
+    },
+    {
+      "publication_name": "Philenews Cyprus",
+      "publication_website_uri": "https://www.philenews.com",
+      "category": "News",
+      "publication_rss_feed_uris": [
+        {
+          "uri": "https://www.philenews.com/feed/",
+          "gated": false,
+          "category": "News"
+        }
+      ]
+    },
+    {
+      "publication_name": "In-Cyprus",
+      "publication_website_uri": "https://in-cyprus.philenews.com",
+      "category": "News",
+      "publication_rss_feed_uris": [
+        {
+          "uri": "https://in-cyprus.philenews.com/feed/",
+          "gated": false,
+          "category": "News"
+        }
+      ]
+    },
+    {
+      "publication_name": "Politis",
+      "publication_website_uri": "https://www.politis.com.cy",
+      "category": "News",
+      "publication_rss_feed_uris": [
+        {
+          "uri": "https://politis.com.cy/feed/",
+          "gated": false,
+          "category": "News"
+        }
+      ]
+    },
+    {
+      "publication_name": "Famagusta News",
+      "publication_website_uri": "https://www.famagusta-news.com",
+      "category": "Regional News: Famagusta",
+      "publication_rss_feed_uris": [
+        {
+          "uri": "https://www.famagusta-news.com/feed/",
+          "gated": false,
+          "category": "Regional News: Famagusta"
         }
       ]
     }
@@ -4445,38 +4758,11 @@
       ]
     },
     {
-      "publication_name": "Expreso",
-      "publication_website_uri": "https://expreso.ec/",
-      "publication_rss_feed_uris": [
-        {
-          "uri": "https://www.expreso.ec/rss/"
-        }
-      ]
-    },
-    {
       "publication_name": "El Mercurio",
       "publication_website_uri": "https://elmercurio.com.ec/",
       "publication_rss_feed_uris": [
         {
           "uri": "https://elmercurio.com.ec/feed/"
-        }
-      ]
-    },
-    {
-      "publication_name": "La Prensa",
-      "publication_website_uri": "https://www.laprensa.com.ec/",
-      "publication_rss_feed_uris": [
-        {
-          "uri": "https://www.laprensa.com.ec/feed/"
-        }
-      ]
-    },
-    {
-      "publication_name": "Los Andes",
-      "publication_website_uri": "https://www.diariolosandes.com.ec/",
-      "publication_rss_feed_uris": [
-        {
-          "uri": "https://www.diariolosandes.com.ec/feed/"
         }
       ]
     },
@@ -4567,33 +4853,6 @@
       "publication_rss_feed_uris": [
         {
           "uri": "https://quenoticias.com/feed/"
-        }
-      ]
-    },
-    {
-      "publication_name": "La Nación",
-      "publication_website_uri": "https://lanacion.com.ec/",
-      "publication_rss_feed_uris": [
-        {
-          "uri": "https://lanacion.com.ec/feed/"
-        }
-      ]
-    },
-    {
-      "publication_name": "ecuavisa",
-      "publication_website_uri": "https://ecuavisa.com/",
-      "publication_rss_feed_uris": [
-        {
-          "uri": "https://www.ecuavisa.com/rss/noticias"
-        }
-      ]
-    },
-    {
-      "publication_name": "Ecuador en vivo",
-      "publication_website_uri": "https://ecuadorenvivo.com/",
-      "publication_rss_feed_uris": [
-        {
-          "uri": "https://ecuadorenvivo.com/feed/"
         }
       ]
     },
@@ -8494,6 +8753,66 @@
       "publication_rss_feed_uris": [
         {
           "uri": "https://www.index.hr/rss"
+        }
+      ]
+    },
+    {
+      "publication_name": "Jutarnji list",
+      "publication_website_uri": "https://www.jutarnji.hr",
+      "category": "News",
+      "publication_rss_feed_uris": [
+        {
+          "uri": "https://www.jutarnji.hr/feed",
+          "gated": false,
+          "category": "News"
+        }
+      ]
+    },
+    {
+      "publication_name": "Večernji list",
+      "publication_website_uri": "https://www.vecernji.hr",
+      "category": "News",
+      "publication_rss_feed_uris": [
+        {
+          "uri": "https://www.vecernji.hr/feed",
+          "gated": false,
+          "category": "News"
+        }
+      ]
+    },
+    {
+      "publication_name": "N1 Hrvatska",
+      "publication_website_uri": "https://n1info.hr",
+      "category": "News",
+      "publication_rss_feed_uris": [
+        {
+          "uri": "https://n1info.hr/feed",
+          "gated": false,
+          "category": "News"
+        }
+      ]
+    },
+    {
+      "publication_name": "Net.hr",
+      "publication_website_uri": "https://net.hr",
+      "category": "News",
+      "publication_rss_feed_uris": [
+        {
+          "uri": "https://net.hr/feed",
+          "gated": false,
+          "category": "News"
+        }
+      ]
+    },
+    {
+      "publication_name": "Telegram.hr",
+      "publication_website_uri": "https://www.telegram.hr",
+      "category": "News",
+      "publication_rss_feed_uris": [
+        {
+          "uri": "https://www.telegram.hr/feed/",
+          "gated": false,
+          "category": "News"
         }
       ]
     }
@@ -15278,38 +15597,11 @@
   ],
   "NGA": [
     {
-      "publication_name": "Punch",
-      "publication_website_uri": "http://www.punchng.com/",
-      "publication_rss_feed_uris": [
-        {
-          "uri": "http://www.punchng.com/feed/"
-        }
-      ]
-    },
-    {
-      "publication_name": "This Day",
-      "publication_website_uri": "http://www.thisdayonline.com/",
-      "publication_rss_feed_uris": [
-        {
-          "uri": "http://www.wikihow.com/feed.rss"
-        }
-      ]
-    },
-    {
       "publication_name": "Information Nigeria",
       "publication_website_uri": "http://www.informationnigeria.org/",
       "publication_rss_feed_uris": [
         {
           "uri": "http://www.informationng.com/feed"
-        }
-      ]
-    },
-    {
-      "publication_name": "Nigeria News Links | Today's Updates - Nigerian Bulletin",
-      "publication_website_uri": "https://www.nigerianbulletin.com/",
-      "publication_rss_feed_uris": [
-        {
-          "uri": "https://www.nigerianbulletin.com/forums/-/index.rss"
         }
       ]
     },
@@ -15328,15 +15620,6 @@
       "publication_rss_feed_uris": [
         {
           "uri": "https://www.legit.ng/rss/all.rss"
-        }
-      ]
-    },
-    {
-      "publication_name": "Latest Nigeria News, Nigerian Newspapers, Politics",
-      "publication_website_uri": "https://thenationonlineng.net/",
-      "publication_rss_feed_uris": [
-        {
-          "uri": "https://thenationonlineng.net/feed/"
         }
       ]
     },
@@ -15364,15 +15647,6 @@
       "publication_rss_feed_uris": [
         {
           "uri": "https://www.informationng.com/feed"
-        }
-      ]
-    },
-    {
-      "publication_name": "The Guardian Nigeria News – Nigeria and World News",
-      "publication_website_uri": "https://guardian.ng/",
-      "publication_rss_feed_uris": [
-        {
-          "uri": "https://guardian.ng/feed/"
         }
       ]
     },
@@ -15494,6 +15768,126 @@
         {
           "uri": "https://www.thepointersnewsonline.com/feed",
           "category": "Regional News: Delta"
+        }
+      ]
+    },
+    {
+      "publication_name": "Vanguard Nigeria",
+      "publication_website_uri": "https://www.vanguardngr.com",
+      "category": "News",
+      "publication_rss_feed_uris": [
+        {
+          "uri": "https://www.vanguardngr.com/feed/",
+          "gated": false,
+          "category": "News"
+        }
+      ]
+    },
+    {
+      "publication_name": "ThisDay",
+      "publication_website_uri": "https://www.thisday.com.ng",
+      "category": "News",
+      "publication_rss_feed_uris": [
+        {
+          "uri": "https://www.thisday.com.ng/feed/",
+          "gated": false,
+          "category": "News"
+        }
+      ]
+    },
+    {
+      "publication_name": "Channels Television",
+      "publication_website_uri": "https://www.channelstv.com",
+      "category": "News",
+      "publication_rss_feed_uris": [
+        {
+          "uri": "https://www.channelstv.com/feed/",
+          "gated": false,
+          "category": "News"
+        }
+      ]
+    },
+    {
+      "publication_name": "The Cable",
+      "publication_website_uri": "https://thecable.ng",
+      "category": "News",
+      "publication_rss_feed_uris": [
+        {
+          "uri": "https://thecable.ng/feed/",
+          "gated": false,
+          "category": "News"
+        }
+      ]
+    },
+    {
+      "publication_name": "Leadership",
+      "publication_website_uri": "https://leadership.ng",
+      "category": "News",
+      "publication_rss_feed_uris": [
+        {
+          "uri": "https://leadership.ng/feed/",
+          "gated": false,
+          "category": "News"
+        }
+      ]
+    },
+    {
+      "publication_name": "Sun News Online",
+      "publication_website_uri": "https://www.sunnewsonline.com",
+      "category": "News",
+      "publication_rss_feed_uris": [
+        {
+          "uri": "https://www.sunnewsonline.com/feed/",
+          "gated": false,
+          "category": "News"
+        }
+      ]
+    },
+    {
+      "publication_name": "Nairametrics",
+      "publication_website_uri": "https://nairametrics.com",
+      "category": "News",
+      "publication_rss_feed_uris": [
+        {
+          "uri": "https://nairametrics.com/feed/",
+          "gated": false,
+          "category": "News"
+        }
+      ]
+    },
+    {
+      "publication_name": "PM News Nigeria",
+      "publication_website_uri": "https://www.pmnewsnigeria.com",
+      "category": "News",
+      "publication_rss_feed_uris": [
+        {
+          "uri": "https://www.pmnewsnigeria.com/feed/",
+          "gated": false,
+          "category": "News"
+        }
+      ]
+    },
+    {
+      "publication_name": "Nigeria Today",
+      "publication_website_uri": "https://www.nigeriatoday.ng",
+      "category": "News",
+      "publication_rss_feed_uris": [
+        {
+          "uri": "https://www.nigeriatoday.ng/feed/",
+          "gated": false,
+          "category": "News"
+        }
+      ]
+    },
+    {
+      "publication_name": "BellaNaija",
+      "publication_website_uri": "https://www.bellanaija.com",
+      "category": "News",
+      "publication_rss_feed_uris": [
+        {
+          "uri": "https://www.bellanaija.com/feed/",
+          "gated": false,
+          "category": "News"
         }
       ]
     }
@@ -15693,15 +16087,6 @@
       ]
     },
     {
-      "publication_name": "TV2",
-      "publication_website_uri": "http://tv2.no/",
-      "publication_rss_feed_uris": [
-        {
-          "uri": "http://www.tv2.no/rss/tv2nyhetene-siste.xml"
-        }
-      ]
-    },
-    {
       "publication_name": "Aftenposten",
       "publication_website_uri": "http://aftenposten.no/",
       "publication_rss_feed_uris": [
@@ -15734,6 +16119,42 @@
       "publication_rss_feed_uris": [
         {
           "uri": "http://www.aftenbladet.no/rss/"
+        }
+      ]
+    },
+    {
+      "publication_name": "Adressa",
+      "publication_website_uri": "https://www.adressa.no/",
+      "category": "Regional News: Trondheim",
+      "publication_rss_feed_uris": [
+        {
+          "uri": "https://www.adressa.no/rss",
+          "gated": false,
+          "category": "Regional News: Trondheim"
+        }
+      ]
+    },
+    {
+      "publication_name": "Fædrelandsvennen",
+      "publication_website_uri": "https://www.fvn.no/",
+      "category": "Regional News: Kristiansand",
+      "publication_rss_feed_uris": [
+        {
+          "uri": "https://www.fvn.no/rss",
+          "gated": false,
+          "category": "Regional News: Kristiansand"
+        }
+      ]
+    },
+    {
+      "publication_name": "Strilen",
+      "publication_website_uri": "https://www.strilen.no/",
+      "category": "Regional News: South Coast",
+      "publication_rss_feed_uris": [
+        {
+          "uri": "https://www.strilen.no/rss",
+          "gated": false,
+          "category": "Regional News: South Coast"
         }
       ]
     }
@@ -18541,11 +18962,158 @@
       ]
     },
     {
-      "publication_name": "nwt.se",
-      "publication_website_uri": "http://nwt.se/",
+      "publication_name": "Arbetarbladet",
+      "publication_website_uri": "https://www.arbetarbladet.se",
+      "category": "Regional News: Gävle",
       "publication_rss_feed_uris": [
         {
-          "uri": "http://rss.nwt.se/nwtse_karlstad"
+          "uri": "https://www.arbetarbladet.se/feeds/feed.xml",
+          "gated": false,
+          "category": "Regional News: Gävle"
+        }
+      ]
+    },
+    {
+      "publication_name": "Barometern",
+      "publication_website_uri": "https://www.barometern.se",
+      "category": "Regional News: Kalmar",
+      "publication_rss_feed_uris": [
+        {
+          "uri": "https://www.barometern.se/feeds/feed.xml",
+          "gated": false,
+          "category": "Regional News: Kalmar"
+        }
+      ]
+    },
+    {
+      "publication_name": "Borås Tidning",
+      "publication_website_uri": "https://www.bt.se",
+      "category": "Regional News: Borås",
+      "publication_rss_feed_uris": [
+        {
+          "uri": "https://www.bt.se/feeds/feed.xml",
+          "gated": false,
+          "category": "Regional News: Borås"
+        }
+      ]
+    },
+    {
+      "publication_name": "Dala-Demokraten",
+      "publication_website_uri": "https://www.dalademokraten.se",
+      "category": "Regional News: Dalarna",
+      "publication_rss_feed_uris": [
+        {
+          "uri": "https://www.dalademokraten.se/feeds/feed.xml",
+          "gated": false,
+          "category": "Regional News: Dalarna"
+        }
+      ]
+    },
+    {
+      "publication_name": "Gefle Dagblad",
+      "publication_website_uri": "https://www.gd.se",
+      "category": "Regional News: Gävleborg",
+      "publication_rss_feed_uris": [
+        {
+          "uri": "https://www.gd.se/feeds/feed.xml",
+          "gated": false,
+          "category": "Regional News: Gävleborg"
+        }
+      ]
+    },
+    {
+      "publication_name": "Helsingborgs Dagblad",
+      "publication_website_uri": "https://www.hd.se",
+      "category": "Regional News: Helsingborg",
+      "publication_rss_feed_uris": [
+        {
+          "uri": "https://www.hd.se/feeds/feed.xml",
+          "gated": false,
+          "category": "Regional News: Helsingborg"
+        }
+      ]
+    },
+    {
+      "publication_name": "Jönköpings Posten",
+      "publication_website_uri": "https://www.jp.se",
+      "category": "Regional News: Jönköping",
+      "publication_rss_feed_uris": [
+        {
+          "uri": "https://www.jp.se/feeds/feed.xml",
+          "gated": false,
+          "category": "Regional News: Jönköping"
+        }
+      ]
+    },
+    {
+      "publication_name": "Nerikes Allehanda",
+      "publication_website_uri": "https://www.na.se",
+      "category": "Regional News: Örebro",
+      "publication_rss_feed_uris": [
+        {
+          "uri": "https://www.na.se/feeds/feed.xml",
+          "gated": false,
+          "category": "Regional News: Örebro"
+        }
+      ]
+    },
+    {
+      "publication_name": "Nya Wermlands-Tidningen",
+      "publication_website_uri": "https://www.nwt.se",
+      "category": "Regional News: Värmland",
+      "publication_rss_feed_uris": [
+        {
+          "uri": "https://www.nwt.se/feeds/feed.xml",
+          "gated": false,
+          "category": "Regional News: Värmland"
+        }
+      ]
+    },
+    {
+      "publication_name": "Smålands-Tidningen",
+      "publication_website_uri": "https://www.smt.se",
+      "category": "Regional News: Småland",
+      "publication_rss_feed_uris": [
+        {
+          "uri": "https://www.smt.se/feeds/feed.xml",
+          "gated": false,
+          "category": "Regional News: Småland"
+        }
+      ]
+    },
+    {
+      "publication_name": "Västmanlands Läns Tidning",
+      "publication_website_uri": "https://www.vlt.se",
+      "category": "Regional News: Västerås",
+      "publication_rss_feed_uris": [
+        {
+          "uri": "https://www.vlt.se/feeds/feed.xml",
+          "gated": false,
+          "category": "Regional News: Västerås"
+        }
+      ]
+    },
+    {
+      "publication_name": "Norrländska Socialdemokraten",
+      "publication_website_uri": "https://www.nsd.se",
+      "category": "Regional News: Norrbotten",
+      "publication_rss_feed_uris": [
+        {
+          "uri": "https://www.nsd.se/rss",
+          "gated": false,
+          "category": "Regional News: Norrbotten"
+        }
+      ]
+    },
+    {
+      "publication_name": "Östgöta Correspondenten",
+      "publication_website_uri": "https://www.corren.se",
+      "category": "Regional News: Linköping",
+      "publication_rss_feed_uris": [
+        {
+          "uri": "https://www.corren.se/rss",
+          "gated": false,
+          "category": "Regional News: Linköping"
         }
       ]
     }
@@ -20769,24 +21337,6 @@
   ],
   "ZAF": [
     {
-      "publication_name": "Channel24",
-      "publication_website_uri": "http://www.channel24.co.za/",
-      "publication_rss_feed_uris": [
-        {
-          "uri": "http://www.channel24.pk/feed/"
-        }
-      ]
-    },
-    {
-      "publication_name": "Business Day",
-      "publication_website_uri": "http://www.bdlive.co.za/",
-      "publication_rss_feed_uris": [
-        {
-          "uri": "http://rss.nytimes.com/services/xml/rss/nyt/Business.xml"
-        }
-      ]
-    },
-    {
       "publication_name": "TechCentral",
       "publication_website_uri": "https://techcentral.co.za/",
       "publication_rss_feed_uris": [
@@ -20800,7 +21350,8 @@
       "publication_website_uri": "https://citizen.co.za/",
       "publication_rss_feed_uris": [
         {
-          "uri": "https://citizen.co.za/feed/"
+          "uri": "https://citizen.co.za/feed/",
+          "gated": true
         }
       ]
     },
@@ -20841,11 +21392,115 @@
       ]
     },
     {
-      "publication_name": "Axios",
-      "publication_website_uri": "https://api.axios.com/",
+      "publication_name": "SABC News",
+      "publication_website_uri": "https://www.sabc.co.za/",
+      "category": "News",
       "publication_rss_feed_uris": [
         {
-          "uri": "https://api.axios.com/feed/"
+          "uri": "https://www.sabc.co.za/sabc/news/feed/",
+          "gated": false,
+          "category": "News"
+        }
+      ]
+    },
+    {
+      "publication_name": "Biznews",
+      "publication_website_uri": "https://www.biznews.com/",
+      "category": "News",
+      "publication_rss_feed_uris": [
+        {
+          "uri": "https://www.biznews.com/feed/",
+          "gated": false,
+          "category": "News"
+        }
+      ]
+    },
+    {
+      "publication_name": "HTXT.africa",
+      "publication_website_uri": "https://www.htxt.co.za/",
+      "category": "News",
+      "publication_rss_feed_uris": [
+        {
+          "uri": "https://www.htxt.co.za/feed/",
+          "gated": false,
+          "category": "News"
+        }
+      ]
+    },
+    {
+      "publication_name": "Biznews",
+      "publication_website_uri": "https://biznews.com",
+      "category": "News",
+      "publication_rss_feed_uris": [
+        {
+          "uri": "https://biznews.com/feed/",
+          "gated": false,
+          "category": "News"
+        }
+      ]
+    },
+    {
+      "publication_name": "Newsroom",
+      "publication_website_uri": "https://www.newsroom.co.za",
+      "category": "News",
+      "publication_rss_feed_uris": [
+        {
+          "uri": "https://www.newsroom.co.za/rss/",
+          "gated": false,
+          "category": "News"
+        }
+      ]
+    },
+    {
+      "publication_name": "SABC News",
+      "publication_website_uri": "https://www.sabcnews.com",
+      "category": "News",
+      "publication_rss_feed_uris": [
+        {
+          "uri": "https://www.sabcnews.com/sabcnews/feed",
+          "gated": false,
+          "category": "News"
+        },
+        {
+          "uri": "https://www.sabcnews.com/sabcnews/rss",
+          "gated": false,
+          "category": "News"
+        }
+      ]
+    },
+    {
+      "publication_name": "Witness",
+      "publication_website_uri": "https://www.witness.co.za",
+      "category": "Regional News: KwaZulu-Natal",
+      "publication_rss_feed_uris": [
+        {
+          "uri": "https://www.witness.co.za/feed/",
+          "gated": false,
+          "category": "Regional News: KwaZulu-Natal"
+        }
+      ]
+    },
+    {
+      "publication_name": "The Citizen",
+      "publication_website_uri": "https://www.citizen.co.za",
+      "category": "News",
+      "publication_rss_feed_uris": [
+        {
+          "uri": "https://www.citizen.co.za/feed/",
+          "gated": true,
+          "category": "News"
+        }
+      ]
+    },
+    {
+      "publication_name": "Lowvelder",
+      "publication_website_uri": "https://www.lowvelder.co.za",
+      "category": "Regional News: Mpumalanga",
+      "publication_rss_feed_uris": [
+        {
+          "uri": "https://www.lowvelder.co.za/feed/",
+          "gated": true,
+          "category": "Regional News: Mpumalanga"
         }
       ]
     }
@@ -20861,11 +21516,26 @@
       ]
     },
     {
-      "publication_name": "Post",
-      "publication_website_uri": "http://postzambia.com/",
+      "publication_name": "Mwebantu",
+      "publication_website_uri": "https://www.mwebantu.com",
+      "category": "News",
       "publication_rss_feed_uris": [
         {
-          "uri": "http://nypost.com/feed/"
+          "uri": "https://www.mwebantu.com/feed/",
+          "gated": false,
+          "category": "News"
+        }
+      ]
+    },
+    {
+      "publication_name": "News Diggers",
+      "publication_website_uri": "https://newsdiggers.com",
+      "category": "News",
+      "publication_rss_feed_uris": [
+        {
+          "uri": "https://newsdiggers.com/feed/",
+          "gated": false,
+          "category": "News"
         }
       ]
     }
