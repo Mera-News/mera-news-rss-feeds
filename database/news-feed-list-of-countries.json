@@ -2551,7 +2551,8 @@
       "publication_website_uri": "https://www.uol.com.br/",
       "publication_rss_feed_uris": [
         {
-          "uri": "http://rss.home.uol.com.br/index.xml"
+          "uri": "http://rss.home.uol.com.br/index.xml",
+          "gated": true
         }
       ]
     },
@@ -2570,15 +2571,6 @@
       "publication_rss_feed_uris": [
         {
           "uri": "https://veja.abril.com.br/rss/"
-        }
-      ]
-    },
-    {
-      "publication_name": "Estadão",
-      "publication_website_uri": "https://www.estadao.com.br/",
-      "publication_rss_feed_uris": [
-        {
-          "uri": "https://www.estadao.com.br/arc/outboundfeeds/feeds/rss/sections/geral/"
         }
       ]
     },
@@ -2619,15 +2611,6 @@
       ]
     },
     {
-      "publication_name": "Jornal Correio (Correio 24 Horas)",
-      "publication_website_uri": "https://www.correio24horas.com.br/",
-      "publication_rss_feed_uris": [
-        {
-          "uri": "https://www.correio24horas.com.br/rss"
-        }
-      ]
-    },
-    {
       "publication_name": "A Tarde",
       "publication_website_uri": "https://www.atarde.com.br/",
       "publication_rss_feed_uris": [
@@ -2659,7 +2642,8 @@
       "publication_website_uri": "https://jc.ne10.uol.com.br/",
       "publication_rss_feed_uris": [
         {
-          "uri": "https://jc.uol.com.br/ultimas/rss.xml"
+          "uri": "https://jc.uol.com.br/ultimas/rss.xml",
+          "gated": true
         }
       ]
     },
@@ -2678,6 +2662,246 @@
       "publication_rss_feed_uris": [
         {
           "uri": "https://riotimesonline.com/feed/"
+        }
+      ]
+    },
+    {
+      "publication_name": "Brasil de Fato",
+      "publication_website_uri": "https://www.brasildefato.com.br",
+      "category": "News",
+      "publication_rss_feed_uris": [
+        {
+          "uri": "https://www.brasildefato.com.br/rss",
+          "gated": false,
+          "category": "News"
+        }
+      ]
+    },
+    {
+      "publication_name": "The Intercept Brasil",
+      "publication_website_uri": "https://www.theintercept.com/brasil",
+      "category": "News",
+      "publication_rss_feed_uris": [
+        {
+          "uri": "https://www.theintercept.com/brasil/feed/",
+          "gated": false,
+          "category": "News"
+        }
+      ]
+    },
+    {
+      "publication_name": "Carta Capital",
+      "publication_website_uri": "https://www.cartacapital.com.br",
+      "category": "News",
+      "publication_rss_feed_uris": [
+        {
+          "uri": "https://www.cartacapital.com.br/rss",
+          "gated": false,
+          "category": "News"
+        }
+      ]
+    },
+    {
+      "publication_name": "Metrópoles",
+      "publication_website_uri": "https://www.metropoles.com",
+      "category": "News",
+      "publication_rss_feed_uris": [
+        {
+          "uri": "https://www.metropoles.com/feed",
+          "gated": false,
+          "category": "News"
+        }
+      ]
+    },
+    {
+      "publication_name": "Valor Económico",
+      "publication_website_uri": "https://www.valor.com.br",
+      "category": "News",
+      "publication_rss_feed_uris": [
+        {
+          "uri": "https://www.valor.com.br/rss",
+          "gated": false,
+          "category": "News"
+        }
+      ]
+    },
+    {
+      "publication_name": "Brasil 247",
+      "publication_website_uri": "https://www.brasil247.com",
+      "category": "News",
+      "publication_rss_feed_uris": [
+        {
+          "uri": "https://www.brasil247.com/rss",
+          "gated": false,
+          "category": "News"
+        }
+      ]
+    },
+    {
+      "publication_name": "Diário do Comércio",
+      "publication_website_uri": "https://www.diariodocomercio.com.br",
+      "category": "News",
+      "publication_rss_feed_uris": [
+        {
+          "uri": "https://www.diariodocomercio.com.br/rss",
+          "gated": false,
+          "category": "News"
+        }
+      ]
+    },
+    {
+      "publication_name": "Poder360",
+      "publication_website_uri": "https://www.poder360.com.br",
+      "category": "News",
+      "publication_rss_feed_uris": [
+        {
+          "uri": "https://www.poder360.com.br/rss",
+          "gated": false,
+          "category": "News"
+        }
+      ]
+    },
+    {
+      "publication_name": "B9",
+      "publication_website_uri": "https://www.b9.com.br",
+      "category": "News",
+      "publication_rss_feed_uris": [
+        {
+          "uri": "https://www.b9.com.br/rss",
+          "gated": false,
+          "category": "News"
+        }
+      ]
+    },
+    {
+      "publication_name": "Geledés",
+      "publication_website_uri": "https://www.geledes.org.br",
+      "category": "News",
+      "publication_rss_feed_uris": [
+        {
+          "uri": "https://www.geledes.org.br/rss",
+          "gated": false,
+          "category": "News"
+        }
+      ]
+    },
+    {
+      "publication_name": "Mídia Ninja",
+      "publication_website_uri": "https://www.midianinja.org",
+      "category": "News",
+      "publication_rss_feed_uris": [
+        {
+          "uri": "https://www.midianinja.org/rss",
+          "gated": false,
+          "category": "News"
+        }
+      ]
+    },
+    {
+      "publication_name": "Conjur",
+      "publication_website_uri": "https://www.conjur.com.br",
+      "category": "News",
+      "publication_rss_feed_uris": [
+        {
+          "uri": "https://www.conjur.com.br/rss",
+          "gated": false,
+          "category": "News"
+        }
+      ]
+    },
+    {
+      "publication_name": "O Antagonista",
+      "publication_website_uri": "https://www.oantagonista.com",
+      "category": "News",
+      "publication_rss_feed_uris": [
+        {
+          "uri": "https://www.oantagonista.com/rss",
+          "gated": false,
+          "category": "News"
+        }
+      ]
+    },
+    {
+      "publication_name": "A Gazeta",
+      "publication_website_uri": "https://www.agazeta.com.br",
+      "category": "Regional News: Espírito Santo",
+      "publication_rss_feed_uris": [
+        {
+          "uri": "https://www.agazeta.com.br/rss",
+          "gated": false,
+          "category": "Regional News: Espírito Santo"
+        }
+      ]
+    },
+    {
+      "publication_name": "Diário de Minas",
+      "publication_website_uri": "https://www.diariodeminas.com.br",
+      "category": "Regional News: Minas Gerais",
+      "publication_rss_feed_uris": [
+        {
+          "uri": "https://www.diariodeminas.com.br/rss",
+          "gated": false,
+          "category": "Regional News: Minas Gerais"
+        }
+      ]
+    },
+    {
+      "publication_name": "Meio & Mensagem",
+      "publication_website_uri": "https://www.meioemensagem.com.br",
+      "category": "News",
+      "publication_rss_feed_uris": [
+        {
+          "uri": "https://www.meioemensagem.com.br/feed",
+          "gated": false,
+          "category": "News"
+        }
+      ]
+    },
+    {
+      "publication_name": "Observatório da Imprensa",
+      "publication_website_uri": "https://www.observatoriodaimprensa.com.br",
+      "category": "News",
+      "publication_rss_feed_uris": [
+        {
+          "uri": "https://www.observatoriodaimprensa.com.br/rss",
+          "gated": false,
+          "category": "News"
+        }
+      ]
+    },
+    {
+      "publication_name": "Estado de Minas",
+      "publication_website_uri": "https://www.em.com.br",
+      "category": "Regional News: Belo Horizonte, Minas Gerais",
+      "publication_rss_feed_uris": [
+        {
+          "uri": "https://www.em.com.br/feed/",
+          "gated": false,
+          "category": "Regional News: Belo Horizonte, Minas Gerais"
+        }
+      ]
+    },
+    {
+      "publication_name": "Diário da Manhã",
+      "publication_website_uri": "https://www.dm.com.br",
+      "category": "Regional News: Maceió, Alagoas",
+      "publication_rss_feed_uris": [
+        {
+          "uri": "https://www.dm.com.br/rss/",
+          "gated": false,
+          "category": "Regional News: Maceió, Alagoas"
+        }
+      ]
+    },
+    {
+      "publication_name": "Portal 27",
+      "publication_website_uri": "https://www.portal27.com.br",
+      "category": "Regional News: Minas Gerais",
+      "publication_rss_feed_uris": [
+        {
+          "uri": "https://www.portal27.com.br/feed/",
+          "gated": false,
+          "category": "Regional News: Minas Gerais"
         }
       ]
     }
@@ -4497,6 +4721,131 @@
       "publication_rss_feed_uris": [
         {
           "uri": "https://www.faz.net/rss/aktuell/"
+        }
+      ]
+    },
+    {
+      "publication_name": "Spiegel Online",
+      "publication_website_uri": "https://www.spiegel.de",
+      "category": "News",
+      "publication_rss_feed_uris": [
+        {
+          "uri": "https://www.spiegel.de/international/index.rss",
+          "gated": false,
+          "category": "News"
+        },
+        {
+          "uri": "https://www.spiegel.de/schlagzeilen/index.rss",
+          "gated": false,
+          "category": "News"
+        }
+      ]
+    },
+    {
+      "publication_name": "NDR (Norddeutscher Rundfunk)",
+      "publication_website_uri": "https://www.ndr.de",
+      "category": "News",
+      "publication_rss_feed_uris": [
+        {
+          "uri": "https://www.ndr.de/index~rss2.xml",
+          "gated": false,
+          "category": "News"
+        }
+      ]
+    },
+    {
+      "publication_name": "MDR (Mitteldeutscher Rundfunk)",
+      "publication_website_uri": "https://www.mdr.de",
+      "category": "News",
+      "publication_rss_feed_uris": [
+        {
+          "uri": "https://www.mdr.de/index~rss2.xml",
+          "gated": false,
+          "category": "News"
+        }
+      ]
+    },
+    {
+      "publication_name": "Berliner Zeitung",
+      "publication_website_uri": "https://www.berliner-zeitung.de",
+      "category": "News",
+      "publication_rss_feed_uris": [
+        {
+          "uri": "https://www.berliner-zeitung.de/feed/",
+          "gated": false,
+          "category": "News"
+        }
+      ]
+    },
+    {
+      "publication_name": "Nordbayerischer Kurier",
+      "publication_website_uri": "https://www.nordbayerischer-kurier.de",
+      "category": "Regional News: Bavaria",
+      "publication_rss_feed_uris": [
+        {
+          "uri": "https://www.nordbayerischer-kurier.de/index.rss",
+          "gated": false,
+          "category": "Regional News: Bavaria"
+        }
+      ]
+    },
+    {
+      "publication_name": "Franken Post",
+      "publication_website_uri": "https://www.frankenpost.de",
+      "category": "Regional News: Bavaria",
+      "publication_rss_feed_uris": [
+        {
+          "uri": "https://www.frankenpost.de/index.rss",
+          "gated": false,
+          "category": "Regional News: Bavaria"
+        }
+      ]
+    },
+    {
+      "publication_name": "Westdeutsche Allgemeine Zeitung (WAZ)",
+      "publication_website_uri": "https://www.waz.de",
+      "category": "Regional News: North Rhine-Westphalia",
+      "publication_rss_feed_uris": [
+        {
+          "uri": "https://www.waz.de/rss",
+          "gated": false,
+          "category": "Regional News: North Rhine-Westphalia"
+        }
+      ]
+    },
+    {
+      "publication_name": "Hamburger Abendblatt",
+      "publication_website_uri": "https://www.abendblatt.de",
+      "category": "Regional News: Hamburg",
+      "publication_rss_feed_uris": [
+        {
+          "uri": "https://www.abendblatt.de/rss",
+          "gated": false,
+          "category": "Regional News: Hamburg"
+        }
+      ]
+    },
+    {
+      "publication_name": "Berliner Morgenpost",
+      "publication_website_uri": "https://www.morgenpost.de",
+      "category": "Regional News: Berlin",
+      "publication_rss_feed_uris": [
+        {
+          "uri": "https://www.morgenpost.de/rss",
+          "gated": false,
+          "category": "Regional News: Berlin"
+        }
+      ]
+    },
+    {
+      "publication_name": "Mainpost",
+      "publication_website_uri": "https://www.mainpost.de",
+      "category": "Regional News: Bavaria",
+      "publication_rss_feed_uris": [
+        {
+          "uri": "https://www.mainpost.de/rss",
+          "gated": false,
+          "category": "Regional News: Bavaria"
         }
       ]
     }
@@ -6509,7 +6858,8 @@
       "publication_website_uri": "https://www.lefigaro.fr/",
       "publication_rss_feed_uris": [
         {
-          "uri": "https://www.lefigaro.fr/rss/figaro_actualites.xml"
+          "uri": "https://www.lefigaro.fr/rss/figaro_actualites.xml",
+          "gated": true
         }
       ]
     },
@@ -6528,15 +6878,6 @@
       "publication_rss_feed_uris": [
         {
           "uri": "https://feeds.leparisien.fr/leparisien/rss"
-        }
-      ]
-    },
-    {
-      "publication_name": "France Diplomacy",
-      "publication_website_uri": "https://www.diplomatie.gouv.fr/fr",
-      "publication_rss_feed_uris": [
-        {
-          "uri": "https://www.diplomatie.gouv.fr/spip.php?page=backend-fd"
         }
       ]
     },
@@ -6682,20 +7023,203 @@
       ]
     },
     {
-      "publication_name": "Ministry for Europe and Foreign Affairs - Actualités",
-      "publication_website_uri": "https://www.diplomatie.gouv.fr/",
-      "publication_rss_feed_uris": [
-        {
-          "uri": "https://www.diplomatie.gouv.fr/spip.php?page=backend-fd&lang=en"
-        }
-      ]
-    },
-    {
       "publication_name": "L&#039;essentiel",
       "publication_website_uri": "https://www.sudouest.fr/",
       "publication_rss_feed_uris": [
         {
           "uri": "https://www.sudouest.fr/essentiel/rss.xml"
+        }
+      ]
+    },
+    {
+      "publication_name": "Les Inrocks",
+      "publication_website_uri": "https://www.lesinrocks.com",
+      "category": "News",
+      "publication_rss_feed_uris": [
+        {
+          "uri": "https://www.lesinrocks.com/feed",
+          "gated": false,
+          "category": "News"
+        }
+      ]
+    },
+    {
+      "publication_name": "Marianne",
+      "publication_website_uri": "https://www.marianne.net",
+      "category": "News",
+      "publication_rss_feed_uris": [
+        {
+          "uri": "https://www.marianne.net/feed",
+          "gated": true,
+          "category": "News"
+        }
+      ]
+    },
+    {
+      "publication_name": "Économie Matin",
+      "publication_website_uri": "https://www.economiematin.fr",
+      "category": "News",
+      "publication_rss_feed_uris": [
+        {
+          "uri": "https://www.economiematin.fr/feed",
+          "gated": false,
+          "category": "News"
+        }
+      ]
+    },
+    {
+      "publication_name": "Ouest-France",
+      "publication_website_uri": "https://www.ouest-france.fr",
+      "category": "Regional News: Brittany/West",
+      "publication_rss_feed_uris": [
+        {
+          "uri": "https://www.ouest-france.fr/rss.xml",
+          "gated": false,
+          "category": "Regional News: Brittany/West"
+        }
+      ]
+    },
+    {
+      "publication_name": "La Voix du Nord",
+      "publication_website_uri": "https://www.lavoixdunord.fr",
+      "category": "Regional News: Nord",
+      "publication_rss_feed_uris": [
+        {
+          "uri": "https://www.lavoixdunord.fr/rss.xml",
+          "gated": false,
+          "category": "Regional News: Nord"
+        }
+      ]
+    },
+    {
+      "publication_name": "Sud Ouest",
+      "publication_website_uri": "https://www.sudouest.fr",
+      "category": "Regional News: Southwest",
+      "publication_rss_feed_uris": [
+        {
+          "uri": "https://www.sudouest.fr/rss.xml",
+          "gated": false,
+          "category": "Regional News: Southwest"
+        }
+      ]
+    },
+    {
+      "publication_name": "Midi Libre",
+      "publication_website_uri": "https://www.midilibre.fr",
+      "category": "Regional News: Occitanie",
+      "publication_rss_feed_uris": [
+        {
+          "uri": "https://www.midilibre.fr/rss.xml",
+          "gated": false,
+          "category": "Regional News: Occitanie"
+        }
+      ]
+    },
+    {
+      "publication_name": "L'Indépendant",
+      "publication_website_uri": "https://www.lindependant.fr",
+      "category": "Regional News: Occitanie",
+      "publication_rss_feed_uris": [
+        {
+          "uri": "https://www.lindependant.fr/rss.xml",
+          "gated": false,
+          "category": "Regional News: Occitanie"
+        }
+      ]
+    },
+    {
+      "publication_name": "Le Républicain Lorrain",
+      "publication_website_uri": "https://www.republicain-lorrain.fr",
+      "category": "Regional News: Lorraine",
+      "publication_rss_feed_uris": [
+        {
+          "uri": "https://www.republicain-lorrain.fr/rss",
+          "gated": false,
+          "category": "Regional News: Lorraine"
+        }
+      ]
+    },
+    {
+      "publication_name": "Le Dauphiné",
+      "publication_website_uri": "https://www.ledauphine.com",
+      "category": "Regional News: Auvergne-Rhône-Alpes",
+      "publication_rss_feed_uris": [
+        {
+          "uri": "https://www.ledauphine.com/rss",
+          "gated": false,
+          "category": "Regional News: Auvergne-Rhône-Alpes"
+        }
+      ]
+    },
+    {
+      "publication_name": "La Mayenne",
+      "publication_website_uri": "https://www.lamayenne.fr",
+      "category": "Regional News: Pays de la Loire",
+      "publication_rss_feed_uris": [
+        {
+          "uri": "https://www.lamayenne.fr/rss.xml",
+          "gated": false,
+          "category": "Regional News: Pays de la Loire"
+        }
+      ]
+    },
+    {
+      "publication_name": "Libération Saintonge et Valois",
+      "publication_website_uri": "https://lvsl.fr",
+      "category": "Regional News: Nouvelle-Aquitaine",
+      "publication_rss_feed_uris": [
+        {
+          "uri": "https://lvsl.fr/feed",
+          "gated": false,
+          "category": "Regional News: Nouvelle-Aquitaine"
+        }
+      ]
+    },
+    {
+      "publication_name": "Le JSD",
+      "publication_website_uri": "https://www.lejsd.com",
+      "category": "Regional News: Île-de-France",
+      "publication_rss_feed_uris": [
+        {
+          "uri": "https://www.lejsd.com/rss.xml",
+          "gated": false,
+          "category": "Regional News: Île-de-France"
+        }
+      ]
+    },
+    {
+      "publication_name": "Petit Bleu",
+      "publication_website_uri": "https://www.petitbleu.fr",
+      "category": "Regional News: Nouvelle-Aquitaine",
+      "publication_rss_feed_uris": [
+        {
+          "uri": "https://www.petitbleu.fr/rss.xml",
+          "gated": false,
+          "category": "Regional News: Nouvelle-Aquitaine"
+        }
+      ]
+    },
+    {
+      "publication_name": "Nouvelle République Pyrénées",
+      "publication_website_uri": "https://www.nrpyrenees.fr",
+      "category": "Regional News: Occitanie",
+      "publication_rss_feed_uris": [
+        {
+          "uri": "https://www.nrpyrenees.fr/rss.xml",
+          "gated": false,
+          "category": "Regional News: Occitanie"
+        }
+      ]
+    },
+    {
+      "publication_name": "Paris-Normandie",
+      "publication_website_uri": "https://www.paris-normandie.fr",
+      "category": "Regional News: Normandy",
+      "publication_rss_feed_uris": [
+        {
+          "uri": "https://www.paris-normandie.fr/rss.xml",
+          "gated": false,
+          "category": "Regional News: Normandy"
         }
       ]
     }
@@ -19444,15 +19968,6 @@
       ]
     },
     {
-      "publication_name": "Notícias ao Minuto",
-      "publication_website_uri": "https://www.noticiasaominuto.com.br/",
-      "publication_rss_feed_uris": [
-        {
-          "uri": "https://www.noticiasaominuto.com.br/rss/ultima-hora"
-        }
-      ]
-    },
-    {
       "publication_name": "IOL",
       "publication_website_uri": "https://www.iol.pt/",
       "publication_rss_feed_uris": [
@@ -19540,6 +20055,42 @@
       "publication_rss_feed_uris": [
         {
           "uri": "https://www.dn.pt/stories.rss/"
+        }
+      ]
+    },
+    {
+      "publication_name": "Dinheiro Vivo",
+      "publication_website_uri": "https://www.dinheirovivo.pt",
+      "category": "News",
+      "publication_rss_feed_uris": [
+        {
+          "uri": "https://www.dinheirovivo.pt/feed/",
+          "gated": false,
+          "category": "News"
+        }
+      ]
+    },
+    {
+      "publication_name": "Visão",
+      "publication_website_uri": "https://www.visao.pt",
+      "category": "News",
+      "publication_rss_feed_uris": [
+        {
+          "uri": "https://www.visao.pt/feed/",
+          "gated": false,
+          "category": "News"
+        }
+      ]
+    },
+    {
+      "publication_name": "Marketeer",
+      "publication_website_uri": "https://www.marketeer.pt",
+      "category": "News",
+      "publication_rss_feed_uris": [
+        {
+          "uri": "https://www.marketeer.pt/feed/",
+          "gated": false,
+          "category": "News"
         }
       ]
     }
@@ -21920,6 +22471,30 @@
           "uri": "http://www.aktifhaber.com/rss/"
         }
       ]
+    },
+    {
+      "publication_name": "Bursa Haber",
+      "publication_website_uri": "https://www.bursahaber.com",
+      "category": "Regional News: Bursa",
+      "publication_rss_feed_uris": [
+        {
+          "uri": "https://www.bursahaber.com/rss",
+          "gated": false,
+          "category": "Regional News: Bursa"
+        }
+      ]
+    },
+    {
+      "publication_name": "Bursa Gundem",
+      "publication_website_uri": "https://www.bursagundem.com",
+      "category": "Regional News: Bursa",
+      "publication_rss_feed_uris": [
+        {
+          "uri": "https://www.bursagundem.com/rss.xml",
+          "gated": false,
+          "category": "Regional News: Bursa"
+        }
+      ]
     }
   ],
   "UGA": [
@@ -22342,7 +22917,8 @@
       "publication_website_uri": "http://espn.go.com/",
       "publication_rss_feed_uris": [
         {
-          "uri": "http://sports.espn.go.com/espn/rss/news"
+          "uri": "http://sports.espn.go.com/espn/rss/news",
+          "gated": true
         }
       ]
     },
@@ -22437,38 +23013,11 @@
       ]
     },
     {
-      "publication_name": "MarketWatch",
-      "publication_website_uri": "http://marketwatch.com/",
-      "publication_rss_feed_uris": [
-        {
-          "uri": "http://feeds.marketwatch.com/marketwatch/marketpulse/"
-        }
-      ]
-    },
-    {
-      "publication_name": "NPR : National Public Radio",
-      "publication_website_uri": "http://npr.org/",
-      "publication_rss_feed_uris": [
-        {
-          "uri": "http://www.npr.org/rss/rss.php?id=1004"
-        }
-      ]
-    },
-    {
       "publication_name": "SFGate",
       "publication_website_uri": "http://sfgate.com/",
       "publication_rss_feed_uris": [
         {
           "uri": "http://www.sfgate.com/bayarea/feed/bay-area-news-429.php"
-        }
-      ]
-    },
-    {
-      "publication_name": "TIME.com",
-      "publication_website_uri": "http://time.com/",
-      "publication_rss_feed_uris": [
-        {
-          "uri": "http://time.com/feed/"
         }
       ]
     },
@@ -22865,6 +23414,549 @@
           "uri": "https://billypenn.com/feed/",
           "gated": false,
           "category": "Regional News: Pennsylvania"
+        }
+      ]
+    },
+    {
+      "publication_name": "Washington Post - National",
+      "publication_website_uri": "https://www.washingtonpost.com",
+      "category": "News",
+      "publication_rss_feed_uris": [
+        {
+          "uri": "https://feeds.washingtonpost.com/rss/national",
+          "gated": true,
+          "category": "News"
+        }
+      ]
+    },
+    {
+      "publication_name": "Washington Post - Business",
+      "publication_website_uri": "https://www.washingtonpost.com",
+      "category": "News",
+      "publication_rss_feed_uris": [
+        {
+          "uri": "https://feeds.washingtonpost.com/rss/business",
+          "gated": false,
+          "category": "News"
+        }
+      ]
+    },
+    {
+      "publication_name": "Washington Post - Politics",
+      "publication_website_uri": "https://www.washingtonpost.com",
+      "category": "News",
+      "publication_rss_feed_uris": [
+        {
+          "uri": "https://feeds.washingtonpost.com/rss/politics",
+          "gated": false,
+          "category": "News"
+        }
+      ]
+    },
+    {
+      "publication_name": "Washington Post - World",
+      "publication_website_uri": "https://www.washingtonpost.com",
+      "category": "News",
+      "publication_rss_feed_uris": [
+        {
+          "uri": "https://feeds.washingtonpost.com/rss/world",
+          "gated": true,
+          "category": "News"
+        }
+      ]
+    },
+    {
+      "publication_name": "CBS News",
+      "publication_website_uri": "https://www.cbsnews.com",
+      "category": "News",
+      "publication_rss_feed_uris": [
+        {
+          "uri": "https://www.cbsnews.com/latest/rss/main",
+          "gated": false,
+          "category": "News"
+        }
+      ]
+    },
+    {
+      "publication_name": "The Atlantic",
+      "publication_website_uri": "https://www.theatlantic.com",
+      "category": "News",
+      "publication_rss_feed_uris": [
+        {
+          "uri": "https://theatlantic.com/feed/all/",
+          "gated": false,
+          "category": "News"
+        }
+      ]
+    },
+    {
+      "publication_name": "ProPublica",
+      "publication_website_uri": "https://www.propublica.org",
+      "category": "News",
+      "publication_rss_feed_uris": [
+        {
+          "uri": "https://feeds.propublica.org/propublica/main",
+          "gated": false,
+          "category": "News"
+        }
+      ]
+    },
+    {
+      "publication_name": "Vox",
+      "publication_website_uri": "https://www.vox.com",
+      "category": "News",
+      "publication_rss_feed_uris": [
+        {
+          "uri": "https://www.vox.com/rss/index.xml",
+          "gated": false,
+          "category": "News"
+        }
+      ]
+    },
+    {
+      "publication_name": "The Intercept",
+      "publication_website_uri": "https://theintercept.com",
+      "category": "News",
+      "publication_rss_feed_uris": [
+        {
+          "uri": "https://theintercept.com/feed/?rss",
+          "gated": false,
+          "category": "News"
+        }
+      ]
+    },
+    {
+      "publication_name": "The Hill",
+      "publication_website_uri": "https://thehill.com",
+      "category": "News",
+      "publication_rss_feed_uris": [
+        {
+          "uri": "https://thehill.com/feed",
+          "gated": false,
+          "category": "News"
+        }
+      ]
+    },
+    {
+      "publication_name": "Newsweek",
+      "publication_website_uri": "https://www.newsweek.com",
+      "category": "News",
+      "publication_rss_feed_uris": [
+        {
+          "uri": "https://newsweek.com/rss",
+          "gated": false,
+          "category": "News"
+        }
+      ]
+    },
+    {
+      "publication_name": "Mediaite",
+      "publication_website_uri": "https://www.mediaite.com",
+      "category": "News",
+      "publication_rss_feed_uris": [
+        {
+          "uri": "https://www.mediaite.com/feed/",
+          "gated": false,
+          "category": "News"
+        }
+      ]
+    },
+    {
+      "publication_name": "Ars Technica",
+      "publication_website_uri": "https://arstechnica.com",
+      "category": "News",
+      "publication_rss_feed_uris": [
+        {
+          "uri": "https://arstechnica.com/feed/",
+          "gated": false,
+          "category": "News"
+        }
+      ]
+    },
+    {
+      "publication_name": "National Review",
+      "publication_website_uri": "https://www.nationalreview.com",
+      "category": "News",
+      "publication_rss_feed_uris": [
+        {
+          "uri": "https://www.nationalreview.com/feed/",
+          "gated": false,
+          "category": "News"
+        }
+      ]
+    },
+    {
+      "publication_name": "Reason",
+      "publication_website_uri": "https://reason.com",
+      "category": "News",
+      "publication_rss_feed_uris": [
+        {
+          "uri": "https://reason.com/feed/",
+          "gated": false,
+          "category": "News"
+        }
+      ]
+    },
+    {
+      "publication_name": "The Federalist",
+      "publication_website_uri": "https://thefederalist.com",
+      "category": "News",
+      "publication_rss_feed_uris": [
+        {
+          "uri": "https://www.thefederalist.com/feed/",
+          "gated": false,
+          "category": "News"
+        }
+      ]
+    },
+    {
+      "publication_name": "HuffPost - Politics",
+      "publication_website_uri": "https://www.huffpost.com",
+      "category": "News",
+      "publication_rss_feed_uris": [
+        {
+          "uri": "https://www.huffpost.com/section/politics/feed",
+          "gated": false,
+          "category": "News"
+        }
+      ]
+    },
+    {
+      "publication_name": "HuffPost - US News",
+      "publication_website_uri": "https://www.huffpost.com",
+      "category": "News",
+      "publication_rss_feed_uris": [
+        {
+          "uri": "https://www.huffpost.com/section/us-news/feed",
+          "gated": false,
+          "category": "News"
+        }
+      ]
+    },
+    {
+      "publication_name": "RedState",
+      "publication_website_uri": "https://www.redstate.com",
+      "category": "News",
+      "publication_rss_feed_uris": [
+        {
+          "uri": "https://www.redstate.com/feed/",
+          "gated": true,
+          "category": "News"
+        }
+      ]
+    },
+    {
+      "publication_name": "NPR - National",
+      "publication_website_uri": "https://www.npr.org",
+      "category": "News",
+      "publication_rss_feed_uris": [
+        {
+          "uri": "https://feeds.npr.org/1001/rss.xml",
+          "gated": false,
+          "category": "News"
+        }
+      ]
+    },
+    {
+      "publication_name": "NPR - World",
+      "publication_website_uri": "https://www.npr.org",
+      "category": "News",
+      "publication_rss_feed_uris": [
+        {
+          "uri": "https://feeds.npr.org/1004/rss.xml",
+          "gated": false,
+          "category": "News"
+        }
+      ]
+    },
+    {
+      "publication_name": "The Onion",
+      "publication_website_uri": "https://www.theonion.com",
+      "category": "News",
+      "publication_rss_feed_uris": [
+        {
+          "uri": "https://www.theonion.com/feed?format=rss",
+          "gated": false,
+          "category": "News"
+        }
+      ]
+    },
+    {
+      "publication_name": "Washington Times",
+      "publication_website_uri": "https://www.washingtontimes.com",
+      "category": "News",
+      "publication_rss_feed_uris": [
+        {
+          "uri": "https://www.washingtontimes.com/rss/headlines/",
+          "gated": false,
+          "category": "News"
+        }
+      ]
+    },
+    {
+      "publication_name": "KXAN News",
+      "publication_website_uri": "https://www.kxan.com",
+      "category": "Regional News: Texas",
+      "publication_rss_feed_uris": [
+        {
+          "uri": "https://www.kxan.com/feed/",
+          "gated": false,
+          "category": "Regional News: Texas"
+        }
+      ]
+    },
+    {
+      "publication_name": "WFLA NBC News",
+      "publication_website_uri": "https://www.wfla.com",
+      "category": "Regional News: Florida",
+      "publication_rss_feed_uris": [
+        {
+          "uri": "https://www.wfla.com/feed/",
+          "gated": false,
+          "category": "Regional News: Florida"
+        }
+      ]
+    },
+    {
+      "publication_name": "WREG News Channel 3",
+      "publication_website_uri": "https://www.wreg.com",
+      "category": "Regional News: Tennessee",
+      "publication_rss_feed_uris": [
+        {
+          "uri": "https://www.wreg.com/feed/",
+          "gated": false,
+          "category": "Regional News: Tennessee"
+        }
+      ]
+    },
+    {
+      "publication_name": "NBC 6 South Florida",
+      "publication_website_uri": "https://www.local10.com",
+      "category": "Regional News: Florida",
+      "publication_rss_feed_uris": [
+        {
+          "uri": "https://www.local10.com/arc/outboundfeeds/rss/?outputType=xml",
+          "gated": false,
+          "category": "Regional News: Florida"
+        }
+      ]
+    },
+    {
+      "publication_name": "WSB-TV Atlanta",
+      "publication_website_uri": "https://www.wsbtv.com",
+      "category": "Regional News: Georgia",
+      "publication_rss_feed_uris": [
+        {
+          "uri": "https://www.wsbtv.com/arc/outboundfeeds/rss/?outputType=xml",
+          "gated": false,
+          "category": "Regional News: Georgia"
+        }
+      ]
+    },
+    {
+      "publication_name": "WSAZ News",
+      "publication_website_uri": "https://www.wsaz.com",
+      "category": "Regional News: West Virginia",
+      "publication_rss_feed_uris": [
+        {
+          "uri": "https://www.wsaz.com/arc/outboundfeeds/rss/?outputType=xml",
+          "gated": false,
+          "category": "Regional News: West Virginia"
+        }
+      ]
+    },
+    {
+      "publication_name": "Tampa Bay Times",
+      "publication_website_uri": "https://www.tampabay.com",
+      "category": "Regional News: Florida",
+      "publication_rss_feed_uris": [
+        {
+          "uri": "https://www.tampabay.com/arc/outboundfeeds/rss/?outputType=xml",
+          "gated": false,
+          "category": "Regional News: Florida"
+        }
+      ]
+    },
+    {
+      "publication_name": "Los Angeles Times",
+      "publication_website_uri": "https://www.latimes.com",
+      "category": "News",
+      "publication_rss_feed_uris": [
+        {
+          "uri": "https://www.latimes.com/california/rss2.0.xml",
+          "gated": false,
+          "category": "News"
+        },
+        {
+          "uri": "https://www.latimes.com/world/rss2.0.xml",
+          "gated": false,
+          "category": "News"
+        },
+        {
+          "uri": "https://www.latimes.com/entertainment/rss2.0.xml",
+          "gated": false,
+          "category": "News"
+        },
+        {
+          "uri": "https://www.latimes.com/sports/rss2.0.xml",
+          "gated": false,
+          "category": "News"
+        }
+      ]
+    },
+    {
+      "publication_name": "Las Vegas Review-Journal",
+      "publication_website_uri": "https://www.reviewjournal.com",
+      "category": "Regional News: Las Vegas",
+      "publication_rss_feed_uris": [
+        {
+          "uri": "https://www.reviewjournal.com/feed/",
+          "gated": false,
+          "category": "Regional News: Las Vegas"
+        }
+      ]
+    },
+    {
+      "publication_name": "Honolulu Star-Advertiser",
+      "publication_website_uri": "https://www.staradvertiser.com",
+      "category": "Regional News: Honolulu",
+      "publication_rss_feed_uris": [
+        {
+          "uri": "https://www.staradvertiser.com/feed/",
+          "gated": false,
+          "category": "Regional News: Honolulu"
+        }
+      ]
+    },
+    {
+      "publication_name": "Voice of San Diego",
+      "publication_website_uri": "https://www.voiceofsandiego.org",
+      "category": "Regional News: San Diego",
+      "publication_rss_feed_uris": [
+        {
+          "uri": "https://www.voiceofsandiego.org/feed/",
+          "gated": false,
+          "category": "Regional News: San Diego"
+        }
+      ]
+    },
+    {
+      "publication_name": "San Jose Inside",
+      "publication_website_uri": "https://www.sanjoseinside.com",
+      "category": "Regional News: San Jose",
+      "publication_rss_feed_uris": [
+        {
+          "uri": "https://www.sanjoseinside.com/feed/",
+          "gated": false,
+          "category": "Regional News: San Jose"
+        }
+      ]
+    },
+    {
+      "publication_name": "Oakland North",
+      "publication_website_uri": "https://www.oaklandnorth.net",
+      "category": "Regional News: Oakland",
+      "publication_rss_feed_uris": [
+        {
+          "uri": "https://www.oaklandnorth.net/feed/",
+          "gated": false,
+          "category": "Regional News: Oakland"
+        }
+      ]
+    },
+    {
+      "publication_name": "ABC7 News",
+      "publication_website_uri": "https://www.abc7.com",
+      "category": "Regional News: Bay Area",
+      "publication_rss_feed_uris": [
+        {
+          "uri": "https://www.abc7.com/feed/",
+          "gated": false,
+          "category": "Regional News: Bay Area"
+        }
+      ]
+    },
+    {
+      "publication_name": "KRON4 News",
+      "publication_website_uri": "https://www.kron4.com",
+      "category": "Regional News: Bay Area",
+      "publication_rss_feed_uris": [
+        {
+          "uri": "https://www.kron4.com/feed/",
+          "gated": false,
+          "category": "Regional News: Bay Area"
+        }
+      ]
+    },
+    {
+      "publication_name": "The Columbian",
+      "publication_website_uri": "https://www.columbian.com",
+      "category": "Regional News: Vancouver WA",
+      "publication_rss_feed_uris": [
+        {
+          "uri": "https://www.columbian.com/feed/",
+          "gated": false,
+          "category": "Regional News: Vancouver WA"
+        }
+      ]
+    },
+    {
+      "publication_name": "Colorado Public Radio",
+      "publication_website_uri": "https://www.cpr.org",
+      "category": "Regional News: Colorado",
+      "publication_rss_feed_uris": [
+        {
+          "uri": "https://www.cpr.org/feed/",
+          "gated": false,
+          "category": "Regional News: Colorado"
+        }
+      ]
+    },
+    {
+      "publication_name": "ABC4 News",
+      "publication_website_uri": "https://www.abc4.com",
+      "category": "Regional News: Salt Lake City",
+      "publication_rss_feed_uris": [
+        {
+          "uri": "https://www.abc4.com/feed/",
+          "gated": false,
+          "category": "Regional News: Salt Lake City"
+        }
+      ]
+    },
+    {
+      "publication_name": "KOB",
+      "publication_website_uri": "https://www.kob.com",
+      "category": "Regional News: Albuquerque",
+      "publication_rss_feed_uris": [
+        {
+          "uri": "https://www.kob.com/feed/",
+          "gated": false,
+          "category": "Regional News: Albuquerque"
+        }
+      ]
+    },
+    {
+      "publication_name": "Boise State News",
+      "publication_website_uri": "https://www.boisestate.edu/news",
+      "category": "Regional News: Boise",
+      "publication_rss_feed_uris": [
+        {
+          "uri": "https://www.boisestate.edu/news/feed/",
+          "gated": false,
+          "category": "Regional News: Boise"
+        }
+      ]
+    },
+    {
+      "publication_name": "Seattle Times",
+      "publication_website_uri": "https://www.seattletimes.com",
+      "category": "Regional News: Seattle",
+      "publication_rss_feed_uris": [
+        {
+          "uri": "https://www.seattletimes.com/feed/",
+          "gated": true,
+          "category": "Regional News: Seattle"
         }
       ]
     }
