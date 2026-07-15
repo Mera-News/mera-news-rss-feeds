@@ -12,11 +12,211 @@
   ],
   "ALB": [
     {
-      "publication_name": "BalkanWeb",
-      "publication_website_uri": "http://www.balkanweb.com/",
+      "publication_name": "Gazeta Shqiptare",
+      "publication_website_uri": "https://gazetashqiptare.al",
+      "category": "News",
       "publication_rss_feed_uris": [
         {
-          "uri": "http://www.balkanweb.com/site/feed/"
+          "uri": "https://gazetashqiptare.al/feed/",
+          "gated": false
+        }
+      ]
+    },
+    {
+      "publication_name": "Telegrafi",
+      "publication_website_uri": "https://telegrafi.com",
+      "category": "News",
+      "publication_rss_feed_uris": [
+        {
+          "uri": "https://telegrafi.com/feeds/feed.rss",
+          "gated": false
+        }
+      ]
+    },
+    {
+      "publication_name": "Tirana Times",
+      "publication_website_uri": "https://www.tiranatimes.com",
+      "category": "News",
+      "publication_rss_feed_uris": [
+        {
+          "uri": "https://www.tiranatimes.com/feed/",
+          "gated": false
+        }
+      ]
+    },
+    {
+      "publication_name": "ABC News Albania",
+      "publication_website_uri": "https://abcnews.al",
+      "category": "News",
+      "publication_rss_feed_uris": [
+        {
+          "uri": "https://abcnews.al/feed/",
+          "gated": false
+        }
+      ]
+    },
+    {
+      "publication_name": "Vizion Plus",
+      "publication_website_uri": "https://www.vizionplus.tv",
+      "category": "News",
+      "publication_rss_feed_uris": [
+        {
+          "uri": "https://www.vizionplus.tv/feed/",
+          "gated": false
+        }
+      ]
+    },
+    {
+      "publication_name": "Bota.al",
+      "publication_website_uri": "https://bota.al",
+      "category": "News",
+      "publication_rss_feed_uris": [
+        {
+          "uri": "https://bota.al/feed/",
+          "gated": false
+        }
+      ]
+    },
+    {
+      "publication_name": "Lajme.al",
+      "publication_website_uri": "https://www.lajme.al",
+      "category": "News",
+      "publication_rss_feed_uris": [
+        {
+          "uri": "https://www.lajme.al/feed/",
+          "gated": false
+        }
+      ]
+    },
+    {
+      "publication_name": "JavaNews.al",
+      "publication_website_uri": "https://javanews.al",
+      "category": "News",
+      "publication_rss_feed_uris": [
+        {
+          "uri": "https://javanews.al/feed/",
+          "gated": false
+        }
+      ]
+    },
+    {
+      "publication_name": "Vlora News",
+      "publication_website_uri": "https://vloranews.al",
+      "category": "Regional News: Vlorë",
+      "publication_rss_feed_uris": [
+        {
+          "uri": "https://vloranews.al/feed/",
+          "gated": false
+        }
+      ]
+    },
+    {
+      "publication_name": "Balkanweb",
+      "publication_website_uri": "https://www.balkanweb.com",
+      "category": "News",
+      "publication_rss_feed_uris": [
+        {
+          "uri": "https://www.balkanweb.com/feed/",
+          "gated": false
+        }
+      ]
+    },
+    {
+      "publication_name": "RTSH",
+      "publication_website_uri": "https://rtsh.al",
+      "category": "News",
+      "publication_rss_feed_uris": [
+        {
+          "uri": "https://rtsh.al/feed",
+          "gated": false
+        }
+      ]
+    },
+    {
+      "publication_name": "Shekulli",
+      "publication_website_uri": "https://shekulli.com.al",
+      "category": "News",
+      "publication_rss_feed_uris": [
+        {
+          "uri": "https://shekulli.com.al/feed",
+          "gated": false
+        }
+      ]
+    },
+    {
+      "publication_name": "Revista Monitor",
+      "publication_website_uri": "https://monitor.al",
+      "category": "Business",
+      "publication_rss_feed_uris": [
+        {
+          "uri": "https://monitor.al/feed",
+          "gated": false
+        }
+      ]
+    },
+    {
+      "publication_name": "ShkodraWeb",
+      "publication_website_uri": "https://www.shkodraweb.com",
+      "category": "Regional News: Shkodër",
+      "publication_rss_feed_uris": [
+        {
+          "uri": "https://www.shkodraweb.com/feed/",
+          "gated": false
+        }
+      ]
+    },
+    {
+      "publication_name": "RTSH Shkodra",
+      "publication_website_uri": "https://www.rtsh-shkodra.live",
+      "category": "Regional News: Shkodër",
+      "publication_rss_feed_uris": [
+        {
+          "uri": "https://www.rtsh-shkodra.live/feed/",
+          "gated": false
+        }
+      ]
+    },
+    {
+      "publication_name": "Shkodra Sport",
+      "publication_website_uri": "https://www.shkodrasport.com",
+      "category": "Sports",
+      "publication_rss_feed_uris": [
+        {
+          "uri": "https://www.shkodrasport.com/feed/",
+          "gated": false
+        }
+      ]
+    },
+    {
+      "publication_name": "Euronews Albania",
+      "publication_website_uri": "https://euronews.al",
+      "category": "News",
+      "publication_rss_feed_uris": [
+        {
+          "uri": "https://euronews.al/feed/",
+          "gated": false
+        }
+      ]
+    },
+    {
+      "publication_name": "Gazeta Si",
+      "publication_website_uri": "https://gazetasi.al",
+      "category": "News",
+      "publication_rss_feed_uris": [
+        {
+          "uri": "https://gazetasi.al/feed/",
+          "gated": false
+        }
+      ]
+    },
+    {
+      "publication_name": "Citizens Channel",
+      "publication_website_uri": "https://citizens.al",
+      "category": "News",
+      "publication_rss_feed_uris": [
+        {
+          "uri": "https://citizens.al/feed/",
+          "gated": false
         }
       ]
     }
@@ -7281,6 +7481,105 @@
           "uri": "http://www.jordanzad.com/rss.php?type=main"
         }
       ]
+    },
+    {
+      "publication_name": "رؤيا الإخباري (Roya News)",
+      "publication_website_uri": "https://royanews.tv",
+      "category": "News",
+      "publication_rss_feed_uris": [
+        {
+          "uri": "https://royanews.tv/rss",
+          "gated": false
+        }
+      ]
+    },
+    {
+      "publication_name": "السبيل (Assabeel)",
+      "publication_website_uri": "https://assabeel.net",
+      "category": "News",
+      "publication_rss_feed_uris": [
+        {
+          "uri": "https://assabeel.net/feed",
+          "gated": false
+        }
+      ]
+    },
+    {
+      "publication_name": "وطنا اليوم (Watana News)",
+      "publication_website_uri": "https://watananews.com",
+      "category": "News",
+      "publication_rss_feed_uris": [
+        {
+          "uri": "https://watananews.com/?feed=rss2",
+          "gated": false
+        }
+      ]
+    },
+    {
+      "publication_name": "الوكيل الإخباري (Alwakeel News)",
+      "publication_website_uri": "https://www.alwakeelnews.com",
+      "category": "News",
+      "publication_rss_feed_uris": [
+        {
+          "uri": "https://www.alwakeelnews.com/rss",
+          "gated": false
+        }
+      ]
+    },
+    {
+      "publication_name": "Jordan News",
+      "publication_website_uri": "https://www.jordannews.jo",
+      "category": "News",
+      "publication_rss_feed_uris": [
+        {
+          "uri": "https://www.jordannews.jo/rss",
+          "gated": false
+        }
+      ]
+    },
+    {
+      "publication_name": "صراحة نيوز (Saraha News)",
+      "publication_website_uri": "https://www.sarahanews.net",
+      "category": "News",
+      "publication_rss_feed_uris": [
+        {
+          "uri": "https://www.sarahanews.net/feed/",
+          "gated": false
+        }
+      ]
+    },
+    {
+      "publication_name": "العقبة اليوم الإخباري (Aqaba Today)",
+      "publication_website_uri": "https://www.aqabatodaynews.com",
+      "category": "Regional News: Aqaba",
+      "publication_rss_feed_uris": [
+        {
+          "uri": "https://www.aqabatodaynews.com/?feed=rss2",
+          "gated": false
+        }
+      ]
+    },
+    {
+      "publication_name": "سواليف (Sawaleif)",
+      "publication_website_uri": "https://sawaleif.com",
+      "category": "News",
+      "publication_rss_feed_uris": [
+        {
+          "uri": "https://sawaleif.com/feed/",
+          "gated": false
+        }
+      ]
+    },
+    {
+      "publication_name": "درب الأردن الإخباري (Darb Alordon)",
+      "publication_website_uri": "https://www.darbalordon.com",
+      "category": "News",
+      "publication_rss_feed_uris": [
+        {
+          "uri": "https://www.darbalordon.com/rss/latest-posts",
+          "gated": false
+        }
+      ]
     }
   ],
   "JPN": [
@@ -8170,20 +8469,57 @@
   ],
   "MNG": [
     {
-      "publication_name": "Wikimon",
-      "publication_website_uri": "http://wikimon.mn/",
+      "publication_name": "iKon.MN",
+      "publication_website_uri": "https://ikon.mn",
+      "category": "News",
       "publication_rss_feed_uris": [
         {
-          "uri": "http://dmowiki.com/index.php?title=Mikemon&feed=atom&action=history"
+          "uri": "https://ikon.mn/rss",
+          "gated": false
         }
       ]
     },
     {
-      "publication_name": "Bolod.mn",
-      "publication_website_uri": "http://bolod.mn/",
+      "publication_name": "Mongolian National Broadcaster (MNB)",
+      "publication_website_uri": "https://www.mnb.mn",
+      "category": "News",
       "publication_rss_feed_uris": [
         {
-          "uri": "http://www.bolod.mn/feed.php"
+          "uri": "https://www.mnb.mn/rss",
+          "gated": false
+        }
+      ]
+    },
+    {
+      "publication_name": "Gereg.mn",
+      "publication_website_uri": "https://gereg.mn",
+      "category": "News",
+      "publication_rss_feed_uris": [
+        {
+          "uri": "https://gereg.mn/feed",
+          "gated": false
+        }
+      ]
+    },
+    {
+      "publication_name": "Mongolia Weekly",
+      "publication_website_uri": "https://www.mongoliaweekly.org",
+      "category": "News",
+      "publication_rss_feed_uris": [
+        {
+          "uri": "https://www.mongoliaweekly.org/blog-feed.xml",
+          "gated": false
+        }
+      ]
+    },
+    {
+      "publication_name": "Caak.mn",
+      "publication_website_uri": "https://caak.mn",
+      "category": "Entertainment",
+      "publication_rss_feed_uris": [
+        {
+          "uri": "https://caak.mn/rss",
+          "gated": false
         }
       ]
     }
@@ -10703,6 +11039,264 @@
       "publication_rss_feed_uris": [
         {
           "uri": "http://www.zimeye.org/feed/"
+        }
+      ]
+    }
+  ],
+  "BTN": [
+    {
+      "publication_name": "Kuensel",
+      "publication_website_uri": "https://kuenselonline.com",
+      "category": "News",
+      "publication_rss_feed_uris": [
+        {
+          "uri": "https://kuenselonline.com/feed/posts",
+          "gated": false
+        },
+        {
+          "uri": "https://kuenselonline.com/dz/feed/posts",
+          "gated": false
+        }
+      ]
+    },
+    {
+      "publication_name": "Bhutan Broadcasting Service (BBS)",
+      "publication_website_uri": "https://www.bbs.bt",
+      "category": "News",
+      "publication_rss_feed_uris": [
+        {
+          "uri": "https://www.bbs.bt/feed/",
+          "gated": false
+        }
+      ]
+    },
+    {
+      "publication_name": "The Bhutanese",
+      "publication_website_uri": "https://thebhutanese.bt",
+      "category": "News",
+      "publication_rss_feed_uris": [
+        {
+          "uri": "https://thebhutanese.bt/feed/",
+          "gated": false
+        }
+      ]
+    },
+    {
+      "publication_name": "Business Bhutan",
+      "publication_website_uri": "https://businessbhutan.bt",
+      "category": "Business",
+      "publication_rss_feed_uris": [
+        {
+          "uri": "https://businessbhutan.bt/feed/",
+          "gated": false
+        }
+      ]
+    },
+    {
+      "publication_name": "Bhutan Times",
+      "publication_website_uri": "https://bhutantimes.bt",
+      "category": "News",
+      "publication_rss_feed_uris": [
+        {
+          "uri": "https://bhutantimes.bt/feed/",
+          "gated": false
+        }
+      ]
+    },
+    {
+      "publication_name": "Bhutan News Network",
+      "publication_website_uri": "https://bhutannewsnetwork.com",
+      "category": "News",
+      "publication_rss_feed_uris": [
+        {
+          "uri": "https://bhutannewsnetwork.com/feed/",
+          "gated": false
+        }
+      ]
+    },
+    {
+      "publication_name": "Daily Bhutan",
+      "publication_website_uri": "https://www.dailybhutan.com",
+      "category": "News",
+      "publication_rss_feed_uris": [
+        {
+          "uri": "https://www.dailybhutan.com/rss",
+          "gated": false
+        }
+      ]
+    },
+    {
+      "publication_name": "The Druk Journal",
+      "publication_website_uri": "https://drukjournal.bt",
+      "category": "Magazine",
+      "publication_rss_feed_uris": [
+        {
+          "uri": "https://drukjournal.bt/feed/",
+          "gated": false
+        }
+      ]
+    }
+  ],
+  "CIV": [
+    {
+      "publication_name": "AIP - Agence Ivoirienne de Presse",
+      "publication_website_uri": "https://www.aip.ci",
+      "category": "News",
+      "publication_rss_feed_uris": [
+        {
+          "uri": "https://www.aip.ci/feed/",
+          "gated": false
+        }
+      ]
+    },
+    {
+      "publication_name": "AIP - Agence Ivoirienne de Presse (Bouaké)",
+      "publication_website_uri": "https://www.aip.ci/category/region-gbeke-hambol/bouake/",
+      "category": "Regional News: Bouaké",
+      "publication_rss_feed_uris": [
+        {
+          "uri": "https://www.aip.ci/category/region-gbeke-hambol/bouake/feed/",
+          "gated": false
+        }
+      ]
+    },
+    {
+      "publication_name": "AIP - Agence Ivoirienne de Presse (San-Pédro)",
+      "publication_website_uri": "https://www.aip.ci/category/region-san-pedro-gbokle/san-pedro/",
+      "category": "Regional News: San-Pédro",
+      "publication_rss_feed_uris": [
+        {
+          "uri": "https://www.aip.ci/category/region-san-pedro-gbokle/san-pedro/feed/",
+          "gated": false
+        }
+      ]
+    },
+    {
+      "publication_name": "AIP - Agence Ivoirienne de Presse (Korhogo)",
+      "publication_website_uri": "https://www.aip.ci/category/region-poro-bagoue-tchologo/korhogo/",
+      "category": "Regional News: Korhogo",
+      "publication_rss_feed_uris": [
+        {
+          "uri": "https://www.aip.ci/category/region-poro-bagoue-tchologo/korhogo/feed/",
+          "gated": false
+        }
+      ]
+    },
+    {
+      "publication_name": "AIP - Agence Ivoirienne de Presse (Daloa)",
+      "publication_website_uri": "https://www.aip.ci/category/region-haut-sassandra/daloa/",
+      "category": "Regional News: Daloa",
+      "publication_rss_feed_uris": [
+        {
+          "uri": "https://www.aip.ci/category/region-haut-sassandra/daloa/feed/",
+          "gated": false
+        }
+      ]
+    },
+    {
+      "publication_name": "Linfodrome",
+      "publication_website_uri": "https://www.linfodrome.com",
+      "category": "News",
+      "publication_rss_feed_uris": [
+        {
+          "uri": "https://www.linfodrome.com/rss",
+          "gated": false
+        }
+      ]
+    },
+    {
+      "publication_name": "Connectionivoirienne",
+      "publication_website_uri": "https://connectionivoirienne.net",
+      "category": "News",
+      "publication_rss_feed_uris": [
+        {
+          "uri": "https://connectionivoirienne.net/feed/",
+          "gated": false
+        }
+      ]
+    },
+    {
+      "publication_name": "Ivorian.Net",
+      "publication_website_uri": "https://www.ivorian.net",
+      "category": "News",
+      "publication_rss_feed_uris": [
+        {
+          "uri": "https://ivorian.se/feed/",
+          "gated": false
+        }
+      ]
+    },
+    {
+      "publication_name": "Yeclo.com",
+      "publication_website_uri": "https://www.yeclo.com",
+      "category": "News",
+      "publication_rss_feed_uris": [
+        {
+          "uri": "https://www.yeclo.com/rss/",
+          "gated": false
+        }
+      ]
+    },
+    {
+      "publication_name": "Le Patriote",
+      "publication_website_uri": "https://lepatriote.ci",
+      "category": "News",
+      "publication_rss_feed_uris": [
+        {
+          "uri": "https://lepatriote.ci/rss/latest-posts",
+          "gated": false
+        }
+      ]
+    },
+    {
+      "publication_name": "Yesssouan.ci",
+      "publication_website_uri": "https://www.yessouan.ci",
+      "category": "News",
+      "publication_rss_feed_uris": [
+        {
+          "uri": "https://www.yessouan.ci/xml/syndication.rss",
+          "gated": false
+        }
+      ]
+    },
+    {
+      "publication_name": "Afrik Soir",
+      "publication_website_uri": "https://afriksoir.net",
+      "category": "News",
+      "publication_rss_feed_uris": [
+        {
+          "uri": "https://afriksoir.net/feed/",
+          "gated": false
+        }
+      ]
+    },
+    {
+      "publication_name": "Ivoirematin.com",
+      "publication_website_uri": "https://www.ivoirematin.com",
+      "category": "News",
+      "publication_rss_feed_uris": [
+        {
+          "uri": "https://www.ivoirematin.com/feed",
+          "gated": false
+        }
+      ]
+    },
+    {
+      "publication_name": "Abidjan.net News",
+      "publication_website_uri": "https://news.abidjan.net",
+      "category": "News",
+      "publication_rss_feed_uris": [
+        {
+          "uri": "https://news.abidjan.net/rss/societe.xml",
+          "gated": true
+        },
+        {
+          "uri": "https://news.abidjan.net/rss/sport.xml",
+          "gated": false
+        },
+        {
+          "uri": "https://news.abidjan.net/rss/region.xml",
+          "gated": false
         }
       ]
     }
