@@ -743,7 +743,68 @@
       "publication_website_uri": "https://www.michaelwest.com.au/",
       "publication_rss_feed_uris": [
         {
-          "uri": "https://www.michaelwest.com.au/feed/"
+          "uri": "https://www.michaelwest.com.au/feed/",
+          "gated": true
+        }
+      ]
+    },
+    {
+      "publication_name": "The Guardian Australia",
+      "publication_website_uri": "https://www.theguardian.com/australia",
+      "category": "News",
+      "publication_rss_feed_uris": [
+        {
+          "uri": "https://www.theguardian.com/australia/rss",
+          "gated": false,
+          "category": "News"
+        }
+      ]
+    },
+    {
+      "publication_name": "The Conversation AU",
+      "publication_website_uri": "https://theconversation.com/au",
+      "category": "News",
+      "publication_rss_feed_uris": [
+        {
+          "uri": "https://theconversation.com/au/articles.atom",
+          "gated": false,
+          "category": "News"
+        }
+      ]
+    },
+    {
+      "publication_name": "Crikey",
+      "publication_website_uri": "https://www.crikey.com.au",
+      "category": "News",
+      "publication_rss_feed_uris": [
+        {
+          "uri": "https://www.crikey.com.au/rss",
+          "gated": false,
+          "category": "News"
+        }
+      ]
+    },
+    {
+      "publication_name": "The West Australian (WA Today)",
+      "publication_website_uri": "https://www.watoday.com.au",
+      "category": "Regional News: Western Australia",
+      "publication_rss_feed_uris": [
+        {
+          "uri": "https://www.watoday.com.au/rss/feed.xml",
+          "gated": false,
+          "category": "Regional News: Western Australia"
+        }
+      ]
+    },
+    {
+      "publication_name": "ABC News Australia (World & Pacific)",
+      "publication_website_uri": "https://www.abc.net.au/news",
+      "category": "News",
+      "publication_rss_feed_uris": [
+        {
+          "uri": "https://www.abc.net.au/news/feed/51126/rss.xml",
+          "gated": false,
+          "category": "News"
         }
       ]
     }
@@ -1223,6 +1284,66 @@
       "publication_rss_feed_uris": [
         {
           "uri": "https://www.7sur7.be/home/rss.xml"
+        }
+      ]
+    },
+    {
+      "publication_name": "Nieuwsblad",
+      "publication_website_uri": "https://www.nieuwsblad.be/",
+      "category": "News",
+      "publication_rss_feed_uris": [
+        {
+          "uri": "https://www.nieuwsblad.be/rss/",
+          "gated": false,
+          "category": "News"
+        }
+      ]
+    },
+    {
+      "publication_name": "GVA (Gazet Van Antwerpen)",
+      "publication_website_uri": "https://www.gva.be/",
+      "category": "Regional News: Antwerp",
+      "publication_rss_feed_uris": [
+        {
+          "uri": "https://www.gva.be/rss/",
+          "gated": false,
+          "category": "Regional News: Antwerp"
+        }
+      ]
+    },
+    {
+      "publication_name": "HBVL (Het Belang van Limburg)",
+      "publication_website_uri": "https://www.hbvl.be/",
+      "category": "Regional News: Limburg",
+      "publication_rss_feed_uris": [
+        {
+          "uri": "https://www.hbvl.be/rss/",
+          "gated": false,
+          "category": "Regional News: Limburg"
+        }
+      ]
+    },
+    {
+      "publication_name": "Le Soir",
+      "publication_website_uri": "https://www.lesoir.be/",
+      "category": "News",
+      "publication_rss_feed_uris": [
+        {
+          "uri": "https://www.lesoir.be/rss.xml",
+          "gated": false,
+          "category": "News"
+        }
+      ]
+    },
+    {
+      "publication_name": "Knack",
+      "publication_website_uri": "https://www.knack.be/",
+      "category": "News",
+      "publication_rss_feed_uris": [
+        {
+          "uri": "https://www.knack.be/feed/",
+          "gated": false,
+          "category": "News"
         }
       ]
     }
@@ -4214,6 +4335,78 @@
           "uri": "http://www.showbiz.cz/feed/"
         }
       ]
+    },
+    {
+      "publication_name": "Týden",
+      "publication_website_uri": "https://www.tyden.cz/",
+      "category": "News",
+      "publication_rss_feed_uris": [
+        {
+          "uri": "https://www.tyden.cz/rss/",
+          "gated": false,
+          "category": "News"
+        }
+      ]
+    },
+    {
+      "publication_name": "Reflex",
+      "publication_website_uri": "https://www.reflex.cz/",
+      "category": "News",
+      "publication_rss_feed_uris": [
+        {
+          "uri": "https://www.reflex.cz/rss/",
+          "gated": false,
+          "category": "News"
+        }
+      ]
+    },
+    {
+      "publication_name": "Info.cz",
+      "publication_website_uri": "https://www.info.cz/",
+      "category": "News",
+      "publication_rss_feed_uris": [
+        {
+          "uri": "https://www.info.cz/rss/",
+          "gated": false,
+          "category": "News"
+        }
+      ]
+    },
+    {
+      "publication_name": "Aktualně.cz",
+      "publication_website_uri": "https://www.aktualne.cz/",
+      "category": "News",
+      "publication_rss_feed_uris": [
+        {
+          "uri": "https://www.aktualne.cz/rss/",
+          "gated": false,
+          "category": "News"
+        }
+      ]
+    },
+    {
+      "publication_name": "Frekvence 1",
+      "publication_website_uri": "https://www.frekvence1.cz/",
+      "category": "News",
+      "publication_rss_feed_uris": [
+        {
+          "uri": "https://www.frekvence1.cz/rss/",
+          "gated": false,
+          "category": "News"
+        }
+      ]
+    },
+    {
+      "publication_name": "Město Olomouc",
+      "publication_website_uri": "https://www.olomouc.eu/",
+      "category": "Regional News: Olomouc",
+      "publication_rss_feed_uris": [
+        {
+          "uri": "https://www.olomouc.eu/rss/",
+          "gated": false,
+          "category": "Regional News: Olomouc"
+        }
+      ]
     }
   ],
   "DEU": [
@@ -5306,15 +5499,6 @@
       ]
     },
     {
-      "publication_name": "ABC",
-      "publication_website_uri": "https://abc.es/",
-      "publication_rss_feed_uris": [
-        {
-          "uri": "https://www.abc.es/rss/atom/portada/"
-        }
-      ]
-    },
-    {
       "publication_name": "elmundo.es",
       "publication_website_uri": "https://elmundo.es/",
       "publication_rss_feed_uris": [
@@ -5338,15 +5522,6 @@
       "publication_rss_feed_uris": [
         {
           "uri": "https://www.lavanguardia.com/rss/home.xml"
-        }
-      ]
-    },
-    {
-      "publication_name": "elEconomista.es",
-      "publication_website_uri": "https://eleconomista.es/",
-      "publication_rss_feed_uris": [
-        {
-          "uri": "https://www.eleconomista.es/rss/rss-seleccion-ee.php"
         }
       ]
     },
@@ -5423,15 +5598,6 @@
       ]
     },
     {
-      "publication_name": "elcorreo.com",
-      "publication_website_uri": "https://elcorreo.com/",
-      "publication_rss_feed_uris": [
-        {
-          "uri": "https://www.elcorreo.com/rss/atom/portada/"
-        }
-      ]
-    },
-    {
       "publication_name": "La Voz de Galicia",
       "publication_website_uri": "https://lavozdegalicia.es/",
       "publication_rss_feed_uris": [
@@ -5441,29 +5607,11 @@
       ]
     },
     {
-      "publication_name": "El Periódico",
-      "publication_website_uri": "https://www.epe.es/es/rss/listado-rss.shtml",
-      "publication_rss_feed_uris": [
-        {
-          "uri": "https://www.epe.es/es/rss/rss_portada.xml"
-        }
-      ]
-    },
-    {
       "publication_name": "La Región",
       "publication_website_uri": "https://www.laregion.es/",
       "publication_rss_feed_uris": [
         {
           "uri": "https://www.laregion.es/rss/"
-        }
-      ]
-    },
-    {
-      "publication_name": "El Norte de Castilla",
-      "publication_website_uri": "https://www.elnortedecastilla.es/",
-      "publication_rss_feed_uris": [
-        {
-          "uri": "https://www.elnortedecastilla.es/rss/atom/portada/"
         }
       ]
     },
@@ -5486,15 +5634,6 @@
       ]
     },
     {
-      "publication_name": "El Periódico - portada",
-      "publication_website_uri": "https://www.elperiodico.com/",
-      "publication_rss_feed_uris": [
-        {
-          "uri": "https://www.elperiodico.com/es/rss/rss_portada.xml"
-        }
-      ]
-    },
-    {
       "publication_name": "huffingtonpost.es",
       "publication_website_uri": "https://www.huffingtonpost.es/",
       "publication_rss_feed_uris": [
@@ -5509,6 +5648,270 @@
       "publication_rss_feed_uris": [
         {
           "uri": "https://www.euroweeklynews.com/feed/"
+        }
+      ]
+    },
+    {
+      "publication_name": "20 minutos",
+      "publication_website_uri": "https://www.20minutos.es/",
+      "category": "News",
+      "publication_rss_feed_uris": [
+        {
+          "uri": "https://www.20minutos.es/rss/",
+          "gated": false,
+          "category": "News"
+        }
+      ]
+    },
+    {
+      "publication_name": "Agencia EFE",
+      "publication_website_uri": "https://www.agenciaefe.es/",
+      "category": "News",
+      "publication_rss_feed_uris": [
+        {
+          "uri": "https://www.agenciaefe.es/rss/",
+          "gated": false,
+          "category": "News"
+        }
+      ]
+    },
+    {
+      "publication_name": "Ara",
+      "publication_website_uri": "https://www.ara.cat/",
+      "category": "Regional News: Catalonia",
+      "publication_rss_feed_uris": [
+        {
+          "uri": "https://www.ara.cat/rss/",
+          "gated": false,
+          "category": "Regional News: Catalonia"
+        }
+      ]
+    },
+    {
+      "publication_name": "Berria",
+      "publication_website_uri": "https://www.berria.eus/",
+      "category": "Regional News: Basque Country",
+      "publication_rss_feed_uris": [
+        {
+          "uri": "https://www.berria.eus/uploads/feeds/feed_berria_eu.xml",
+          "gated": false,
+          "category": "Regional News: Basque Country"
+        }
+      ]
+    },
+    {
+      "publication_name": "Cadena 100",
+      "publication_website_uri": "https://www.cadena100.es/",
+      "category": "News",
+      "publication_rss_feed_uris": [
+        {
+          "uri": "https://www.cadena100.es/rss/home.xml",
+          "gated": false,
+          "category": "News"
+        }
+      ]
+    },
+    {
+      "publication_name": "COPE",
+      "publication_website_uri": "https://www.cope.es/",
+      "category": "News",
+      "publication_rss_feed_uris": [
+        {
+          "uri": "https://www.cope.es/api/es/news/rss.xml",
+          "gated": false,
+          "category": "News"
+        }
+      ]
+    },
+    {
+      "publication_name": "Diario de Cádiz",
+      "publication_website_uri": "https://www.diariodecadiz.es/",
+      "category": "Regional News: Andalusia",
+      "publication_rss_feed_uris": [
+        {
+          "uri": "https://www.diariodecadiz.es/rss/",
+          "gated": false,
+          "category": "Regional News: Andalusia"
+        }
+      ]
+    },
+    {
+      "publication_name": "Diario de Ibiza",
+      "publication_website_uri": "https://www.diariodeibiza.es/",
+      "category": "Regional News: Balearic Islands",
+      "publication_rss_feed_uris": [
+        {
+          "uri": "https://www.diariodeibiza.es/rss/",
+          "gated": false,
+          "category": "Regional News: Balearic Islands"
+        }
+      ]
+    },
+    {
+      "publication_name": "Diario Información",
+      "publication_website_uri": "https://www.diarioinformacion.com/",
+      "category": "Regional News: Valencia",
+      "publication_rss_feed_uris": [
+        {
+          "uri": "https://www.diarioinformacion.com/rss",
+          "gated": false,
+          "category": "Regional News: Valencia"
+        }
+      ]
+    },
+    {
+      "publication_name": "El Correo Gallego",
+      "publication_website_uri": "https://www.elcorreogallego.es/",
+      "category": "Regional News: Galicia",
+      "publication_rss_feed_uris": [
+        {
+          "uri": "https://www.elcorreogallego.es/rss/",
+          "gated": false,
+          "category": "Regional News: Galicia"
+        }
+      ]
+    },
+    {
+      "publication_name": "El Periódico de Aragón",
+      "publication_website_uri": "https://www.elperiodicodearagon.com/",
+      "category": "Regional News: Aragón",
+      "publication_rss_feed_uris": [
+        {
+          "uri": "https://www.elperiodicodearagon.com/rss/",
+          "gated": false,
+          "category": "Regional News: Aragón"
+        }
+      ]
+    },
+    {
+      "publication_name": "Faro de Vigo",
+      "publication_website_uri": "https://www.farodevigo.es/",
+      "category": "Regional News: Galicia",
+      "publication_rss_feed_uris": [
+        {
+          "uri": "https://www.farodevigo.es/rss/",
+          "gated": false,
+          "category": "Regional News: Galicia"
+        }
+      ]
+    },
+    {
+      "publication_name": "Granada Hoy",
+      "publication_website_uri": "https://www.granadahoy.com/",
+      "category": "Regional News: Andalusia",
+      "publication_rss_feed_uris": [
+        {
+          "uri": "https://www.granadahoy.com/rss/",
+          "gated": false,
+          "category": "Regional News: Andalusia"
+        }
+      ]
+    },
+    {
+      "publication_name": "La Opinión de Murcia",
+      "publication_website_uri": "https://www.laopiniondemurcia.es/",
+      "category": "Regional News: Murcia",
+      "publication_rss_feed_uris": [
+        {
+          "uri": "https://www.laopiniondemurcia.es/rss/",
+          "gated": false,
+          "category": "Regional News: Murcia"
+        }
+      ]
+    },
+    {
+      "publication_name": "La Sexta",
+      "publication_website_uri": "https://www.lasexta.com/noticias/",
+      "category": "News",
+      "publication_rss_feed_uris": [
+        {
+          "uri": "https://www.lasexta.com/rss/348128.xml",
+          "gated": false,
+          "category": "News"
+        }
+      ]
+    },
+    {
+      "publication_name": "Mundiario",
+      "publication_website_uri": "https://www.mundiario.com/",
+      "category": "News",
+      "publication_rss_feed_uris": [
+        {
+          "uri": "https://www.mundiario.com/rss/",
+          "gated": false,
+          "category": "News"
+        }
+      ]
+    },
+    {
+      "publication_name": "Nacio Digital",
+      "publication_website_uri": "https://www.naciodigital.cat/",
+      "category": "Regional News: Catalonia",
+      "publication_rss_feed_uris": [
+        {
+          "uri": "https://www.naciodigital.cat/rss/",
+          "gated": false,
+          "category": "Regional News: Catalonia"
+        }
+      ]
+    },
+    {
+      "publication_name": "Ara",
+      "publication_website_uri": "https://ara.cat",
+      "category": "Regional News: Catalonia",
+      "publication_rss_feed_uris": [
+        {
+          "uri": "https://ara.cat/rss/latest/",
+          "gated": false,
+          "category": "Regional News: Catalonia"
+        }
+      ]
+    },
+    {
+      "publication_name": "El Nacional",
+      "publication_website_uri": "https://www.elnacional.cat",
+      "category": "Regional News: Catalonia",
+      "publication_rss_feed_uris": [
+        {
+          "uri": "https://www.elnacional.cat/uploads/feeds/feed_ca.xml",
+          "gated": false,
+          "category": "Regional News: Catalonia"
+        }
+      ]
+    },
+    {
+      "publication_name": "VilaWeb",
+      "publication_website_uri": "https://vilaweb.cat",
+      "category": "Regional News: Catalonia",
+      "publication_rss_feed_uris": [
+        {
+          "uri": "https://vilaweb.cat/feed/",
+          "gated": false,
+          "category": "Regional News: Catalonia"
+        }
+      ]
+    },
+    {
+      "publication_name": "Diario de Sevilla",
+      "publication_website_uri": "https://www.diariodesevilla.es",
+      "category": "Regional News: Andalusia",
+      "publication_rss_feed_uris": [
+        {
+          "uri": "https://www.diariodesevilla.es/rss/",
+          "gated": false,
+          "category": "Regional News: Andalusia"
+        }
+      ]
+    },
+    {
+      "publication_name": "La Opinión de Málaga",
+      "publication_website_uri": "https://www.laopiniondemalaga.es",
+      "category": "Regional News: Andalusia",
+      "publication_rss_feed_uris": [
+        {
+          "uri": "https://www.laopiniondemalaga.es/rss/",
+          "gated": false,
+          "category": "Regional News: Andalusia"
         }
       ]
     }
@@ -6531,15 +6934,6 @@
       ]
     },
     {
-      "publication_name": "Express & Star",
-      "publication_website_uri": "http://expressandstar.com/",
-      "publication_rss_feed_uris": [
-        {
-          "uri": "http://www.expressandstar.com/news/feed/"
-        }
-      ]
-    },
-    {
       "publication_name": "World news | The Guardian",
       "publication_website_uri": "https://www.theguardian.com/",
       "publication_rss_feed_uris": [
@@ -6584,6 +6978,174 @@
           "uri": "https://www.theguardian.com/world/rss",
           "gated": false,
           "category": "News"
+        }
+      ]
+    },
+    {
+      "publication_name": "BBC Scotland",
+      "publication_website_uri": "https://www.bbc.com/scotland",
+      "category": "Regional News: Scotland",
+      "publication_rss_feed_uris": [
+        {
+          "uri": "https://feeds.bbci.co.uk/news/scotland/rss.xml",
+          "gated": false,
+          "category": "Regional News: Scotland"
+        }
+      ]
+    },
+    {
+      "publication_name": "BBC Wales",
+      "publication_website_uri": "https://www.bbc.com/wales",
+      "category": "Regional News: Wales",
+      "publication_rss_feed_uris": [
+        {
+          "uri": "https://feeds.bbci.co.uk/news/wales/rss.xml",
+          "gated": false,
+          "category": "Regional News: Wales"
+        }
+      ]
+    },
+    {
+      "publication_name": "BBC Northern Ireland",
+      "publication_website_uri": "https://www.bbc.com/news/northern_ireland",
+      "category": "Regional News: Northern Ireland",
+      "publication_rss_feed_uris": [
+        {
+          "uri": "https://feeds.bbci.co.uk/news/northern_ireland/rss.xml",
+          "gated": false,
+          "category": "Regional News: Northern Ireland"
+        }
+      ]
+    },
+    {
+      "publication_name": "BBC London",
+      "publication_website_uri": "https://www.bbc.com/news/england/london",
+      "category": "Regional News: London",
+      "publication_rss_feed_uris": [
+        {
+          "uri": "https://feeds.bbci.co.uk/news/england/london/rss.xml",
+          "gated": false,
+          "category": "Regional News: London"
+        }
+      ]
+    },
+    {
+      "publication_name": "BBC Bristol",
+      "publication_website_uri": "https://www.bbc.com/news/england/bristol",
+      "category": "Regional News: Bristol",
+      "publication_rss_feed_uris": [
+        {
+          "uri": "https://feeds.bbci.co.uk/news/england/bristol/rss.xml",
+          "gated": false,
+          "category": "Regional News: Bristol"
+        }
+      ]
+    },
+    {
+      "publication_name": "BBC Manchester",
+      "publication_website_uri": "https://www.bbc.com/news/england/manchester",
+      "category": "Regional News: Manchester",
+      "publication_rss_feed_uris": [
+        {
+          "uri": "https://feeds.bbci.co.uk/news/england/manchester/rss.xml",
+          "gated": false,
+          "category": "Regional News: Manchester"
+        }
+      ]
+    },
+    {
+      "publication_name": "BBC Kent",
+      "publication_website_uri": "https://www.bbc.com/news/england/kent",
+      "category": "Regional News: Kent",
+      "publication_rss_feed_uris": [
+        {
+          "uri": "https://feeds.bbci.co.uk/news/england/kent/rss.xml",
+          "gated": false,
+          "category": "Regional News: Kent"
+        }
+      ]
+    },
+    {
+      "publication_name": "BBC Nottingham",
+      "publication_website_uri": "https://www.bbc.com/news/england/nottingham",
+      "category": "Regional News: Nottingham",
+      "publication_rss_feed_uris": [
+        {
+          "uri": "https://feeds.bbci.co.uk/news/england/nottingham/rss.xml",
+          "gated": false,
+          "category": "Regional News: Nottingham"
+        }
+      ]
+    },
+    {
+      "publication_name": "BBC Leicester",
+      "publication_website_uri": "https://www.bbc.com/news/england/leicester",
+      "category": "Regional News: Leicester",
+      "publication_rss_feed_uris": [
+        {
+          "uri": "https://feeds.bbci.co.uk/news/england/leicester/rss.xml",
+          "gated": false,
+          "category": "Regional News: Leicester"
+        }
+      ]
+    },
+    {
+      "publication_name": "BBC Lancashire",
+      "publication_website_uri": "https://www.bbc.com/news/england/lancashire",
+      "category": "Regional News: Lancashire",
+      "publication_rss_feed_uris": [
+        {
+          "uri": "https://feeds.bbci.co.uk/news/england/lancashire/rss.xml",
+          "gated": false,
+          "category": "Regional News: Lancashire"
+        }
+      ]
+    },
+    {
+      "publication_name": "BBC Devon",
+      "publication_website_uri": "https://www.bbc.com/news/england/devon",
+      "category": "Regional News: Devon",
+      "publication_rss_feed_uris": [
+        {
+          "uri": "https://feeds.bbci.co.uk/news/england/devon/rss.xml",
+          "gated": false,
+          "category": "Regional News: Devon"
+        }
+      ]
+    },
+    {
+      "publication_name": "The Scotsman",
+      "publication_website_uri": "https://www.scotsman.com",
+      "category": "Regional News: Scotland",
+      "publication_rss_feed_uris": [
+        {
+          "uri": "https://www.scotsman.com/rss/",
+          "gated": false,
+          "category": "Regional News: Scotland"
+        }
+      ]
+    },
+    {
+      "publication_name": "Belfast Telegraph",
+      "publication_website_uri": "https://www.belfasttelegraph.co.uk",
+      "category": "Regional News: Northern Ireland",
+      "publication_rss_feed_uris": [
+        {
+          "uri": "https://www.belfasttelegraph.co.uk/rss/",
+          "gated": false,
+          "category": "Regional News: Northern Ireland"
+        }
+      ]
+    },
+    {
+      "publication_name": "Derry Journal",
+      "publication_website_uri": "https://www.derryjournal.com",
+      "category": "Regional News: Northern Ireland",
+      "publication_rss_feed_uris": [
+        {
+          "uri": "https://www.derryjournal.com/rss/",
+          "gated": false,
+          "category": "Regional News: Northern Ireland"
         }
       ]
     }
@@ -8598,15 +9160,6 @@
       ]
     },
     {
-      "publication_name": "SKAI.gr",
-      "publication_website_uri": "http://skai.gr/",
-      "publication_rss_feed_uris": [
-        {
-          "uri": "http://www.skai.gr/rss/top.aspx"
-        }
-      ]
-    },
-    {
       "publication_name": "To Vima",
       "publication_website_uri": "http://tovima.gr/",
       "publication_rss_feed_uris": [
@@ -8616,11 +9169,170 @@
       ]
     },
     {
-      "publication_name": "MEGA",
-      "publication_website_uri": "http://megatv.com/",
+      "publication_name": "ΕΡΤ (Greek National Television)",
+      "publication_website_uri": "https://www.ert.gr",
+      "category": "News",
       "publication_rss_feed_uris": [
         {
-          "uri": "http://www.megatv.com/rss.asp?catid=13480&subid=20120"
+          "uri": "https://www.ert.gr/feed/",
+          "gated": false,
+          "category": "News"
+        }
+      ]
+    },
+    {
+      "publication_name": "Naftemporiki",
+      "publication_website_uri": "https://www.naftemporiki.gr",
+      "category": "News",
+      "publication_rss_feed_uris": [
+        {
+          "uri": "https://www.naftemporiki.gr/feed/",
+          "gated": false,
+          "category": "News"
+        }
+      ]
+    },
+    {
+      "publication_name": "Real.gr",
+      "publication_website_uri": "https://www.real.gr",
+      "category": "News",
+      "publication_rss_feed_uris": [
+        {
+          "uri": "https://www.real.gr/feed/",
+          "gated": false,
+          "category": "News"
+        }
+      ]
+    },
+    {
+      "publication_name": "Zougla.gr",
+      "publication_website_uri": "https://www.zougla.gr",
+      "category": "News",
+      "publication_rss_feed_uris": [
+        {
+          "uri": "https://www.zougla.gr/feed/",
+          "gated": false,
+          "category": "News"
+        }
+      ]
+    },
+    {
+      "publication_name": "Alpha TV",
+      "publication_website_uri": "https://www.alphatv.gr",
+      "category": "News",
+      "publication_rss_feed_uris": [
+        {
+          "uri": "https://www.alphatv.gr/feed/",
+          "gated": false,
+          "category": "News"
+        }
+      ]
+    },
+    {
+      "publication_name": "Startupper",
+      "publication_website_uri": "https://www.startupper.gr",
+      "category": "News",
+      "publication_rss_feed_uris": [
+        {
+          "uri": "https://www.startupper.gr/feed/",
+          "gated": false,
+          "category": "News"
+        }
+      ]
+    },
+    {
+      "publication_name": "Iatronet",
+      "publication_website_uri": "https://www.iatronet.gr",
+      "category": "News",
+      "publication_rss_feed_uris": [
+        {
+          "uri": "https://www.iatronet.gr/rss.xml",
+          "gated": false,
+          "category": "News"
+        }
+      ]
+    },
+    {
+      "publication_name": "Efsyn",
+      "publication_website_uri": "https://www.efsyn.gr",
+      "category": "News",
+      "publication_rss_feed_uris": [
+        {
+          "uri": "https://www.efsyn.gr/feed/",
+          "gated": false,
+          "category": "News"
+        }
+      ]
+    },
+    {
+      "publication_name": "Ethnos.gr",
+      "publication_website_uri": "https://www.ethnos.gr",
+      "category": "News",
+      "publication_rss_feed_uris": [
+        {
+          "uri": "https://www.ethnos.gr/rss-news?positionid=1",
+          "gated": false,
+          "category": "News"
+        }
+      ]
+    },
+    {
+      "publication_name": "Makthes.gr",
+      "publication_website_uri": "https://www.makthes.gr",
+      "category": "News",
+      "publication_rss_feed_uris": [
+        {
+          "uri": "https://www.makthes.gr/feed/",
+          "gated": false,
+          "category": "News"
+        }
+      ]
+    },
+    {
+      "publication_name": "The Press Project",
+      "publication_website_uri": "https://www.thepressproject.gr",
+      "category": "News",
+      "publication_rss_feed_uris": [
+        {
+          "uri": "https://www.thepressproject.gr/feed/",
+          "gated": false,
+          "category": "News"
+        }
+      ]
+    },
+    {
+      "publication_name": "Tovima (General)",
+      "publication_website_uri": "https://www.tovima.gr",
+      "category": "News",
+      "publication_rss_feed_uris": [
+        {
+          "uri": "https://www.tovima.gr/feed/",
+          "gated": false,
+          "category": "News"
+        }
+      ]
+    },
+    {
+      "publication_name": "Pagenews",
+      "publication_website_uri": "https://www.pagenews.gr",
+      "category": "News",
+      "publication_rss_feed_uris": [
+        {
+          "uri": "https://www.pagenews.gr/feed/",
+          "gated": false,
+          "category": "News"
+        }
+      ]
+    },
+    {
+      "publication_name": "Enikos",
+      "publication_website_uri": "https://www.enikos.gr",
+      "category": "News",
+      "publication_rss_feed_uris": [
+        {
+          "uri": "https://www.enikos.gr/feed/",
+          "gated": false,
+          "category": "News"
         }
       ]
     }
@@ -18251,15 +18963,6 @@
       ]
     },
     {
-      "publication_name": "TVP",
-      "publication_website_uri": "http://tvp.pl/",
-      "publication_rss_feed_uris": [
-        {
-          "uri": "https://sport.tvp.pl/sport.tvp.pl/rss+xml.php"
-        }
-      ]
-    },
-    {
       "publication_name": "Rzeczpospolita",
       "publication_website_uri": "http://rp.pl/",
       "publication_rss_feed_uris": [
@@ -18337,6 +19040,162 @@
       "publication_rss_feed_uris": [
         {
           "uri": "https://www.rmf24.pl/feed"
+        }
+      ]
+    },
+    {
+      "publication_name": "Niezalezna",
+      "publication_website_uri": "https://niezalezna.pl",
+      "category": "News",
+      "publication_rss_feed_uris": [
+        {
+          "uri": "https://niezalezna.pl/feed",
+          "gated": false,
+          "category": "News"
+        }
+      ]
+    },
+    {
+      "publication_name": "GeekWeek",
+      "publication_website_uri": "https://www.geekweek.pl",
+      "category": "Technology",
+      "publication_rss_feed_uris": [
+        {
+          "uri": "https://www.geekweek.pl/feed",
+          "gated": false,
+          "category": "Technology"
+        }
+      ]
+    },
+    {
+      "publication_name": "PIT",
+      "publication_website_uri": "https://www.pit.pl",
+      "category": "Finance",
+      "publication_rss_feed_uris": [
+        {
+          "uri": "https://www.pit.pl/feed",
+          "gated": false,
+          "category": "Finance"
+        }
+      ]
+    },
+    {
+      "publication_name": "Benchmark",
+      "publication_website_uri": "https://benchmark.pl",
+      "category": "Business",
+      "publication_rss_feed_uris": [
+        {
+          "uri": "https://benchmark.pl/rss.xml",
+          "gated": false,
+          "category": "Business"
+        }
+      ]
+    },
+    {
+      "publication_name": "Sport Interia",
+      "publication_website_uri": "https://sport.interia.pl",
+      "category": "Sports",
+      "publication_rss_feed_uris": [
+        {
+          "uri": "https://sport.interia.pl/feed",
+          "gated": false,
+          "category": "Sports"
+        }
+      ]
+    },
+    {
+      "publication_name": "Fakt",
+      "publication_website_uri": "https://www.fakt.pl",
+      "category": "News",
+      "publication_rss_feed_uris": [
+        {
+          "uri": "https://www.fakt.pl/rss",
+          "gated": false,
+          "category": "News"
+        }
+      ]
+    },
+    {
+      "publication_name": "Gazeta Krakowska",
+      "publication_website_uri": "https://gazetakrakowska.pl",
+      "category": "Regional News: Krakow",
+      "publication_rss_feed_uris": [
+        {
+          "uri": "https://gazetakrakowska.pl/rss",
+          "gated": false,
+          "category": "Regional News: Krakow"
+        }
+      ]
+    },
+    {
+      "publication_name": "Tabletowo",
+      "publication_website_uri": "https://tabletowo.pl",
+      "category": "Technology",
+      "publication_rss_feed_uris": [
+        {
+          "uri": "https://tabletowo.pl/rss",
+          "gated": false,
+          "category": "Technology"
+        }
+      ]
+    },
+    {
+      "publication_name": "Gazeta Poznan",
+      "publication_website_uri": "https://www.gazetapoznan.pl",
+      "category": "Regional News: Poznan",
+      "publication_rss_feed_uris": [
+        {
+          "uri": "https://www.gazetapoznan.pl/feed",
+          "gated": false,
+          "category": "Regional News: Poznan"
+        }
+      ]
+    },
+    {
+      "publication_name": "Kurier Lubelski",
+      "publication_website_uri": "https://kurierlubelski.pl",
+      "category": "Regional News: Lublin",
+      "publication_rss_feed_uris": [
+        {
+          "uri": "https://kurierlubelski.pl/rss",
+          "gated": false,
+          "category": "Regional News: Lublin"
+        }
+      ]
+    },
+    {
+      "publication_name": "Dziennik Lodzki",
+      "publication_website_uri": "https://www.dzienniklodzki.pl",
+      "category": "Regional News: Lodz",
+      "publication_rss_feed_uris": [
+        {
+          "uri": "https://www.dzienniklodzki.pl/rss",
+          "gated": false,
+          "category": "Regional News: Lodz"
+        }
+      ]
+    },
+    {
+      "publication_name": "Gazeta Wroclawska",
+      "publication_website_uri": "https://www.gazetawroclawska.pl",
+      "category": "Regional News: Wroclaw",
+      "publication_rss_feed_uris": [
+        {
+          "uri": "https://www.gazetawroclawska.pl/rss",
+          "gated": false,
+          "category": "Regional News: Wroclaw"
+        }
+      ]
+    },
+    {
+      "publication_name": "OKO.press",
+      "publication_website_uri": "https://oko.press",
+      "category": "News",
+      "publication_rss_feed_uris": [
+        {
+          "uri": "https://www.oko.press/feed",
+          "gated": false,
+          "category": "News"
         }
       ]
     }
@@ -19890,15 +20749,6 @@
       ]
     },
     {
-      "publication_name": "Press Online",
-      "publication_website_uri": "http://pressonline.rs/",
-      "publication_rss_feed_uris": [
-        {
-          "uri": "http://crittendenpress.blogspot.com/feeds/posts/default?alt=rss"
-        }
-      ]
-    },
-    {
       "publication_name": "naslovi.net",
       "publication_website_uri": "http://naslovi.net/",
       "publication_rss_feed_uris": [
@@ -19917,20 +20767,23 @@
       ]
     },
     {
-      "publication_name": "Vesti.rs",
-      "publication_website_uri": "http://vesti.rs/",
-      "publication_rss_feed_uris": [
-        {
-          "uri": "http://www.pirotskevesti.rs/sport/13135/feed/"
-        }
-      ]
-    },
-    {
       "publication_name": "Televizija N1",
       "publication_website_uri": "https://n1info.rs/",
       "publication_rss_feed_uris": [
         {
           "uri": "https://n1info.rs/feed/"
+        }
+      ]
+    },
+    {
+      "publication_name": "Espreso",
+      "publication_website_uri": "https://www.espreso.co.rs/",
+      "category": "News",
+      "publication_rss_feed_uris": [
+        {
+          "uri": "https://www.espreso.co.rs/rss",
+          "gated": false,
+          "category": "News"
         }
       ]
     }
@@ -21781,6 +22634,237 @@
           "uri": "https://www.cnbc.com/id/100003114/device/rss/rss.html",
           "gated": false,
           "category": "News"
+        }
+      ]
+    },
+    {
+      "publication_name": "ABC7 Chicago",
+      "publication_website_uri": "https://abc7chicago.com",
+      "category": "Regional News: Chicago, IL",
+      "publication_rss_feed_uris": [
+        {
+          "uri": "https://abc7chicago.com/feeds",
+          "gated": false,
+          "category": "Regional News: Chicago, IL"
+        },
+        {
+          "uri": "https://abc7chicago.com/rss",
+          "gated": false,
+          "category": "Regional News: Chicago, IL"
+        },
+        {
+          "uri": "https://abc7chicago.com/feed",
+          "gated": true,
+          "category": "Regional News: Chicago, IL"
+        }
+      ]
+    },
+    {
+      "publication_name": "KSTP-TV Minneapolis",
+      "publication_website_uri": "https://kstp.com",
+      "category": "Regional News: Minneapolis, MN",
+      "publication_rss_feed_uris": [
+        {
+          "uri": "https://kstp.com/feed",
+          "gated": false,
+          "category": "Regional News: Minneapolis, MN"
+        },
+        {
+          "uri": "https://kstp.com/rss",
+          "gated": false,
+          "category": "Regional News: Minneapolis, MN"
+        }
+      ]
+    },
+    {
+      "publication_name": "Chicago Sun-Times",
+      "publication_website_uri": "https://suntimes.com",
+      "category": "Regional News: Chicago, IL",
+      "publication_rss_feed_uris": [
+        {
+          "uri": "https://suntimes.com/feed",
+          "gated": false,
+          "category": "Regional News: Chicago, IL"
+        }
+      ]
+    },
+    {
+      "publication_name": "Boston Globe",
+      "publication_website_uri": "https://www.bostonglobe.com",
+      "category": "Regional News: Massachusetts",
+      "publication_rss_feed_uris": [
+        {
+          "uri": "https://www.bostonglobe.com/arc/outboundfeeds/rss/?outputType=xml",
+          "gated": true,
+          "category": "Regional News: Massachusetts"
+        }
+      ]
+    },
+    {
+      "publication_name": "Newsday",
+      "publication_website_uri": "https://www.newsday.com",
+      "category": "Regional News: New York",
+      "publication_rss_feed_uris": [
+        {
+          "uri": "https://www.newsday.com/api/rss/recent",
+          "gated": false,
+          "category": "Regional News: New York"
+        }
+      ]
+    },
+    {
+      "publication_name": "NJ.com",
+      "publication_website_uri": "https://www.nj.com",
+      "category": "Regional News: New Jersey",
+      "publication_rss_feed_uris": [
+        {
+          "uri": "https://www.nj.com/arc/outboundfeeds/rss/?outputType=xml",
+          "gated": false,
+          "category": "Regional News: New Jersey"
+        }
+      ]
+    },
+    {
+      "publication_name": "Pittsburgh Post-Gazette",
+      "publication_website_uri": "https://www.post-gazette.com",
+      "category": "Regional News: Pennsylvania",
+      "publication_rss_feed_uris": [
+        {
+          "uri": "https://www.post-gazette.com/rss",
+          "gated": false,
+          "category": "Regional News: Pennsylvania"
+        }
+      ]
+    },
+    {
+      "publication_name": "Syracuse Post-Standard",
+      "publication_website_uri": "https://www.syracuse.com",
+      "category": "Regional News: New York",
+      "publication_rss_feed_uris": [
+        {
+          "uri": "https://www.syracuse.com/arc/outboundfeeds/rss/?outputType=xml",
+          "gated": false,
+          "category": "Regional News: New York"
+        }
+      ]
+    },
+    {
+      "publication_name": "Staten Island Advance",
+      "publication_website_uri": "https://www.silive.com",
+      "category": "Regional News: New York",
+      "publication_rss_feed_uris": [
+        {
+          "uri": "https://www.silive.com/arc/outboundfeeds/rss/?outputType=xml",
+          "gated": false,
+          "category": "Regional News: New York"
+        }
+      ]
+    },
+    {
+      "publication_name": "Philadelphia Inquirer",
+      "publication_website_uri": "https://www.inquirer.com",
+      "category": "Regional News: Pennsylvania",
+      "publication_rss_feed_uris": [
+        {
+          "uri": "https://www.inquirer.com/arc/outboundfeeds/rss/?outputType=xml",
+          "gated": false,
+          "category": "Regional News: Pennsylvania"
+        }
+      ]
+    },
+    {
+      "publication_name": "Portland Press Herald",
+      "publication_website_uri": "https://www.pressherald.com",
+      "category": "Regional News: Maine",
+      "publication_rss_feed_uris": [
+        {
+          "uri": "https://www.pressherald.com/feed/",
+          "gated": false,
+          "category": "Regional News: Maine"
+        }
+      ]
+    },
+    {
+      "publication_name": "PennLive",
+      "publication_website_uri": "https://www.pennlive.com",
+      "category": "Regional News: Pennsylvania",
+      "publication_rss_feed_uris": [
+        {
+          "uri": "https://www.pennlive.com/arc/outboundfeeds/rss/?outputType=xml",
+          "gated": false,
+          "category": "Regional News: Pennsylvania"
+        }
+      ]
+    },
+    {
+      "publication_name": "NBC New York",
+      "publication_website_uri": "https://www.nbcnewyork.com",
+      "category": "Regional News: New York",
+      "publication_rss_feed_uris": [
+        {
+          "uri": "https://www.nbcnewyork.com/?rss=y",
+          "gated": true,
+          "category": "Regional News: New York"
+        }
+      ]
+    },
+    {
+      "publication_name": "NBC Washington",
+      "publication_website_uri": "https://www.nbcwashington.com",
+      "category": "Regional News: Washington DC",
+      "publication_rss_feed_uris": [
+        {
+          "uri": "https://www.nbcwashington.com/?rss=y",
+          "gated": true,
+          "category": "Regional News: Washington DC"
+        }
+      ]
+    },
+    {
+      "publication_name": "New York Amsterdam News",
+      "publication_website_uri": "https://amsterdamnews.com",
+      "category": "Regional News: New York",
+      "publication_rss_feed_uris": [
+        {
+          "uri": "https://amsterdamnews.com/feed/",
+          "gated": false,
+          "category": "Regional News: New York"
+        }
+      ]
+    },
+    {
+      "publication_name": "Gothamist",
+      "publication_website_uri": "https://gothamist.com",
+      "category": "Regional News: New York",
+      "publication_rss_feed_uris": [
+        {
+          "uri": "https://gothamist.com/feed",
+          "gated": false,
+          "category": "Regional News: New York"
+        }
+      ]
+    },
+    {
+      "publication_name": "Eater New York",
+      "publication_website_uri": "https://ny.eater.com",
+      "category": "Regional News: New York",
+      "publication_rss_feed_uris": [
+        {
+          "uri": "https://ny.eater.com/rss/index.xml",
+          "gated": false,
+          "category": "Regional News: New York"
+        }
+      ]
+    },
+    {
+      "publication_name": "Billy Penn",
+      "publication_website_uri": "https://billypenn.com",
+      "category": "Regional News: Pennsylvania",
+      "publication_rss_feed_uris": [
+        {
+          "uri": "https://billypenn.com/feed/",
+          "gated": false,
+          "category": "Regional News: Pennsylvania"
         }
       ]
     }
