@@ -262,6 +262,7 @@ async function generateMarkdown() {
         .map(feedObj => {
           const uriEntry = { uri: feedObj.uri };
           if (feedObj.category) uriEntry.category = feedObj.category;
+          if (feedObj.gated === true) uriEntry.gated = true;
           if (feedObj.bot_protection === true) uriEntry.bot_protection = true;
           if (feedObj.language_code) uriEntry.language_code = feedObj.language_code;
           if (feedObj.language_name) uriEntry.language_name = feedObj.language_name;
