@@ -1829,6 +1829,83 @@
           "uri": "http://www.afrik.com/affiliation/backend-foot-pays34.html"
         }
       ]
+    },
+    {
+      "publication_name": "Journal du Cameroun",
+      "publication_website_uri": "https://www.journalducameroun.com/",
+      "category": "News",
+      "publication_rss_feed_uris": [
+        {
+          "uri": "https://fr.journalducameroun.com/feed/",
+          "gated": false,
+          "category": "News"
+        },
+        {
+          "uri": "https://en.journalducameroun.com/feed/",
+          "gated": false,
+          "category": "News"
+        }
+      ]
+    },
+    {
+      "publication_name": "Actu Cameroun",
+      "publication_website_uri": "https://actucameroun.com/",
+      "category": "News",
+      "publication_rss_feed_uris": [
+        {
+          "uri": "https://actucameroun.com/feed/",
+          "gated": false,
+          "category": "News"
+        }
+      ]
+    },
+    {
+      "publication_name": "Cameroon-Info.net",
+      "publication_website_uri": "https://www.camerooninfo.net/",
+      "category": "News",
+      "publication_rss_feed_uris": [
+        {
+          "uri": "https://www.camerooninfo.net/feed",
+          "gated": false,
+          "category": "News"
+        }
+      ]
+    },
+    {
+      "publication_name": "Mimi Mefo Info",
+      "publication_website_uri": "https://mimimefoinfos.com/",
+      "category": "News",
+      "publication_rss_feed_uris": [
+        {
+          "uri": "https://mimimefoinfos.com/feed/",
+          "gated": false,
+          "category": "News"
+        }
+      ]
+    },
+    {
+      "publication_name": "237 Actu",
+      "publication_website_uri": "https://237actu.com/",
+      "category": "News",
+      "publication_rss_feed_uris": [
+        {
+          "uri": "https://237actu.com/feed/",
+          "gated": false,
+          "category": "News"
+        }
+      ]
+    },
+    {
+      "publication_name": "DataCameroon",
+      "publication_website_uri": "https://datacameroon.com/",
+      "category": "News",
+      "publication_rss_feed_uris": [
+        {
+          "uri": "https://datacameroon.com/feed/",
+          "gated": false,
+          "category": "News"
+        }
+      ]
     }
   ],
   "COD": [
@@ -6233,11 +6310,50 @@
   ],
   "GMB": [
     {
-      "publication_name": "Point",
-      "publication_website_uri": "http://thepoint.gm/",
+      "publication_name": "Voice Gambia",
+      "publication_website_uri": "https://www.voicegambia.com/",
+      "category": "News",
       "publication_rss_feed_uris": [
         {
-          "uri": "http://thepoint.gm/posts/rss/xml"
+          "uri": "https://www.voicegambia.com/feed/",
+          "gated": false,
+          "category": "News"
+        }
+      ]
+    },
+    {
+      "publication_name": "Gainako",
+      "publication_website_uri": "https://gainako.com/",
+      "category": "News",
+      "publication_rss_feed_uris": [
+        {
+          "uri": "https://gainako.com/feed/",
+          "gated": false,
+          "category": "News"
+        }
+      ]
+    },
+    {
+      "publication_name": "Kerr Fatou",
+      "publication_website_uri": "https://kerrfatou.com/",
+      "category": "News",
+      "publication_rss_feed_uris": [
+        {
+          "uri": "https://kerrfatou.com/feed/",
+          "gated": false,
+          "category": "News"
+        }
+      ]
+    },
+    {
+      "publication_name": "What's On Gambia",
+      "publication_website_uri": "https://whatson-gambia.com/",
+      "category": "News",
+      "publication_rss_feed_uris": [
+        {
+          "uri": "https://whatson-gambia.com/feed/",
+          "gated": false,
+          "category": "News"
         }
       ]
     }
@@ -8812,6 +8928,172 @@
           "uri": "http://nairobiwire.com/feed"
         }
       ]
+    },
+    {
+      "publication_name": "The Standard",
+      "publication_website_uri": "https://www.standardmedia.co.ke/",
+      "category": "News",
+      "publication_rss_feed_uris": [
+        {
+          "uri": "https://www.standardmedia.co.ke/rss/headlines.php",
+          "gated": false,
+          "category": "News"
+        },
+        {
+          "uri": "https://www.standardmedia.co.ke/rss/kenya.php",
+          "gated": false,
+          "category": "News"
+        }
+      ]
+    },
+    {
+      "publication_name": "Citizen Digital",
+      "publication_website_uri": "https://www.citizen.digital/",
+      "category": "News",
+      "publication_rss_feed_uris": [
+        {
+          "uri": "https://www.citizen.digital/feed.xml",
+          "gated": false,
+          "category": "News"
+        }
+      ]
+    },
+    {
+      "publication_name": "Tuko",
+      "publication_website_uri": "https://www.tuko.co.ke/",
+      "category": "News",
+      "publication_rss_feed_uris": [
+        {
+          "uri": "https://www.tuko.co.ke/rss/all.rss",
+          "gated": false,
+          "category": "News"
+        },
+        {
+          "uri": "https://kiswahili.tuko.co.ke/rss/all.rss",
+          "gated": false,
+          "category": "News"
+        }
+      ]
+    },
+    {
+      "publication_name": "Kenyans.co.ke",
+      "publication_website_uri": "https://www.kenyans.co.ke/",
+      "category": "News",
+      "publication_rss_feed_uris": [
+        {
+          "uri": "https://www.kenyans.co.ke/feeds/news",
+          "gated": false,
+          "category": "News"
+        }
+      ]
+    },
+    {
+      "publication_name": "Kenya News Agency",
+      "publication_website_uri": "https://www.kenyanews.go.ke/",
+      "category": "News",
+      "publication_rss_feed_uris": [
+        {
+          "uri": "https://www.kenyanews.go.ke/feed/",
+          "gated": false,
+          "category": "News"
+        }
+      ]
+    },
+    {
+      "publication_name": "KBC",
+      "publication_website_uri": "https://www.kbc.co.ke/",
+      "category": "News",
+      "publication_rss_feed_uris": [
+        {
+          "uri": "https://www.kbc.co.ke/feed/",
+          "gated": false,
+          "category": "News"
+        }
+      ]
+    },
+    {
+      "publication_name": "K24 Digital",
+      "publication_website_uri": "https://k24.digital/",
+      "category": "News",
+      "publication_rss_feed_uris": [
+        {
+          "uri": "https://k24.digital/feed/",
+          "gated": false,
+          "category": "News"
+        }
+      ]
+    },
+    {
+      "publication_name": "Capital FM Kenya",
+      "publication_website_uri": "https://www.capitalfm.co.ke/",
+      "category": "News",
+      "publication_rss_feed_uris": [
+        {
+          "uri": "https://www.capitalfm.co.ke/news/feed/",
+          "gated": false,
+          "category": "News"
+        }
+      ]
+    },
+    {
+      "publication_name": "The East African",
+      "publication_website_uri": "https://www.theeastafrican.co.ke/",
+      "category": "News",
+      "publication_rss_feed_uris": [
+        {
+          "uri": "https://www.theeastafrican.co.ke/service/rss/tea/1289142/feed.rss",
+          "gated": false,
+          "category": "News"
+        }
+      ]
+    },
+    {
+      "publication_name": "Taifa Leo",
+      "publication_website_uri": "https://taifaleo.nation.co.ke/",
+      "category": "News",
+      "publication_rss_feed_uris": [
+        {
+          "uri": "https://taifaleo.nation.co.ke/feed/",
+          "gated": false,
+          "category": "News"
+        }
+      ]
+    },
+    {
+      "publication_name": "AllAfrica - Kenya",
+      "publication_website_uri": "https://allafrica.com/kenya/",
+      "category": "News",
+      "publication_rss_feed_uris": [
+        {
+          "uri": "https://allafrica.com/tools/headlines/rdf/kenya/headlines.rdf",
+          "gated": false,
+          "category": "News"
+        }
+      ]
+    },
+    {
+      "publication_name": "Business Daily Africa",
+      "publication_website_uri": "https://www.businessdailyafrica.com/",
+      "category": "Business",
+      "publication_rss_feed_uris": [
+        {
+          "uri": "https://www.businessdailyafrica.com/service/rss/bd/1939132/feed.rss",
+          "gated": false,
+          "category": "Business"
+        }
+      ]
+    },
+    {
+      "publication_name": "The Sharp Daily",
+      "publication_website_uri": "https://thesharpdaily.com/",
+      "category": "Business",
+      "publication_rss_feed_uris": [
+        {
+          "uri": "https://thesharpdaily.com/feed/",
+          "gated": false,
+          "category": "Business"
+        }
+      ]
     }
   ],
   "KGZ": [
@@ -8940,20 +9222,110 @@
   ],
   "LBY": [
     {
-      "publication_name": "Al Manara",
-      "publication_website_uri": "http://www.almanaralink.com/",
+      "publication_name": "Libya Herald",
+      "publication_website_uri": "https://libyaherald.com",
+      "category": "News",
       "publication_rss_feed_uris": [
         {
-          "uri": "http://www.dubaisavers.com/tag/al-manara/feed/"
+          "uri": "https://libyaherald.com/rss.xml",
+          "gated": false,
+          "category": "News"
         }
       ]
     },
     {
-      "publication_name": "Tripoli Post",
-      "publication_website_uri": "http://www.tripolipost.com/",
+      "publication_name": "Libya Al-Ahrar",
+      "publication_website_uri": "https://libyaalahrar.tv",
+      "category": "News",
       "publication_rss_feed_uris": [
         {
-          "uri": "http://www.tripolipost.com/rss.xml"
+          "uri": "https://libyaalahrar.tv/feed/",
+          "gated": false,
+          "category": "News"
+        }
+      ]
+    },
+    {
+      "publication_name": "Al-Marsad",
+      "publication_website_uri": "https://almarsad.co",
+      "category": "News",
+      "publication_rss_feed_uris": [
+        {
+          "uri": "https://almarsad.co/feed/",
+          "gated": false,
+          "category": "News"
+        }
+      ]
+    },
+    {
+      "publication_name": "Libya Update News",
+      "publication_website_uri": "https://libyaupdate.com",
+      "category": "News",
+      "publication_rss_feed_uris": [
+        {
+          "uri": "https://libyaupdate.com/feed/",
+          "gated": false,
+          "category": "News"
+        }
+      ]
+    },
+    {
+      "publication_name": "Ean Libya",
+      "publication_website_uri": "https://eanlibya.com",
+      "category": "News",
+      "publication_rss_feed_uris": [
+        {
+          "uri": "https://eanlibya.com/feed/",
+          "gated": false,
+          "category": "News"
+        }
+      ]
+    },
+    {
+      "publication_name": "February (Febrayer)",
+      "publication_website_uri": "https://febp.ly",
+      "category": "News",
+      "publication_rss_feed_uris": [
+        {
+          "uri": "https://febp.ly/feed/",
+          "gated": false,
+          "category": "News"
+        }
+      ]
+    },
+    {
+      "publication_name": "Libyan Express",
+      "publication_website_uri": "https://libyanexpress.com",
+      "category": "News",
+      "publication_rss_feed_uris": [
+        {
+          "uri": "https://libyanexpress.com/feed/",
+          "gated": false,
+          "category": "News"
+        }
+      ]
+    },
+    {
+      "publication_name": "Libya Akhbar (Libya Now)",
+      "publication_website_uri": "https://www.libyaakhbar.com",
+      "category": "News",
+      "publication_rss_feed_uris": [
+        {
+          "uri": "https://www.libyaakhbar.com/feed",
+          "gated": true,
+          "category": "News"
+        }
+      ]
+    },
+    {
+      "publication_name": "Libyan News Agency (LANA)",
+      "publication_website_uri": "https://lana.gov.ly",
+      "category": "News",
+      "publication_rss_feed_uris": [
+        {
+          "uri": "https://lana.gov.ly/rss/ar/",
+          "gated": true,
+          "category": "News"
         }
       ]
     }
@@ -9760,11 +10132,62 @@
   ],
   "MUS": [
     {
-      "publication_name": "Lexpress.mu",
-      "publication_website_uri": "http://lexpress.mu/",
+      "publication_name": "Le Mauricien",
+      "publication_website_uri": "https://www.lemauricien.com",
+      "category": "News",
       "publication_rss_feed_uris": [
         {
-          "uri": "http://www.lexpress.mu/rss.xml"
+          "uri": "https://www.lemauricien.com/feed/",
+          "gated": false,
+          "category": "News"
+        }
+      ]
+    },
+    {
+      "publication_name": "Defimedia (Le Defi Media Group)",
+      "publication_website_uri": "https://defimedia.info",
+      "category": "News",
+      "publication_rss_feed_uris": [
+        {
+          "uri": "https://defimedia.info/rss.xml",
+          "gated": false,
+          "category": "News"
+        }
+      ]
+    },
+    {
+      "publication_name": "ION News",
+      "publication_website_uri": "https://ionnews.mu",
+      "category": "News",
+      "publication_rss_feed_uris": [
+        {
+          "uri": "https://ionnews.mu/feed/",
+          "gated": false,
+          "category": "News"
+        }
+      ]
+    },
+    {
+      "publication_name": "Maurice Info",
+      "publication_website_uri": "https://www.maurice-info.mu",
+      "category": "News",
+      "publication_rss_feed_uris": [
+        {
+          "uri": "https://www.maurice-info.mu/feed",
+          "gated": false,
+          "category": "News"
+        }
+      ]
+    },
+    {
+      "publication_name": "Sunday Times Mauritius",
+      "publication_website_uri": "https://sundaytimesmauritius.com",
+      "category": "News",
+      "publication_rss_feed_uris": [
+        {
+          "uri": "https://sundaytimesmauritius.com/feed/",
+          "gated": false,
+          "category": "News"
         }
       ]
     }
@@ -9984,6 +10407,114 @@
       "publication_rss_feed_uris": [
         {
           "uri": "http://nuevaya.com.ni/feed/"
+        }
+      ]
+    },
+    {
+      "publication_name": "Confidencial",
+      "publication_website_uri": "https://confidencial.digital",
+      "category": "News",
+      "publication_rss_feed_uris": [
+        {
+          "uri": "https://confidencial.digital/feed/",
+          "gated": false,
+          "category": "News"
+        }
+      ]
+    },
+    {
+      "publication_name": "Nicaragua Investiga",
+      "publication_website_uri": "https://nicaraguainvestiga.com",
+      "category": "News",
+      "publication_rss_feed_uris": [
+        {
+          "uri": "https://nicaraguainvestiga.com/feed/",
+          "gated": false,
+          "category": "News"
+        }
+      ]
+    },
+    {
+      "publication_name": "Divergentes",
+      "publication_website_uri": "https://www.divergentes.com",
+      "category": "News",
+      "publication_rss_feed_uris": [
+        {
+          "uri": "https://www.divergentes.com/feed/",
+          "gated": false,
+          "category": "News"
+        }
+      ]
+    },
+    {
+      "publication_name": "Despacho 505",
+      "publication_website_uri": "https://despacho505.com",
+      "category": "News",
+      "publication_rss_feed_uris": [
+        {
+          "uri": "https://despacho505.com/feed/",
+          "gated": false,
+          "category": "News"
+        }
+      ]
+    },
+    {
+      "publication_name": "La Mesa Redonda",
+      "publication_website_uri": "https://www.lamesaredonda.net",
+      "category": "News",
+      "publication_rss_feed_uris": [
+        {
+          "uri": "https://www.lamesaredonda.net/feed/",
+          "gated": false,
+          "category": "News"
+        }
+      ]
+    },
+    {
+      "publication_name": "Expediente Público",
+      "publication_website_uri": "https://www.expedientepublico.org",
+      "category": "News",
+      "publication_rss_feed_uris": [
+        {
+          "uri": "https://www.expedientepublico.org/feed/",
+          "gated": false,
+          "category": "News"
+        }
+      ]
+    },
+    {
+      "publication_name": "La Jornada",
+      "publication_website_uri": "https://www.lajornadanet.com",
+      "category": "News",
+      "publication_rss_feed_uris": [
+        {
+          "uri": "https://lajornadanet.com/feed/",
+          "gated": false,
+          "category": "News"
+        }
+      ]
+    },
+    {
+      "publication_name": "La Lupa",
+      "publication_website_uri": "https://lalupa.press",
+      "category": "News",
+      "publication_rss_feed_uris": [
+        {
+          "uri": "https://lalupa.press/feed/",
+          "gated": false,
+          "category": "News"
+        }
+      ]
+    },
+    {
+      "publication_name": "Canal 10",
+      "publication_website_uri": "https://www.canal10.com.ni",
+      "category": "News",
+      "publication_rss_feed_uris": [
+        {
+          "uri": "https://www.canal10.com.ni/feed/",
+          "gated": false,
+          "category": "News"
         }
       ]
     }
@@ -10243,11 +10774,94 @@
   ],
   "PAN": [
     {
-      "publication_name": "Central America Data",
-      "publication_website_uri": "http://centralamericadata.com/",
+      "publication_name": "La Prensa",
+      "publication_website_uri": "https://www.prensa.com",
+      "category": "News",
       "publication_rss_feed_uris": [
         {
-          "uri": "http://www.odditysoftware.com/database_feed_Central+America+Geocode+Data.htm"
+          "uri": "https://www.prensa.com/arc/outboundfeeds/rss/?outputType=xml",
+          "gated": false,
+          "category": "News"
+        }
+      ]
+    },
+    {
+      "publication_name": "Panamá América",
+      "publication_website_uri": "https://www.panamaamerica.com.pa",
+      "category": "News",
+      "publication_rss_feed_uris": [
+        {
+          "uri": "https://www.panamaamerica.com.pa/rss/recent/index.xml",
+          "gated": false,
+          "category": "News"
+        }
+      ]
+    },
+    {
+      "publication_name": "TVN-2",
+      "publication_website_uri": "https://www.tvn-2.com",
+      "category": "News",
+      "publication_rss_feed_uris": [
+        {
+          "uri": "https://www.tvn-2.com/rss",
+          "gated": false,
+          "category": "News"
+        },
+        {
+          "uri": "https://www.tvn-2.com/rss/nacionales",
+          "gated": false,
+          "category": "News"
+        },
+        {
+          "uri": "https://www.tvn-2.com/rss/deportes",
+          "gated": false,
+          "category": "News"
+        },
+        {
+          "uri": "https://www.tvn-2.com/rss/economia",
+          "gated": false,
+          "category": "News"
+        }
+      ]
+    },
+    {
+      "publication_name": "Telemetro",
+      "publication_website_uri": "https://www.telemetro.com",
+      "category": "News",
+      "publication_rss_feed_uris": [
+        {
+          "uri": "https://www.telemetro.com/rss/pages/ultimas-noticias.xml",
+          "gated": false,
+          "category": "News"
+        },
+        {
+          "uri": "https://www.telemetro.com/rss/pages/nacionales.xml",
+          "gated": false,
+          "category": "News"
+        }
+      ]
+    },
+    {
+      "publication_name": "Mi Diario",
+      "publication_website_uri": "https://www.midiario.com",
+      "category": "News",
+      "publication_rss_feed_uris": [
+        {
+          "uri": "https://www.midiario.com/arc/outboundfeeds/rss/?outputType=xml",
+          "gated": false,
+          "category": "News"
+        }
+      ]
+    },
+    {
+      "publication_name": "Newsroom Panama",
+      "publication_website_uri": "https://newsroompanama.com",
+      "category": "News",
+      "publication_rss_feed_uris": [
+        {
+          "uri": "https://newsroompanama.com/feed/",
+          "gated": false,
+          "category": "News"
         }
       ]
     }
@@ -11031,11 +11645,135 @@
   ],
   "SGP": [
     {
-      "publication_name": "The New paper",
-      "publication_website_uri": "http://tnp.sg/",
+      "publication_name": "The Straits Times",
+      "publication_website_uri": "https://www.straitstimes.com",
+      "category": "News",
       "publication_rss_feed_uris": [
         {
-          "uri": "http://www.tnp.sg/rss.xml"
+          "uri": "https://www.straitstimes.com/news/singapore/rss.xml",
+          "gated": false,
+          "category": "News"
+        },
+        {
+          "uri": "https://www.straitstimes.com/news/asia/rss.xml",
+          "gated": false,
+          "category": "News"
+        },
+        {
+          "uri": "https://www.straitstimes.com/news/world/rss.xml",
+          "gated": false,
+          "category": "News"
+        },
+        {
+          "uri": "https://www.straitstimes.com/news/business/rss.xml",
+          "gated": false,
+          "category": "News"
+        },
+        {
+          "uri": "https://www.straitstimes.com/rss.xml",
+          "gated": false,
+          "category": "News"
+        }
+      ]
+    },
+    {
+      "publication_name": "CNA (Channel NewsAsia)",
+      "publication_website_uri": "https://www.channelnewsasia.com",
+      "category": "News",
+      "publication_rss_feed_uris": [
+        {
+          "uri": "https://www.channelnewsasia.com/api/v1/rss-outbound-feed?_format=xml",
+          "gated": false,
+          "category": "News"
+        }
+      ]
+    },
+    {
+      "publication_name": "Mothership",
+      "publication_website_uri": "https://mothership.sg",
+      "category": "News",
+      "publication_rss_feed_uris": [
+        {
+          "uri": "https://mothership.sg/feed/?post_type=post",
+          "gated": true,
+          "category": "News"
+        }
+      ]
+    },
+    {
+      "publication_name": "The Business Times",
+      "publication_website_uri": "https://www.businesstimes.com.sg",
+      "category": "Business",
+      "publication_rss_feed_uris": [
+        {
+          "uri": "https://www.businesstimes.com.sg/rss.xml",
+          "gated": false,
+          "category": "Business"
+        },
+        {
+          "uri": "https://www.businesstimes.com.sg/rss/singapore",
+          "gated": false,
+          "category": "Business"
+        }
+      ]
+    },
+    {
+      "publication_name": "Berita Harian",
+      "publication_website_uri": "https://www.beritaharian.sg",
+      "category": "News",
+      "publication_rss_feed_uris": [
+        {
+          "uri": "https://www.beritaharian.sg/rss.xml",
+          "gated": false,
+          "category": "News"
+        }
+      ]
+    },
+    {
+      "publication_name": "Tamil Murasu",
+      "publication_website_uri": "https://www.tamilmurasu.com.sg",
+      "category": "News",
+      "publication_rss_feed_uris": [
+        {
+          "uri": "https://www.tamilmurasu.com.sg/rss.xml",
+          "gated": false,
+          "category": "News"
+        }
+      ]
+    },
+    {
+      "publication_name": "The Independent Singapore",
+      "publication_website_uri": "https://theindependent.sg",
+      "category": "News",
+      "publication_rss_feed_uris": [
+        {
+          "uri": "https://theindependent.sg/feed/",
+          "gated": false,
+          "category": "News"
+        }
+      ]
+    },
+    {
+      "publication_name": "RICE Media",
+      "publication_website_uri": "https://www.ricemedia.co",
+      "category": "News",
+      "publication_rss_feed_uris": [
+        {
+          "uri": "https://www.ricemedia.co/feed/",
+          "gated": false,
+          "category": "News"
+        }
+      ]
+    },
+    {
+      "publication_name": "Yahoo News Singapore",
+      "publication_website_uri": "https://sg.news.yahoo.com",
+      "category": "News",
+      "publication_rss_feed_uris": [
+        {
+          "uri": "https://sg.news.yahoo.com/rss",
+          "gated": false,
+          "category": "News"
         }
       ]
     }
@@ -11049,15 +11787,102 @@
           "uri": "http://www.solomontimes.com/rss/latest-news.xml"
         }
       ]
+    },
+    {
+      "publication_name": "Solomon Islands Broadcasting Corporation (SIBC)",
+      "publication_website_uri": "https://www.sibconline.com.sb",
+      "category": "News",
+      "publication_rss_feed_uris": [
+        {
+          "uri": "https://www.sibconline.com.sb/feed/",
+          "gated": false,
+          "category": "News"
+        }
+      ]
+    },
+    {
+      "publication_name": "The Island Sun",
+      "publication_website_uri": "https://theislandsun.com.sb",
+      "category": "News",
+      "publication_rss_feed_uris": [
+        {
+          "uri": "https://theislandsun.com.sb/feed/",
+          "gated": false,
+          "category": "News"
+        }
+      ]
+    },
+    {
+      "publication_name": "In-depth Solomons",
+      "publication_website_uri": "https://indepthsolomons.com.sb",
+      "category": "News",
+      "publication_rss_feed_uris": [
+        {
+          "uri": "https://indepthsolomons.com.sb/feed/",
+          "gated": false,
+          "category": "News"
+        }
+      ]
+    },
+    {
+      "publication_name": "Tavuli News",
+      "publication_website_uri": "https://www.tavulinews.com.sb",
+      "category": "News",
+      "publication_rss_feed_uris": [
+        {
+          "uri": "https://www.tavulinews.com.sb/feed/",
+          "gated": false,
+          "category": "News"
+        }
+      ]
     }
   ],
   "SLE": [
     {
-      "publication_name": "Awareness Times",
-      "publication_website_uri": "http://news.sl/",
+      "publication_name": "The Sierra Leone Telegraph",
+      "publication_website_uri": "https://www.thesierraleonetelegraph.com",
+      "category": "News",
       "publication_rss_feed_uris": [
         {
-          "uri": "http://rss.wn.com/English/related-articles/2014/12/08/Awareness_Times_News_Briefs_from_Sierra_Leone_8th_December_2/"
+          "uri": "https://www.thesierraleonetelegraph.com/feed/",
+          "gated": false,
+          "category": "News"
+        }
+      ]
+    },
+    {
+      "publication_name": "Cocorioko",
+      "publication_website_uri": "https://cocorioko.net",
+      "category": "News",
+      "publication_rss_feed_uris": [
+        {
+          "uri": "https://cocorioko.net/feed/",
+          "gated": false,
+          "category": "News"
+        }
+      ]
+    },
+    {
+      "publication_name": "Sierraloaded",
+      "publication_website_uri": "https://sierraloaded.sl",
+      "category": "News",
+      "publication_rss_feed_uris": [
+        {
+          "uri": "https://sierraloaded.sl/feed/",
+          "gated": false,
+          "category": "News"
+        }
+      ]
+    },
+    {
+      "publication_name": "The Calabash Newspaper",
+      "publication_website_uri": "https://thecalabashnewspaper.com",
+      "category": "News",
+      "publication_rss_feed_uris": [
+        {
+          "uri": "https://thecalabashnewspaper.com/feed/",
+          "gated": false,
+          "category": "News"
         }
       ]
     }
@@ -11418,6 +12243,117 @@
           "uri": "http://www.sana.sy/tr/?feed=rss2"
         }
       ]
+    },
+    {
+      "publication_name": "SANA - Syrian Arab News Agency",
+      "publication_website_uri": "https://sana.sy/",
+      "category": "News",
+      "publication_rss_feed_uris": [
+        {
+          "uri": "https://sana.sy/feed/",
+          "gated": false,
+          "category": "News"
+        },
+        {
+          "uri": "https://sana.sy/en/?feed=rss2",
+          "gated": false,
+          "category": "News"
+        }
+      ]
+    },
+    {
+      "publication_name": "Al-Watan",
+      "publication_website_uri": "https://alwatan.sy/",
+      "category": "News",
+      "publication_rss_feed_uris": [
+        {
+          "uri": "https://alwatan.sy/feed/",
+          "gated": false,
+          "category": "News"
+        }
+      ]
+    },
+    {
+      "publication_name": "Al-Hurriyah",
+      "publication_website_uri": "https://alhurriyah.sy/",
+      "category": "News",
+      "publication_rss_feed_uris": [
+        {
+          "uri": "https://alhurriyah.sy/feed/",
+          "gated": false,
+          "category": "News"
+        }
+      ]
+    },
+    {
+      "publication_name": "The Syrian Observer",
+      "publication_website_uri": "https://syrianobserver.com/",
+      "category": "News",
+      "publication_rss_feed_uris": [
+        {
+          "uri": "https://syrianobserver.com/feed",
+          "gated": false,
+          "category": "News"
+        }
+      ]
+    },
+    {
+      "publication_name": "North Press Agency",
+      "publication_website_uri": "https://npasyria.com/",
+      "category": "News",
+      "publication_rss_feed_uris": [
+        {
+          "uri": "https://npasyria.com/feed/",
+          "gated": false,
+          "category": "News"
+        },
+        {
+          "uri": "https://npasyria.com/en/feed/",
+          "gated": false,
+          "category": "News"
+        }
+      ]
+    },
+    {
+      "publication_name": "Syria News",
+      "publication_website_uri": "https://syria.news/",
+      "category": "News",
+      "publication_rss_feed_uris": [
+        {
+          "uri": "https://syria.news/rss.php",
+          "gated": false,
+          "category": "News"
+        }
+      ]
+    },
+    {
+      "publication_name": "Syria Direct",
+      "publication_website_uri": "https://syriadirect.org/",
+      "category": "News",
+      "publication_rss_feed_uris": [
+        {
+          "uri": "https://syriadirect.org/feed/",
+          "gated": false,
+          "category": "News"
+        }
+      ]
+    },
+    {
+      "publication_name": "Enab Baladi",
+      "publication_website_uri": "https://www.enabbaladi.net/",
+      "category": "News",
+      "publication_rss_feed_uris": [
+        {
+          "uri": "https://www.enabbaladi.net/feed/",
+          "gated": false,
+          "category": "News"
+        },
+        {
+          "uri": "https://english.enabbaladi.net/feed/",
+          "gated": false,
+          "category": "News"
+        }
+      ]
     }
   ],
   "TGO": [
@@ -11427,6 +12363,138 @@
       "publication_rss_feed_uris": [
         {
           "uri": "http://feeds2.feedburner.com/Actualite_Togo"
+        }
+      ]
+    },
+    {
+      "publication_name": "Icilome",
+      "publication_website_uri": "https://icilome.com",
+      "category": "News",
+      "publication_rss_feed_uris": [
+        {
+          "uri": "https://icilome.com/feed/",
+          "gated": false,
+          "category": "News"
+        }
+      ]
+    },
+    {
+      "publication_name": "Togo Actualite",
+      "publication_website_uri": "https://togoactualite.com",
+      "category": "News",
+      "publication_rss_feed_uris": [
+        {
+          "uri": "https://togoactualite.com/feed/",
+          "gated": false,
+          "category": "News"
+        }
+      ]
+    },
+    {
+      "publication_name": "24 Heure Info",
+      "publication_website_uri": "https://24heureinfo.com",
+      "category": "News",
+      "publication_rss_feed_uris": [
+        {
+          "uri": "https://24heureinfo.com/feed/",
+          "gated": false,
+          "category": "News"
+        }
+      ]
+    },
+    {
+      "publication_name": "Journal du Togo",
+      "publication_website_uri": "https://www.journaldutogo.com",
+      "category": "News",
+      "publication_rss_feed_uris": [
+        {
+          "uri": "https://www.journaldutogo.com/feed/",
+          "gated": false,
+          "category": "News"
+        }
+      ]
+    },
+    {
+      "publication_name": "Togotimes",
+      "publication_website_uri": "https://togotimes.info",
+      "category": "News",
+      "publication_rss_feed_uris": [
+        {
+          "uri": "https://togotimes.info/feed/",
+          "gated": false,
+          "category": "News"
+        }
+      ]
+    },
+    {
+      "publication_name": "Togo First",
+      "publication_website_uri": "https://www.togofirst.com",
+      "category": "Business",
+      "publication_rss_feed_uris": [
+        {
+          "uri": "https://www.togofirst.com/en/rss-en",
+          "gated": false,
+          "category": "Business"
+        }
+      ]
+    },
+    {
+      "publication_name": "Togo-Presse",
+      "publication_website_uri": "https://togopresse.tg",
+      "category": "News",
+      "publication_rss_feed_uris": [
+        {
+          "uri": "https://togopresse.tg/feed/",
+          "gated": false,
+          "category": "News"
+        }
+      ]
+    },
+    {
+      "publication_name": "Savoir News",
+      "publication_website_uri": "https://savoirnews.net",
+      "category": "News",
+      "publication_rss_feed_uris": [
+        {
+          "uri": "https://savoirnews.net/feed/",
+          "gated": false,
+          "category": "News"
+        }
+      ]
+    },
+    {
+      "publication_name": "Lome Infos",
+      "publication_website_uri": "https://lomeinfos.com",
+      "category": "News",
+      "publication_rss_feed_uris": [
+        {
+          "uri": "https://lomeinfos.com/feed/",
+          "gated": false,
+          "category": "News"
+        }
+      ]
+    },
+    {
+      "publication_name": "Focus Infos",
+      "publication_website_uri": "https://focusinfos.net",
+      "category": "News",
+      "publication_rss_feed_uris": [
+        {
+          "uri": "https://focusinfos.net/feed/",
+          "gated": false,
+          "category": "News"
+        }
+      ]
+    },
+    {
+      "publication_name": "Le Temps",
+      "publication_website_uri": "https://letempstg.com",
+      "category": "News",
+      "publication_rss_feed_uris": [
+        {
+          "uri": "https://letempstg.com/feed/",
+          "gated": false,
+          "category": "News"
         }
       ]
     }
@@ -11440,6 +12508,148 @@
           "uri": "http://rssfeeds.sanook.com/rss/feeds/sanook/news.crime.xml"
         }
       ]
+    },
+    {
+      "publication_name": "Thairath",
+      "publication_website_uri": "https://www.thairath.co.th/",
+      "category": "News",
+      "publication_rss_feed_uris": [
+        {
+          "uri": "https://www.thairath.co.th/rss/news",
+          "gated": false,
+          "category": "News"
+        }
+      ]
+    },
+    {
+      "publication_name": "Bangkok Post",
+      "publication_website_uri": "https://www.bangkokpost.com/",
+      "category": "News",
+      "publication_rss_feed_uris": [
+        {
+          "uri": "https://www.bangkokpost.com/rss/data/topstories.xml",
+          "gated": false,
+          "category": "News"
+        },
+        {
+          "uri": "https://www.bangkokpost.com/rss/data/most-recent.xml",
+          "gated": false,
+          "category": "News"
+        }
+      ]
+    },
+    {
+      "publication_name": "Khaosod",
+      "publication_website_uri": "https://www.khaosod.co.th/",
+      "category": "News",
+      "publication_rss_feed_uris": [
+        {
+          "uri": "https://www.khaosod.co.th/feed",
+          "gated": false,
+          "category": "News"
+        }
+      ]
+    },
+    {
+      "publication_name": "Khaosod English",
+      "publication_website_uri": "https://www.khaosodenglish.com/",
+      "category": "News",
+      "publication_rss_feed_uris": [
+        {
+          "uri": "https://www.khaosodenglish.com/feed",
+          "gated": false,
+          "category": "News"
+        }
+      ]
+    },
+    {
+      "publication_name": "Matichon",
+      "publication_website_uri": "https://www.matichon.co.th/",
+      "category": "News",
+      "publication_rss_feed_uris": [
+        {
+          "uri": "https://www.matichon.co.th/feed",
+          "gated": false,
+          "category": "News"
+        }
+      ]
+    },
+    {
+      "publication_name": "Prachatai",
+      "publication_website_uri": "https://prachatai.com/",
+      "category": "News",
+      "publication_rss_feed_uris": [
+        {
+          "uri": "https://prachatai.com/feed",
+          "gated": false,
+          "category": "News"
+        }
+      ]
+    },
+    {
+      "publication_name": "The Isaan Record",
+      "publication_website_uri": "https://theisaanrecord.co/",
+      "category": "Regional News: Isan/Khon Kaen",
+      "publication_rss_feed_uris": [
+        {
+          "uri": "https://theisaanrecord.co/feed/",
+          "gated": false,
+          "category": "Regional News: Isan/Khon Kaen"
+        },
+        {
+          "uri": "https://theisaanrecord.co/en/feed/",
+          "gated": false,
+          "category": "Regional News: Isan/Khon Kaen"
+        }
+      ]
+    },
+    {
+      "publication_name": "The Phuket Express",
+      "publication_website_uri": "https://thephuketexpress.com/",
+      "category": "Regional News: Phuket",
+      "publication_rss_feed_uris": [
+        {
+          "uri": "https://thephuketexpress.com/feed/",
+          "gated": false,
+          "category": "Regional News: Phuket"
+        }
+      ]
+    },
+    {
+      "publication_name": "The Thaiger — Chiang Mai",
+      "publication_website_uri": "https://thethaiger.com/news/chiang-mai",
+      "category": "Regional News: Chiang Mai",
+      "publication_rss_feed_uris": [
+        {
+          "uri": "https://thethaiger.com/news/chiang-mai/feed",
+          "gated": false,
+          "category": "Regional News: Chiang Mai"
+        }
+      ]
+    },
+    {
+      "publication_name": "The Thaiger — Phuket",
+      "publication_website_uri": "https://thethaiger.com/news/phuket",
+      "category": "Regional News: Phuket",
+      "publication_rss_feed_uris": [
+        {
+          "uri": "https://thethaiger.com/news/phuket/feed",
+          "gated": false,
+          "category": "Regional News: Phuket"
+        }
+      ]
+    },
+    {
+      "publication_name": "The Thaiger — Southern Thailand",
+      "publication_website_uri": "https://thethaiger.com/news/south",
+      "category": "Regional News: Southern Thailand",
+      "publication_rss_feed_uris": [
+        {
+          "uri": "https://thethaiger.com/news/south/feed",
+          "gated": false,
+          "category": "Regional News: Southern Thailand"
+        }
+      ]
     }
   ],
   "TUN": [
@@ -11449,6 +12659,107 @@
       "publication_rss_feed_uris": [
         {
           "uri": "http://www.leaders.com.tn/rss"
+        }
+      ]
+    },
+    {
+      "publication_name": "La Presse de Tunisie",
+      "publication_website_uri": "https://www.lapresse.tn",
+      "category": "News",
+      "publication_rss_feed_uris": [
+        {
+          "uri": "https://www.lapresse.tn/feed/",
+          "gated": false,
+          "category": "News"
+        }
+      ]
+    },
+    {
+      "publication_name": "Babnet Tunisie",
+      "publication_website_uri": "https://www.babnet.net",
+      "category": "News",
+      "publication_rss_feed_uris": [
+        {
+          "uri": "https://www.babnet.net/feed.php",
+          "gated": false,
+          "category": "News"
+        }
+      ]
+    },
+    {
+      "publication_name": "Webdo",
+      "publication_website_uri": "https://www.webdo.tn",
+      "category": "News",
+      "publication_rss_feed_uris": [
+        {
+          "uri": "https://www.webdo.tn/fr/feed/",
+          "gated": false,
+          "category": "News"
+        }
+      ]
+    },
+    {
+      "publication_name": "Réalités",
+      "publication_website_uri": "https://realites.com.tn",
+      "category": "News",
+      "publication_rss_feed_uris": [
+        {
+          "uri": "https://realites.com.tn/fr/feed/",
+          "gated": false,
+          "category": "News"
+        }
+      ]
+    },
+    {
+      "publication_name": "Mosaïque FM",
+      "publication_website_uri": "https://www.mosaiquefm.net",
+      "category": "News",
+      "publication_rss_feed_uris": [
+        {
+          "uri": "https://www.mosaiquefm.net/ar/rss",
+          "gated": false,
+          "category": "News"
+        },
+        {
+          "uri": "https://www.mosaiquefm.net/rss",
+          "gated": false,
+          "category": "News"
+        }
+      ]
+    },
+    {
+      "publication_name": "Kapitalis",
+      "publication_website_uri": "https://kapitalis.com",
+      "category": "News",
+      "publication_rss_feed_uris": [
+        {
+          "uri": "https://kapitalis.com/tunisie/feed/",
+          "gated": false,
+          "category": "News"
+        }
+      ]
+    },
+    {
+      "publication_name": "L'Économiste Maghrébin",
+      "publication_website_uri": "https://www.leconomistemaghrebin.com",
+      "category": "Business",
+      "publication_rss_feed_uris": [
+        {
+          "uri": "https://www.leconomistemaghrebin.com/feed/",
+          "gated": false,
+          "category": "Business"
+        }
+      ]
+    },
+    {
+      "publication_name": "Tunis Now (تونس الآن)",
+      "publication_website_uri": "https://www.tunisnow.tn",
+      "category": "News",
+      "publication_rss_feed_uris": [
+        {
+          "uri": "https://www.tunisnow.tn/feed/",
+          "gated": false,
+          "category": "News"
         }
       ]
     }
@@ -11597,6 +12908,186 @@
       "publication_rss_feed_uris": [
         {
           "uri": "http://feeds.feedburner.com/Bigeyeug"
+        }
+      ]
+    },
+    {
+      "publication_name": "The Observer",
+      "publication_website_uri": "https://observer.ug",
+      "category": "News",
+      "publication_rss_feed_uris": [
+        {
+          "uri": "https://observer.ug/feed/",
+          "gated": false,
+          "category": "News"
+        }
+      ]
+    },
+    {
+      "publication_name": "The Independent",
+      "publication_website_uri": "https://www.independent.co.ug",
+      "category": "News",
+      "publication_rss_feed_uris": [
+        {
+          "uri": "https://www.independent.co.ug/feed/",
+          "gated": false,
+          "category": "News"
+        }
+      ]
+    },
+    {
+      "publication_name": "Watchdog Uganda",
+      "publication_website_uri": "https://www.watchdoguganda.com",
+      "category": "News",
+      "publication_rss_feed_uris": [
+        {
+          "uri": "https://www.watchdoguganda.com/feed",
+          "gated": false,
+          "category": "News"
+        }
+      ]
+    },
+    {
+      "publication_name": "SoftPower News",
+      "publication_website_uri": "https://softpower.ug",
+      "category": "News",
+      "publication_rss_feed_uris": [
+        {
+          "uri": "https://softpower.ug/feed/",
+          "gated": false,
+          "category": "News"
+        }
+      ]
+    },
+    {
+      "publication_name": "Eagle Online",
+      "publication_website_uri": "https://eagle.co.ug",
+      "category": "News",
+      "publication_rss_feed_uris": [
+        {
+          "uri": "https://eagle.co.ug/feed/",
+          "gated": false,
+          "category": "News"
+        }
+      ]
+    },
+    {
+      "publication_name": "Red Pepper",
+      "publication_website_uri": "https://redpepper.co.ug",
+      "category": "News",
+      "publication_rss_feed_uris": [
+        {
+          "uri": "https://redpepper.co.ug/feed/",
+          "gated": false,
+          "category": "News"
+        }
+      ]
+    },
+    {
+      "publication_name": "NTV Uganda",
+      "publication_website_uri": "https://ntv.co.ug",
+      "category": "News",
+      "publication_rss_feed_uris": [
+        {
+          "uri": "https://ntv.co.ug/feed",
+          "gated": false,
+          "category": "News"
+        }
+      ]
+    },
+    {
+      "publication_name": "Uganda Radio Network",
+      "publication_website_uri": "https://ugandaradionetwork.com",
+      "category": "News",
+      "publication_rss_feed_uris": [
+        {
+          "uri": "https://ugandaradionetwork.com/s/feed/",
+          "gated": false,
+          "category": "News"
+        }
+      ]
+    },
+    {
+      "publication_name": "Business Focus",
+      "publication_website_uri": "https://businessfocus.co.ug",
+      "category": "Business",
+      "publication_rss_feed_uris": [
+        {
+          "uri": "https://businessfocus.co.ug/feed/",
+          "gated": false,
+          "category": "Business"
+        }
+      ]
+    },
+    {
+      "publication_name": "Kawowo Sports",
+      "publication_website_uri": "https://kawowo.com",
+      "category": "Sports",
+      "publication_rss_feed_uris": [
+        {
+          "uri": "https://kawowo.com/feed/",
+          "gated": false,
+          "category": "Sports"
+        }
+      ]
+    },
+    {
+      "publication_name": "Matooke Republic",
+      "publication_website_uri": "https://matookerepublic.com",
+      "category": "Entertainment",
+      "publication_rss_feed_uris": [
+        {
+          "uri": "https://matookerepublic.com/feed/",
+          "gated": false,
+          "category": "Entertainment"
+        }
+      ]
+    },
+    {
+      "publication_name": "Campus Bee",
+      "publication_website_uri": "https://campusbee.ug",
+      "category": "Education",
+      "publication_rss_feed_uris": [
+        {
+          "uri": "https://campusbee.ug/feed/",
+          "gated": false,
+          "category": "Education"
+        }
+      ]
+    },
+    {
+      "publication_name": "Exclusive Bizz",
+      "publication_website_uri": "https://exclusive.co.ug",
+      "category": "Business",
+      "publication_rss_feed_uris": [
+        {
+          "uri": "https://exclusive.co.ug/feed/",
+          "gated": false,
+          "category": "Business"
+        }
+      ]
+    },
+    {
+      "publication_name": "The Ankole Times",
+      "publication_website_uri": "https://ankoletimes.co.ug",
+      "category": "Regional News: Mbarara",
+      "publication_rss_feed_uris": [
+        {
+          "uri": "https://ankoletimes.co.ug/feed/",
+          "gated": false,
+          "category": "Regional News: Mbarara"
+        }
+      ]
+    },
+    {
+      "publication_name": "Rwenzori Daily",
+      "publication_website_uri": "https://rwenzoridaily.com",
+      "category": "Regional News: Fort Portal",
+      "publication_rss_feed_uris": [
+        {
+          "uri": "https://rwenzoridaily.com/feed/",
+          "gated": false,
+          "category": "Regional News: Fort Portal"
         }
       ]
     }
@@ -12027,11 +13518,14 @@
   ],
   "VIR": [
     {
-      "publication_name": "Virgin Islands News Online",
-      "publication_website_uri": "http://virginislandsnewsonline.com/",
+      "publication_name": "The Virgin Islands Daily News",
+      "publication_website_uri": "https://www.virginislandsdailynews.com",
+      "category": "News",
       "publication_rss_feed_uris": [
         {
-          "uri": "http://bvinews.com/new/feed/"
+          "uri": "https://www.virginislandsdailynews.com/search/?f=rss&t=article&c=news*&l=50",
+          "gated": true,
+          "category": "News"
         }
       ]
     }
@@ -12063,6 +13557,18 @@
       "publication_rss_feed_uris": [
         {
           "uri": "http://www.samoanews.com/?q=rss.xml&quicktabs_3=0"
+        }
+      ]
+    },
+    {
+      "publication_name": "Talamua Online",
+      "publication_website_uri": "https://talamua.com",
+      "category": "News",
+      "publication_rss_feed_uris": [
+        {
+          "uri": "https://talamua.com/?feed=rss2",
+          "gated": false,
+          "category": "News"
         }
       ]
     }
@@ -16904,6 +18410,129 @@
           "uri": "https://www.franceinfo.fr/france/wallis-futuna.rss",
           "gated": false,
           "category": "News"
+        }
+      ]
+    }
+  ],
+  "TWN": [
+    {
+      "publication_name": "Liberty Times (自由時報)",
+      "publication_website_uri": "https://ltn.com.tw",
+      "category": "News",
+      "publication_rss_feed_uris": [
+        {
+          "uri": "https://news.ltn.com.tw/rss/all.xml",
+          "gated": false,
+          "category": "News"
+        },
+        {
+          "uri": "https://news.ltn.com.tw/rss/sports.xml",
+          "gated": false,
+          "category": "News"
+        }
+      ]
+    },
+    {
+      "publication_name": "Central News Agency (中央社)",
+      "publication_website_uri": "https://www.cna.com.tw",
+      "category": "News",
+      "publication_rss_feed_uris": [
+        {
+          "uri": "https://feeds.feedburner.com/rsscna/engnews/",
+          "gated": false,
+          "category": "News"
+        },
+        {
+          "uri": "https://feeds.feedburner.com/rsscna/politics",
+          "gated": false,
+          "category": "News"
+        },
+        {
+          "uri": "https://feeds.feedburner.com/rsscna/finance",
+          "gated": false,
+          "category": "News"
+        }
+      ]
+    },
+    {
+      "publication_name": "Newtalk (新頭殼)",
+      "publication_website_uri": "https://newtalk.tw",
+      "category": "News",
+      "publication_rss_feed_uris": [
+        {
+          "uri": "https://newtalk.tw/rss/all/",
+          "gated": false,
+          "category": "News"
+        }
+      ]
+    },
+    {
+      "publication_name": "ETtoday News Cloud (東森新聞雲)",
+      "publication_website_uri": "https://ettoday.net",
+      "category": "News",
+      "publication_rss_feed_uris": [
+        {
+          "uri": "https://feeds.feedburner.com/ettoday/realtime",
+          "gated": false,
+          "category": "News"
+        },
+        {
+          "uri": "https://feeds.feedburner.com/ettoday/news",
+          "gated": false,
+          "category": "News"
+        },
+        {
+          "uri": "https://feeds.feedburner.com/ettoday/finance",
+          "gated": false,
+          "category": "News"
+        }
+      ]
+    },
+    {
+      "publication_name": "The News Lens (關鍵評論網)",
+      "publication_website_uri": "https://thenewslens.com",
+      "category": "News",
+      "publication_rss_feed_uris": [
+        {
+          "uri": "https://www.thenewslens.com/feed/feedly",
+          "gated": false,
+          "category": "News"
+        }
+      ]
+    },
+    {
+      "publication_name": "Taipei Times",
+      "publication_website_uri": "https://taipeitimes.com",
+      "category": "News",
+      "publication_rss_feed_uris": [
+        {
+          "uri": "https://www.taipeitimes.com/xml/index.rss",
+          "gated": false,
+          "category": "News"
+        }
+      ]
+    },
+    {
+      "publication_name": "China Television (中視)",
+      "publication_website_uri": "https://ctv.com.tw",
+      "category": "News",
+      "publication_rss_feed_uris": [
+        {
+          "uri": "https://www.ctv.com.tw/RSS",
+          "gated": false,
+          "category": "News"
+        }
+      ]
+    },
+    {
+      "publication_name": "Keng Sheng Daily News (更生日報)",
+      "publication_website_uri": "https://www.ksnews.com.tw",
+      "category": "Regional News: Hualien",
+      "publication_rss_feed_uris": [
+        {
+          "uri": "https://www.ksnews.com.tw/rss/",
+          "gated": true,
+          "category": "Regional News: Hualien"
         }
       ]
     }
