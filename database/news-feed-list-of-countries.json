@@ -3892,6 +3892,126 @@
           "category": "News"
         }
       ]
+    },
+    {
+      "publication_name": "Capsud",
+      "publication_website_uri": "https://capsud.net/",
+      "category": "News (French)",
+      "publication_rss_feed_uris": [
+        {
+          "uri": "https://capsud.net/feed/rss/",
+          "gated": false,
+          "category": "News (French)"
+        }
+      ]
+    },
+    {
+      "publication_name": "Radio Okapi",
+      "publication_website_uri": "https://radiookapi.net/",
+      "category": "News (French)",
+      "publication_rss_feed_uris": [
+        {
+          "uri": "https://radiookapi.net/feed/",
+          "gated": false,
+          "category": "News (French)"
+        }
+      ]
+    },
+    {
+      "publication_name": "Matininfos",
+      "publication_website_uri": "https://matininfos.net/",
+      "category": "News (French)",
+      "publication_rss_feed_uris": [
+        {
+          "uri": "https://matininfos.net/feed/",
+          "gated": false,
+          "category": "News (French)"
+        }
+      ]
+    },
+    {
+      "publication_name": "Congo Indépendant",
+      "publication_website_uri": "https://congoindependant.com/",
+      "category": "News (French)",
+      "publication_rss_feed_uris": [
+        {
+          "uri": "https://congoindependant.com/feed/",
+          "gated": false,
+          "category": "News (French)"
+        }
+      ]
+    },
+    {
+      "publication_name": "Congo Libéré",
+      "publication_website_uri": "https://congolibere.com/",
+      "category": "News (French)",
+      "publication_rss_feed_uris": [
+        {
+          "uri": "https://congolibere.com/feed/",
+          "gated": false,
+          "category": "News (French)"
+        }
+      ]
+    },
+    {
+      "publication_name": "Politique RDC",
+      "publication_website_uri": "https://politiquerdc.net/",
+      "category": "News (French)",
+      "publication_rss_feed_uris": [
+        {
+          "uri": "https://politiquerdc.net/feed/",
+          "gated": false,
+          "category": "News (French)"
+        }
+      ]
+    },
+    {
+      "publication_name": "Le Maximum",
+      "publication_website_uri": "https://lemaximum.cd/",
+      "category": "News (French)",
+      "publication_rss_feed_uris": [
+        {
+          "uri": "https://lemaximum.cd/feed/",
+          "gated": false,
+          "category": "News (French)"
+        }
+      ]
+    },
+    {
+      "publication_name": "Congo Autrement",
+      "publication_website_uri": "https://congo-autrement.com/",
+      "category": "News (French)",
+      "publication_rss_feed_uris": [
+        {
+          "uri": "https://congo-autrement.com/feed/",
+          "gated": false,
+          "category": "News (French)"
+        }
+      ]
+    },
+    {
+      "publication_name": "Afriquactu",
+      "publication_website_uri": "https://afriquactu.net/",
+      "category": "News (French)",
+      "publication_rss_feed_uris": [
+        {
+          "uri": "https://afriquactu.net/feed/",
+          "gated": false,
+          "category": "News (French)"
+        }
+      ]
+    },
+    {
+      "publication_name": "Journal de Kinshasa",
+      "publication_website_uri": "https://journaldekinshasa.com/",
+      "category": "News (French)",
+      "publication_rss_feed_uris": [
+        {
+          "uri": "https://journaldekinshasa.com/feed/",
+          "gated": false,
+          "category": "News (French)"
+        }
+      ]
     }
   ],
   "COL": [
@@ -6606,6 +6726,114 @@
           "uri": "https://ethiopianmonitor.com/feed/",
           "gated": false,
           "category": "News"
+        }
+      ]
+    },
+    {
+      "publication_name": "Addis Admass",
+      "publication_website_uri": "https://www.addisadmassnews.com/",
+      "category": "News (Amharic)",
+      "publication_rss_feed_uris": [
+        {
+          "uri": "https://addisadmassnews.com/index.php?option=com_k2&view=itemlist&format=feed&type=rss",
+          "gated": false,
+          "category": "News (Amharic)"
+        }
+      ]
+    },
+    {
+      "publication_name": "Capital Ethiopia",
+      "publication_website_uri": "https://capitalethiopia.com/",
+      "category": "News",
+      "publication_rss_feed_uris": [
+        {
+          "uri": "https://capitalethiopia.com/feed/",
+          "gated": false,
+          "category": "News"
+        }
+      ]
+    },
+    {
+      "publication_name": "Goolgule",
+      "publication_website_uri": "https://www.goolgule.com/",
+      "category": "News",
+      "publication_rss_feed_uris": [
+        {
+          "uri": "https://www.goolgule.com/feed/",
+          "gated": false,
+          "category": "News"
+        }
+      ]
+    },
+    {
+      "publication_name": "Ethiopian Tribune",
+      "publication_website_uri": "https://ethiopiantribune.com/",
+      "category": "News",
+      "publication_rss_feed_uris": [
+        {
+          "uri": "https://ethiopiantribune.com/feed/",
+          "gated": false,
+          "category": "News"
+        }
+      ]
+    },
+    {
+      "publication_name": "Ethiopia Insight",
+      "publication_website_uri": "https://ethiopia-insight.com/",
+      "category": "News",
+      "publication_rss_feed_uris": [
+        {
+          "uri": "https://ethiopia-insight.com/feed/",
+          "gated": false,
+          "category": "News"
+        }
+      ]
+    },
+    {
+      "publication_name": "Tadias Magazine",
+      "publication_website_uri": "https://tadias.com/",
+      "category": "News (Ethiopian Diaspora)",
+      "publication_rss_feed_uris": [
+        {
+          "uri": "https://tadias.com/feed/atom/",
+          "gated": false,
+          "category": "News (Ethiopian Diaspora)"
+        }
+      ]
+    },
+    {
+      "publication_name": "New Business Ethiopia",
+      "publication_website_uri": "https://newbusinessethiopia.com/",
+      "category": "News (English)",
+      "publication_rss_feed_uris": [
+        {
+          "uri": "https://newbusinessethiopia.com/feed/",
+          "gated": false,
+          "category": "News (English)"
+        }
+      ]
+    },
+    {
+      "publication_name": "Omna Tigray",
+      "publication_website_uri": "https://omnatigray.org",
+      "category": "News (Tigrinya)",
+      "publication_rss_feed_uris": [
+        {
+          "uri": "https://omnatigray.org/feed/",
+          "gated": false,
+          "category": "News (Tigrinya)"
+        }
+      ]
+    },
+    {
+      "publication_name": "Kulu Media",
+      "publication_website_uri": "https://kulu-media.com",
+      "category": "News (Tigrinya)",
+      "publication_rss_feed_uris": [
+        {
+          "uri": "https://kulu-media.com/feed/",
+          "gated": false,
+          "category": "News (Tigrinya)"
         }
       ]
     }
@@ -12103,6 +12331,1512 @@
           "uri": "https://www.vikatan.com/feed/",
           "gated": false,
           "category": "Regional News: Tamil Nadu"
+        }
+      ]
+    },
+    {
+      "publication_name": "Mawphor",
+      "publication_website_uri": "https://mawphor.com",
+      "category": "News (Khasi)",
+      "publication_rss_feed_uris": [
+        {
+          "uri": "https://mawphor.com/feed",
+          "gated": false,
+          "category": "News (Khasi)"
+        }
+      ]
+    },
+    {
+      "publication_name": "Niyomiya Barta",
+      "publication_website_uri": "https://niyomiyabarta.com",
+      "category": "News (Assamese)",
+      "publication_rss_feed_uris": [
+        {
+          "uri": "https://niyomiyabarta.com/feed",
+          "gated": false,
+          "category": "News (Assamese)"
+        }
+      ]
+    },
+    {
+      "publication_name": "Assam Times",
+      "publication_website_uri": "https://assamtimes.org",
+      "category": "Regional News: Assam",
+      "publication_rss_feed_uris": [
+        {
+          "uri": "https://assamtimes.org/feed",
+          "gated": false,
+          "category": "Regional News: Assam"
+        }
+      ]
+    },
+    {
+      "publication_name": "Northeast Now",
+      "publication_website_uri": "https://nenow.in",
+      "category": "Regional News: Northeast",
+      "publication_rss_feed_uris": [
+        {
+          "uri": "https://nenow.in/feed",
+          "gated": false,
+          "category": "Regional News: Northeast"
+        }
+      ]
+    },
+    {
+      "publication_name": "Morung Express",
+      "publication_website_uri": "https://morungexpress.com",
+      "category": "Regional News: Nagaland",
+      "publication_rss_feed_uris": [
+        {
+          "uri": "https://morungexpress.com/feed",
+          "gated": false,
+          "category": "Regional News: Nagaland"
+        }
+      ]
+    },
+    {
+      "publication_name": "Nagaland Tribune",
+      "publication_website_uri": "https://nagalandtribune.in",
+      "category": "Regional News: Nagaland",
+      "publication_rss_feed_uris": [
+        {
+          "uri": "https://nagalandtribune.in/feed",
+          "gated": false,
+          "category": "Regional News: Nagaland"
+        }
+      ]
+    },
+    {
+      "publication_name": "Nagamese Khobor",
+      "publication_website_uri": "https://nagamesekhobor.com",
+      "category": "News (Nagamese)",
+      "publication_rss_feed_uris": [
+        {
+          "uri": "https://nagamesekhobor.com/feed",
+          "gated": false,
+          "category": "News (Nagamese)"
+        }
+      ]
+    },
+    {
+      "publication_name": "Aajkaal",
+      "publication_website_uri": "https://www.aajkaal.in",
+      "category": "News (Bengali)",
+      "publication_rss_feed_uris": [
+        {
+          "uri": "https://aajkaal.in/rss.xml",
+          "gated": false,
+          "category": "News (Bengali)"
+        }
+      ]
+    },
+    {
+      "publication_name": "Uttar Banga Sambad",
+      "publication_website_uri": "https://uttarbangasambad.com",
+      "category": "Regional News: Siliguri",
+      "publication_rss_feed_uris": [
+        {
+          "uri": "https://uttarbangasambad.com/feed",
+          "gated": false,
+          "category": "Regional News: Siliguri"
+        }
+      ]
+    },
+    {
+      "publication_name": "The Times of Bengal",
+      "publication_website_uri": "https://www.thetimesofbengal.com",
+      "category": "News (Bengali)",
+      "publication_rss_feed_uris": [
+        {
+          "uri": "https://thetimesofbengal.com/feed",
+          "gated": false,
+          "category": "News (Bengali)"
+        }
+      ]
+    },
+    {
+      "publication_name": "News24 Bengali",
+      "publication_website_uri": "https://news24-bengali.com",
+      "category": "News (Bengali)",
+      "publication_rss_feed_uris": [
+        {
+          "uri": "https://news24-bengali.com/feed",
+          "gated": false,
+          "category": "News (Bengali)"
+        }
+      ]
+    },
+    {
+      "publication_name": "Dainik Statesman",
+      "publication_website_uri": "https://www.dainikstatesmannews.com",
+      "category": "News (Bengali)",
+      "publication_rss_feed_uris": [
+        {
+          "uri": "https://dainikstatesmannews.com/feed",
+          "gated": false,
+          "category": "News (Bengali)"
+        }
+      ]
+    },
+    {
+      "publication_name": "Kolkata24x7",
+      "publication_website_uri": "https://kolkata24x7.in",
+      "category": "Regional News: Kolkata",
+      "publication_rss_feed_uris": [
+        {
+          "uri": "https://kolkata24x7.in/feed",
+          "gated": false,
+          "category": "Regional News: Kolkata"
+        }
+      ]
+    },
+    {
+      "publication_name": "Way2Barak",
+      "publication_website_uri": "https://way2barak.com",
+      "category": "Regional News: Barak Valley",
+      "publication_rss_feed_uris": [
+        {
+          "uri": "https://way2barak.com/feed",
+          "gated": false,
+          "category": "Regional News: Barak Valley"
+        }
+      ]
+    },
+    {
+      "publication_name": "Barak Bulletin",
+      "publication_website_uri": "https://barakbulletin.com",
+      "category": "Regional News: Barak Valley",
+      "publication_rss_feed_uris": [
+        {
+          "uri": "https://barakbulletin.com/feed",
+          "gated": false,
+          "category": "Regional News: Barak Valley"
+        }
+      ]
+    },
+    {
+      "publication_name": "Ajker Patrika",
+      "publication_website_uri": "https://www.ajkerpatrika.com",
+      "category": "News (Bengali)",
+      "publication_rss_feed_uris": [
+        {
+          "uri": "https://www.ajkerpatrika.com/feed",
+          "gated": false,
+          "category": "News (Bengali)"
+        }
+      ]
+    },
+    {
+      "publication_name": "TV9 Bangla",
+      "publication_website_uri": "https://tv9bangla.com",
+      "category": "News (Bengali)",
+      "publication_rss_feed_uris": [
+        {
+          "uri": "https://tv9bangla.com/feed",
+          "gated": false,
+          "category": "News (Bengali)"
+        }
+      ]
+    },
+    {
+      "publication_name": "NorthEast Now",
+      "publication_website_uri": "https://nenow.in",
+      "category": "Regional News: Northeast India",
+      "publication_rss_feed_uris": [
+        {
+          "uri": "https://assam.nenow.in/feed",
+          "gated": false,
+          "category": "Regional News: Northeast India"
+        }
+      ]
+    },
+    {
+      "publication_name": "Webdunia Gujarati",
+      "publication_website_uri": "https://gujarati.webdunia.com",
+      "category": "News (Gujarati)",
+      "publication_rss_feed_uris": [
+        {
+          "uri": "https://gujarati.webdunia.com/rss/home_page_top_stories.rss",
+          "gated": false,
+          "category": "News (Gujarati)"
+        }
+      ]
+    },
+    {
+      "publication_name": "TV9 Gujarati",
+      "publication_website_uri": "https://tv9gujarati.com",
+      "category": "News (Gujarati)",
+      "publication_rss_feed_uris": [
+        {
+          "uri": "https://tv9gujarati.com/feed",
+          "gated": false,
+          "category": "News (Gujarati)"
+        }
+      ]
+    },
+    {
+      "publication_name": "Garvi Gujarat",
+      "publication_website_uri": "https://garvigujarat.co.in",
+      "category": "News (Gujarati)",
+      "publication_rss_feed_uris": [
+        {
+          "uri": "https://garvigujarat.co.in/feed",
+          "gated": false,
+          "category": "News (Gujarati)"
+        }
+      ]
+    },
+    {
+      "publication_name": "Gujarati Akhbar",
+      "publication_website_uri": "https://gujaratiakhbar.com",
+      "category": "News (Gujarati)",
+      "publication_rss_feed_uris": [
+        {
+          "uri": "https://gujaratiakhbar.com/feed",
+          "gated": false,
+          "category": "News (Gujarati)"
+        }
+      ]
+    },
+    {
+      "publication_name": "BBC Gujarati",
+      "publication_website_uri": "https://bbc.com/gujarati",
+      "category": "News (Gujarati)",
+      "publication_rss_feed_uris": [
+        {
+          "uri": "https://bbc.com/gujarati/feed",
+          "gated": false,
+          "category": "News (Gujarati)"
+        }
+      ]
+    },
+    {
+      "publication_name": "Indian Express Gujarati",
+      "publication_website_uri": "https://gujarati.indianexpress.com",
+      "category": "News (Gujarati)",
+      "publication_rss_feed_uris": [
+        {
+          "uri": "https://gujarati.indianexpress.com/feed",
+          "gated": false,
+          "category": "News (Gujarati)"
+        }
+      ]
+    },
+    {
+      "publication_name": "Aaj Tak",
+      "publication_website_uri": "https://www.aajtak.in",
+      "category": "News (Hindi)",
+      "publication_rss_feed_uris": [
+        {
+          "uri": "https://www.aajtak.in/rss",
+          "gated": false,
+          "category": "News (Hindi)"
+        }
+      ]
+    },
+    {
+      "publication_name": "Amar Ujala",
+      "publication_website_uri": "https://www.amarujala.com",
+      "category": "News (Hindi)",
+      "publication_rss_feed_uris": [
+        {
+          "uri": "https://www.amarujala.com/rss/india-news.xml",
+          "gated": false,
+          "category": "News (Hindi)"
+        }
+      ]
+    },
+    {
+      "publication_name": "Deshbandhu",
+      "publication_website_uri": "https://www.deshbandhu.co.in",
+      "category": "Regional News: Delhi, Chhattisgarh",
+      "publication_rss_feed_uris": [
+        {
+          "uri": "https://www.deshbandhu.co.in/feed",
+          "gated": false,
+          "category": "Regional News: Delhi, Chhattisgarh"
+        }
+      ]
+    },
+    {
+      "publication_name": "Hari Bhoomi",
+      "publication_website_uri": "https://www.haribhoomi.com",
+      "category": "Regional News: Haryana, Madhya Pradesh, Chhattisgarh",
+      "publication_rss_feed_uris": [
+        {
+          "uri": "https://www.haribhoomi.com/feed",
+          "gated": false,
+          "category": "Regional News: Haryana, Madhya Pradesh, Chhattisgarh"
+        }
+      ]
+    },
+    {
+      "publication_name": "Navjivan (National Herald)",
+      "publication_website_uri": "https://www.navjivanindia.com",
+      "category": "News (Hindi)",
+      "publication_rss_feed_uris": [
+        {
+          "uri": "https://www.navjivanindia.com/feed",
+          "gated": false,
+          "category": "News (Hindi)"
+        }
+      ]
+    },
+    {
+      "publication_name": "Rajasthan Patrika",
+      "publication_website_uri": "https://www.patrika.com",
+      "category": "Regional News: Rajasthan",
+      "publication_rss_feed_uris": [
+        {
+          "uri": "https://cms.patrika.com/googlefeed/blog/category/national-news",
+          "gated": false,
+          "category": "Regional News: Rajasthan"
+        }
+      ]
+    },
+    {
+      "publication_name": "Republic Bharat",
+      "publication_website_uri": "https://www.republicbharat.com",
+      "category": "News (Hindi)",
+      "publication_rss_feed_uris": [
+        {
+          "uri": "https://www.republicbharat.com/rss/latest-news.xml",
+          "gated": false,
+          "category": "News (Hindi)"
+        }
+      ]
+    },
+    {
+      "publication_name": "Satya Hindi",
+      "publication_website_uri": "https://www.satyahindi.com",
+      "category": "News (Hindi)",
+      "publication_rss_feed_uris": [
+        {
+          "uri": "https://www.satyahindi.com/feed",
+          "gated": false,
+          "category": "News (Hindi)"
+        }
+      ]
+    },
+    {
+      "publication_name": "TV9 Bharatvarsh Hindi",
+      "publication_website_uri": "https://www.tv9hindi.com",
+      "category": "News (Hindi)",
+      "publication_rss_feed_uris": [
+        {
+          "uri": "https://www.tv9hindi.com/rss",
+          "gated": false,
+          "category": "News (Hindi)"
+        }
+      ]
+    },
+    {
+      "publication_name": "Hosa Digantha",
+      "publication_website_uri": "https://hosadigantha.com",
+      "category": "News (Kannada)",
+      "publication_rss_feed_uris": [
+        {
+          "uri": "https://hosadigantha.com/feed/",
+          "gated": false,
+          "category": "News (Kannada)"
+        }
+      ]
+    },
+    {
+      "publication_name": "Karavali Suddi",
+      "publication_website_uri": "https://karavalisuddi.com",
+      "category": "Regional News: Coastal Karnataka",
+      "publication_rss_feed_uris": [
+        {
+          "uri": "https://karavalisuddi.com/feed/",
+          "gated": false,
+          "category": "Regional News: Coastal Karnataka"
+        }
+      ]
+    },
+    {
+      "publication_name": "Karavali Ale",
+      "publication_website_uri": "https://karavaliale.net",
+      "category": "Regional News: Mangalore",
+      "publication_rss_feed_uris": [
+        {
+          "uri": "https://karavaliale.net/feed/",
+          "gated": false,
+          "category": "Regional News: Mangalore"
+        }
+      ]
+    },
+    {
+      "publication_name": "Samyukta Karnataka",
+      "publication_website_uri": "https://samyuktakarnataka.in",
+      "category": "News (Kannada)",
+      "publication_rss_feed_uris": [
+        {
+          "uri": "https://samyuktakarnataka.in/feed/",
+          "gated": false,
+          "category": "News (Kannada)"
+        }
+      ]
+    },
+    {
+      "publication_name": "Vishwavani",
+      "publication_website_uri": "https://vishwavani.news",
+      "category": "News (Kannada)",
+      "publication_rss_feed_uris": [
+        {
+          "uri": "https://vishwavani.news/feed/",
+          "gated": false,
+          "category": "News (Kannada)"
+        }
+      ]
+    },
+    {
+      "publication_name": "TV9 Kannada",
+      "publication_website_uri": "https://tv9kannada.com",
+      "category": "News (Kannada)",
+      "publication_rss_feed_uris": [
+        {
+          "uri": "https://tv9kannada.com/feed",
+          "gated": false,
+          "category": "News (Kannada)"
+        }
+      ]
+    },
+    {
+      "publication_name": "Asianet Suvarna News",
+      "publication_website_uri": "https://kannada.asianetnews.com",
+      "category": "News (Kannada)",
+      "publication_rss_feed_uris": [
+        {
+          "uri": "https://kannada.asianetnews.com/rss",
+          "gated": false,
+          "category": "News (Kannada)"
+        }
+      ]
+    },
+    {
+      "publication_name": "Sanjevani",
+      "publication_website_uri": "https://sanjevani.com",
+      "category": "News (Kannada)",
+      "publication_rss_feed_uris": [
+        {
+          "uri": "https://sanjevani.com/feed/",
+          "gated": false,
+          "category": "News (Kannada)"
+        }
+      ]
+    },
+    {
+      "publication_name": "Ee Sanje",
+      "publication_website_uri": "https://eesanje.com",
+      "category": "News (Kannada)",
+      "publication_rss_feed_uris": [
+        {
+          "uri": "https://eesanje.com/feed/",
+          "gated": false,
+          "category": "News (Kannada)"
+        }
+      ]
+    },
+    {
+      "publication_name": "Kannada Dunia",
+      "publication_website_uri": "https://kannadadunia.com",
+      "category": "News (Kannada)",
+      "publication_rss_feed_uris": [
+        {
+          "uri": "https://kannadadunia.com/feed/",
+          "gated": false,
+          "category": "News (Kannada)"
+        }
+      ]
+    },
+    {
+      "publication_name": "Janam TV",
+      "publication_website_uri": "https://janamtv.com",
+      "category": "News (Malayalam)",
+      "publication_rss_feed_uris": [
+        {
+          "uri": "https://janamtv.com/feed/",
+          "gated": false,
+          "category": "News (Malayalam)"
+        }
+      ]
+    },
+    {
+      "publication_name": "Janmabhumi",
+      "publication_website_uri": "https://janmabhumi.in",
+      "category": "News (Malayalam)",
+      "publication_rss_feed_uris": [
+        {
+          "uri": "https://janmabhumi.in/feed/",
+          "gated": false,
+          "category": "News (Malayalam)"
+        }
+      ]
+    },
+    {
+      "publication_name": "News24 Malayalam",
+      "publication_website_uri": "https://news24malayalam.com",
+      "category": "News (Malayalam)",
+      "publication_rss_feed_uris": [
+        {
+          "uri": "https://news24malayalam.com/feed/",
+          "gated": false,
+          "category": "News (Malayalam)"
+        }
+      ]
+    },
+    {
+      "publication_name": "Malayala Manorama",
+      "publication_website_uri": "https://www.manoramaonline.com",
+      "category": "News (Malayalam)",
+      "publication_rss_feed_uris": [
+        {
+          "uri": "https://www.manoramaonline.com/news/latest-news.feeds.rss.xml",
+          "gated": false,
+          "category": "News (Malayalam)"
+        }
+      ]
+    },
+    {
+      "publication_name": "Filmibeat Malayalam",
+      "publication_website_uri": "https://www.filmibeat.com",
+      "category": "News (Malayalam)",
+      "publication_rss_feed_uris": [
+        {
+          "uri": "https://www.filmibeat.com/rss/feeds/malayalam-fb.xml",
+          "gated": false,
+          "category": "News (Malayalam)"
+        }
+      ]
+    },
+    {
+      "publication_name": "My Kasaragod Vartha",
+      "publication_website_uri": "https://my.kasargodvartha.com",
+      "category": "Regional News: Kasaragod",
+      "publication_rss_feed_uris": [
+        {
+          "uri": "https://my.kasargodvartha.com/rss.xml",
+          "gated": false,
+          "category": "Regional News: Kasaragod"
+        }
+      ]
+    },
+    {
+      "publication_name": "Karaval Daily",
+      "publication_website_uri": "https://malayalam.karavaldaily.com",
+      "category": "News (Malayalam)",
+      "publication_rss_feed_uris": [
+        {
+          "uri": "https://malayalam.karavaldaily.com/feed/",
+          "gated": false,
+          "category": "News (Malayalam)"
+        }
+      ]
+    },
+    {
+      "publication_name": "Rashtra Deepika",
+      "publication_website_uri": "https://www.rashtradeepika.com",
+      "category": "News (Malayalam)",
+      "publication_rss_feed_uris": [
+        {
+          "uri": "https://www.rashtradeepika.com/feed/",
+          "gated": false,
+          "category": "News (Malayalam)"
+        }
+      ]
+    },
+    {
+      "publication_name": "TwentyFour News",
+      "publication_website_uri": "https://www.twentyfournews.com",
+      "category": "News (Malayalam)",
+      "publication_rss_feed_uris": [
+        {
+          "uri": "https://www.twentyfournews.com/feed/",
+          "gated": true,
+          "category": "News (Malayalam)"
+        }
+      ]
+    },
+    {
+      "publication_name": "Kairali News Online",
+      "publication_website_uri": "https://www.kairalinewsonline.com",
+      "category": "News (Malayalam)",
+      "publication_rss_feed_uris": [
+        {
+          "uri": "https://www.kairalinewsonline.com/feed/",
+          "gated": true,
+          "category": "News (Malayalam)"
+        }
+      ]
+    },
+    {
+      "publication_name": "Tarun Bharat",
+      "publication_website_uri": "https://tarunbharat.com",
+      "category": "News (Marathi)",
+      "publication_rss_feed_uris": [
+        {
+          "uri": "https://tarunbharat.com/feed",
+          "gated": false,
+          "category": "News (Marathi)"
+        }
+      ]
+    },
+    {
+      "publication_name": "Prahaar",
+      "publication_website_uri": "https://prahaar.in",
+      "category": "News (Marathi)",
+      "publication_rss_feed_uris": [
+        {
+          "uri": "https://prahaar.in/feed",
+          "gated": false,
+          "category": "News (Marathi)"
+        }
+      ]
+    },
+    {
+      "publication_name": "Pudhari",
+      "publication_website_uri": "https://pudhari.news",
+      "category": "News (Marathi)",
+      "publication_rss_feed_uris": [
+        {
+          "uri": "https://pudhari.news/feed",
+          "gated": false,
+          "category": "News (Marathi)"
+        }
+      ]
+    },
+    {
+      "publication_name": "Webdunia Marathi",
+      "publication_website_uri": "https://marathi.webdunia.com",
+      "category": "News (Marathi)",
+      "publication_rss_feed_uris": [
+        {
+          "uri": "https://marathi.webdunia.com/rss/marathi-news-101.rss",
+          "gated": false,
+          "category": "News (Marathi)"
+        }
+      ]
+    },
+    {
+      "publication_name": "Navarashtra",
+      "publication_website_uri": "https://navarashtra.com",
+      "category": "News (Marathi)",
+      "publication_rss_feed_uris": [
+        {
+          "uri": "https://navarashtra.com/feed",
+          "gated": false,
+          "category": "News (Marathi)"
+        }
+      ]
+    },
+    {
+      "publication_name": "SAAM TV",
+      "publication_website_uri": "https://saamtv.esakal.com",
+      "category": "News (Marathi)",
+      "publication_rss_feed_uris": [
+        {
+          "uri": "https://saamtv.esakal.com/feed",
+          "gated": false,
+          "category": "News (Marathi)"
+        }
+      ]
+    },
+    {
+      "publication_name": "Loksawal",
+      "publication_website_uri": "https://loksawal.com",
+      "category": "News (Marathi)",
+      "publication_rss_feed_uris": [
+        {
+          "uri": "https://loksawal.com/rss/latest-posts",
+          "gated": false,
+          "category": "News (Marathi)"
+        }
+      ]
+    },
+    {
+      "publication_name": "Sarkarnama",
+      "publication_website_uri": "https://sarkarnama.esakal.com",
+      "category": "News (Marathi)",
+      "publication_rss_feed_uris": [
+        {
+          "uri": "https://sarkarnama.esakal.com/feed",
+          "gated": false,
+          "category": "News (Marathi)"
+        }
+      ]
+    },
+    {
+      "publication_name": "Hindustan Times",
+      "publication_website_uri": "https://hindustantimes.com",
+      "category": "News (English)",
+      "publication_rss_feed_uris": [
+        {
+          "uri": "https://hindustantimes.com/feeds/rss/latest/rssfeed.xml",
+          "gated": false,
+          "category": "News (English)"
+        }
+      ]
+    },
+    {
+      "publication_name": "India Today",
+      "publication_website_uri": "https://indiatoday.in",
+      "category": "News (English)",
+      "publication_rss_feed_uris": [
+        {
+          "uri": "https://indiatoday.in/rss/1206578",
+          "gated": false,
+          "category": "News (English)"
+        }
+      ]
+    },
+    {
+      "publication_name": "The Hindu Business Line",
+      "publication_website_uri": "https://thehindubusinessline.com",
+      "category": "News (English)",
+      "publication_rss_feed_uris": [
+        {
+          "uri": "https://thehindubusinessline.com/?service=rss",
+          "gated": false,
+          "category": "News (English)"
+        }
+      ]
+    },
+    {
+      "publication_name": "ABP News",
+      "publication_website_uri": "https://news.abplive.com",
+      "category": "News (English)",
+      "publication_rss_feed_uris": [
+        {
+          "uri": "https://news.abplive.com/home/feed",
+          "gated": false,
+          "category": "News (English)"
+        }
+      ]
+    },
+    {
+      "publication_name": "Mint",
+      "publication_website_uri": "https://livemint.com",
+      "category": "News (English)",
+      "publication_rss_feed_uris": [
+        {
+          "uri": "https://livemint.com/rss/news",
+          "gated": false,
+          "category": "News (English)"
+        }
+      ]
+    },
+    {
+      "publication_name": "The New Indian Express",
+      "publication_website_uri": "https://newindianexpress.com",
+      "category": "News (English)",
+      "publication_rss_feed_uris": [
+        {
+          "uri": "https://newindianexpress.com/feed",
+          "gated": false,
+          "category": "News (English)"
+        }
+      ]
+    },
+    {
+      "publication_name": "ThePrint",
+      "publication_website_uri": "https://theprint.in",
+      "category": "News (English)",
+      "publication_rss_feed_uris": [
+        {
+          "uri": "https://theprint.in/category/india/feed/",
+          "gated": false,
+          "category": "News (English)"
+        }
+      ]
+    },
+    {
+      "publication_name": "Garhwal Post",
+      "publication_website_uri": "https://garhwalpost.in",
+      "category": "Regional News: Uttarakhand",
+      "publication_rss_feed_uris": [
+        {
+          "uri": "https://garhwalpost.in/feed/",
+          "gated": false,
+          "category": "Regional News: Uttarakhand"
+        }
+      ]
+    },
+    {
+      "publication_name": "Khabar Uttarakhand",
+      "publication_website_uri": "https://khabaruttarakhand.com",
+      "category": "News (Hindi)",
+      "publication_rss_feed_uris": [
+        {
+          "uri": "https://khabaruttarakhand.com/feed/",
+          "gated": false,
+          "category": "News (Hindi)"
+        }
+      ]
+    },
+    {
+      "publication_name": "Pahal Samachar",
+      "publication_website_uri": "https://pahadsamachar.com",
+      "category": "News (Hindi)",
+      "publication_rss_feed_uris": [
+        {
+          "uri": "https://pahadsamachar.com/feed/",
+          "gated": false,
+          "category": "News (Hindi)"
+        }
+      ]
+    },
+    {
+      "publication_name": "Khabar Pahad",
+      "publication_website_uri": "https://khabarpahad.com",
+      "category": "News (Hindi)",
+      "publication_rss_feed_uris": [
+        {
+          "uri": "https://khabarpahad.com/feed/",
+          "gated": false,
+          "category": "News (Hindi)"
+        }
+      ]
+    },
+    {
+      "publication_name": "The News Himachal",
+      "publication_website_uri": "https://thenewshimachal.com",
+      "category": "Regional News: Himachal Pradesh",
+      "publication_rss_feed_uris": [
+        {
+          "uri": "https://thenewshimachal.com/feed/",
+          "gated": false,
+          "category": "Regional News: Himachal Pradesh"
+        }
+      ]
+    },
+    {
+      "publication_name": "Wise Himachal",
+      "publication_website_uri": "https://wisehimachal.com",
+      "category": "Regional News: Himachal Pradesh",
+      "publication_rss_feed_uris": [
+        {
+          "uri": "https://wisehimachal.com/feed",
+          "gated": false,
+          "category": "Regional News: Himachal Pradesh"
+        }
+      ]
+    },
+    {
+      "publication_name": "Rising Kashmir",
+      "publication_website_uri": "https://risingkashmir.com",
+      "category": "Regional News: Jammu & Kashmir",
+      "publication_rss_feed_uris": [
+        {
+          "uri": "https://risingkashmir.com/rss",
+          "gated": false,
+          "category": "Regional News: Jammu & Kashmir"
+        }
+      ]
+    },
+    {
+      "publication_name": "The Chenab Times",
+      "publication_website_uri": "https://thechenabtimes.com",
+      "category": "Regional News: Jammu & Kashmir",
+      "publication_rss_feed_uris": [
+        {
+          "uri": "https://thechenabtimes.com/feed/",
+          "gated": false,
+          "category": "Regional News: Jammu & Kashmir"
+        }
+      ]
+    },
+    {
+      "publication_name": "Kashmir Reader",
+      "publication_website_uri": "https://kashmirreader.com",
+      "category": "Regional News: Jammu & Kashmir",
+      "publication_rss_feed_uris": [
+        {
+          "uri": "https://kashmirreader.com/feed/",
+          "gated": false,
+          "category": "Regional News: Jammu & Kashmir"
+        }
+      ]
+    },
+    {
+      "publication_name": "Kashmir Uzma",
+      "publication_website_uri": "https://kashmiruzma.news",
+      "category": "News (Urdu)",
+      "publication_rss_feed_uris": [
+        {
+          "uri": "https://kashmiruzma.news/feed/",
+          "gated": false,
+          "category": "News (Urdu)"
+        }
+      ]
+    },
+    {
+      "publication_name": "Global Kashmir",
+      "publication_website_uri": "https://globalkashmir.net",
+      "category": "Regional News: Jammu & Kashmir",
+      "publication_rss_feed_uris": [
+        {
+          "uri": "https://globalkashmir.net/feed/",
+          "gated": false,
+          "category": "Regional News: Jammu & Kashmir"
+        }
+      ]
+    },
+    {
+      "publication_name": "Kashmir Life",
+      "publication_website_uri": "https://kashmirlife.net",
+      "category": "Regional News: Jammu & Kashmir",
+      "publication_rss_feed_uris": [
+        {
+          "uri": "https://kashmirlife.net/feed/",
+          "gated": false,
+          "category": "Regional News: Jammu & Kashmir"
+        }
+      ]
+    },
+    {
+      "publication_name": "Kashmir News Service",
+      "publication_website_uri": "https://knskashmir.com",
+      "category": "Regional News: Jammu & Kashmir",
+      "publication_rss_feed_uris": [
+        {
+          "uri": "https://knskashmir.com/rss.xml",
+          "gated": false,
+          "category": "Regional News: Jammu & Kashmir"
+        }
+      ]
+    },
+    {
+      "publication_name": "Pragativadi",
+      "publication_website_uri": "https://pragativadi.com",
+      "category": "News (Odia)",
+      "publication_rss_feed_uris": [
+        {
+          "uri": "https://pragativadi.com/feed/",
+          "gated": false,
+          "category": "News (Odia)"
+        }
+      ]
+    },
+    {
+      "publication_name": "Odisha Bhaskar",
+      "publication_website_uri": "https://odishabhaskar.com",
+      "category": "News (Odia)",
+      "publication_rss_feed_uris": [
+        {
+          "uri": "https://odishabhaskar.com/feed/",
+          "gated": false,
+          "category": "News (Odia)"
+        }
+      ]
+    },
+    {
+      "publication_name": "Nitidin",
+      "publication_website_uri": "https://www.nitidinepaper.com",
+      "category": "News (Odia)",
+      "publication_rss_feed_uris": [
+        {
+          "uri": "https://www.nitidinepaper.com/rss",
+          "gated": false,
+          "category": "News (Odia)"
+        }
+      ]
+    },
+    {
+      "publication_name": "Odisha Sambad",
+      "publication_website_uri": "https://odishasambad.in",
+      "category": "News (Odia)",
+      "publication_rss_feed_uris": [
+        {
+          "uri": "https://odishasambad.in/feed/",
+          "gated": false,
+          "category": "News (Odia)"
+        }
+      ]
+    },
+    {
+      "publication_name": "Odisha.News",
+      "publication_website_uri": "https://odisha.news",
+      "category": "News (Odia)",
+      "publication_rss_feed_uris": [
+        {
+          "uri": "https://odisha.news/feed",
+          "gated": false,
+          "category": "News (Odia)"
+        }
+      ]
+    },
+    {
+      "publication_name": "Odisha TV",
+      "publication_website_uri": "https://odishatv.in",
+      "category": "News (Odia)",
+      "publication_rss_feed_uris": [
+        {
+          "uri": "https://odishatv.in/rss",
+          "gated": false,
+          "category": "News (Odia)"
+        }
+      ]
+    },
+    {
+      "publication_name": "OdishaBytes",
+      "publication_website_uri": "https://odishabytes.com",
+      "category": "Regional News: Odisha",
+      "publication_rss_feed_uris": [
+        {
+          "uri": "https://odishabytes.com/feed/",
+          "gated": false,
+          "category": "Regional News: Odisha"
+        }
+      ]
+    },
+    {
+      "publication_name": "OrissaPOST",
+      "publication_website_uri": "https://www.orissapost.com",
+      "category": "Regional News: Odisha",
+      "publication_rss_feed_uris": [
+        {
+          "uri": "https://www.orissapost.com/feed/",
+          "gated": false,
+          "category": "Regional News: Odisha"
+        }
+      ]
+    },
+    {
+      "publication_name": "Punjab Newsline",
+      "publication_website_uri": "https://www.punjabnewsline.com",
+      "category": "News (Punjabi)",
+      "publication_rss_feed_uris": [
+        {
+          "uri": "https://www.punjabnewsline.com/rssfeed/",
+          "gated": false,
+          "category": "News (Punjabi)"
+        }
+      ]
+    },
+    {
+      "publication_name": "Tribune India",
+      "publication_website_uri": "https://www.tribuneindia.com",
+      "category": "Regional News: Punjab",
+      "publication_rss_feed_uris": [
+        {
+          "uri": "https://publish.tribuneindia.com/state/punjab/feed/",
+          "gated": false,
+          "category": "Regional News: Punjab"
+        },
+        {
+          "uri": "https://publish.tribuneindia.com/city/amritsar/feed/",
+          "gated": false,
+          "category": "Regional News: Punjab"
+        },
+        {
+          "uri": "https://publish.tribuneindia.com/city/jalandhar/feed/",
+          "gated": false,
+          "category": "Regional News: Punjab"
+        },
+        {
+          "uri": "https://publish.tribuneindia.com/city/ludhiana/feed/",
+          "gated": false,
+          "category": "Regional News: Punjab"
+        },
+        {
+          "uri": "https://publish.tribuneindia.com/city/patiala/feed/",
+          "gated": false,
+          "category": "Regional News: Punjab"
+        },
+        {
+          "uri": "https://publish.tribuneindia.com/city/bathinda/feed/",
+          "gated": false,
+          "category": "Regional News: Punjab"
+        }
+      ]
+    },
+    {
+      "publication_name": "Daily Suraj",
+      "publication_website_uri": "https://www.dailysuraj.com",
+      "category": "News (Punjabi)",
+      "publication_rss_feed_uris": [
+        {
+          "uri": "https://dailysuraj.com/rss/pa-rss.xml",
+          "gated": false,
+          "category": "News (Punjabi)"
+        },
+        {
+          "uri": "https://dailysuraj.com/atom/pa-atom.xml",
+          "gated": false,
+          "category": "News (Punjabi)"
+        }
+      ]
+    },
+    {
+      "publication_name": "Sach Kahoon Punjabi",
+      "publication_website_uri": "https://sachkahoonpunjabi.com",
+      "category": "News (Punjabi)",
+      "publication_rss_feed_uris": [
+        {
+          "uri": "https://sachkahoonpunjabi.com/rss",
+          "gated": false,
+          "category": "News (Punjabi)"
+        }
+      ]
+    },
+    {
+      "publication_name": "Maalai Malar",
+      "publication_website_uri": "https://www.maalaimalar.com/",
+      "category": "News (Tamil)",
+      "publication_rss_feed_uris": [
+        {
+          "uri": "https://www.maalaimalar.com/feed",
+          "gated": false,
+          "category": "News (Tamil)"
+        }
+      ]
+    },
+    {
+      "publication_name": "Viduthalai",
+      "publication_website_uri": "https://viduthalai.in/",
+      "category": "News (Tamil)",
+      "publication_rss_feed_uris": [
+        {
+          "uri": "https://viduthalai.in/feed",
+          "gated": false,
+          "category": "News (Tamil)"
+        }
+      ]
+    },
+    {
+      "publication_name": "Malai Murasu",
+      "publication_website_uri": "https://malaimurasu.com/",
+      "category": "News (Tamil)",
+      "publication_rss_feed_uris": [
+        {
+          "uri": "https://malaimurasu.com/feed",
+          "gated": false,
+          "category": "News (Tamil)"
+        }
+      ]
+    },
+    {
+      "publication_name": "Dinamalar",
+      "publication_website_uri": "https://www.dinamalar.com/",
+      "category": "News (Tamil)",
+      "publication_rss_feed_uris": [
+        {
+          "uri": "https://cinema.dinamalar.com/rss.php",
+          "gated": false,
+          "category": "News (Tamil)"
+        }
+      ]
+    },
+    {
+      "publication_name": "News Today Net",
+      "publication_website_uri": "https://www.newstodaynet.com/",
+      "category": "News (Tamil)",
+      "publication_rss_feed_uris": [
+        {
+          "uri": "https://www.newstodaynet.com/rss",
+          "gated": false,
+          "category": "News (Tamil)"
+        }
+      ]
+    },
+    {
+      "publication_name": "Puthiyathalaimurai",
+      "publication_website_uri": "https://www.puthiyathalaimurai.com/",
+      "category": "News (Tamil)",
+      "publication_rss_feed_uris": [
+        {
+          "uri": "https://puthiyathalaimurai.com/feed",
+          "gated": false,
+          "category": "News (Tamil)"
+        }
+      ]
+    },
+    {
+      "publication_name": "DT Next",
+      "publication_website_uri": "https://www.dtnext.in/",
+      "category": "Regional News: Tamil Nadu",
+      "publication_rss_feed_uris": [
+        {
+          "uri": "https://www.dtnext.in/feed",
+          "gated": false,
+          "category": "Regional News: Tamil Nadu"
+        }
+      ]
+    },
+    {
+      "publication_name": "Angusam News",
+      "publication_website_uri": "https://angusam.com/",
+      "category": "Regional News: Tamil Nadu",
+      "publication_rss_feed_uris": [
+        {
+          "uri": "https://angusam.com/feed",
+          "gated": false,
+          "category": "Regional News: Tamil Nadu"
+        }
+      ]
+    },
+    {
+      "publication_name": "The News Minute",
+      "publication_website_uri": "https://thenewsminute.com/",
+      "category": "Regional News: South India",
+      "publication_rss_feed_uris": [
+        {
+          "uri": "https://thenewsminute.com/feed",
+          "gated": false,
+          "category": "Regional News: South India"
+        }
+      ]
+    },
+    {
+      "publication_name": "Maatram",
+      "publication_website_uri": "https://maatram.org/",
+      "category": "News (Tamil)",
+      "publication_rss_feed_uris": [
+        {
+          "uri": "https://maatram.org/feed",
+          "gated": false,
+          "category": "News (Tamil)"
+        }
+      ]
+    },
+    {
+      "publication_name": "Visalaandhra",
+      "publication_website_uri": "https://visalaandhra.com",
+      "category": "Regional News: Andhra Pradesh",
+      "publication_rss_feed_uris": [
+        {
+          "uri": "https://visalaandhra.com/feed/",
+          "gated": false,
+          "category": "Regional News: Andhra Pradesh"
+        }
+      ]
+    },
+    {
+      "publication_name": "Namasthe Telangana",
+      "publication_website_uri": "https://www.ntnews.com",
+      "category": "Regional News: Telangana",
+      "publication_rss_feed_uris": [
+        {
+          "uri": "https://www.ntnews.com/feed",
+          "gated": false,
+          "category": "Regional News: Telangana"
+        }
+      ]
+    },
+    {
+      "publication_name": "Nava Telangana",
+      "publication_website_uri": "https://navatelangana.com",
+      "category": "Regional News: Telangana",
+      "publication_rss_feed_uris": [
+        {
+          "uri": "https://navatelangana.com/feed/",
+          "gated": false,
+          "category": "Regional News: Telangana"
+        }
+      ]
+    },
+    {
+      "publication_name": "Janam Sakshi",
+      "publication_website_uri": "https://janamsakshi.org",
+      "category": "News (Telugu)",
+      "publication_rss_feed_uris": [
+        {
+          "uri": "https://janamsakshi.org/feed/",
+          "gated": false,
+          "category": "News (Telugu)"
+        }
+      ]
+    },
+    {
+      "publication_name": "V6 Velugu",
+      "publication_website_uri": "https://v6velugu.com",
+      "category": "News (Telugu)",
+      "publication_rss_feed_uris": [
+        {
+          "uri": "https://v6velugu.com/feed/",
+          "gated": false,
+          "category": "News (Telugu)"
+        }
+      ]
+    },
+    {
+      "publication_name": "Telugu Times",
+      "publication_website_uri": "https://www.telugutimes.net",
+      "category": "News (Telugu)",
+      "publication_rss_feed_uris": [
+        {
+          "uri": "https://www.telugutimes.net/feed",
+          "gated": false,
+          "category": "News (Telugu)"
+        }
+      ]
+    },
+    {
+      "publication_name": "Raj News",
+      "publication_website_uri": "https://rajnewsonline.com",
+      "category": "News (Telugu)",
+      "publication_rss_feed_uris": [
+        {
+          "uri": "https://rajnewsonline.com/feed/",
+          "gated": false,
+          "category": "News (Telugu)"
+        }
+      ]
+    },
+    {
+      "publication_name": "TeluguOne",
+      "publication_website_uri": "https://www.teluguone.com",
+      "category": "News (Telugu)",
+      "publication_rss_feed_uris": [
+        {
+          "uri": "https://www.teluguone.com/news/rss/news/news-1.rss",
+          "gated": false,
+          "category": "News (Telugu)"
+        }
+      ]
+    },
+    {
+      "publication_name": "TV9 Telugu",
+      "publication_website_uri": "https://tv9telugu.com",
+      "category": "News (Telugu)",
+      "publication_rss_feed_uris": [
+        {
+          "uri": "https://tv9telugu.com/feed",
+          "gated": false,
+          "category": "News (Telugu)"
+        }
+      ]
+    },
+    {
+      "publication_name": "Andhra Prabha",
+      "publication_website_uri": "https://prabhanews.com",
+      "category": "News (Telugu)",
+      "publication_rss_feed_uris": [
+        {
+          "uri": "https://prabhanews.com/feed/",
+          "gated": false,
+          "category": "News (Telugu)"
+        }
+      ]
+    },
+    {
+      "publication_name": "Great Andhra",
+      "publication_website_uri": "https://telugu.greatandhra.com",
+      "category": "News (Telugu)",
+      "publication_rss_feed_uris": [
+        {
+          "uri": "https://telugu.greatandhra.com/feed",
+          "gated": false,
+          "category": "News (Telugu)"
+        }
+      ]
+    },
+    {
+      "publication_name": "Sakshi Education",
+      "publication_website_uri": "https://education.sakshi.com",
+      "category": "News (Telugu)",
+      "publication_rss_feed_uris": [
+        {
+          "uri": "https://education.sakshi.com/rss/edunews.rss",
+          "gated": true,
+          "category": "News (Telugu)"
+        }
+      ]
+    },
+    {
+      "publication_name": "The Siasat Daily",
+      "publication_website_uri": "https://urdu.siasat.com",
+      "category": "News (Urdu)",
+      "publication_rss_feed_uris": [
+        {
+          "uri": "https://urdu.siasat.com/feed",
+          "gated": false,
+          "category": "News (Urdu)"
+        }
+      ]
+    },
+    {
+      "publication_name": "The Wire Urdu",
+      "publication_website_uri": "https://thewireurdu.com",
+      "category": "News (Urdu)",
+      "publication_rss_feed_uris": [
+        {
+          "uri": "https://thewireurdu.com/feed",
+          "gated": false,
+          "category": "News (Urdu)"
+        }
+      ]
+    },
+    {
+      "publication_name": "Avadhnama",
+      "publication_website_uri": "https://avadhnama.com",
+      "category": "Regional News: Uttar Pradesh",
+      "publication_rss_feed_uris": [
+        {
+          "uri": "https://avadhnama.com/feed",
+          "gated": false,
+          "category": "Regional News: Uttar Pradesh"
+        }
+      ]
+    },
+    {
+      "publication_name": "Saher News",
+      "publication_website_uri": "https://sahernews.com",
+      "category": "News (Urdu)",
+      "publication_rss_feed_uris": [
+        {
+          "uri": "https://sahernews.com/feed",
+          "gated": false,
+          "category": "News (Urdu)"
+        }
+      ]
+    },
+    {
+      "publication_name": "Baseerat Online",
+      "publication_website_uri": "https://baseeratonline.com",
+      "category": "News (Urdu)",
+      "publication_rss_feed_uris": [
+        {
+          "uri": "https://baseeratonline.com/feed",
+          "gated": false,
+          "category": "News (Urdu)"
+        }
+      ]
+    },
+    {
+      "publication_name": "Roznama Khabrein",
+      "publication_website_uri": "https://roznamakhabrein.com",
+      "category": "Regional News: Delhi",
+      "publication_rss_feed_uris": [
+        {
+          "uri": "https://roznamakhabrein.com/feed",
+          "gated": false,
+          "category": "Regional News: Delhi"
+        }
+      ]
+    },
+    {
+      "publication_name": "Qaumi Awaz",
+      "publication_website_uri": "https://qaumiawaz.com",
+      "category": "News (Urdu)",
+      "publication_rss_feed_uris": [
+        {
+          "uri": "https://qaumiawaz.com/feed",
+          "gated": false,
+          "category": "News (Urdu)"
+        }
+      ]
+    },
+    {
+      "publication_name": "Mumbai Urdu News",
+      "publication_website_uri": "https://mumbaiurdunews.com",
+      "category": "Regional News: Maharashtra",
+      "publication_rss_feed_uris": [
+        {
+          "uri": "https://mumbaiurdunews.com/rss",
+          "gated": false,
+          "category": "Regional News: Maharashtra"
         }
       ]
     }
@@ -17620,6 +19354,630 @@
           "uri": "https://www.bellanaija.com/feed/",
           "gated": false,
           "category": "News"
+        }
+      ]
+    },
+    {
+      "publication_name": "PRNigeria Hausa",
+      "publication_website_uri": "https://prnigeria.com/hausa/",
+      "category": "News (Hausa)",
+      "publication_rss_feed_uris": [
+        {
+          "uri": "https://prnigeria.com/hausa/feed",
+          "gated": false,
+          "category": "News (Hausa)"
+        }
+      ]
+    },
+    {
+      "publication_name": "DCL Hausa",
+      "publication_website_uri": "https://dclhausa.com/",
+      "category": "News (Hausa)",
+      "publication_rss_feed_uris": [
+        {
+          "uri": "https://dclhausa.com/feed",
+          "gated": false,
+          "category": "News (Hausa)"
+        }
+      ]
+    },
+    {
+      "publication_name": "AREWA News Hausa",
+      "publication_website_uri": "https://arewa.ng/hausa/",
+      "category": "News (Hausa)",
+      "publication_rss_feed_uris": [
+        {
+          "uri": "https://arewa.ng/hausa/feed",
+          "gated": false,
+          "category": "News (Hausa)"
+        }
+      ]
+    },
+    {
+      "publication_name": "Aminiya (Daily Trust Hausa)",
+      "publication_website_uri": "https://aminiya.dailytrust.com/",
+      "category": "News (Hausa)",
+      "publication_rss_feed_uris": [
+        {
+          "uri": "https://aminiya.dailytrust.com/feed",
+          "gated": false,
+          "category": "News (Hausa)"
+        }
+      ]
+    },
+    {
+      "publication_name": "BBC Igbo",
+      "publication_website_uri": "https://bbc.com/igbo",
+      "category": "News (Igbo)",
+      "publication_rss_feed_uris": [
+        {
+          "uri": "https://bbc.com/igbo/feed",
+          "gated": false,
+          "category": "News (Igbo)"
+        }
+      ]
+    },
+    {
+      "publication_name": "Igbere TV",
+      "publication_website_uri": "https://igberetvnews.com",
+      "category": "Regional News: Imo/Anambra",
+      "publication_rss_feed_uris": [
+        {
+          "uri": "https://igberetvnews.com/feed",
+          "gated": false,
+          "category": "Regional News: Imo/Anambra"
+        }
+      ]
+    },
+    {
+      "publication_name": "Ripples Nigeria",
+      "publication_website_uri": "https://ripplesnigeria.com",
+      "category": "News",
+      "publication_rss_feed_uris": [
+        {
+          "uri": "https://ripplesnigeria.com/feed",
+          "gated": false,
+          "category": "News"
+        }
+      ]
+    },
+    {
+      "publication_name": "People's Voice",
+      "publication_website_uri": "https://peoplesvoice.ng",
+      "category": "News",
+      "publication_rss_feed_uris": [
+        {
+          "uri": "https://peoplesvoice.ng/feed",
+          "gated": false,
+          "category": "News"
+        }
+      ]
+    },
+    {
+      "publication_name": "Anambra Daily",
+      "publication_website_uri": "https://anambradaily.com",
+      "category": "Regional News: Anambra",
+      "publication_rss_feed_uris": [
+        {
+          "uri": "https://anambradaily.com/feed",
+          "gated": false,
+          "category": "Regional News: Anambra"
+        }
+      ]
+    },
+    {
+      "publication_name": "National Ambassador News",
+      "publication_website_uri": "https://nationalambassadorngr.com",
+      "category": "News",
+      "publication_rss_feed_uris": [
+        {
+          "uri": "https://nationalambassadorngr.com/feed",
+          "gated": false,
+          "category": "News"
+        }
+      ]
+    },
+    {
+      "publication_name": "The Whistler",
+      "publication_website_uri": "https://thewhistler.ng",
+      "category": "News",
+      "publication_rss_feed_uris": [
+        {
+          "uri": "https://thewhistler.ng/feed",
+          "gated": false,
+          "category": "News"
+        }
+      ]
+    },
+    {
+      "publication_name": "Asaba Metro News",
+      "publication_website_uri": "https://asabametro.com",
+      "category": "Regional News: Delta",
+      "publication_rss_feed_uris": [
+        {
+          "uri": "https://asabametro.com/feed",
+          "gated": false,
+          "category": "Regional News: Delta"
+        }
+      ]
+    },
+    {
+      "publication_name": "Niger Delta Today",
+      "publication_website_uri": "https://nigerdeltatoday.com",
+      "category": "Regional News: Delta",
+      "publication_rss_feed_uris": [
+        {
+          "uri": "https://nigerdeltatoday.com/feed",
+          "gated": false,
+          "category": "Regional News: Delta"
+        }
+      ]
+    },
+    {
+      "publication_name": "The Sun Nigeria",
+      "publication_website_uri": "https://thesun.ng",
+      "category": "News",
+      "publication_rss_feed_uris": [
+        {
+          "uri": "https://thesun.ng/feed",
+          "gated": false,
+          "category": "News"
+        }
+      ]
+    },
+    {
+      "publication_name": "Premium Times",
+      "publication_website_uri": "https://premiumtimesng.com",
+      "category": "News",
+      "publication_rss_feed_uris": [
+        {
+          "uri": "https://premiumtimesng.com/feed",
+          "gated": false,
+          "category": "News"
+        }
+      ]
+    },
+    {
+      "publication_name": "Naija News",
+      "publication_website_uri": "https://naijanews.com",
+      "category": "News",
+      "publication_rss_feed_uris": [
+        {
+          "uri": "https://naijanews.com/feed",
+          "gated": false,
+          "category": "News"
+        }
+      ]
+    },
+    {
+      "publication_name": "Odogwu Blog",
+      "publication_website_uri": "https://odogwublog.com",
+      "category": "Regional News: Anambra",
+      "publication_rss_feed_uris": [
+        {
+          "uri": "https://odogwublog.com/feed",
+          "gated": false,
+          "category": "Regional News: Anambra"
+        }
+      ]
+    },
+    {
+      "publication_name": "IGBO.ORG",
+      "publication_website_uri": "https://igbo.org",
+      "category": "News (Igbo)",
+      "publication_rss_feed_uris": [
+        {
+          "uri": "https://igbo.org/feed",
+          "gated": false,
+          "category": "News (Igbo)"
+        }
+      ]
+    },
+    {
+      "publication_name": "Tribune Online",
+      "publication_website_uri": "https://tribuneonlineng.com",
+      "category": "News",
+      "publication_rss_feed_uris": [
+        {
+          "uri": "https://tribuneonlineng.com/feed",
+          "gated": false,
+          "category": "News"
+        }
+      ]
+    },
+    {
+      "publication_name": "CrossRiver Watch",
+      "publication_website_uri": "https://crossriverwatch.com",
+      "category": "Regional News: Cross River",
+      "publication_rss_feed_uris": [
+        {
+          "uri": "https://crossriverwatch.com/feed",
+          "gated": false,
+          "category": "Regional News: Cross River"
+        }
+      ]
+    },
+    {
+      "publication_name": "Calabargist",
+      "publication_website_uri": "https://calabargist.com",
+      "category": "Regional News: Cross River",
+      "publication_rss_feed_uris": [
+        {
+          "uri": "https://calabargist.com/feed",
+          "gated": false,
+          "category": "Regional News: Cross River"
+        }
+      ]
+    },
+    {
+      "publication_name": "Nigerian Pilot",
+      "publication_website_uri": "https://nigerianpilot.net",
+      "category": "News",
+      "publication_rss_feed_uris": [
+        {
+          "uri": "https://nigerianpilot.net/feed",
+          "gated": false,
+          "category": "News"
+        }
+      ]
+    },
+    {
+      "publication_name": "The Punch",
+      "publication_website_uri": "https://punchng.com/",
+      "category": "News",
+      "publication_rss_feed_uris": [
+        {
+          "uri": "https://punchng.com/feed/",
+          "gated": false,
+          "category": "News"
+        }
+      ]
+    },
+    {
+      "publication_name": "Channels Television",
+      "publication_website_uri": "https://www.channelstv.com/",
+      "category": "News",
+      "publication_rss_feed_uris": [
+        {
+          "uri": "https://channelstv.com/feed/",
+          "gated": false,
+          "category": "News"
+        }
+      ]
+    },
+    {
+      "publication_name": "Daily Trust",
+      "publication_website_uri": "https://dailytrust.com/",
+      "category": "News",
+      "publication_rss_feed_uris": [
+        {
+          "uri": "https://dailytrust.com/feed/",
+          "gated": false,
+          "category": "News"
+        }
+      ]
+    },
+    {
+      "publication_name": "TheCable",
+      "publication_website_uri": "https://www.thecable.ng/",
+      "category": "News",
+      "publication_rss_feed_uris": [
+        {
+          "uri": "https://www.thecable.ng/feed/",
+          "gated": false,
+          "category": "News"
+        }
+      ]
+    },
+    {
+      "publication_name": "Business Day",
+      "publication_website_uri": "https://businessday.ng/",
+      "category": "News",
+      "publication_rss_feed_uris": [
+        {
+          "uri": "https://businessday.ng/feed/",
+          "gated": false,
+          "category": "News"
+        }
+      ]
+    },
+    {
+      "publication_name": "This Day",
+      "publication_website_uri": "https://www.thisdaylive.com/",
+      "category": "News",
+      "publication_rss_feed_uris": [
+        {
+          "uri": "https://www.thisdaylive.com/feed/",
+          "gated": false,
+          "category": "News"
+        }
+      ]
+    },
+    {
+      "publication_name": "Ripples Nigeria",
+      "publication_website_uri": "https://www.ripplesnigeria.com/",
+      "category": "News",
+      "publication_rss_feed_uris": [
+        {
+          "uri": "https://www.ripplesnigeria.com/feed/",
+          "gated": false,
+          "category": "News"
+        }
+      ]
+    },
+    {
+      "publication_name": "News Agency of Nigeria",
+      "publication_website_uri": "https://nannews.ng/",
+      "category": "News",
+      "publication_rss_feed_uris": [
+        {
+          "uri": "https://nannews.ng/feed/",
+          "gated": false,
+          "category": "News"
+        }
+      ]
+    },
+    {
+      "publication_name": "Fresh News Nigeria",
+      "publication_website_uri": "https://home.freshnewsng.com/",
+      "category": "News",
+      "publication_rss_feed_uris": [
+        {
+          "uri": "https://home.freshnewsng.com/rss/latest-posts",
+          "gated": false,
+          "category": "News"
+        }
+      ]
+    },
+    {
+      "publication_name": "Niger Delta Herald",
+      "publication_website_uri": "https://nigerdeltaheraldngr.com",
+      "category": "Regional News: Niger-Delta",
+      "publication_rss_feed_uris": [
+        {
+          "uri": "https://nigerdeltaheraldngr.com/feed/rss/",
+          "gated": false,
+          "category": "Regional News: Niger-Delta"
+        }
+      ]
+    },
+    {
+      "publication_name": "Niger Delta Today",
+      "publication_website_uri": "https://www.nigerdeltatoday.com",
+      "category": "Regional News: Niger-Delta",
+      "publication_rss_feed_uris": [
+        {
+          "uri": "https://www.nigerdeltatoday.com/feed",
+          "gated": false,
+          "category": "Regional News: Niger-Delta"
+        }
+      ]
+    },
+    {
+      "publication_name": "Urhobo Today",
+      "publication_website_uri": "https://urhobotoday.com",
+      "category": "Regional News: Niger-Delta",
+      "publication_rss_feed_uris": [
+        {
+          "uri": "https://urhobotoday.com/feed",
+          "gated": false,
+          "category": "Regional News: Niger-Delta"
+        }
+      ]
+    },
+    {
+      "publication_name": "Daily Nigerian",
+      "publication_website_uri": "https://dailynigerian.com",
+      "category": "News (English, Pidgin)",
+      "publication_rss_feed_uris": [
+        {
+          "uri": "https://dailynigerian.com/feed",
+          "gated": false,
+          "category": "News (English, Pidgin)"
+        }
+      ]
+    },
+    {
+      "publication_name": "Business Hallmark",
+      "publication_website_uri": "https://hallmarknews.com",
+      "category": "News (English, Pidgin)",
+      "publication_rss_feed_uris": [
+        {
+          "uri": "https://hallmarknews.com/feed",
+          "gated": false,
+          "category": "News (English, Pidgin)"
+        }
+      ]
+    },
+    {
+      "publication_name": "Naija News",
+      "publication_website_uri": "https://www.naijanews.com",
+      "category": "News (English, Pidgin)",
+      "publication_rss_feed_uris": [
+        {
+          "uri": "https://www.naijanews.com/feed",
+          "gated": false,
+          "category": "News (English, Pidgin)"
+        }
+      ]
+    },
+    {
+      "publication_name": "Sahara Reporters",
+      "publication_website_uri": "https://saharareporters.com",
+      "category": "News (English, Pidgin)",
+      "publication_rss_feed_uris": [
+        {
+          "uri": "https://saharareporters.com/articles/rss-feed",
+          "gated": false,
+          "category": "News (English, Pidgin)"
+        }
+      ]
+    },
+    {
+      "publication_name": "Akoko Edo News",
+      "publication_website_uri": "https://akokoedonewspaper.com.ng",
+      "category": "Regional News: Edo",
+      "publication_rss_feed_uris": [
+        {
+          "uri": "https://akokoedonewspaper.com.ng/feed",
+          "gated": false,
+          "category": "Regional News: Edo"
+        }
+      ]
+    },
+    {
+      "publication_name": "New Nigerian Newspaper",
+      "publication_website_uri": "https://www.newnigeriannewspapers.ng",
+      "category": "News (English, Pidgin)",
+      "publication_rss_feed_uris": [
+        {
+          "uri": "https://www.newnigeriannewspapers.ng/feed",
+          "gated": false,
+          "category": "News (English, Pidgin)"
+        }
+      ]
+    },
+    {
+      "publication_name": "Techpoint Africa",
+      "publication_website_uri": "https://techpoint.africa",
+      "category": "News (English, Pidgin)",
+      "publication_rss_feed_uris": [
+        {
+          "uri": "https://techpoint.africa/feed",
+          "gated": false,
+          "category": "News (English, Pidgin)"
+        }
+      ]
+    },
+    {
+      "publication_name": "All Nigeria Soccer",
+      "publication_website_uri": "https://www.allnigeriasoccer.com",
+      "category": "News (English, Pidgin)",
+      "publication_rss_feed_uris": [
+        {
+          "uri": "https://www.allnigeriasoccer.com/feed",
+          "gated": false,
+          "category": "News (English, Pidgin)"
+        }
+      ]
+    },
+    {
+      "publication_name": "Soccernet Nigeria",
+      "publication_website_uri": "https://soccernet.ng",
+      "category": "News (English, Pidgin)",
+      "publication_rss_feed_uris": [
+        {
+          "uri": "https://soccernet.ng/feed",
+          "gated": false,
+          "category": "News (English, Pidgin)"
+        }
+      ]
+    },
+    {
+      "publication_name": "Complete Sports",
+      "publication_website_uri": "https://www.completesports.com",
+      "category": "News (English, Pidgin)",
+      "publication_rss_feed_uris": [
+        {
+          "uri": "https://www.completesports.com/feed",
+          "gated": false,
+          "category": "News (English, Pidgin)"
+        }
+      ]
+    },
+    {
+      "publication_name": "OwnGoal Nigeria",
+      "publication_website_uri": "https://owngoalnigeria.com",
+      "category": "News (English, Pidgin)",
+      "publication_rss_feed_uris": [
+        {
+          "uri": "https://owngoalnigeria.com/feed",
+          "gated": false,
+          "category": "News (English, Pidgin)"
+        }
+      ]
+    },
+    {
+      "publication_name": "Nigeria Health Watch",
+      "publication_website_uri": "https://nigeriahealthwatch.com",
+      "category": "News (English, Pidgin)",
+      "publication_rss_feed_uris": [
+        {
+          "uri": "https://nigeriahealthwatch.com/feed",
+          "gated": false,
+          "category": "News (English, Pidgin)"
+        }
+      ]
+    },
+    {
+      "publication_name": "Iroyin Owuro",
+      "publication_website_uri": "https://iroyinowuro.com.ng/",
+      "category": "News (Yoruba)",
+      "publication_rss_feed_uris": [
+        {
+          "uri": "https://iroyinowuro.com.ng/feed/",
+          "gated": false,
+          "category": "News (Yoruba)"
+        }
+      ]
+    },
+    {
+      "publication_name": "The Yoruba Times",
+      "publication_website_uri": "https://theyorubatimes.com/",
+      "category": "News (Yoruba)",
+      "publication_rss_feed_uris": [
+        {
+          "uri": "https://theyorubatimes.com/feed/",
+          "gated": false,
+          "category": "News (Yoruba)"
+        }
+      ]
+    },
+    {
+      "publication_name": "Yoruba FM",
+      "publication_website_uri": "https://www.yorubafm.com/",
+      "category": "News (Yoruba)",
+      "publication_rss_feed_uris": [
+        {
+          "uri": "https://www.yorubafm.com/feed/",
+          "gated": false,
+          "category": "News (Yoruba)"
+        }
+      ]
+    },
+    {
+      "publication_name": "Irohin Odua",
+      "publication_website_uri": "https://www.irohinodua.org/",
+      "category": "News (Yoruba)",
+      "publication_rss_feed_uris": [
+        {
+          "uri": "https://www.irohinodua.org/feed/",
+          "gated": false,
+          "category": "News (Yoruba)"
+        }
+      ]
+    },
+    {
+      "publication_name": "Inside Oyo",
+      "publication_website_uri": "https://insideoyo.com/",
+      "category": "Regional News: Oyo State",
+      "publication_rss_feed_uris": [
+        {
+          "uri": "https://insideoyo.com/feed/",
+          "gated": false,
+          "category": "Regional News: Oyo State"
+        }
+      ]
+    },
+    {
+      "publication_name": "Oyo News",
+      "publication_website_uri": "https://oyonews.com.ng/",
+      "category": "Regional News: Oyo State",
+      "publication_rss_feed_uris": [
+        {
+          "uri": "https://oyonews.com.ng/feed/",
+          "gated": false,
+          "category": "Regional News: Oyo State"
         }
       ]
     }
