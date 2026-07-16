@@ -3746,6 +3746,186 @@
           "category": "News"
         }
       ]
+    },
+    {
+      "publication_name": "Cameroon News Agency",
+      "publication_website_uri": "https://cameroonnewsagency.com/",
+      "category": "News (English)",
+      "publication_rss_feed_uris": [
+        {
+          "uri": "https://cameroonnewsagency.com/feed/",
+          "gated": false,
+          "category": "News (English)"
+        }
+      ]
+    },
+    {
+      "publication_name": "Cameroon Concord News",
+      "publication_website_uri": "https://www.cameroonconcordnews.com/",
+      "category": "News (English)",
+      "publication_rss_feed_uris": [
+        {
+          "uri": "https://www.cameroonconcordnews.com/feed/",
+          "gated": false,
+          "category": "News (English)"
+        }
+      ]
+    },
+    {
+      "publication_name": "Cameroon Intelligence Report",
+      "publication_website_uri": "https://www.cameroonintelligencereport.com/",
+      "category": "News (English)",
+      "publication_rss_feed_uris": [
+        {
+          "uri": "https://www.cameroonintelligencereport.com/feed/",
+          "gated": false,
+          "category": "News (English)"
+        }
+      ]
+    },
+    {
+      "publication_name": "Bareta News",
+      "publication_website_uri": "https://www.bareta.news/",
+      "category": "News (English)",
+      "publication_rss_feed_uris": [
+        {
+          "uri": "https://www.bareta.news/feed/",
+          "gated": false,
+          "category": "News (English)"
+        }
+      ]
+    },
+    {
+      "publication_name": "CameroonOnline.org",
+      "publication_website_uri": "https://www.cameroononline.org/",
+      "category": "News (English)",
+      "publication_rss_feed_uris": [
+        {
+          "uri": "https://www.cameroononline.org/category/cameroon-news-in-english/feed/",
+          "gated": false,
+          "category": "News (English)"
+        }
+      ]
+    },
+    {
+      "publication_name": "The Post",
+      "publication_website_uri": "https://thepostnpcameroon.com/",
+      "category": "Regional News: Buea (English)",
+      "publication_rss_feed_uris": [
+        {
+          "uri": "https://thepostnpcameroon.com/feed/",
+          "gated": false,
+          "category": "Regional News: Buea (English)"
+        }
+      ]
+    },
+    {
+      "publication_name": "Le Bled Parle (English)",
+      "publication_website_uri": "https://lebledparle.com/en/",
+      "category": "News (English)",
+      "publication_rss_feed_uris": [
+        {
+          "uri": "https://lebledparle.com/en/feed/",
+          "gated": false,
+          "category": "News (English)"
+        }
+      ]
+    },
+    {
+      "publication_name": "Le Jour",
+      "publication_website_uri": "https://lejour.cm",
+      "category": "News (French)",
+      "publication_rss_feed_uris": [
+        {
+          "uri": "https://lejour.cm/feed/",
+          "gated": false,
+          "category": "News (French)"
+        }
+      ]
+    },
+    {
+      "publication_name": "Le Bled Parle",
+      "publication_website_uri": "https://www.lebledparle.com",
+      "category": "News (French)",
+      "publication_rss_feed_uris": [
+        {
+          "uri": "https://www.lebledparle.com/feed/",
+          "gated": false,
+          "category": "News (French)"
+        }
+      ]
+    },
+    {
+      "publication_name": "237online",
+      "publication_website_uri": "https://www.237online.com",
+      "category": "News (French)",
+      "publication_rss_feed_uris": [
+        {
+          "uri": "https://www.237online.com/feed/",
+          "gated": false,
+          "category": "News (French)"
+        }
+      ]
+    },
+    {
+      "publication_name": "Camer.be",
+      "publication_website_uri": "https://www.camer.be",
+      "category": "News (French)",
+      "publication_rss_feed_uris": [
+        {
+          "uri": "https://www.camer.be/index.php/rss",
+          "gated": false,
+          "category": "News (French)"
+        }
+      ]
+    },
+    {
+      "publication_name": "Investir au Cameroun",
+      "publication_website_uri": "https://www.investiraucameroun.com",
+      "category": "Business",
+      "publication_rss_feed_uris": [
+        {
+          "uri": "https://www.investiraucameroun.com/feed",
+          "gated": false,
+          "category": "Business"
+        }
+      ]
+    },
+    {
+      "publication_name": "Cameroon Online",
+      "publication_website_uri": "https://www.cameroononline.org",
+      "category": "News (French)",
+      "publication_rss_feed_uris": [
+        {
+          "uri": "https://www.cameroononline.org/feed/",
+          "gated": false,
+          "category": "News (French)"
+        }
+      ]
+    },
+    {
+      "publication_name": "Cameroun Actuel",
+      "publication_website_uri": "https://camerounactuel.com",
+      "category": "News (French)",
+      "publication_rss_feed_uris": [
+        {
+          "uri": "https://camerounactuel.com/feed/",
+          "gated": false,
+          "category": "News (French)"
+        }
+      ]
+    },
+    {
+      "publication_name": "News du Camer",
+      "publication_website_uri": "https://newsducamer.com",
+      "category": "News (French)",
+      "publication_rss_feed_uris": [
+        {
+          "uri": "https://newsducamer.com/feed/",
+          "gated": false,
+          "category": "News (French)"
+        }
+      ]
     }
   ],
   "COD": [
@@ -4010,6 +4190,30 @@
           "uri": "https://journaldekinshasa.com/feed/",
           "gated": false,
           "category": "News (French)"
+        }
+      ]
+    },
+    {
+      "publication_name": "Radio Okapi (Journal lingala)",
+      "publication_website_uri": "https://www.radiookapi.net/journal-lingala",
+      "category": "News (Lingala)",
+      "publication_rss_feed_uris": [
+        {
+          "uri": "https://www.radiookapi.net/taxonomy/term/60/feed",
+          "gated": false,
+          "category": "News (Lingala)"
+        }
+      ]
+    },
+    {
+      "publication_name": "Radio Okapi - Journal Swahili",
+      "publication_website_uri": "https://www.radiookapi.net/journal-swahili",
+      "category": "News (Swahili)",
+      "publication_rss_feed_uris": [
+        {
+          "uri": "https://www.radiookapi.net/taxonomy/term/63/feed",
+          "gated": false,
+          "category": "News (Swahili)"
         }
       ]
     }
@@ -8008,6 +8212,306 @@
           "uri": "https://www.newsghana.com.gh/feed/",
           "gated": false,
           "category": "News"
+        }
+      ]
+    },
+    {
+      "publication_name": "Sena Radio Online",
+      "publication_website_uri": "https://www.senaradioonline.com/",
+      "category": "Regional News: Northern Region (Tamale)",
+      "publication_rss_feed_uris": [
+        {
+          "uri": "https://www.senaradioonline.com/feed/",
+          "gated": false,
+          "category": "Regional News: Northern Region (Tamale)"
+        }
+      ]
+    },
+    {
+      "publication_name": "Asaase Radio",
+      "publication_website_uri": "https://asaaseradio.com/",
+      "category": "News (Dagbani, Hausa)",
+      "publication_rss_feed_uris": [
+        {
+          "uri": "https://asaaseradio.com/feed/",
+          "gated": false,
+          "category": "News (Dagbani, Hausa)"
+        }
+      ]
+    },
+    {
+      "publication_name": "The Herald Ghana",
+      "publication_website_uri": "https://theheraldghana.com",
+      "category": "News",
+      "publication_rss_feed_uris": [
+        {
+          "uri": "https://theheraldghana.com/feed/",
+          "gated": false,
+          "category": "News"
+        }
+      ]
+    },
+    {
+      "publication_name": "JBKlutse",
+      "publication_website_uri": "https://www.jbklutse.com",
+      "category": "Technology",
+      "publication_rss_feed_uris": [
+        {
+          "uri": "https://www.jbklutse.com/feed/",
+          "gated": false,
+          "category": "Technology"
+        }
+      ]
+    },
+    {
+      "publication_name": "The Ghanaian Standard",
+      "publication_website_uri": "https://ghstandard.com",
+      "category": "News",
+      "publication_rss_feed_uris": [
+        {
+          "uri": "https://ghstandard.com/feed/",
+          "gated": false,
+          "category": "News"
+        }
+      ]
+    },
+    {
+      "publication_name": "GBC Ghana Online",
+      "publication_website_uri": "https://www.gbcghanaonline.com",
+      "category": "News",
+      "publication_rss_feed_uris": [
+        {
+          "uri": "https://www.gbcghanaonline.com/feed/",
+          "gated": false,
+          "category": "News"
+        }
+      ]
+    },
+    {
+      "publication_name": "The Ghana Report",
+      "publication_website_uri": "https://theghanareport.com",
+      "category": "News",
+      "publication_rss_feed_uris": [
+        {
+          "uri": "https://theghanareport.com/feed/",
+          "gated": false,
+          "category": "News"
+        }
+      ]
+    },
+    {
+      "publication_name": "Kumasi Mail",
+      "publication_website_uri": "https://kumasimail.com",
+      "category": "Regional News: Kumasi",
+      "publication_rss_feed_uris": [
+        {
+          "uri": "https://kumasimail.com/feed/",
+          "gated": false,
+          "category": "Regional News: Kumasi"
+        }
+      ]
+    },
+    {
+      "publication_name": "Ghanasoccernet",
+      "publication_website_uri": "https://ghanasoccernet.com",
+      "category": "Sports",
+      "publication_rss_feed_uris": [
+        {
+          "uri": "https://ghanasoccernet.com/feed",
+          "gated": false,
+          "category": "Sports"
+        }
+      ]
+    },
+    {
+      "publication_name": "Football Ghana",
+      "publication_website_uri": "https://www.footballghana.com",
+      "category": "Sports",
+      "publication_rss_feed_uris": [
+        {
+          "uri": "https://www.footballghana.com/feed",
+          "gated": false,
+          "category": "Sports"
+        }
+      ]
+    },
+    {
+      "publication_name": "3News",
+      "publication_website_uri": "https://3news.com",
+      "category": "News",
+      "publication_rss_feed_uris": [
+        {
+          "uri": "https://3news.com/feed/",
+          "gated": false,
+          "category": "News"
+        }
+      ]
+    },
+    {
+      "publication_name": "Ghana Business News",
+      "publication_website_uri": "https://www.ghanabusinessnews.com",
+      "category": "Business",
+      "publication_rss_feed_uris": [
+        {
+          "uri": "https://www.ghanabusinessnews.com/feed/",
+          "gated": false,
+          "category": "Business"
+        }
+      ]
+    },
+    {
+      "publication_name": "Accra Mail",
+      "publication_website_uri": "https://accramail.com",
+      "category": "Regional News: Accra",
+      "publication_rss_feed_uris": [
+        {
+          "uri": "https://accramail.com/feed/",
+          "gated": false,
+          "category": "Regional News: Accra"
+        }
+      ]
+    },
+    {
+      "publication_name": "Onua Online",
+      "publication_website_uri": "https://www.onuaonline.com",
+      "category": "News",
+      "publication_rss_feed_uris": [
+        {
+          "uri": "https://www.onuaonline.com/feed/",
+          "gated": false,
+          "category": "News"
+        }
+      ]
+    },
+    {
+      "publication_name": "The Ghanaian Chronicle",
+      "publication_website_uri": "https://thechronicle.com.gh",
+      "category": "News",
+      "publication_rss_feed_uris": [
+        {
+          "uri": "https://thechronicle.com.gh/feed/",
+          "gated": false,
+          "category": "News"
+        }
+      ]
+    },
+    {
+      "publication_name": "Public Agenda",
+      "publication_website_uri": "https://www.publicagenda.news",
+      "category": "News",
+      "publication_rss_feed_uris": [
+        {
+          "uri": "https://www.publicagenda.news/feed/",
+          "gated": false,
+          "category": "News"
+        }
+      ]
+    },
+    {
+      "publication_name": "Yen.com.gh",
+      "publication_website_uri": "https://yen.com.gh",
+      "category": "News",
+      "publication_rss_feed_uris": [
+        {
+          "uri": "https://yen.com.gh/rss/all.rss",
+          "gated": false,
+          "category": "News"
+        }
+      ]
+    },
+    {
+      "publication_name": "Happy Ghana",
+      "publication_website_uri": "https://www.happyghana.com",
+      "category": "News",
+      "publication_rss_feed_uris": [
+        {
+          "uri": "https://www.happyghana.com/feed/",
+          "gated": false,
+          "category": "News"
+        }
+      ]
+    },
+    {
+      "publication_name": "Atinka Online",
+      "publication_website_uri": "https://atinkaonline.com",
+      "category": "News",
+      "publication_rss_feed_uris": [
+        {
+          "uri": "https://atinkaonline.com/feed/",
+          "gated": false,
+          "category": "News"
+        }
+      ]
+    },
+    {
+      "publication_name": "Ghana News Online",
+      "publication_website_uri": "https://ghananewsonline.com.gh",
+      "category": "News",
+      "publication_rss_feed_uris": [
+        {
+          "uri": "https://ghananewsonline.com.gh/feed/",
+          "gated": false,
+          "category": "News"
+        }
+      ]
+    },
+    {
+      "publication_name": "GhPage",
+      "publication_website_uri": "https://www.ghpage.com",
+      "category": "News",
+      "publication_rss_feed_uris": [
+        {
+          "uri": "https://www.ghpage.com/feed/",
+          "gated": false,
+          "category": "News"
+        }
+      ]
+    },
+    {
+      "publication_name": "Norvan Reports",
+      "publication_website_uri": "https://norvanreports.com",
+      "category": "Business",
+      "publication_rss_feed_uris": [
+        {
+          "uri": "https://norvanreports.com/feed/",
+          "gated": false,
+          "category": "Business"
+        }
+      ]
+    },
+    {
+      "publication_name": "A1 Radio Online",
+      "publication_website_uri": "https://www.a1radioonline.com",
+      "category": "Regional News: Bolgatanga",
+      "publication_rss_feed_uris": [
+        {
+          "uri": "https://www.a1radioonline.com/feed/",
+          "gated": false,
+          "category": "Regional News: Bolgatanga"
+        }
+      ]
+    },
+    {
+      "publication_name": "Volta Online",
+      "publication_website_uri": "https://voltaonlinegh.com",
+      "category": "Regional News: Volta Region",
+      "publication_rss_feed_uris": [
+        {
+          "uri": "https://voltaonlinegh.com/feed/",
+          "gated": false,
+          "category": "Regional News: Volta Region"
+        }
+      ]
+    },
+    {
+      "publication_name": "Volta Star FM (GBC)",
+      "publication_website_uri": "https://www.voltastaronline.com",
+      "category": "Regional News: Volta Region",
+      "publication_rss_feed_uris": [
+        {
+          "uri": "https://www.voltastaronline.com/feed/",
+          "gated": false,
+          "category": "Regional News: Volta Region"
         }
       ]
     }
@@ -15616,6 +16120,165 @@
           "uri": "https://thesharpdaily.com/feed/",
           "gated": false,
           "category": "Business"
+        }
+      ]
+    },
+    {
+      "publication_name": "Daily Nation",
+      "publication_website_uri": "https://nation.africa/kenya",
+      "category": "News (English)",
+      "publication_rss_feed_uris": [
+        {
+          "uri": "https://nation.africa/kenya/rss.xml",
+          "gated": false,
+          "category": "News (English)"
+        }
+      ]
+    },
+    {
+      "publication_name": "Business Daily Africa",
+      "publication_website_uri": "https://www.businessdailyafrica.com/",
+      "category": "News (English)",
+      "publication_rss_feed_uris": [
+        {
+          "uri": "https://www.businessdailyafrica.com/bd/rss.xml",
+          "gated": false,
+          "category": "News (English)"
+        }
+      ]
+    },
+    {
+      "publication_name": "K24 Digital",
+      "publication_website_uri": "https://www.k24.digital/",
+      "category": "News (English)",
+      "publication_rss_feed_uris": [
+        {
+          "uri": "https://www.k24.digital/feed/",
+          "gated": false,
+          "category": "News (English)"
+        }
+      ]
+    },
+    {
+      "publication_name": "Capital FM",
+      "publication_website_uri": "https://capitalfm.africa/",
+      "category": "News (English)",
+      "publication_rss_feed_uris": [
+        {
+          "uri": "https://capitalfm.africa/news/feed/",
+          "gated": false,
+          "category": "News (English)"
+        }
+      ]
+    },
+    {
+      "publication_name": "Kahawa Tungu",
+      "publication_website_uri": "https://kahawatungu.com/",
+      "category": "News (English)",
+      "publication_rss_feed_uris": [
+        {
+          "uri": "https://kahawatungu.com/feed/",
+          "gated": false,
+          "category": "News (English)"
+        }
+      ]
+    },
+    {
+      "publication_name": "Nairobi Wire",
+      "publication_website_uri": "https://nairobiwire.com/",
+      "category": "News (English)",
+      "publication_rss_feed_uris": [
+        {
+          "uri": "https://nairobiwire.com/feed",
+          "gated": false,
+          "category": "News (English)"
+        }
+      ]
+    },
+    {
+      "publication_name": "Nairobi News",
+      "publication_website_uri": "https://nairobinews.co.ke/",
+      "category": "Regional News: Nairobi",
+      "publication_rss_feed_uris": [
+        {
+          "uri": "https://nairobinews.co.ke/feed/",
+          "gated": false,
+          "category": "Regional News: Nairobi"
+        }
+      ]
+    },
+    {
+      "publication_name": "KDRTV",
+      "publication_website_uri": "https://www.kdrtv.co.ke/",
+      "category": "News (English)",
+      "publication_rss_feed_uris": [
+        {
+          "uri": "https://www.kdrtv.co.ke/feed/",
+          "gated": false,
+          "category": "News (English)"
+        }
+      ]
+    },
+    {
+      "publication_name": "Gotta News",
+      "publication_website_uri": "https://gotta.news/",
+      "category": "News (English)",
+      "publication_rss_feed_uris": [
+        {
+          "uri": "https://gotta.news/feed/",
+          "gated": false,
+          "category": "News (English)"
+        }
+      ]
+    },
+    {
+      "publication_name": "KBC Swahili (Radio Taifa)",
+      "publication_website_uri": "https://swahili.kbc.co.ke",
+      "category": "News (Swahili)",
+      "publication_rss_feed_uris": [
+        {
+          "uri": "https://swahili.kbc.co.ke/feed/",
+          "gated": false,
+          "category": "News (Swahili)"
+        },
+        {
+          "uri": "https://swahili.kbc.co.ke/category/habari/feed/",
+          "gated": false,
+          "category": "News (Swahili)"
+        },
+        {
+          "uri": "https://swahili.kbc.co.ke/category/habari_kuu/feed/",
+          "gated": false,
+          "category": "News (Swahili)"
+        },
+        {
+          "uri": "https://swahili.kbc.co.ke/category/michezo/feed/",
+          "gated": false,
+          "category": "News (Swahili)"
+        }
+      ]
+    },
+    {
+      "publication_name": "Baraka FM",
+      "publication_website_uri": "https://barakafm.co.ke",
+      "category": "Regional News: Mombasa",
+      "publication_rss_feed_uris": [
+        {
+          "uri": "https://barakafm.co.ke/feed/",
+          "gated": false,
+          "category": "Regional News: Mombasa"
+        }
+      ]
+    },
+    {
+      "publication_name": "Kass Digital",
+      "publication_website_uri": "https://kassdigital.co.ke/",
+      "category": "News (Kikuyu, Luo, Kalenjin)",
+      "publication_rss_feed_uris": [
+        {
+          "uri": "https://kassdigital.co.ke/feed/",
+          "gated": false,
+          "category": "News (Kikuyu, Luo, Kalenjin)"
         }
       ]
     }
@@ -24907,6 +25570,162 @@
           "category": "Regional News: Fort Portal"
         }
       ]
+    },
+    {
+      "publication_name": "The Tower Post",
+      "publication_website_uri": "https://thetowerpost.com/",
+      "category": "News",
+      "publication_rss_feed_uris": [
+        {
+          "uri": "https://thetowerpost.com/feed",
+          "gated": false,
+          "category": "News"
+        }
+      ]
+    },
+    {
+      "publication_name": "UG Standard",
+      "publication_website_uri": "https://www.ugstandard.com/",
+      "category": "News",
+      "publication_rss_feed_uris": [
+        {
+          "uri": "https://www.ugstandard.com/feed",
+          "gated": false,
+          "category": "News"
+        }
+      ]
+    },
+    {
+      "publication_name": "Red Pepper",
+      "publication_website_uri": "https://www.redpepper.co.ug/",
+      "category": "News",
+      "publication_rss_feed_uris": [
+        {
+          "uri": "https://www.redpepper.co.ug/feed",
+          "gated": false,
+          "category": "News"
+        }
+      ]
+    },
+    {
+      "publication_name": "The Ghetto Post",
+      "publication_website_uri": "https://ghettopost.com/",
+      "category": "Regional News: Hoima",
+      "publication_rss_feed_uris": [
+        {
+          "uri": "https://ghettopost.com/feed",
+          "gated": false,
+          "category": "Regional News: Hoima"
+        }
+      ]
+    },
+    {
+      "publication_name": "Matooke Republic",
+      "publication_website_uri": "https://www.matookerepublic.com/",
+      "category": "News",
+      "publication_rss_feed_uris": [
+        {
+          "uri": "https://www.matookerepublic.com/feed",
+          "gated": false,
+          "category": "News"
+        }
+      ]
+    },
+    {
+      "publication_name": "The Nile Post",
+      "publication_website_uri": "https://thenilepost.com/",
+      "category": "News",
+      "publication_rss_feed_uris": [
+        {
+          "uri": "https://thenilepost.com/feed",
+          "gated": false,
+          "category": "News"
+        }
+      ]
+    },
+    {
+      "publication_name": "PC Tech Magazine",
+      "publication_website_uri": "https://pctechmag.com/",
+      "category": "Technology",
+      "publication_rss_feed_uris": [
+        {
+          "uri": "https://pctechmag.com/feed",
+          "gated": false,
+          "category": "Technology"
+        }
+      ]
+    },
+    {
+      "publication_name": "The Cooperator",
+      "publication_website_uri": "https://thecooperator.news/",
+      "category": "News",
+      "publication_rss_feed_uris": [
+        {
+          "uri": "https://thecooperator.news/feed",
+          "gated": false,
+          "category": "News"
+        }
+      ]
+    },
+    {
+      "publication_name": "Uganda Business News",
+      "publication_website_uri": "https://ugbusiness.com/",
+      "category": "Business",
+      "publication_rss_feed_uris": [
+        {
+          "uri": "https://ugbusiness.com/feed",
+          "gated": false,
+          "category": "Business"
+        }
+      ]
+    },
+    {
+      "publication_name": "CBS FM (Central Broadcasting Service)",
+      "publication_website_uri": "https://cbsfm.ug",
+      "category": "News (Luganda)",
+      "publication_rss_feed_uris": [
+        {
+          "uri": "https://cbsfm.ug/feed/",
+          "gated": false,
+          "category": "News (Luganda)"
+        }
+      ]
+    },
+    {
+      "publication_name": "Radio Simba",
+      "publication_website_uri": "https://www.radiosimba.ug",
+      "category": "News (Luganda)",
+      "publication_rss_feed_uris": [
+        {
+          "uri": "https://www.radiosimba.ug/feed/",
+          "gated": false,
+          "category": "News (Luganda)"
+        }
+      ]
+    },
+    {
+      "publication_name": "Greater North News Agency",
+      "publication_website_uri": "https://gnna.co.ug",
+      "category": "Regional News: Northern Uganda (Acholi/Lango)",
+      "publication_rss_feed_uris": [
+        {
+          "uri": "https://gnna.co.ug/feed/",
+          "gated": false,
+          "category": "Regional News: Northern Uganda (Acholi/Lango)"
+        }
+      ]
+    },
+    {
+      "publication_name": "East News Uganda",
+      "publication_website_uri": "https://eastnews.co.ug",
+      "category": "Regional News: Teso",
+      "publication_rss_feed_uris": [
+        {
+          "uri": "https://eastnews.co.ug/feed/",
+          "gated": false,
+          "category": "Regional News: Teso"
+        }
+      ]
     }
   ],
   "UKR": [
@@ -27290,6 +28109,443 @@
           "uri": "https://www.lowvelder.co.za/feed/",
           "gated": true,
           "category": "Regional News: Mpumalanga"
+        }
+      ]
+    },
+    {
+      "publication_name": "Maroela Media",
+      "publication_website_uri": "https://maroelamedia.co.za",
+      "category": "News (Afrikaans)",
+      "publication_rss_feed_uris": [
+        {
+          "uri": "https://maroelamedia.co.za/feed/",
+          "gated": false,
+          "category": "News (Afrikaans)"
+        },
+        {
+          "uri": "https://maroelamedia.co.za/kategorie/nuus/feed/",
+          "gated": false,
+          "category": "News (Afrikaans)"
+        }
+      ]
+    },
+    {
+      "publication_name": "Die Suid-Afrikaner",
+      "publication_website_uri": "https://diesuid-afrikaner.com",
+      "category": "News (Afrikaans)",
+      "publication_rss_feed_uris": [
+        {
+          "uri": "https://diesuid-afrikaner.com/feed/",
+          "gated": false,
+          "category": "News (Afrikaans)"
+        }
+      ]
+    },
+    {
+      "publication_name": "Die Papier",
+      "publication_website_uri": "https://diepapier.co.za",
+      "category": "News (Afrikaans)",
+      "publication_rss_feed_uris": [
+        {
+          "uri": "https://diepapier.co.za/feed/",
+          "gated": false,
+          "category": "News (Afrikaans)"
+        }
+      ]
+    },
+    {
+      "publication_name": "LitNet",
+      "publication_website_uri": "https://www.litnet.co.za",
+      "category": "News (Afrikaans)",
+      "publication_rss_feed_uris": [
+        {
+          "uri": "https://www.litnet.co.za/feed/",
+          "gated": false,
+          "category": "News (Afrikaans)"
+        }
+      ]
+    },
+    {
+      "publication_name": "Mail & Guardian",
+      "publication_website_uri": "https://mg.co.za",
+      "category": "News",
+      "publication_rss_feed_uris": [
+        {
+          "uri": "https://mg.co.za/rss/",
+          "gated": false,
+          "category": "News"
+        }
+      ]
+    },
+    {
+      "publication_name": "TimesLIVE",
+      "publication_website_uri": "https://www.timeslive.co.za",
+      "category": "News",
+      "publication_rss_feed_uris": [
+        {
+          "uri": "https://www.timeslive.co.za/arc/outboundfeeds/rss/?outputType=xml",
+          "gated": false,
+          "category": "News"
+        }
+      ]
+    },
+    {
+      "publication_name": "Daily Dispatch",
+      "publication_website_uri": "https://www.dailydispatch.co.za",
+      "category": "Regional News: Eastern Cape",
+      "publication_rss_feed_uris": [
+        {
+          "uri": "https://www.dailydispatch.co.za/arc/outboundfeeds/rss/?outputType=xml",
+          "gated": false,
+          "category": "Regional News: Eastern Cape"
+        }
+      ]
+    },
+    {
+      "publication_name": "IOL (Independent Online)",
+      "publication_website_uri": "https://www.iol.co.za",
+      "category": "News",
+      "publication_rss_feed_uris": [
+        {
+          "uri": "https://rss.iol.io/iol/news",
+          "gated": false,
+          "category": "News"
+        }
+      ]
+    },
+    {
+      "publication_name": "Cape Town ETC",
+      "publication_website_uri": "https://www.capetownetc.com",
+      "category": "Regional News: Cape Town",
+      "publication_rss_feed_uris": [
+        {
+          "uri": "https://www.capetownetc.com/feed/",
+          "gated": false,
+          "category": "Regional News: Cape Town"
+        }
+      ]
+    },
+    {
+      "publication_name": "Bizcommunity",
+      "publication_website_uri": "https://www.bizcommunity.com",
+      "category": "Business",
+      "publication_rss_feed_uris": [
+        {
+          "uri": "https://www.bizcommunity.com/rss/196/1.html",
+          "gated": false,
+          "category": "Business"
+        }
+      ]
+    },
+    {
+      "publication_name": "GroundUp",
+      "publication_website_uri": "https://groundup.org.za",
+      "category": "News",
+      "publication_rss_feed_uris": [
+        {
+          "uri": "https://groundup.org.za/sitenews/rss/",
+          "gated": false,
+          "category": "News"
+        }
+      ]
+    },
+    {
+      "publication_name": "Isolezwe lesiXhosa",
+      "publication_website_uri": "https://isolezwelesixhosa.co.za",
+      "category": "News (isiXhosa)",
+      "publication_rss_feed_uris": [
+        {
+          "uri": "https://isolezwelesixhosa.co.za/rss",
+          "gated": false,
+          "category": "News (isiXhosa)"
+        }
+      ]
+    },
+    {
+      "publication_name": "Dizindaba",
+      "publication_website_uri": "https://dizindaba.co.za",
+      "category": "News (isiXhosa)",
+      "publication_rss_feed_uris": [
+        {
+          "uri": "https://dizindaba.co.za/feed/",
+          "gated": false,
+          "category": "News (isiXhosa)"
+        }
+      ]
+    },
+    {
+      "publication_name": "EC Indaba",
+      "publication_website_uri": "https://ecindaba.co.za",
+      "category": "News (isiXhosa)",
+      "publication_rss_feed_uris": [
+        {
+          "uri": "https://ecindaba.co.za/feed/",
+          "gated": false,
+          "category": "News (isiXhosa)"
+        }
+      ]
+    },
+    {
+      "publication_name": "Vukani",
+      "publication_website_uri": "https://vukaninews.co.za",
+      "category": "Regional News: Cape Town",
+      "publication_rss_feed_uris": [
+        {
+          "uri": "https://vukaninews.co.za/rss",
+          "gated": false,
+          "category": "Regional News: Cape Town"
+        }
+      ]
+    },
+    {
+      "publication_name": "Isolezwe",
+      "publication_website_uri": "https://isolezwe.co.za",
+      "category": "News (isiZulu)",
+      "publication_rss_feed_uris": [
+        {
+          "uri": "https://isolezwe.co.za/rss",
+          "gated": false,
+          "category": "News (isiZulu)"
+        }
+      ]
+    },
+    {
+      "publication_name": "Ilanga",
+      "publication_website_uri": "https://ilanganews.co.za",
+      "category": "News (isiZulu)",
+      "publication_rss_feed_uris": [
+        {
+          "uri": "https://ilanganews.co.za/feed/",
+          "gated": false,
+          "category": "News (isiZulu)"
+        }
+      ]
+    },
+    {
+      "publication_name": "Scrolla Izindaba",
+      "publication_website_uri": "https://izindaba.scrolla.africa",
+      "category": "News (isiZulu)",
+      "publication_rss_feed_uris": [
+        {
+          "uri": "https://izindaba.scrolla.africa/feed/",
+          "gated": false,
+          "category": "News (isiZulu)"
+        }
+      ]
+    },
+    {
+      "publication_name": "Umbele",
+      "publication_website_uri": "https://umbele.co.za",
+      "category": "Business (isiZulu)",
+      "publication_rss_feed_uris": [
+        {
+          "uri": "https://umbele.co.za/feed/",
+          "gated": false,
+          "category": "Business (isiZulu)"
+        }
+      ]
+    },
+    {
+      "publication_name": "Eyethu News",
+      "publication_website_uri": "https://eyethunews.co.za",
+      "category": "Regional News: KwaZulu-Natal",
+      "publication_rss_feed_uris": [
+        {
+          "uri": "https://eyethunews.co.za/feed/",
+          "gated": false,
+          "category": "Regional News: KwaZulu-Natal"
+        }
+      ]
+    },
+    {
+      "publication_name": "Inkundla Yezindaba",
+      "publication_website_uri": "https://inkundlayezindaba.co.za",
+      "category": "Regional News: KwaZulu-Natal",
+      "publication_rss_feed_uris": [
+        {
+          "uri": "https://inkundlayezindaba.co.za/feed/",
+          "gated": false,
+          "category": "Regional News: KwaZulu-Natal"
+        }
+      ]
+    },
+    {
+      "publication_name": "KZN Namuhla",
+      "publication_website_uri": "https://kznnamuhlanews.co.za",
+      "category": "Regional News: KwaZulu-Natal",
+      "publication_rss_feed_uris": [
+        {
+          "uri": "https://kznnamuhlanews.co.za/feed/",
+          "gated": false,
+          "category": "Regional News: KwaZulu-Natal"
+        }
+      ]
+    },
+    {
+      "publication_name": "Die Vryburger",
+      "publication_website_uri": "https://dievryburger.co.za",
+      "category": "News (Afrikaans)",
+      "publication_rss_feed_uris": [
+        {
+          "uri": "https://dievryburger.co.za/feed",
+          "gated": false,
+          "category": "News (Afrikaans)"
+        }
+      ]
+    },
+    {
+      "publication_name": "The Cape Independent",
+      "publication_website_uri": "https://thecapeindependent.com",
+      "category": "Regional News: Western Cape",
+      "publication_rss_feed_uris": [
+        {
+          "uri": "https://thecapeindependent.com/feed",
+          "gated": false,
+          "category": "Regional News: Western Cape"
+        }
+      ]
+    },
+    {
+      "publication_name": "Cape Town News",
+      "publication_website_uri": "https://ctnews.co.za",
+      "category": "Regional News: Western Cape",
+      "publication_rss_feed_uris": [
+        {
+          "uri": "https://ctnews.co.za/feed",
+          "gated": false,
+          "category": "Regional News: Western Cape"
+        }
+      ]
+    },
+    {
+      "publication_name": "Rising Sun Newspapers",
+      "publication_website_uri": "https://risingsunnewspapers.co.za",
+      "category": "Regional News: KwaZulu-Natal",
+      "publication_rss_feed_uris": [
+        {
+          "uri": "https://risingsunnewspapers.co.za/feed",
+          "gated": false,
+          "category": "Regional News: KwaZulu-Natal"
+        }
+      ]
+    },
+    {
+      "publication_name": "The Herald (Eastern Cape)",
+      "publication_website_uri": "https://www.theherald.co.za",
+      "category": "Regional News: Eastern Cape",
+      "publication_rss_feed_uris": [
+        {
+          "uri": "https://www.theherald.co.za/arc/outboundfeeds/rss/?outputType=xml",
+          "gated": false,
+          "category": "Regional News: Eastern Cape"
+        }
+      ]
+    },
+    {
+      "publication_name": "Bloemfontein Courant",
+      "publication_website_uri": "https://www.bloemfonteincourant.co.za",
+      "category": "Regional News: Free State",
+      "publication_rss_feed_uris": [
+        {
+          "uri": "https://www.bloemfonteincourant.co.za/feed",
+          "gated": false,
+          "category": "Regional News: Free State"
+        }
+      ]
+    },
+    {
+      "publication_name": "SowetanLIVE",
+      "publication_website_uri": "https://www.sowetanlive.co.za",
+      "category": "News",
+      "publication_rss_feed_uris": [
+        {
+          "uri": "https://www.sowetanlive.co.za/arc/outboundfeeds/rss/?outputType=xml",
+          "gated": false,
+          "category": "News"
+        }
+      ]
+    },
+    {
+      "publication_name": "Rekord",
+      "publication_website_uri": "https://www.citizen.co.za/rekord",
+      "category": "Regional News: Pretoria",
+      "publication_rss_feed_uris": [
+        {
+          "uri": "https://www.citizen.co.za/rekord/feed",
+          "gated": true,
+          "category": "Regional News: Pretoria"
+        }
+      ]
+    },
+    {
+      "publication_name": "Rekord East",
+      "publication_website_uri": "https://rekordeast.co.za",
+      "category": "Regional News: Pretoria",
+      "publication_rss_feed_uris": [
+        {
+          "uri": "https://rekordeast.co.za/feed",
+          "gated": true,
+          "category": "Regional News: Pretoria"
+        }
+      ]
+    },
+    {
+      "publication_name": "Berea Mail",
+      "publication_website_uri": "https://bereamail.co.za",
+      "category": "Regional News: KwaZulu-Natal",
+      "publication_rss_feed_uris": [
+        {
+          "uri": "https://bereamail.co.za/feed",
+          "gated": true,
+          "category": "Regional News: KwaZulu-Natal"
+        }
+      ]
+    },
+    {
+      "publication_name": "Lowvelder",
+      "publication_website_uri": "https://lowvelder.co.za",
+      "category": "Regional News: Mpumalanga",
+      "publication_rss_feed_uris": [
+        {
+          "uri": "https://lowvelder.co.za/feed",
+          "gated": true,
+          "category": "Regional News: Mpumalanga"
+        }
+      ]
+    },
+    {
+      "publication_name": "Mpumalanga News",
+      "publication_website_uri": "https://mpumalanganews.co.za",
+      "category": "Regional News: Mpumalanga",
+      "publication_rss_feed_uris": [
+        {
+          "uri": "https://mpumalanganews.co.za/feed",
+          "gated": true,
+          "category": "Regional News: Mpumalanga"
+        }
+      ]
+    },
+    {
+      "publication_name": "Seipone Madireng",
+      "publication_website_uri": "https://seiponemadireng.co.za/",
+      "category": "News (Sesotho, Setswana, Sepedi)",
+      "publication_rss_feed_uris": [
+        {
+          "uri": "https://seiponemadireng.co.za/feed/",
+          "gated": false,
+          "category": "News (Sesotho, Setswana, Sepedi)"
+        }
+      ]
+    },
+    {
+      "publication_name": "The Guard",
+      "publication_website_uri": "https://theguard.co.za/",
+      "category": "News (Sesotho, Setswana, Sepedi)",
+      "publication_rss_feed_uris": [
+        {
+          "uri": "https://theguard.co.za/feed/",
+          "gated": false,
+          "category": "News (Sesotho, Setswana, Sepedi)"
         }
       ]
     }
@@ -31854,6 +33110,150 @@
           "uri": "https://www.jamiiforums.com/forums/-/index.rss",
           "gated": false,
           "category": "News"
+        }
+      ]
+    },
+    {
+      "publication_name": "The Tanzania Times",
+      "publication_website_uri": "https://tanzaniatimes.net/",
+      "category": "News",
+      "publication_rss_feed_uris": [
+        {
+          "uri": "https://tanzaniatimes.net/feed/",
+          "gated": false,
+          "category": "News"
+        }
+      ]
+    },
+    {
+      "publication_name": "Business Times",
+      "publication_website_uri": "https://businesstimes.co.tz/",
+      "category": "News",
+      "publication_rss_feed_uris": [
+        {
+          "uri": "https://businesstimes.co.tz/feed/",
+          "gated": false,
+          "category": "News"
+        }
+      ]
+    },
+    {
+      "publication_name": "The Chanzo",
+      "publication_website_uri": "https://thechanzo.com/",
+      "category": "News",
+      "publication_rss_feed_uris": [
+        {
+          "uri": "https://thechanzo.com/feed/",
+          "gated": false,
+          "category": "News"
+        }
+      ]
+    },
+    {
+      "publication_name": "TanzaniaInvest",
+      "publication_website_uri": "https://www.tanzaniainvest.com/",
+      "category": "News",
+      "publication_rss_feed_uris": [
+        {
+          "uri": "https://tanzaniainvest.com/feed",
+          "gated": false,
+          "category": "News"
+        }
+      ]
+    },
+    {
+      "publication_name": "Arusha News",
+      "publication_website_uri": "https://www.arushanews.co.tz/",
+      "category": "Regional News: Arusha",
+      "publication_rss_feed_uris": [
+        {
+          "uri": "https://www.arushanews.co.tz/feed/",
+          "gated": false,
+          "category": "Regional News: Arusha"
+        }
+      ]
+    },
+    {
+      "publication_name": "Sauti Kubwa",
+      "publication_website_uri": "https://sautikubwa.org/",
+      "category": "News",
+      "publication_rss_feed_uris": [
+        {
+          "uri": "https://sautikubwa.org/feed/",
+          "gated": false,
+          "category": "News"
+        }
+      ]
+    },
+    {
+      "publication_name": "HabariLeo",
+      "publication_website_uri": "https://habarileo.co.tz",
+      "category": "News (Swahili)",
+      "publication_rss_feed_uris": [
+        {
+          "uri": "https://habarileo.co.tz/feed",
+          "gated": false,
+          "category": "News (Swahili)"
+        }
+      ]
+    },
+    {
+      "publication_name": "Mzalendo",
+      "publication_website_uri": "https://mzalendo.co.tz",
+      "category": "News (Swahili)",
+      "publication_rss_feed_uris": [
+        {
+          "uri": "https://mzalendo.co.tz/feed/",
+          "gated": false,
+          "category": "News (Swahili)"
+        }
+      ]
+    },
+    {
+      "publication_name": "Wasafi Media",
+      "publication_website_uri": "https://wasafimedia.co.tz",
+      "category": "News (Swahili)",
+      "publication_rss_feed_uris": [
+        {
+          "uri": "https://wasafimedia.co.tz/feed",
+          "gated": false,
+          "category": "News (Swahili)"
+        }
+      ]
+    },
+    {
+      "publication_name": "Nukta",
+      "publication_website_uri": "https://nukta.co.tz",
+      "category": "News (Swahili)",
+      "publication_rss_feed_uris": [
+        {
+          "uri": "https://nukta.co.tz/feed",
+          "gated": false,
+          "category": "News (Swahili)"
+        }
+      ]
+    },
+    {
+      "publication_name": "Jamhuri Media",
+      "publication_website_uri": "https://www.jamhurimedia.co.tz",
+      "category": "News (Swahili)",
+      "publication_rss_feed_uris": [
+        {
+          "uri": "https://www.jamhurimedia.co.tz/feed",
+          "gated": false,
+          "category": "News (Swahili)"
+        }
+      ]
+    },
+    {
+      "publication_name": "Teknolojia (TeknoKona)",
+      "publication_website_uri": "https://teknolojia.co.tz",
+      "category": "Technology (Swahili)",
+      "publication_rss_feed_uris": [
+        {
+          "uri": "https://teknolojia.co.tz/feed",
+          "gated": false,
+          "category": "Technology (Swahili)"
         }
       ]
     }
