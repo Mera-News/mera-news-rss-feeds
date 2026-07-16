@@ -250,7 +250,11 @@ async function generateMarkdown() {
     markdown += generateCountrySection(countryCode, validatedData[countryCode]);
   });
 
-  // Prepare JSON data for active feeds only
+  // NOTE: active-feeds-auto-generated.json now contains ALL feeds (valid and
+  // invalid), each annotated with is_valid/validation_status (previously this
+  // file only contained valid-only feeds, silently dropping invalids and any
+  // publication/country left with zero survivors). Consumers should filter on
+  // the annotation themselves.
   const activeFeedsJson = {};
 
   countryCodes.forEach(countryCode => {
@@ -258,9 +262,16 @@ async function generateMarkdown() {
 
     validatedData[countryCode].forEach(pub => {
       const activeUris = pub.publication_rss_feed_uris
-        .filter(feedObj => feedObj.isValid === true || feedObj.isValid === 'bot_protected')
         .map(feedObj => {
-          const uriEntry = { uri: feedObj.uri };
+          const isValid = feedObj.isValid === true || feedObj.isValid === 'bot_protected';
+          const validationStatus = feedObj.isValid === 'bot_protected'
+            ? 'bot_protected'
+            : (feedObj.isValid === true ? 'valid' : 'invalid');
+          const uriEntry = {
+            uri: feedObj.uri,
+            is_valid: isValid,
+            validation_status: validationStatus
+          };
           if (feedObj.category) uriEntry.category = feedObj.category;
           if (feedObj.gated === true) uriEntry.gated = true;
           if (feedObj.bot_protection === true) uriEntry.bot_protection = true;
@@ -269,18 +280,14 @@ async function generateMarkdown() {
           return uriEntry;
         });
 
-      if (activeUris.length > 0) {
-        activePublications.push({
-          publication_name: pub.publication_name,
-          publication_website_uri: pub.publication_website_uri,
-          publication_rss_feed_uris: activeUris
-        });
-      }
+      activePublications.push({
+        publication_name: pub.publication_name,
+        publication_website_uri: pub.publication_website_uri,
+        publication_rss_feed_uris: activeUris
+      });
     });
 
-    if (activePublications.length > 0) {
-      activeFeedsJson[countryCode] = activePublications;
-    }
+    activeFeedsJson[countryCode] = activePublications;
   });
 
   // Add statistics block at the end
