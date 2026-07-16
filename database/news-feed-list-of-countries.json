@@ -3455,6 +3455,138 @@
           "category": "News"
         }
       ]
+    },
+    {
+      "publication_name": "Le Devoir",
+      "publication_website_uri": "https://www.ledevoir.com",
+      "category": "News (French)",
+      "publication_rss_feed_uris": [
+        {
+          "uri": "https://www.ledevoir.com/rss/manchettes.xml",
+          "gated": false,
+          "category": "News (French)"
+        }
+      ]
+    },
+    {
+      "publication_name": "La Presse",
+      "publication_website_uri": "https://www.lapresse.ca",
+      "category": "News (French)",
+      "publication_rss_feed_uris": [
+        {
+          "uri": "https://www.lapresse.ca/actualites/rss",
+          "gated": false,
+          "category": "News (French)"
+        }
+      ]
+    },
+    {
+      "publication_name": "Le Journal de Montréal",
+      "publication_website_uri": "https://www.journaldemontreal.com",
+      "category": "News (French)",
+      "publication_rss_feed_uris": [
+        {
+          "uri": "https://www.journaldemontreal.com/rss.xml",
+          "gated": false,
+          "category": "News (French)"
+        }
+      ]
+    },
+    {
+      "publication_name": "Les Affaires",
+      "publication_website_uri": "https://www.lesaffaires.com",
+      "category": "News (French)",
+      "publication_rss_feed_uris": [
+        {
+          "uri": "https://www.lesaffaires.com/feed/",
+          "gated": false,
+          "category": "News (French)"
+        }
+      ]
+    },
+    {
+      "publication_name": "La Tribune",
+      "publication_website_uri": "https://www.latribune.ca",
+      "category": "Regional News: Sherbrooke",
+      "publication_rss_feed_uris": [
+        {
+          "uri": "https://www.latribune.ca/arc/outboundfeeds/rss/?outputType=xml",
+          "gated": false,
+          "category": "Regional News: Sherbrooke"
+        }
+      ]
+    },
+    {
+      "publication_name": "La Voix de l'Est",
+      "publication_website_uri": "https://www.lavoixdelest.ca",
+      "category": "Regional News: Granby",
+      "publication_rss_feed_uris": [
+        {
+          "uri": "https://www.lavoixdelest.ca/arc/outboundfeeds/rss/?outputType=xml",
+          "gated": false,
+          "category": "Regional News: Granby"
+        }
+      ]
+    },
+    {
+      "publication_name": "Le Quotidien",
+      "publication_website_uri": "https://www.lequotidien.com",
+      "category": "Regional News: Saguenay",
+      "publication_rss_feed_uris": [
+        {
+          "uri": "https://www.lequotidien.com/arc/outboundfeeds/rss/?outputType=xml",
+          "gated": false,
+          "category": "Regional News: Saguenay"
+        }
+      ]
+    },
+    {
+      "publication_name": "Le Droit",
+      "publication_website_uri": "https://www.ledroit.com",
+      "category": "Regional News: Ottawa-Gatineau",
+      "publication_rss_feed_uris": [
+        {
+          "uri": "https://www.ledroit.com/arc/outboundfeeds/rss/?outputType=xml",
+          "gated": false,
+          "category": "Regional News: Ottawa-Gatineau"
+        }
+      ]
+    },
+    {
+      "publication_name": "L'Express (Toronto)",
+      "publication_website_uri": "https://l-express.ca",
+      "category": "Regional News: Toronto",
+      "publication_rss_feed_uris": [
+        {
+          "uri": "https://l-express.ca/feed/",
+          "gated": false,
+          "category": "Regional News: Toronto"
+        }
+      ]
+    },
+    {
+      "publication_name": "ONFR",
+      "publication_website_uri": "https://onfr.tfo.org",
+      "category": "Regional News: Ontario français",
+      "publication_rss_feed_uris": [
+        {
+          "uri": "https://onfr.tfo.org/feed/",
+          "gated": false,
+          "category": "Regional News: Ontario français"
+        }
+      ]
+    },
+    {
+      "publication_name": "Francopresse",
+      "publication_website_uri": "https://francopresse.ca",
+      "category": "News (French)",
+      "publication_rss_feed_uris": [
+        {
+          "uri": "https://francopresse.ca/feed/",
+          "gated": false,
+          "category": "News (French)"
+        }
+      ]
     }
   ],
   "CHE": [
@@ -3647,6 +3779,149 @@
           "uri": "https://rss.sina.com.cn/news/marquee/ddt.xml",
           "gated": false,
           "category": "News"
+        }
+      ]
+    },
+    {
+      "publication_name": "China Daily",
+      "publication_website_uri": "https://www.chinadaily.com.cn",
+      "category": "News (English)",
+      "publication_rss_feed_uris": [
+        {
+          "uri": "https://www.chinadaily.com.cn/rss/china_rss.xml",
+          "gated": false,
+          "category": "News (English)"
+        },
+        {
+          "uri": "https://www.chinadaily.com.cn/rss/world_rss.xml",
+          "gated": false,
+          "category": "News (English)"
+        }
+      ]
+    },
+    {
+      "publication_name": "ECNS (China News Service)",
+      "publication_website_uri": "https://www.ecns.cn",
+      "category": "News (English)",
+      "publication_rss_feed_uris": [
+        {
+          "uri": "https://www.ecns.cn/rss/rss.xml",
+          "gated": false,
+          "category": "News (English)"
+        }
+      ]
+    },
+    {
+      "publication_name": "Global Times",
+      "publication_website_uri": "https://www.globaltimes.cn",
+      "category": "News (English)",
+      "publication_rss_feed_uris": [
+        {
+          "uri": "https://www.globaltimes.cn/rss/outbrain.xml",
+          "gated": false,
+          "category": "News (English)"
+        }
+      ]
+    },
+    {
+      "publication_name": "Sixth Tone",
+      "publication_website_uri": "https://www.sixthtone.com",
+      "category": "News (English)",
+      "publication_rss_feed_uris": [
+        {
+          "uri": "https://www.sixthtone.com/rss",
+          "gated": false,
+          "category": "News (English)"
+        }
+      ]
+    },
+    {
+      "publication_name": "CGTN",
+      "publication_website_uri": "https://www.cgtn.com",
+      "category": "News (English)",
+      "publication_rss_feed_uris": [
+        {
+          "uri": "https://www.cgtn.com/subscribe/rss/section/china.xml",
+          "gated": false,
+          "category": "News (English)"
+        },
+        {
+          "uri": "https://www.cgtn.com/subscribe/rss/section/world.xml",
+          "gated": false,
+          "category": "News (English)"
+        }
+      ]
+    },
+    {
+      "publication_name": "中国新闻网 (China News)",
+      "publication_website_uri": "https://www.chinanews.com.cn",
+      "category": "News (Chinese)",
+      "publication_rss_feed_uris": [
+        {
+          "uri": "https://www.chinanews.com.cn/rss/scroll-news.xml",
+          "gated": false,
+          "category": "News (Chinese)"
+        },
+        {
+          "uri": "https://www.chinanews.com.cn/rss/importnews.xml",
+          "gated": false,
+          "category": "News (Chinese)"
+        },
+        {
+          "uri": "https://www.chinanews.com.cn/rss/china.xml",
+          "gated": false,
+          "category": "News (Chinese)"
+        },
+        {
+          "uri": "https://www.chinanews.com.cn/rss/world.xml",
+          "gated": false,
+          "category": "News (Chinese)"
+        },
+        {
+          "uri": "https://www.chinanews.com.cn/rss/finance.xml",
+          "gated": false,
+          "category": "News (Chinese)"
+        }
+      ]
+    },
+    {
+      "publication_name": "36氪 (36Kr)",
+      "publication_website_uri": "https://www.36kr.com",
+      "category": "Technology",
+      "publication_rss_feed_uris": [
+        {
+          "uri": "https://www.36kr.com/feed",
+          "gated": false,
+          "category": "Technology"
+        }
+      ]
+    },
+    {
+      "publication_name": "China News Service",
+      "publication_website_uri": "https://www.chinanews.com.cn",
+      "category": "News (Chinese)",
+      "publication_rss_feed_uris": [
+        {
+          "uri": "https://www.chinanews.com.cn/rss/society.xml",
+          "gated": false,
+          "category": "News (Chinese)"
+        },
+        {
+          "uri": "https://www.chinanews.com.cn/rss/politics.xml",
+          "gated": false,
+          "category": "News (Chinese)"
+        }
+      ]
+    },
+    {
+      "publication_name": "China News Service - Greater Bay Area",
+      "publication_website_uri": "https://www.chinanews.com.cn",
+      "category": "Regional News: Greater Bay Area (Guangdong)",
+      "publication_rss_feed_uris": [
+        {
+          "uri": "https://www.chinanews.com.cn/rss/dwq.xml",
+          "gated": false,
+          "category": "Regional News: Greater Bay Area (Guangdong)"
         }
       ]
     }
@@ -5929,6 +6204,30 @@
           "category": "News (French)"
         }
       ]
+    },
+    {
+      "publication_name": "El Khabar",
+      "publication_website_uri": "https://www.elkhabar.com/",
+      "category": "News (Arabic)",
+      "publication_rss_feed_uris": [
+        {
+          "uri": "https://www.elkhabar.com/feed/",
+          "gated": false,
+          "category": "News (Arabic)"
+        }
+      ]
+    },
+    {
+      "publication_name": "Algerie Maintenant",
+      "publication_website_uri": "https://algeriemaintenant.dz/",
+      "category": "News (Arabic)",
+      "publication_rss_feed_uris": [
+        {
+          "uri": "https://algeriemaintenant.dz/feed/",
+          "gated": false,
+          "category": "News (Arabic)"
+        }
+      ]
     }
   ],
   "ECU": [
@@ -6245,6 +6544,138 @@
           "uri": "https://www.almasryalyoum.com/rss/rssfeeds?govid=4",
           "gated": false,
           "category": "Regional News: Alexandria"
+        }
+      ]
+    },
+    {
+      "publication_name": "اليوم السابع (Youm7)",
+      "publication_website_uri": "https://www.youm7.com",
+      "category": "News (Arabic)",
+      "publication_rss_feed_uris": [
+        {
+          "uri": "https://www.youm7.com/Rss/SectionRss?SectionID=65",
+          "gated": false,
+          "category": "News (Arabic)"
+        }
+      ]
+    },
+    {
+      "publication_name": "مصراوي (Masrawy)",
+      "publication_website_uri": "https://www.masrawy.com",
+      "category": "News (Arabic)",
+      "publication_rss_feed_uris": [
+        {
+          "uri": "https://www.masrawy.com/rss/feed/35",
+          "gated": false,
+          "category": "News (Arabic)"
+        }
+      ]
+    },
+    {
+      "publication_name": "فيتو (Veto Gate)",
+      "publication_website_uri": "https://www.vetogate.com",
+      "category": "News (Arabic)",
+      "publication_rss_feed_uris": [
+        {
+          "uri": "https://www.vetogate.com/rss.aspx",
+          "gated": false,
+          "category": "News (Arabic)"
+        }
+      ]
+    },
+    {
+      "publication_name": "الفجر (El-Fagr)",
+      "publication_website_uri": "https://www.elfagr.org",
+      "category": "News (Arabic)",
+      "publication_rss_feed_uris": [
+        {
+          "uri": "https://www.elfagr.org/rss.aspx",
+          "gated": false,
+          "category": "News (Arabic)"
+        }
+      ]
+    },
+    {
+      "publication_name": "البوابة نيوز (Al-Bawaba News)",
+      "publication_website_uri": "https://www.albawabhnews.com",
+      "category": "News (Arabic)",
+      "publication_rss_feed_uris": [
+        {
+          "uri": "https://www.albawabhnews.com/rss.aspx",
+          "gated": true,
+          "category": "News (Arabic)"
+        }
+      ]
+    },
+    {
+      "publication_name": "Daily News Egypt",
+      "publication_website_uri": "https://www.dailynewsegypt.com",
+      "category": "News",
+      "publication_rss_feed_uris": [
+        {
+          "uri": "https://www.dailynewsegypt.com/feed/",
+          "gated": false,
+          "category": "News"
+        }
+      ]
+    },
+    {
+      "publication_name": "Egypt Independent",
+      "publication_website_uri": "https://www.egyptindependent.com",
+      "category": "News",
+      "publication_rss_feed_uris": [
+        {
+          "uri": "https://www.egyptindependent.com/feed/",
+          "gated": false,
+          "category": "News"
+        }
+      ]
+    },
+    {
+      "publication_name": "Mada Masr",
+      "publication_website_uri": "https://www.madamasr.com/en/",
+      "category": "News",
+      "publication_rss_feed_uris": [
+        {
+          "uri": "https://www.madamasr.com/en/feed/",
+          "gated": false,
+          "category": "News"
+        }
+      ]
+    },
+    {
+      "publication_name": "Egyptian Streets",
+      "publication_website_uri": "https://egyptianstreets.com",
+      "category": "News",
+      "publication_rss_feed_uris": [
+        {
+          "uri": "https://egyptianstreets.com/feed/",
+          "gated": false,
+          "category": "News"
+        }
+      ]
+    },
+    {
+      "publication_name": "Egypt Daily News",
+      "publication_website_uri": "https://egyptdailynews.com",
+      "category": "News",
+      "publication_rss_feed_uris": [
+        {
+          "uri": "https://egyptdailynews.com/feed/",
+          "gated": false,
+          "category": "News"
+        }
+      ]
+    },
+    {
+      "publication_name": "Le Progrès Égyptien",
+      "publication_website_uri": "https://www.progres.net.eg",
+      "category": "News (French)",
+      "publication_rss_feed_uris": [
+        {
+          "uri": "https://www.progres.net.eg/feed/",
+          "gated": false,
+          "category": "News (French)"
         }
       ]
     }
@@ -11604,6 +12035,539 @@
           "uri": "https://www.wartaekonomi.co.id/feed",
           "gated": false,
           "category": "News"
+        }
+      ]
+    },
+    {
+      "publication_name": "Panjebar Semangat",
+      "publication_website_uri": "https://panjebarsemangat.id",
+      "category": "News (Javanese)",
+      "publication_rss_feed_uris": [
+        {
+          "uri": "https://panjebarsemangat.id/feed/",
+          "gated": false,
+          "category": "News (Javanese)"
+        }
+      ]
+    },
+    {
+      "publication_name": "Antara",
+      "publication_website_uri": "https://www.antaranews.com/",
+      "category": "News (Indonesian)",
+      "publication_rss_feed_uris": [
+        {
+          "uri": "https://www.antaranews.com/rss/terkini.xml",
+          "gated": false,
+          "category": "News (Indonesian)"
+        }
+      ]
+    },
+    {
+      "publication_name": "Detik",
+      "publication_website_uri": "https://www.detik.com/",
+      "category": "News (Indonesian)",
+      "publication_rss_feed_uris": [
+        {
+          "uri": "https://news.detik.com/rss",
+          "gated": false,
+          "category": "News (Indonesian)"
+        },
+        {
+          "uri": "https://finance.detik.com/rss",
+          "gated": false,
+          "category": "News (Indonesian)"
+        }
+      ]
+    },
+    {
+      "publication_name": "Tempo",
+      "publication_website_uri": "https://www.tempo.co/",
+      "category": "News (Indonesian)",
+      "publication_rss_feed_uris": [
+        {
+          "uri": "https://rss.tempo.co/nasional",
+          "gated": false,
+          "category": "News (Indonesian)"
+        }
+      ]
+    },
+    {
+      "publication_name": "Okezone",
+      "publication_website_uri": "https://www.okezone.com/",
+      "category": "News (Indonesian)",
+      "publication_rss_feed_uris": [
+        {
+          "uri": "https://sindikasi.okezone.com/index.php/rss/0/RSS2.0",
+          "gated": false,
+          "category": "News (Indonesian)"
+        }
+      ]
+    },
+    {
+      "publication_name": "Katadata",
+      "publication_website_uri": "https://katadata.co.id/",
+      "category": "News (Indonesian)",
+      "publication_rss_feed_uris": [
+        {
+          "uri": "https://katadata.co.id/rss",
+          "gated": false,
+          "category": "News (Indonesian)"
+        }
+      ]
+    },
+    {
+      "publication_name": "Media Indonesia",
+      "publication_website_uri": "https://mediaindonesia.com/",
+      "category": "News (Indonesian)",
+      "publication_rss_feed_uris": [
+        {
+          "uri": "https://mediaindonesia.com/rss/all",
+          "gated": false,
+          "category": "News (Indonesian)"
+        }
+      ]
+    },
+    {
+      "publication_name": "JPNN",
+      "publication_website_uri": "https://www.jpnn.com/",
+      "category": "News (Indonesian)",
+      "publication_rss_feed_uris": [
+        {
+          "uri": "https://www.jpnn.com/rss",
+          "gated": false,
+          "category": "News (Indonesian)"
+        }
+      ]
+    },
+    {
+      "publication_name": "Suara Papua",
+      "publication_website_uri": "https://suarapapua.com/",
+      "category": "Regional News: Papua",
+      "publication_rss_feed_uris": [
+        {
+          "uri": "https://suarapapua.com/feed/",
+          "gated": false,
+          "category": "Regional News: Papua"
+        }
+      ]
+    },
+    {
+      "publication_name": "Kabar Papua",
+      "publication_website_uri": "https://kabarpapua.co/",
+      "category": "Regional News: Papua",
+      "publication_rss_feed_uris": [
+        {
+          "uri": "https://kabarpapua.co/feed/",
+          "gated": false,
+          "category": "Regional News: Papua"
+        }
+      ]
+    },
+    {
+      "publication_name": "Jubi",
+      "publication_website_uri": "https://jubi.id/",
+      "category": "Regional News: Papua",
+      "publication_rss_feed_uris": [
+        {
+          "uri": "https://jubi.id/feed/",
+          "gated": false,
+          "category": "Regional News: Papua"
+        }
+      ]
+    },
+    {
+      "publication_name": "Seputar Papua",
+      "publication_website_uri": "https://seputarpapua.com/",
+      "category": "Regional News: Papua",
+      "publication_rss_feed_uris": [
+        {
+          "uri": "https://seputarpapua.com/feed/",
+          "gated": false,
+          "category": "Regional News: Papua"
+        }
+      ]
+    },
+    {
+      "publication_name": "Cenderawasih Pos",
+      "publication_website_uri": "https://cenderawasihpos.jawapos.com/",
+      "category": "Regional News: Jayapura",
+      "publication_rss_feed_uris": [
+        {
+          "uri": "https://cenderawasihpos.jawapos.com/feed",
+          "gated": false,
+          "category": "Regional News: Jayapura"
+        }
+      ]
+    },
+    {
+      "publication_name": "Tribun Papua",
+      "publication_website_uri": "https://papua.tribunnews.com/",
+      "category": "Regional News: Papua",
+      "publication_rss_feed_uris": [
+        {
+          "uri": "https://papua.tribunnews.com/rss",
+          "gated": false,
+          "category": "Regional News: Papua"
+        }
+      ]
+    },
+    {
+      "publication_name": "Tribun Sorong",
+      "publication_website_uri": "https://sorong.tribunnews.com/",
+      "category": "Regional News: Papua Barat",
+      "publication_rss_feed_uris": [
+        {
+          "uri": "https://sorong.tribunnews.com/rss",
+          "gated": false,
+          "category": "Regional News: Papua Barat"
+        }
+      ]
+    },
+    {
+      "publication_name": "Suara Kalbar",
+      "publication_website_uri": "https://www.suarakalbar.co.id/",
+      "category": "Regional News: Kalimantan Barat",
+      "publication_rss_feed_uris": [
+        {
+          "uri": "https://www.suarakalbar.co.id/feed/",
+          "gated": false,
+          "category": "Regional News: Kalimantan Barat"
+        }
+      ]
+    },
+    {
+      "publication_name": "Banjarmasin Post",
+      "publication_website_uri": "https://banjarmasin.tribunnews.com/",
+      "category": "Regional News: Banjarmasin",
+      "publication_rss_feed_uris": [
+        {
+          "uri": "https://banjarmasin.tribunnews.com/rss",
+          "gated": false,
+          "category": "Regional News: Banjarmasin"
+        }
+      ]
+    },
+    {
+      "publication_name": "Tribun Pontianak",
+      "publication_website_uri": "https://pontianak.tribunnews.com/",
+      "category": "Regional News: Pontianak",
+      "publication_rss_feed_uris": [
+        {
+          "uri": "https://pontianak.tribunnews.com/rss",
+          "gated": false,
+          "category": "Regional News: Pontianak"
+        }
+      ]
+    },
+    {
+      "publication_name": "Tribun Kaltim",
+      "publication_website_uri": "https://tribunkaltim.co/",
+      "category": "Regional News: Kalimantan Timur",
+      "publication_rss_feed_uris": [
+        {
+          "uri": "https://tribunkaltim.co/rss",
+          "gated": false,
+          "category": "Regional News: Kalimantan Timur"
+        }
+      ]
+    },
+    {
+      "publication_name": "Tribun Kalteng",
+      "publication_website_uri": "https://kalteng.tribunnews.com/",
+      "category": "Regional News: Kalimantan Tengah",
+      "publication_rss_feed_uris": [
+        {
+          "uri": "https://kalteng.tribunnews.com/rss",
+          "gated": false,
+          "category": "Regional News: Kalimantan Tengah"
+        }
+      ]
+    },
+    {
+      "publication_name": "Fajar",
+      "publication_website_uri": "https://fajar.co.id/",
+      "category": "Regional News: Makassar",
+      "publication_rss_feed_uris": [
+        {
+          "uri": "https://fajar.co.id/feed/",
+          "gated": false,
+          "category": "Regional News: Makassar"
+        }
+      ]
+    },
+    {
+      "publication_name": "Tribun Timur",
+      "publication_website_uri": "https://tribun-timur.com/",
+      "category": "Regional News: Makassar",
+      "publication_rss_feed_uris": [
+        {
+          "uri": "https://tribun-timur.com/rss",
+          "gated": false,
+          "category": "Regional News: Makassar"
+        }
+      ]
+    },
+    {
+      "publication_name": "Kabar Makassar",
+      "publication_website_uri": "https://www.kabarmakassar.com/",
+      "category": "Regional News: Makassar",
+      "publication_rss_feed_uris": [
+        {
+          "uri": "https://www.kabarmakassar.com/feed/",
+          "gated": false,
+          "category": "Regional News: Makassar"
+        }
+      ]
+    },
+    {
+      "publication_name": "Teras Sulsel",
+      "publication_website_uri": "https://terassulsel.id/",
+      "category": "Regional News: Sulawesi Selatan",
+      "publication_rss_feed_uris": [
+        {
+          "uri": "https://terassulsel.id/feed/",
+          "gated": false,
+          "category": "Regional News: Sulawesi Selatan"
+        }
+      ]
+    },
+    {
+      "publication_name": "Tribun Manado",
+      "publication_website_uri": "https://manado.tribunnews.com/",
+      "category": "Regional News: Manado",
+      "publication_rss_feed_uris": [
+        {
+          "uri": "https://manado.tribunnews.com/rss",
+          "gated": false,
+          "category": "Regional News: Manado"
+        }
+      ]
+    },
+    {
+      "publication_name": "Tribun Palu",
+      "publication_website_uri": "https://palu.tribunnews.com/",
+      "category": "Regional News: Palu",
+      "publication_rss_feed_uris": [
+        {
+          "uri": "https://palu.tribunnews.com/rss",
+          "gated": false,
+          "category": "Regional News: Palu"
+        }
+      ]
+    },
+    {
+      "publication_name": "Tribun Sultra",
+      "publication_website_uri": "https://sultra.tribunnews.com/",
+      "category": "Regional News: Sulawesi Tenggara",
+      "publication_rss_feed_uris": [
+        {
+          "uri": "https://sultra.tribunnews.com/rss",
+          "gated": false,
+          "category": "Regional News: Sulawesi Tenggara"
+        }
+      ]
+    },
+    {
+      "publication_name": "Tribun Gorontalo",
+      "publication_website_uri": "https://gorontalo.tribunnews.com/",
+      "category": "Regional News: Gorontalo",
+      "publication_rss_feed_uris": [
+        {
+          "uri": "https://gorontalo.tribunnews.com/rss",
+          "gated": false,
+          "category": "Regional News: Gorontalo"
+        }
+      ]
+    },
+    {
+      "publication_name": "Tribun Sulbar",
+      "publication_website_uri": "https://sulbar.tribunnews.com/",
+      "category": "Regional News: Sulawesi Barat",
+      "publication_rss_feed_uris": [
+        {
+          "uri": "https://sulbar.tribunnews.com/rss",
+          "gated": false,
+          "category": "Regional News: Sulawesi Barat"
+        }
+      ]
+    },
+    {
+      "publication_name": "Minangkabau News",
+      "publication_website_uri": "https://minangkabaunews.com",
+      "category": "Regional News: West Sumatra",
+      "publication_rss_feed_uris": [
+        {
+          "uri": "https://minangkabaunews.com/rss",
+          "gated": false,
+          "category": "Regional News: West Sumatra"
+        }
+      ]
+    },
+    {
+      "publication_name": "Langgam.id",
+      "publication_website_uri": "https://langgam.id",
+      "category": "Regional News: West Sumatra",
+      "publication_rss_feed_uris": [
+        {
+          "uri": "https://langgam.id/feed/",
+          "gated": false,
+          "category": "Regional News: West Sumatra"
+        }
+      ]
+    },
+    {
+      "publication_name": "KlikPositif",
+      "publication_website_uri": "https://klikpositif.com",
+      "category": "Regional News: West Sumatra",
+      "publication_rss_feed_uris": [
+        {
+          "uri": "https://klikpositif.com/feed/",
+          "gated": false,
+          "category": "Regional News: West Sumatra"
+        }
+      ]
+    },
+    {
+      "publication_name": "Rakyat Sumbar",
+      "publication_website_uri": "https://rakyatsumbar.id",
+      "category": "Regional News: West Sumatra",
+      "publication_rss_feed_uris": [
+        {
+          "uri": "https://rakyatsumbar.id/feed/",
+          "gated": false,
+          "category": "Regional News: West Sumatra"
+        }
+      ]
+    },
+    {
+      "publication_name": "Riau Online",
+      "publication_website_uri": "https://www.riauonline.co.id",
+      "category": "Regional News: Riau",
+      "publication_rss_feed_uris": [
+        {
+          "uri": "https://www.riauonline.co.id/rss",
+          "gated": false,
+          "category": "Regional News: Riau"
+        }
+      ]
+    },
+    {
+      "publication_name": "HalloRiau",
+      "publication_website_uri": "https://www.halloriau.com",
+      "category": "Regional News: Riau",
+      "publication_rss_feed_uris": [
+        {
+          "uri": "https://www.halloriau.com/rss.xml",
+          "gated": false,
+          "category": "Regional News: Riau"
+        }
+      ]
+    },
+    {
+      "publication_name": "GoRiau",
+      "publication_website_uri": "https://www.goriau.com",
+      "category": "Regional News: Riau",
+      "publication_rss_feed_uris": [
+        {
+          "uri": "https://www.goriau.com/rss/berita.xml",
+          "gated": false,
+          "category": "Regional News: Riau"
+        }
+      ]
+    },
+    {
+      "publication_name": "Dialeksis",
+      "publication_website_uri": "https://www.dialeksis.com",
+      "category": "Regional News: Aceh",
+      "publication_rss_feed_uris": [
+        {
+          "uri": "https://www.dialeksis.com/rss",
+          "gated": false,
+          "category": "Regional News: Aceh"
+        }
+      ]
+    },
+    {
+      "publication_name": "Medan Bisnis Daily",
+      "publication_website_uri": "https://www.medanbisnisdaily.com",
+      "category": "Regional News: North Sumatra",
+      "publication_rss_feed_uris": [
+        {
+          "uri": "https://www.medanbisnisdaily.com/rss",
+          "gated": false,
+          "category": "Regional News: North Sumatra"
+        }
+      ]
+    },
+    {
+      "publication_name": "Tobasatu",
+      "publication_website_uri": "https://tobasatu.com",
+      "category": "Regional News: North Sumatra",
+      "publication_rss_feed_uris": [
+        {
+          "uri": "https://tobasatu.com/feed/",
+          "gated": false,
+          "category": "Regional News: North Sumatra"
+        }
+      ]
+    },
+    {
+      "publication_name": "Kabar Medan",
+      "publication_website_uri": "https://kabarmedan.com",
+      "category": "Regional News: North Sumatra",
+      "publication_rss_feed_uris": [
+        {
+          "uri": "https://kabarmedan.com/feed/",
+          "gated": false,
+          "category": "Regional News: North Sumatra"
+        }
+      ]
+    },
+    {
+      "publication_name": "Sumsel Update",
+      "publication_website_uri": "https://sumselupdate.com",
+      "category": "Regional News: South Sumatra",
+      "publication_rss_feed_uris": [
+        {
+          "uri": "https://sumselupdate.com/feed/",
+          "gated": false,
+          "category": "Regional News: South Sumatra"
+        }
+      ]
+    },
+    {
+      "publication_name": "Berita Pagi",
+      "publication_website_uri": "https://beritapagi.co.id",
+      "category": "Regional News: South Sumatra",
+      "publication_rss_feed_uris": [
+        {
+          "uri": "https://beritapagi.co.id/feed/",
+          "gated": false,
+          "category": "Regional News: South Sumatra"
+        }
+      ]
+    },
+    {
+      "publication_name": "Kupas Tuntas",
+      "publication_website_uri": "https://www.kupastuntas.co",
+      "category": "Regional News: Lampung",
+      "publication_rss_feed_uris": [
+        {
+          "uri": "https://www.kupastuntas.co/feed/",
+          "gated": false,
+          "category": "Regional News: Lampung"
+        }
+      ]
+    },
+    {
+      "publication_name": "Sunda News",
+      "publication_website_uri": "https://sundanews.id",
+      "category": "News (Sundanese)",
+      "publication_rss_feed_uris": [
+        {
+          "uri": "https://sundanews.id/feed/",
+          "gated": false,
+          "category": "News (Sundanese)"
         }
       ]
     }
@@ -17117,6 +18081,66 @@
           "category": "News"
         }
       ]
+    },
+    {
+      "publication_name": "Ean Libya",
+      "publication_website_uri": "https://www.eanlibya.com",
+      "category": "News (Arabic)",
+      "publication_rss_feed_uris": [
+        {
+          "uri": "https://www.eanlibya.com/feed",
+          "gated": false,
+          "category": "News (Arabic)"
+        }
+      ]
+    },
+    {
+      "publication_name": "Al Saaa 24",
+      "publication_website_uri": "https://www.alsaaa24.com",
+      "category": "News (Arabic)",
+      "publication_rss_feed_uris": [
+        {
+          "uri": "https://www.alsaaa24.com/feed",
+          "gated": false,
+          "category": "News (Arabic)"
+        }
+      ]
+    },
+    {
+      "publication_name": "Sada",
+      "publication_website_uri": "https://sada.ly",
+      "category": "News (Arabic)",
+      "publication_rss_feed_uris": [
+        {
+          "uri": "https://sada.ly/feed",
+          "gated": false,
+          "category": "News (Arabic)"
+        }
+      ]
+    },
+    {
+      "publication_name": "Libya 24",
+      "publication_website_uri": "https://libya24.tv",
+      "category": "News (Arabic)",
+      "publication_rss_feed_uris": [
+        {
+          "uri": "https://libya24.tv/feed/",
+          "gated": false,
+          "category": "News (Arabic)"
+        }
+      ]
+    },
+    {
+      "publication_name": "Address Libya",
+      "publication_website_uri": "https://addresslibya.com",
+      "category": "News (Arabic)",
+      "publication_rss_feed_uris": [
+        {
+          "uri": "https://addresslibya.com/feed",
+          "gated": false,
+          "category": "News (Arabic)"
+        }
+      ]
     }
   ],
   "LKA": [
@@ -17222,6 +18246,215 @@
           "uri": "https://www.onlanka.com/feed",
           "gated": false,
           "category": "News"
+        }
+      ]
+    },
+    {
+      "publication_name": "Colombo Telegraph",
+      "publication_website_uri": "https://www.colombotelegraph.com",
+      "category": "News",
+      "publication_rss_feed_uris": [
+        {
+          "uri": "https://www.colombotelegraph.com/index.php/feed/",
+          "gated": false,
+          "category": "News"
+        }
+      ]
+    },
+    {
+      "publication_name": "NewsWire",
+      "publication_website_uri": "https://www.newswire.lk",
+      "category": "News",
+      "publication_rss_feed_uris": [
+        {
+          "uri": "https://www.newswire.lk/feed/",
+          "gated": false,
+          "category": "News"
+        }
+      ]
+    },
+    {
+      "publication_name": "Sri Lanka Mirror",
+      "publication_website_uri": "https://srilankamirror.com",
+      "category": "News",
+      "publication_rss_feed_uris": [
+        {
+          "uri": "https://srilankamirror.com/feed/",
+          "gated": false,
+          "category": "News"
+        }
+      ]
+    },
+    {
+      "publication_name": "Sri Lanka Brief",
+      "publication_website_uri": "https://srilankabrief.org",
+      "category": "News",
+      "publication_rss_feed_uris": [
+        {
+          "uri": "https://srilankabrief.org/feed/",
+          "gated": false,
+          "category": "News"
+        }
+      ]
+    },
+    {
+      "publication_name": "Pulse",
+      "publication_website_uri": "https://pulse.lk",
+      "category": "Lifestyle",
+      "publication_rss_feed_uris": [
+        {
+          "uri": "https://pulse.lk/feed/",
+          "gated": false,
+          "category": "Lifestyle"
+        }
+      ]
+    },
+    {
+      "publication_name": "LNW Lanka News Web",
+      "publication_website_uri": "https://www.lankanewsweb.net",
+      "category": "News",
+      "publication_rss_feed_uris": [
+        {
+          "uri": "https://www.lankanewsweb.net/feed/",
+          "gated": false,
+          "category": "News"
+        }
+      ]
+    },
+    {
+      "publication_name": "Factum",
+      "publication_website_uri": "https://factum.lk",
+      "category": "Opinion",
+      "publication_rss_feed_uris": [
+        {
+          "uri": "https://factum.lk/feed/",
+          "gated": false,
+          "category": "Opinion"
+        }
+      ]
+    },
+    {
+      "publication_name": "The Morning Telegraph",
+      "publication_website_uri": "https://themorningtelegraph.com",
+      "category": "News",
+      "publication_rss_feed_uris": [
+        {
+          "uri": "https://www.themorningtelegraph.com/feed/",
+          "gated": false,
+          "category": "News"
+        }
+      ]
+    },
+    {
+      "publication_name": "Lankadeepa",
+      "publication_website_uri": "https://www.lankadeepa.lk",
+      "category": "News (Sinhala)",
+      "publication_rss_feed_uris": [
+        {
+          "uri": "https://www.lankadeepa.lk/rss/latest_news/1",
+          "gated": false,
+          "category": "News (Sinhala)"
+        },
+        {
+          "uri": "https://www.lankadeepa.lk/rss/breaking_news/2",
+          "gated": false,
+          "category": "News (Sinhala)"
+        }
+      ]
+    },
+    {
+      "publication_name": "Divaina",
+      "publication_website_uri": "https://www.divaina.lk",
+      "category": "News (Sinhala)",
+      "publication_rss_feed_uris": [
+        {
+          "uri": "https://www.divaina.lk/feed",
+          "gated": false,
+          "category": "News (Sinhala)"
+        }
+      ]
+    },
+    {
+      "publication_name": "Dasatha Lanka News",
+      "publication_website_uri": "https://dasathalankanews.com",
+      "category": "News (Sinhala)",
+      "publication_rss_feed_uris": [
+        {
+          "uri": "https://dasathalankanews.com/feed/",
+          "gated": false,
+          "category": "News (Sinhala)"
+        }
+      ]
+    },
+    {
+      "publication_name": "Vikalpa",
+      "publication_website_uri": "https://www.vikalpa.org",
+      "category": "News (Sinhala)",
+      "publication_rss_feed_uris": [
+        {
+          "uri": "https://www.vikalpa.org/feed",
+          "gated": false,
+          "category": "News (Sinhala)"
+        }
+      ]
+    },
+    {
+      "publication_name": "Neth News",
+      "publication_website_uri": "https://www.nethnews.lk",
+      "category": "News (Sinhala)",
+      "publication_rss_feed_uris": [
+        {
+          "uri": "https://www.nethnews.lk/feed/",
+          "gated": false,
+          "category": "News (Sinhala)"
+        }
+      ]
+    },
+    {
+      "publication_name": "Lanka C News",
+      "publication_website_uri": "https://www.lankacnews.com",
+      "category": "News (Sinhala)",
+      "publication_rss_feed_uris": [
+        {
+          "uri": "https://www.lankacnews.com/feeds/posts/default",
+          "gated": false,
+          "category": "News (Sinhala)"
+        }
+      ]
+    },
+    {
+      "publication_name": "Lanka Sara",
+      "publication_website_uri": "https://lankasara.com",
+      "category": "News (Sinhala)",
+      "publication_rss_feed_uris": [
+        {
+          "uri": "https://lankasara.com/feed/",
+          "gated": false,
+          "category": "News (Sinhala)"
+        }
+      ]
+    },
+    {
+      "publication_name": "Lanka B News",
+      "publication_website_uri": "https://www.lankabnews.com",
+      "category": "News (Sinhala)",
+      "publication_rss_feed_uris": [
+        {
+          "uri": "https://www.lankabnews.com/feed/",
+          "gated": false,
+          "category": "News (Sinhala)"
+        }
+      ]
+    },
+    {
+      "publication_name": "Battinews (பட்டி நியூஸ்)",
+      "publication_website_uri": "https://www.battinews.com",
+      "category": "News (Tamil)",
+      "publication_rss_feed_uris": [
+        {
+          "uri": "https://www.battinews.com/feeds/posts/default",
+          "gated": false,
+          "category": "News (Tamil)"
         }
       ]
     }
@@ -17969,6 +19202,340 @@
           "category": "News"
         }
       ]
+    },
+    {
+      "publication_name": "Le Monde Amazigh (Amadal Amazigh)",
+      "publication_website_uri": "https://amadalamazigh.press.ma",
+      "category": "News (Tamazight)",
+      "publication_rss_feed_uris": [
+        {
+          "uri": "https://amadalamazigh.press.ma/feed/",
+          "gated": false,
+          "category": "News (Tamazight)"
+        }
+      ]
+    },
+    {
+      "publication_name": "AkalPress",
+      "publication_website_uri": "https://akalpress.com",
+      "category": "News (Tamazight)",
+      "publication_rss_feed_uris": [
+        {
+          "uri": "https://akalpress.com/feed/",
+          "gated": false,
+          "category": "News (Tamazight)"
+        },
+        {
+          "uri": "https://fr.akalpress.com/feed/",
+          "gated": false,
+          "category": "News (Tamazight)"
+        },
+        {
+          "uri": "https://en.akalpress.com/feed/",
+          "gated": false,
+          "category": "News (Tamazight)"
+        }
+      ]
+    },
+    {
+      "publication_name": "Hespress (هسبريس)",
+      "publication_website_uri": "https://www.hespress.com/",
+      "category": "News (Arabic)",
+      "publication_rss_feed_uris": [
+        {
+          "uri": "https://www.hespress.com/feed",
+          "gated": false,
+          "category": "News (Arabic)"
+        }
+      ]
+    },
+    {
+      "publication_name": "Al Akhbar (الأخبار)",
+      "publication_website_uri": "https://www.alakhbar.press.ma/",
+      "category": "News (Arabic)",
+      "publication_rss_feed_uris": [
+        {
+          "uri": "https://www.alakhbar.press.ma/feed",
+          "gated": false,
+          "category": "News (Arabic)"
+        }
+      ]
+    },
+    {
+      "publication_name": "Al3omk (العمق المغربي)",
+      "publication_website_uri": "https://al3omk.com/",
+      "category": "News (Arabic)",
+      "publication_rss_feed_uris": [
+        {
+          "uri": "https://al3omk.com/feed",
+          "gated": false,
+          "category": "News (Arabic)"
+        }
+      ]
+    },
+    {
+      "publication_name": "Assabah (الصباح)",
+      "publication_website_uri": "https://assabah.ma/",
+      "category": "News (Arabic)",
+      "publication_rss_feed_uris": [
+        {
+          "uri": "https://assabah.ma/feed",
+          "gated": false,
+          "category": "News (Arabic)"
+        }
+      ]
+    },
+    {
+      "publication_name": "Al Ittihad Al Ichtiraki (الاتحاد الاشتراكي)",
+      "publication_website_uri": "https://alittihad.info/",
+      "category": "News (Arabic)",
+      "publication_rss_feed_uris": [
+        {
+          "uri": "https://alittihad.info/feed",
+          "gated": false,
+          "category": "News (Arabic)"
+        }
+      ]
+    },
+    {
+      "publication_name": "Kifache (كيفاش)",
+      "publication_website_uri": "https://kifache.com/",
+      "category": "News (Arabic)",
+      "publication_rss_feed_uris": [
+        {
+          "uri": "https://kifache.com/feed",
+          "gated": false,
+          "category": "News (Arabic)"
+        }
+      ]
+    },
+    {
+      "publication_name": "Assahifa (الصحيفة)",
+      "publication_website_uri": "https://www.assahifa.com/",
+      "category": "News (Arabic)",
+      "publication_rss_feed_uris": [
+        {
+          "uri": "https://www.assahifa.com/feed",
+          "gated": false,
+          "category": "News (Arabic)"
+        }
+      ]
+    },
+    {
+      "publication_name": "Hihi2 (هي هي)",
+      "publication_website_uri": "https://www.hihi2.com/",
+      "category": "News (Arabic)",
+      "publication_rss_feed_uris": [
+        {
+          "uri": "https://www.hihi2.com/feed",
+          "gated": false,
+          "category": "News (Arabic)"
+        }
+      ]
+    },
+    {
+      "publication_name": "Madar21 (مدار21)",
+      "publication_website_uri": "https://madar21.com/",
+      "category": "News (Arabic)",
+      "publication_rss_feed_uris": [
+        {
+          "uri": "https://madar21.com/feed",
+          "gated": false,
+          "category": "News (Arabic)"
+        }
+      ]
+    },
+    {
+      "publication_name": "Achkayen (آشكاين)",
+      "publication_website_uri": "https://www.achkayen.com/",
+      "category": "News (Arabic)",
+      "publication_rss_feed_uris": [
+        {
+          "uri": "https://www.achkayen.com/feed",
+          "gated": false,
+          "category": "News (Arabic)"
+        }
+      ]
+    },
+    {
+      "publication_name": "Chamaly (شمالي)",
+      "publication_website_uri": "https://chamaly.ma/",
+      "category": "Regional News: Tangier-Tetouan-Al Hoceima",
+      "publication_rss_feed_uris": [
+        {
+          "uri": "https://chamaly.ma/feed",
+          "gated": false,
+          "category": "Regional News: Tangier-Tetouan-Al Hoceima"
+        }
+      ]
+    },
+    {
+      "publication_name": "Tanja News (طنجة نيوز)",
+      "publication_website_uri": "https://tanjanews.com/",
+      "category": "Regional News: Tangier",
+      "publication_rss_feed_uris": [
+        {
+          "uri": "https://tanjanews.com/feed",
+          "gated": false,
+          "category": "Regional News: Tangier"
+        }
+      ]
+    },
+    {
+      "publication_name": "Marrakech24 (مراكش24)",
+      "publication_website_uri": "https://www.marrakech24.info/",
+      "category": "Regional News: Marrakech",
+      "publication_rss_feed_uris": [
+        {
+          "uri": "https://www.marrakech24.info/feed",
+          "gated": false,
+          "category": "Regional News: Marrakech"
+        }
+      ]
+    },
+    {
+      "publication_name": "Agadir24 (أكادير24)",
+      "publication_website_uri": "https://agadir24.info/",
+      "category": "Regional News: Agadir",
+      "publication_rss_feed_uris": [
+        {
+          "uri": "https://agadir24.info/feed",
+          "gated": false,
+          "category": "Regional News: Agadir"
+        }
+      ]
+    },
+    {
+      "publication_name": "Oujda City (وجدة سيتي)",
+      "publication_website_uri": "https://oujdacity.net/",
+      "category": "Regional News: Oujda",
+      "publication_rss_feed_uris": [
+        {
+          "uri": "https://oujdacity.net/feed",
+          "gated": false,
+          "category": "Regional News: Oujda"
+        }
+      ]
+    },
+    {
+      "publication_name": "Le360 (français)",
+      "publication_website_uri": "https://fr.le360.ma/",
+      "category": "News (French)",
+      "publication_rss_feed_uris": [
+        {
+          "uri": "https://fr.le360.ma/arc/outboundfeeds/rss/?outputType=xml",
+          "gated": false,
+          "category": "News (French)"
+        }
+      ]
+    },
+    {
+      "publication_name": "Hespress Français",
+      "publication_website_uri": "https://fr.hespress.com/",
+      "category": "News (French)",
+      "publication_rss_feed_uris": [
+        {
+          "uri": "https://fr.hespress.com/feed",
+          "gated": false,
+          "category": "News (French)"
+        }
+      ]
+    },
+    {
+      "publication_name": "Aujourd'hui le Maroc",
+      "publication_website_uri": "https://aujourdhui.ma/",
+      "category": "News (French)",
+      "publication_rss_feed_uris": [
+        {
+          "uri": "https://aujourdhui.ma/feed",
+          "gated": false,
+          "category": "News (French)"
+        }
+      ]
+    },
+    {
+      "publication_name": "TelQuel",
+      "publication_website_uri": "https://telquel.ma/",
+      "category": "News (French)",
+      "publication_rss_feed_uris": [
+        {
+          "uri": "https://telquel.ma/feed",
+          "gated": false,
+          "category": "News (French)"
+        }
+      ]
+    },
+    {
+      "publication_name": "Médias24",
+      "publication_website_uri": "https://medias24.com/",
+      "category": "News (French)",
+      "publication_rss_feed_uris": [
+        {
+          "uri": "https://medias24.com/feed/",
+          "gated": false,
+          "category": "News (French)"
+        }
+      ]
+    },
+    {
+      "publication_name": "La Nouvelle Tribune",
+      "publication_website_uri": "https://lnt.ma/",
+      "category": "News (French)",
+      "publication_rss_feed_uris": [
+        {
+          "uri": "https://lnt.ma/feed/",
+          "gated": false,
+          "category": "News (French)"
+        }
+      ]
+    },
+    {
+      "publication_name": "La Vie éco",
+      "publication_website_uri": "https://www.lavieeco.com/",
+      "category": "News (French)",
+      "publication_rss_feed_uris": [
+        {
+          "uri": "https://www.lavieeco.com/feed/",
+          "gated": false,
+          "category": "News (French)"
+        }
+      ]
+    },
+    {
+      "publication_name": "Challenge",
+      "publication_website_uri": "https://www.challenge.ma/",
+      "category": "News (French)",
+      "publication_rss_feed_uris": [
+        {
+          "uri": "https://www.challenge.ma/feed/",
+          "gated": false,
+          "category": "News (French)"
+        }
+      ]
+    },
+    {
+      "publication_name": "Yabiladi",
+      "publication_website_uri": "https://www.yabiladi.com/",
+      "category": "News (French)",
+      "publication_rss_feed_uris": [
+        {
+          "uri": "https://www.yabiladi.com/rss/",
+          "gated": false,
+          "category": "News (French)"
+        }
+      ]
+    },
+    {
+      "publication_name": "Barlamane (français)",
+      "publication_website_uri": "https://barlamane.com/fr",
+      "category": "News (French)",
+      "publication_rss_feed_uris": [
+        {
+          "uri": "https://barlamane.com/fr/feed/",
+          "gated": false,
+          "category": "News (French)"
+        }
+      ]
     }
   ],
   "MCO": [
@@ -18308,6 +19875,18 @@
           "uri": "https://www.journalmadagascar.com/feed/",
           "gated": false,
           "category": "News (French)"
+        }
+      ]
+    },
+    {
+      "publication_name": "Kolo TV",
+      "publication_website_uri": "https://tv.kolo.mg",
+      "category": "News (Malagasy)",
+      "publication_rss_feed_uris": [
+        {
+          "uri": "https://tv.kolo.mg/feed/",
+          "gated": false,
+          "category": "News (Malagasy)"
         }
       ]
     }
@@ -22045,6 +23624,282 @@
           "category": "News"
         }
       ]
+    },
+    {
+      "publication_name": "Balochistan Times (بلوچی)",
+      "publication_website_uri": "https://balochistantimes.com",
+      "category": "News (Balochi)",
+      "publication_rss_feed_uris": [
+        {
+          "uri": "https://balochistantimes.com/feed/",
+          "gated": false,
+          "category": "News (Balochi)"
+        }
+      ]
+    },
+    {
+      "publication_name": "Dawn",
+      "publication_website_uri": "https://www.dawn.com/",
+      "category": "News",
+      "publication_rss_feed_uris": [
+        {
+          "uri": "https://www.dawn.com/feeds/home",
+          "gated": false,
+          "category": "News"
+        }
+      ]
+    },
+    {
+      "publication_name": "Business Recorder",
+      "publication_website_uri": "https://www.brecorder.com/",
+      "category": "News",
+      "publication_rss_feed_uris": [
+        {
+          "uri": "https://www.brecorder.com/feeds/latest-news",
+          "gated": false,
+          "category": "News"
+        }
+      ]
+    },
+    {
+      "publication_name": "ARY News",
+      "publication_website_uri": "https://arynews.tv/",
+      "category": "News",
+      "publication_rss_feed_uris": [
+        {
+          "uri": "https://arynews.tv/feed/",
+          "gated": false,
+          "category": "News"
+        }
+      ]
+    },
+    {
+      "publication_name": "ProPakistani",
+      "publication_website_uri": "https://propakistani.pk/",
+      "category": "News",
+      "publication_rss_feed_uris": [
+        {
+          "uri": "https://propakistani.pk/feed/",
+          "gated": false,
+          "category": "News"
+        }
+      ]
+    },
+    {
+      "publication_name": "Arab News Pakistan",
+      "publication_website_uri": "https://www.arabnews.pk/",
+      "category": "News",
+      "publication_rss_feed_uris": [
+        {
+          "uri": "https://www.arabnews.pk/rss.xml",
+          "gated": false,
+          "category": "News"
+        }
+      ]
+    },
+    {
+      "publication_name": "Daily Pakistan (English)",
+      "publication_website_uri": "https://en.dailypakistan.com.pk/",
+      "category": "News",
+      "publication_rss_feed_uris": [
+        {
+          "uri": "https://en.dailypakistan.com.pk/feed",
+          "gated": false,
+          "category": "News"
+        }
+      ]
+    },
+    {
+      "publication_name": "Aaj News",
+      "publication_website_uri": "https://www.aaj.tv/",
+      "category": "News",
+      "publication_rss_feed_uris": [
+        {
+          "uri": "https://www.aaj.tv/feeds/latest-news",
+          "gated": false,
+          "category": "News"
+        }
+      ]
+    },
+    {
+      "publication_name": "Geo News",
+      "publication_website_uri": "https://www.geo.tv/",
+      "category": "News",
+      "publication_rss_feed_uris": [
+        {
+          "uri": "https://www.geo.tv/rss/1/1",
+          "gated": false,
+          "category": "News"
+        }
+      ]
+    },
+    {
+      "publication_name": "Daily Khabrain",
+      "publication_website_uri": "https://dailykhabrain.com.pk/",
+      "category": "News (Urdu, English)",
+      "publication_rss_feed_uris": [
+        {
+          "uri": "https://dailykhabrain.com.pk/feed",
+          "gated": false,
+          "category": "News (Urdu, English)"
+        }
+      ]
+    },
+    {
+      "publication_name": "ARY News Urdu",
+      "publication_website_uri": "https://urdu.arynews.tv/",
+      "category": "News (Urdu, English)",
+      "publication_rss_feed_uris": [
+        {
+          "uri": "https://urdu.arynews.tv/feed/",
+          "gated": false,
+          "category": "News (Urdu, English)"
+        }
+      ]
+    },
+    {
+      "publication_name": "Independent Urdu",
+      "publication_website_uri": "https://www.independenturdu.com/",
+      "category": "News (Urdu, English)",
+      "publication_rss_feed_uris": [
+        {
+          "uri": "https://www.independenturdu.com/rss.xml",
+          "gated": false,
+          "category": "News (Urdu, English)"
+        }
+      ]
+    },
+    {
+      "publication_name": "Daily Ausaf",
+      "publication_website_uri": "https://dailyausaf.com/",
+      "category": "News (Urdu, English)",
+      "publication_rss_feed_uris": [
+        {
+          "uri": "https://dailyausaf.com/feed/",
+          "gated": false,
+          "category": "News (Urdu, English)"
+        }
+      ]
+    },
+    {
+      "publication_name": "Daily Qudrat",
+      "publication_website_uri": "https://dailyqudrat.pk/",
+      "category": "News (Urdu, English)",
+      "publication_rss_feed_uris": [
+        {
+          "uri": "https://dailyqudrat.pk/feed/",
+          "gated": false,
+          "category": "News (Urdu, English)"
+        }
+      ]
+    },
+    {
+      "publication_name": "Khyber News (Pashto)",
+      "publication_website_uri": "https://pashto.khybernews.tv/",
+      "category": "News (Pashto)",
+      "publication_rss_feed_uris": [
+        {
+          "uri": "https://pashto.khybernews.tv/feed/",
+          "gated": false,
+          "category": "News (Pashto)"
+        }
+      ]
+    },
+    {
+      "publication_name": "APP Pashto (Associated Press of Pakistan)",
+      "publication_website_uri": "https://pashto.app.com.pk/pashto/",
+      "category": "News (Pashto)",
+      "publication_rss_feed_uris": [
+        {
+          "uri": "https://pashto.app.com.pk/pashto/feed/",
+          "gated": false,
+          "category": "News (Pashto)"
+        }
+      ]
+    },
+    {
+      "publication_name": "Pashto Journal",
+      "publication_website_uri": "https://pashtojournal.com/",
+      "category": "News (Pashto)",
+      "publication_rss_feed_uris": [
+        {
+          "uri": "https://pashtojournal.com/feed/",
+          "gated": false,
+          "category": "News (Pashto)"
+        }
+      ]
+    },
+    {
+      "publication_name": "Khabroona",
+      "publication_website_uri": "https://khabroona.com/",
+      "category": "News (Pashto)",
+      "publication_rss_feed_uris": [
+        {
+          "uri": "https://khabroona.com/feed/",
+          "gated": false,
+          "category": "News (Pashto)"
+        }
+      ]
+    },
+    {
+      "publication_name": "Associated Press of Pakistan (Saraiki)",
+      "publication_website_uri": "https://saraiki.app.com.pk/saraiki/",
+      "category": "News (Punjabi, Saraiki)",
+      "publication_rss_feed_uris": [
+        {
+          "uri": "https://saraiki.app.com.pk/saraiki/feed/",
+          "gated": false,
+          "category": "News (Punjabi, Saraiki)"
+        }
+      ]
+    },
+    {
+      "publication_name": "Saraiki News (سرائیکی نیوز)",
+      "publication_website_uri": "https://saraikinews.com",
+      "category": "News (Punjabi, Saraiki)",
+      "publication_rss_feed_uris": [
+        {
+          "uri": "https://saraikinews.com/feed/",
+          "gated": false,
+          "category": "News (Punjabi, Saraiki)"
+        }
+      ]
+    },
+    {
+      "publication_name": "Awami Awaz",
+      "publication_website_uri": "https://awamiawaz.pk",
+      "category": "News (Sindhi)",
+      "publication_rss_feed_uris": [
+        {
+          "uri": "https://awamiawaz.pk/feed/",
+          "gated": false,
+          "category": "News (Sindhi)"
+        }
+      ]
+    },
+    {
+      "publication_name": "Pahenji Akhbar",
+      "publication_website_uri": "https://pahenjiakhbar.com",
+      "category": "News (Sindhi)",
+      "publication_rss_feed_uris": [
+        {
+          "uri": "https://pahenjiakhbar.com/feed/",
+          "gated": false,
+          "category": "News (Sindhi)"
+        }
+      ]
+    },
+    {
+      "publication_name": "Sindh TV News",
+      "publication_website_uri": "https://sindhtvnews.tv",
+      "category": "News (Sindhi)",
+      "publication_rss_feed_uris": [
+        {
+          "uri": "https://sindhtvnews.tv/feed/",
+          "gated": false,
+          "category": "News (Sindhi)"
+        }
+      ]
     }
   ],
   "PAN": [
@@ -22710,6 +24565,311 @@
           "uri": "https://www.konradnews.com/feed",
           "gated": false,
           "category": "News"
+        }
+      ]
+    },
+    {
+      "publication_name": "Banat (Philstar)",
+      "publication_website_uri": "https://www.philstar.com/banat",
+      "category": "News (Cebuano)",
+      "publication_rss_feed_uris": [
+        {
+          "uri": "https://www.philstar.com/rss/banat",
+          "gated": false,
+          "category": "News (Cebuano)"
+        }
+      ]
+    },
+    {
+      "publication_name": "Bombo Radyo Cebu",
+      "publication_website_uri": "https://cebu.bomboradyo.com/",
+      "category": "Regional News: Cebu",
+      "publication_rss_feed_uris": [
+        {
+          "uri": "https://cebu.bomboradyo.com/feed/",
+          "gated": false,
+          "category": "Regional News: Cebu"
+        }
+      ]
+    },
+    {
+      "publication_name": "Bombo Radyo Davao",
+      "publication_website_uri": "https://davao.bomboradyo.com/",
+      "category": "Regional News: Davao",
+      "publication_rss_feed_uris": [
+        {
+          "uri": "https://davao.bomboradyo.com/feed/",
+          "gated": false,
+          "category": "Regional News: Davao"
+        }
+      ]
+    },
+    {
+      "publication_name": "Bombo Radyo General Santos",
+      "publication_website_uri": "https://gensan.bomboradyo.com/",
+      "category": "Regional News: General Santos",
+      "publication_rss_feed_uris": [
+        {
+          "uri": "https://gensan.bomboradyo.com/feed/",
+          "gated": false,
+          "category": "Regional News: General Santos"
+        }
+      ]
+    },
+    {
+      "publication_name": "Bombo Radyo Butuan",
+      "publication_website_uri": "https://butuan.bomboradyo.com/",
+      "category": "Regional News: Butuan",
+      "publication_rss_feed_uris": [
+        {
+          "uri": "https://butuan.bomboradyo.com/feed/",
+          "gated": false,
+          "category": "Regional News: Butuan"
+        }
+      ]
+    },
+    {
+      "publication_name": "Bombo Radyo Iloilo",
+      "publication_website_uri": "https://iloilo.bomboradyo.com",
+      "category": "News (Hiligaynon)",
+      "publication_rss_feed_uris": [
+        {
+          "uri": "https://iloilo.bomboradyo.com/feed/",
+          "gated": false,
+          "category": "News (Hiligaynon)"
+        }
+      ]
+    },
+    {
+      "publication_name": "Bombo Radyo Bacolod",
+      "publication_website_uri": "https://bacolod.bomboradyo.com",
+      "category": "News (Hiligaynon)",
+      "publication_rss_feed_uris": [
+        {
+          "uri": "https://bacolod.bomboradyo.com/feed/",
+          "gated": false,
+          "category": "News (Hiligaynon)"
+        }
+      ]
+    },
+    {
+      "publication_name": "Aksyon Radyo Iloilo",
+      "publication_website_uri": "https://aksyonradyoiloilo.com.ph",
+      "category": "News (Hiligaynon)",
+      "publication_rss_feed_uris": [
+        {
+          "uri": "https://aksyonradyoiloilo.com.ph/feed/",
+          "gated": false,
+          "category": "News (Hiligaynon)"
+        }
+      ]
+    },
+    {
+      "publication_name": "Digicast Negros",
+      "publication_website_uri": "https://digicastnegros.com",
+      "category": "News (Hiligaynon)",
+      "publication_rss_feed_uris": [
+        {
+          "uri": "https://digicastnegros.com/category/balita-hiligaynon/feed/",
+          "gated": false,
+          "category": "News (Hiligaynon)"
+        },
+        {
+          "uri": "https://digicastnegros.com/feed/",
+          "gated": false,
+          "category": "News (Hiligaynon)"
+        }
+      ]
+    },
+    {
+      "publication_name": "Panay News",
+      "publication_website_uri": "https://www.panaynews.net",
+      "category": "Regional News: Western Visayas",
+      "publication_rss_feed_uris": [
+        {
+          "uri": "https://www.panaynews.net/feed/",
+          "gated": false,
+          "category": "Regional News: Western Visayas"
+        }
+      ]
+    },
+    {
+      "publication_name": "Daily Guardian",
+      "publication_website_uri": "https://www.dailyguardian.com.ph",
+      "category": "Regional News: Western Visayas",
+      "publication_rss_feed_uris": [
+        {
+          "uri": "https://www.dailyguardian.com.ph/feed/",
+          "gated": false,
+          "category": "Regional News: Western Visayas"
+        }
+      ]
+    },
+    {
+      "publication_name": "Bombo Radyo Laoag",
+      "publication_website_uri": "https://laoag.bomboradyo.com/",
+      "category": "News (Ilocano)",
+      "publication_rss_feed_uris": [
+        {
+          "uri": "https://laoag.bomboradyo.com/feed",
+          "gated": false,
+          "category": "News (Ilocano)"
+        }
+      ]
+    },
+    {
+      "publication_name": "Bombo Radyo Vigan",
+      "publication_website_uri": "https://vigan.bomboradyo.com/",
+      "category": "News (Ilocano)",
+      "publication_rss_feed_uris": [
+        {
+          "uri": "https://vigan.bomboradyo.com/feed",
+          "gated": false,
+          "category": "News (Ilocano)"
+        }
+      ]
+    },
+    {
+      "publication_name": "MindaNews",
+      "publication_website_uri": "https://mindanews.com",
+      "category": "Regional News: Mindanao",
+      "publication_rss_feed_uris": [
+        {
+          "uri": "https://mindanews.com/feed/",
+          "gated": false,
+          "category": "Regional News: Mindanao"
+        }
+      ]
+    },
+    {
+      "publication_name": "Mindanao Daily News",
+      "publication_website_uri": "https://mindanaodailynews.com",
+      "category": "Regional News: Mindanao",
+      "publication_rss_feed_uris": [
+        {
+          "uri": "https://mindanaodailynews.com/feed/",
+          "gated": false,
+          "category": "Regional News: Mindanao"
+        }
+      ]
+    },
+    {
+      "publication_name": "Davao Today",
+      "publication_website_uri": "https://davaotoday.com",
+      "category": "Regional News: Davao",
+      "publication_rss_feed_uris": [
+        {
+          "uri": "https://davaotoday.com/feed/",
+          "gated": false,
+          "category": "Regional News: Davao"
+        }
+      ]
+    },
+    {
+      "publication_name": "Edge Davao",
+      "publication_website_uri": "https://edgedavao.net",
+      "category": "Regional News: Davao",
+      "publication_rss_feed_uris": [
+        {
+          "uri": "https://edgedavao.net/feed/",
+          "gated": false,
+          "category": "Regional News: Davao"
+        }
+      ]
+    },
+    {
+      "publication_name": "Mindanao Times",
+      "publication_website_uri": "https://www.mindanaotimes.com.ph",
+      "category": "Regional News: Davao",
+      "publication_rss_feed_uris": [
+        {
+          "uri": "https://www.mindanaotimes.com.ph/feed/",
+          "gated": false,
+          "category": "Regional News: Davao"
+        }
+      ]
+    },
+    {
+      "publication_name": "Mindanao Times (mindanaotimes.net)",
+      "publication_website_uri": "https://mindanaotimes.net",
+      "category": "Regional News: Davao",
+      "publication_rss_feed_uris": [
+        {
+          "uri": "https://mindanaotimes.net/feed/",
+          "gated": false,
+          "category": "Regional News: Davao"
+        }
+      ]
+    },
+    {
+      "publication_name": "GMA News Online",
+      "publication_website_uri": "https://www.gmanetwork.com/news",
+      "category": "News",
+      "publication_rss_feed_uris": [
+        {
+          "uri": "https://data.gmanetwork.com/gno/rss/news/feed.xml",
+          "gated": false,
+          "category": "News"
+        }
+      ]
+    },
+    {
+      "publication_name": "BusinessWorld",
+      "publication_website_uri": "https://www.bworldonline.com",
+      "category": "News",
+      "publication_rss_feed_uris": [
+        {
+          "uri": "https://www.bworldonline.com/feed/",
+          "gated": false,
+          "category": "News"
+        }
+      ]
+    },
+    {
+      "publication_name": "The Manila Times",
+      "publication_website_uri": "https://www.manilatimes.net",
+      "category": "News",
+      "publication_rss_feed_uris": [
+        {
+          "uri": "https://www.manilatimes.net/news/feed/",
+          "gated": false,
+          "category": "News"
+        }
+      ]
+    },
+    {
+      "publication_name": "PhilNews.ph",
+      "publication_website_uri": "https://philnews.ph",
+      "category": "News",
+      "publication_rss_feed_uris": [
+        {
+          "uri": "https://philnews.ph/feed/",
+          "gated": false,
+          "category": "News"
+        }
+      ]
+    },
+    {
+      "publication_name": "Bombo Radyo Philippines",
+      "publication_website_uri": "https://www.bomboradyo.com",
+      "category": "News",
+      "publication_rss_feed_uris": [
+        {
+          "uri": "https://www.bomboradyo.com/feed/",
+          "gated": false,
+          "category": "News"
+        }
+      ]
+    },
+    {
+      "publication_name": "Pilipino Star Ngayon",
+      "publication_website_uri": "https://www.philstar.com/pilipino-star-ngayon",
+      "category": "News (Tagalog, English)",
+      "publication_rss_feed_uris": [
+        {
+          "uri": "https://www.philstar.com/rss/pilipino-star-ngayon/bansa",
+          "gated": false,
+          "category": "News (Tagalog, English)"
         }
       ]
     }
@@ -23993,6 +26153,246 @@
           "category": "Regional News: Sverdlovsk"
         }
       ]
+    },
+    {
+      "publication_name": "Daymohk (Даймохк)",
+      "publication_website_uri": "https://daymohk-gazet.ru",
+      "category": "News (Chechen)",
+      "publication_rss_feed_uris": [
+        {
+          "uri": "https://daymohk-gazet.ru/feed",
+          "gated": false,
+          "category": "News (Chechen)"
+        }
+      ]
+    },
+    {
+      "publication_name": "Татар-информ (Tatar-inform)",
+      "publication_website_uri": "https://tatar-inform.tatar/",
+      "category": "News (Tatar)",
+      "publication_rss_feed_uris": [
+        {
+          "uri": "https://tatar-inform.tatar/rss/news.rss",
+          "gated": false,
+          "category": "News (Tatar)"
+        }
+      ]
+    },
+    {
+      "publication_name": "Интертат (Intertat)",
+      "publication_website_uri": "https://intertat.tatar/",
+      "category": "News (Tatar)",
+      "publication_rss_feed_uris": [
+        {
+          "uri": "https://intertat.tatar/rss/news.rss",
+          "gated": false,
+          "category": "News (Tatar)"
+        }
+      ]
+    },
+    {
+      "publication_name": "Ватаным Татарстан (Vatanym Tatarstan)",
+      "publication_website_uri": "https://vatantat.ru/",
+      "category": "News (Tatar)",
+      "publication_rss_feed_uris": [
+        {
+          "uri": "https://vatantat.ru/rss/news.rss",
+          "gated": false,
+          "category": "News (Tatar)"
+        }
+      ]
+    },
+    {
+      "publication_name": "Шәһри Казан (Shahri Kazan)",
+      "publication_website_uri": "https://shahrikazan.ru/",
+      "category": "Regional News: Kazan",
+      "publication_rss_feed_uris": [
+        {
+          "uri": "https://shahrikazan.ru/rss/news.rss",
+          "gated": false,
+          "category": "Regional News: Kazan"
+        }
+      ]
+    },
+    {
+      "publication_name": "Ялкын (Yalkyn)",
+      "publication_website_uri": "https://yalkyn.ru/",
+      "category": "News (Tatar)",
+      "publication_rss_feed_uris": [
+        {
+          "uri": "https://yalkyn.ru/rss/news.rss",
+          "gated": false,
+          "category": "News (Tatar)"
+        }
+      ]
+    },
+    {
+      "publication_name": "Казан утлары (Kazan utlary)",
+      "publication_website_uri": "https://kazanutlary.ru/",
+      "category": "News (Tatar)",
+      "publication_rss_feed_uris": [
+        {
+          "uri": "https://kazanutlary.ru/rss/news.rss",
+          "gated": false,
+          "category": "News (Tatar)"
+        }
+      ]
+    },
+    {
+      "publication_name": "Сөембикә (Söembikä)",
+      "publication_website_uri": "https://syuyumbike.ru/",
+      "category": "News (Tatar)",
+      "publication_rss_feed_uris": [
+        {
+          "uri": "https://syuyumbike.ru/rss/news.rss",
+          "gated": false,
+          "category": "News (Tatar)"
+        }
+      ]
+    },
+    {
+      "publication_name": "Кыым (Kyym)",
+      "publication_website_uri": "https://kyym.ru",
+      "category": "News (Yakut)",
+      "publication_rss_feed_uris": [
+        {
+          "uri": "https://kyym.ru/sonunnar?format=feed&type=rss",
+          "gated": false,
+          "category": "News (Yakut)"
+        }
+      ]
+    },
+    {
+      "publication_name": "Саха сирэ (Sakha Sire)",
+      "publication_website_uri": "https://sakha-sire.ru",
+      "category": "News (Yakut)",
+      "publication_rss_feed_uris": [
+        {
+          "uri": "https://sakha-sire.ru/feed/",
+          "gated": false,
+          "category": "News (Yakut)"
+        }
+      ]
+    },
+    {
+      "publication_name": "Эдэрсаас (Edersaas)",
+      "publication_website_uri": "https://edersaas.ru",
+      "category": "News (Yakut)",
+      "publication_rss_feed_uris": [
+        {
+          "uri": "https://edersaas.ru/feed/",
+          "gated": false,
+          "category": "News (Yakut)"
+        }
+      ]
+    },
+    {
+      "publication_name": "Киин куорат (Kiin Kuorat)",
+      "publication_website_uri": "https://kiinkuorat.ru",
+      "category": "News (Yakut)",
+      "publication_rss_feed_uris": [
+        {
+          "uri": "https://kiinkuorat.ru/feed/rss",
+          "gated": false,
+          "category": "News (Yakut)"
+        }
+      ]
+    },
+    {
+      "publication_name": "Кэскил (Keskil)",
+      "publication_website_uri": "https://keskil14.ru",
+      "category": "News (Yakut)",
+      "publication_rss_feed_uris": [
+        {
+          "uri": "https://keskil14.ru/feed/",
+          "gated": false,
+          "category": "News (Yakut)"
+        }
+      ]
+    },
+    {
+      "publication_name": "СИА — Сахалыы сонуннар (YSIA Sakha)",
+      "publication_website_uri": "https://sakha.ysia.ru",
+      "category": "News (Yakut)",
+      "publication_rss_feed_uris": [
+        {
+          "uri": "https://sakha.ysia.ru/feed/",
+          "gated": false,
+          "category": "News (Yakut)"
+        }
+      ]
+    },
+    {
+      "publication_name": "НВК Саха (NVK Sakha)",
+      "publication_website_uri": "https://nvk-online.ru",
+      "category": "News (Yakut)",
+      "publication_rss_feed_uris": [
+        {
+          "uri": "https://nvk-online.ru/feed/",
+          "gated": false,
+          "category": "News (Yakut)"
+        }
+      ]
+    },
+    {
+      "publication_name": "ЯСИА (Yakutia Sakha Information Agency)",
+      "publication_website_uri": "https://ysia.ru",
+      "category": "Regional News: Sakha (Yakutia)",
+      "publication_rss_feed_uris": [
+        {
+          "uri": "https://ysia.ru/feed/",
+          "gated": false,
+          "category": "Regional News: Sakha (Yakutia)"
+        }
+      ]
+    },
+    {
+      "publication_name": "SakhaDay",
+      "publication_website_uri": "https://sakhaday.ru",
+      "category": "Regional News: Sakha (Yakutia)",
+      "publication_rss_feed_uris": [
+        {
+          "uri": "https://sakhaday.ru/feed",
+          "gated": false,
+          "category": "Regional News: Sakha (Yakutia)"
+        }
+      ]
+    },
+    {
+      "publication_name": "SakhaLife",
+      "publication_website_uri": "https://sakhalife.ru",
+      "category": "Regional News: Sakha (Yakutia)",
+      "publication_rss_feed_uris": [
+        {
+          "uri": "https://sakhalife.ru/feed/",
+          "gated": false,
+          "category": "Regional News: Sakha (Yakutia)"
+        }
+      ]
+    },
+    {
+      "publication_name": "Якутия Daily (Yakutia Daily)",
+      "publication_website_uri": "https://yakutia-daily.ru",
+      "category": "Regional News: Sakha (Yakutia)",
+      "publication_rss_feed_uris": [
+        {
+          "uri": "https://yakutia-daily.ru/feed/",
+          "gated": false,
+          "category": "Regional News: Sakha (Yakutia)"
+        }
+      ]
+    },
+    {
+      "publication_name": "Первое Якутское (1sn.ru)",
+      "publication_website_uri": "https://1sn.ru",
+      "category": "Regional News: Sakha (Yakutia)",
+      "publication_rss_feed_uris": [
+        {
+          "uri": "https://1sn.ru/feed/",
+          "gated": false,
+          "category": "Regional News: Sakha (Yakutia)"
+        }
+      ]
     }
   ],
   "SEN": [
@@ -24700,6 +27100,138 @@
           "uri": "https://puntlandpost.net/feed/",
           "gated": false,
           "category": "Regional News: Puntland"
+        }
+      ]
+    },
+    {
+      "publication_name": "The Somali Digest",
+      "publication_website_uri": "https://thesomalidigest.com",
+      "category": "News (English)",
+      "publication_rss_feed_uris": [
+        {
+          "uri": "https://thesomalidigest.com/feed/",
+          "gated": true,
+          "category": "News (English)"
+        }
+      ]
+    },
+    {
+      "publication_name": "Somali Guardian",
+      "publication_website_uri": "https://www.somaliguardian.com",
+      "category": "News (English)",
+      "publication_rss_feed_uris": [
+        {
+          "uri": "https://www.somaliguardian.com/feed/",
+          "gated": false,
+          "category": "News (English)"
+        }
+      ]
+    },
+    {
+      "publication_name": "Somalia Today",
+      "publication_website_uri": "https://somaliatoday.com",
+      "category": "News (English)",
+      "publication_rss_feed_uris": [
+        {
+          "uri": "https://somaliatoday.com/feed/",
+          "gated": false,
+          "category": "News (English)"
+        }
+      ]
+    },
+    {
+      "publication_name": "Somali Dispatch",
+      "publication_website_uri": "https://www.somalidispatch.com",
+      "category": "News (English)",
+      "publication_rss_feed_uris": [
+        {
+          "uri": "https://www.somalidispatch.com/feed/",
+          "gated": false,
+          "category": "News (English)"
+        }
+      ]
+    },
+    {
+      "publication_name": "Goobjoog News (English)",
+      "publication_website_uri": "https://goobjoog.com",
+      "category": "News (English)",
+      "publication_rss_feed_uris": [
+        {
+          "uri": "https://goobjoog.com/english/feed/",
+          "gated": false,
+          "category": "News (English)"
+        }
+      ]
+    },
+    {
+      "publication_name": "WardheerNews",
+      "publication_website_uri": "https://wardheernews.com",
+      "category": "News (English)",
+      "publication_rss_feed_uris": [
+        {
+          "uri": "https://wardheernews.com/feed/",
+          "gated": false,
+          "category": "News (English)"
+        }
+      ]
+    },
+    {
+      "publication_name": "Somaliland Standard",
+      "publication_website_uri": "https://somalilandstandard.com",
+      "category": "Regional News: Somaliland",
+      "publication_rss_feed_uris": [
+        {
+          "uri": "https://somalilandstandard.com/feed/",
+          "gated": false,
+          "category": "Regional News: Somaliland"
+        }
+      ]
+    },
+    {
+      "publication_name": "Somaliland Chronicle",
+      "publication_website_uri": "https://somalilandchronicle.com",
+      "category": "Regional News: Somaliland",
+      "publication_rss_feed_uris": [
+        {
+          "uri": "https://somalilandchronicle.com/feed/",
+          "gated": false,
+          "category": "Regional News: Somaliland"
+        }
+      ]
+    },
+    {
+      "publication_name": "Saxafi Media",
+      "publication_website_uri": "https://saxafimedia.com",
+      "category": "Regional News: Somaliland",
+      "publication_rss_feed_uris": [
+        {
+          "uri": "https://saxafimedia.com/feed/",
+          "gated": false,
+          "category": "Regional News: Somaliland"
+        }
+      ]
+    },
+    {
+      "publication_name": "Goobjoog News",
+      "publication_website_uri": "https://goobjoog.com",
+      "category": "News (Somali)",
+      "publication_rss_feed_uris": [
+        {
+          "uri": "https://goobjoog.com/feed/",
+          "gated": false,
+          "category": "News (Somali)"
+        }
+      ]
+    },
+    {
+      "publication_name": "Jowhar",
+      "publication_website_uri": "https://jowhar.com",
+      "category": "News (Somali)",
+      "publication_rss_feed_uris": [
+        {
+          "uri": "https://jowhar.com/feed/",
+          "gated": false,
+          "category": "News (Somali)"
         }
       ]
     }
@@ -25772,6 +28304,138 @@
       "publication_rss_feed_uris": [
         {
           "uri": "https://www.tunisnow.tn/feed/",
+          "gated": false,
+          "category": "News"
+        }
+      ]
+    },
+    {
+      "publication_name": "جريدة الشروق التونسية (Al Chourouk)",
+      "publication_website_uri": "https://www.alchourouk.com",
+      "category": "News (Arabic)",
+      "publication_rss_feed_uris": [
+        {
+          "uri": "https://www.alchourouk.com/rss",
+          "gated": false,
+          "category": "News (Arabic)"
+        }
+      ]
+    },
+    {
+      "publication_name": "جريدة الصريح (Assarih)",
+      "publication_website_uri": "https://assarih.com",
+      "category": "News (Arabic)",
+      "publication_rss_feed_uris": [
+        {
+          "uri": "https://assarih.com/feed/",
+          "gated": false,
+          "category": "News (Arabic)"
+        }
+      ]
+    },
+    {
+      "publication_name": "جريدة الصحافة (Essahafa)",
+      "publication_website_uri": "https://www.essahafa.tn",
+      "category": "News (Arabic)",
+      "publication_rss_feed_uris": [
+        {
+          "uri": "https://www.essahafa.tn/feed/",
+          "gated": false,
+          "category": "News (Arabic)"
+        }
+      ]
+    },
+    {
+      "publication_name": "Babnet Tunisie",
+      "publication_website_uri": "https://www.babnet.net",
+      "category": "News (Arabic)",
+      "publication_rss_feed_uris": [
+        {
+          "uri": "https://www.babnet.net/rss.php",
+          "gated": false,
+          "category": "News (Arabic)"
+        }
+      ]
+    },
+    {
+      "publication_name": "بوابة تونس (Tunigate)",
+      "publication_website_uri": "https://tunigate.net",
+      "category": "News (Arabic)",
+      "publication_rss_feed_uris": [
+        {
+          "uri": "https://tunigate.net/feed/",
+          "gated": false,
+          "category": "News (Arabic)"
+        }
+      ]
+    },
+    {
+      "publication_name": "Tunisie Telegraph",
+      "publication_website_uri": "https://tunisie-telegraph.com",
+      "category": "News (Arabic)",
+      "publication_rss_feed_uris": [
+        {
+          "uri": "https://tunisie-telegraph.com/feed/",
+          "gated": false,
+          "category": "News (Arabic)"
+        }
+      ]
+    },
+    {
+      "publication_name": "Réalités",
+      "publication_website_uri": "https://realites.com.tn",
+      "category": "News",
+      "publication_rss_feed_uris": [
+        {
+          "uri": "https://realites.com.tn/feed/",
+          "gated": false,
+          "category": "News"
+        }
+      ]
+    },
+    {
+      "publication_name": "Espace Manager",
+      "publication_website_uri": "https://espacemanager.com",
+      "category": "News",
+      "publication_rss_feed_uris": [
+        {
+          "uri": "https://espacemanager.com/feed/",
+          "gated": false,
+          "category": "News"
+        }
+      ]
+    },
+    {
+      "publication_name": "Mosaïque FM",
+      "publication_website_uri": "https://www.mosaiquefm.net",
+      "category": "News",
+      "publication_rss_feed_uris": [
+        {
+          "uri": "https://www.mosaiquefm.net/fr/rss",
+          "gated": false,
+          "category": "News"
+        }
+      ]
+    },
+    {
+      "publication_name": "Leaders",
+      "publication_website_uri": "https://www.leaders.com.tn",
+      "category": "News",
+      "publication_rss_feed_uris": [
+        {
+          "uri": "https://www.leaders.com.tn/rss",
+          "gated": false,
+          "category": "News"
+        }
+      ]
+    },
+    {
+      "publication_name": "African Manager",
+      "publication_website_uri": "https://africanmanager.com",
+      "category": "News",
+      "publication_rss_feed_uris": [
+        {
+          "uri": "https://africanmanager.com/feed/",
           "gated": false,
           "category": "News"
         }
@@ -27681,6 +30345,150 @@
           "uri": "https://www.seattletimes.com/feed/",
           "gated": true,
           "category": "Regional News: Seattle"
+        }
+      ]
+    },
+    {
+      "publication_name": "La Opinion",
+      "publication_website_uri": "https://laopinion.com",
+      "category": "Regional News: Los Angeles",
+      "publication_rss_feed_uris": [
+        {
+          "uri": "https://laopinion.com/feed/",
+          "gated": false,
+          "category": "Regional News: Los Angeles"
+        }
+      ]
+    },
+    {
+      "publication_name": "El Diario Nueva York",
+      "publication_website_uri": "https://eldiariony.com",
+      "category": "Regional News: New York",
+      "publication_rss_feed_uris": [
+        {
+          "uri": "https://eldiariony.com/feed/",
+          "gated": false,
+          "category": "Regional News: New York"
+        }
+      ]
+    },
+    {
+      "publication_name": "La Raza",
+      "publication_website_uri": "https://laraza.com",
+      "category": "Regional News: Chicago",
+      "publication_rss_feed_uris": [
+        {
+          "uri": "https://laraza.com/feed/",
+          "gated": false,
+          "category": "Regional News: Chicago"
+        }
+      ]
+    },
+    {
+      "publication_name": "La Gaceta",
+      "publication_website_uri": "https://www.lagacetanewspaper.com",
+      "category": "Regional News: Tampa",
+      "publication_rss_feed_uris": [
+        {
+          "uri": "https://www.lagacetanewspaper.com/feed/",
+          "gated": false,
+          "category": "Regional News: Tampa"
+        }
+      ]
+    },
+    {
+      "publication_name": "El Observador",
+      "publication_website_uri": "https://el-observador.com",
+      "category": "Regional News: San Jose",
+      "publication_rss_feed_uris": [
+        {
+          "uri": "https://el-observador.com/feed/",
+          "gated": false,
+          "category": "Regional News: San Jose"
+        }
+      ]
+    },
+    {
+      "publication_name": "La Noticia",
+      "publication_website_uri": "https://lanoticia.com",
+      "category": "Regional News: Charlotte",
+      "publication_rss_feed_uris": [
+        {
+          "uri": "https://lanoticia.com/feed/",
+          "gated": false,
+          "category": "Regional News: Charlotte"
+        }
+      ]
+    },
+    {
+      "publication_name": "El Tiempo Latino",
+      "publication_website_uri": "https://eltiempolatino.com",
+      "category": "Regional News: Washington DC",
+      "publication_rss_feed_uris": [
+        {
+          "uri": "https://eltiempolatino.com/feed/",
+          "gated": false,
+          "category": "Regional News: Washington DC"
+        }
+      ]
+    },
+    {
+      "publication_name": "Prensa Arizona",
+      "publication_website_uri": "https://prensaarizona.com",
+      "category": "Regional News: Phoenix",
+      "publication_rss_feed_uris": [
+        {
+          "uri": "https://prensaarizona.com/feed/",
+          "gated": false,
+          "category": "Regional News: Phoenix"
+        }
+      ]
+    },
+    {
+      "publication_name": "La Prensa",
+      "publication_website_uri": "https://laprensafl.com",
+      "category": "Regional News: Central Florida",
+      "publication_rss_feed_uris": [
+        {
+          "uri": "https://laprensafl.com/feed/",
+          "gated": false,
+          "category": "Regional News: Central Florida"
+        }
+      ]
+    },
+    {
+      "publication_name": "La Prensa Latina",
+      "publication_website_uri": "https://laprensalatina.com",
+      "category": "Regional News: Memphis",
+      "publication_rss_feed_uris": [
+        {
+          "uri": "https://laprensalatina.com/feed/",
+          "gated": false,
+          "category": "Regional News: Memphis"
+        }
+      ]
+    },
+    {
+      "publication_name": "El Latino San Diego",
+      "publication_website_uri": "https://ellatinoonline.com",
+      "category": "Regional News: San Diego",
+      "publication_rss_feed_uris": [
+        {
+          "uri": "https://ellatinoonline.com/feed/",
+          "gated": false,
+          "category": "Regional News: San Diego"
+        }
+      ]
+    },
+    {
+      "publication_name": "La Prensa de Colorado",
+      "publication_website_uri": "https://laprensadecolorado.com",
+      "category": "Regional News: Colorado",
+      "publication_rss_feed_uris": [
+        {
+          "uri": "https://laprensadecolorado.com/feed/",
+          "gated": false,
+          "category": "Regional News: Colorado"
         }
       ]
     }
@@ -32628,6 +35436,114 @@
           "gated": false
         }
       ]
+    },
+    {
+      "publication_name": "Taqadoumy - تقدمي",
+      "publication_website_uri": "https://taqadoum.mr/",
+      "category": "News (Arabic)",
+      "publication_rss_feed_uris": [
+        {
+          "uri": "https://taqadoum.mr/rss.xml",
+          "gated": false,
+          "category": "News (Arabic)"
+        }
+      ]
+    },
+    {
+      "publication_name": "Alakhbar Media - الأخبار ميديا",
+      "publication_website_uri": "https://alakhbarmedia.net/",
+      "category": "News (Arabic)",
+      "publication_rss_feed_uris": [
+        {
+          "uri": "https://alakhbarmedia.net/rss.xml",
+          "gated": false,
+          "category": "News (Arabic)"
+        }
+      ]
+    },
+    {
+      "publication_name": "El Hourriya - الحرية",
+      "publication_website_uri": "https://elhourriya.net/",
+      "category": "News (Arabic)",
+      "publication_rss_feed_uris": [
+        {
+          "uri": "https://elhourriya.net/?feed=rss2",
+          "gated": false,
+          "category": "News (Arabic)"
+        }
+      ]
+    },
+    {
+      "publication_name": "Kassataya Mauritanie",
+      "publication_website_uri": "https://kassataya.com",
+      "category": "News (French)",
+      "publication_rss_feed_uris": [
+        {
+          "uri": "https://kassataya.com/feed/",
+          "gated": false,
+          "category": "News (French)"
+        }
+      ]
+    },
+    {
+      "publication_name": "Le Calame",
+      "publication_website_uri": "https://lecalame.info",
+      "category": "News (French)",
+      "publication_rss_feed_uris": [
+        {
+          "uri": "https://lecalame.info/?q=rss.xml",
+          "gated": false,
+          "category": "News (French)"
+        }
+      ]
+    },
+    {
+      "publication_name": "Sahara Medias (édition française)",
+      "publication_website_uri": "https://fr.saharamedias.net",
+      "category": "News (French)",
+      "publication_rss_feed_uris": [
+        {
+          "uri": "https://fr.saharamedias.net/feed/",
+          "gated": false,
+          "category": "News (French)"
+        }
+      ]
+    },
+    {
+      "publication_name": "Agence Mauritanienne d'Information (AMI)",
+      "publication_website_uri": "https://ami.mr/fr",
+      "category": "News (French)",
+      "publication_rss_feed_uris": [
+        {
+          "uri": "https://ami.mr/fr/feed",
+          "gated": false,
+          "category": "News (French)"
+        }
+      ]
+    },
+    {
+      "publication_name": "Le Quotidien de Nouakchott",
+      "publication_website_uri": "https://lequotidien.mr",
+      "category": "News (French)",
+      "publication_rss_feed_uris": [
+        {
+          "uri": "https://lequotidien.mr/?feed=rss2",
+          "gated": false,
+          "category": "News (French)"
+        }
+      ]
+    },
+    {
+      "publication_name": "MADAR (édition française)",
+      "publication_website_uri": "https://fr.madar.mr",
+      "category": "News (French)",
+      "publication_rss_feed_uris": [
+        {
+          "uri": "https://fr.madar.mr/feed/",
+          "gated": false,
+          "category": "News (French)"
+        }
+      ]
     }
   ],
   "MSR": [],
@@ -33078,6 +35994,18 @@
           "uri": "https://www.ip.gov.py/ip/feed/",
           "gated": true,
           "category": "News"
+        }
+      ]
+    },
+    {
+      "publication_name": "Agencia IP (En Guaraní)",
+      "publication_website_uri": "https://www.ip.gov.py/ip/en-guarani/",
+      "category": "News (Guarani)",
+      "publication_rss_feed_uris": [
+        {
+          "uri": "https://www.ip.gov.py/ip/en-guarani/feed/",
+          "gated": true,
+          "category": "News (Guarani)"
         }
       ]
     }
@@ -33535,6 +36463,54 @@
           "uri": "https://www.sudaninet.net/feed",
           "gated": false,
           "category": "News (Arabic)"
+        }
+      ]
+    },
+    {
+      "publication_name": "SNN - Sudanese News Network",
+      "publication_website_uri": "https://snn-news.net",
+      "category": "News (Arabic)",
+      "publication_rss_feed_uris": [
+        {
+          "uri": "https://snn-news.net/feed/",
+          "gated": false,
+          "category": "News (Arabic)"
+        }
+      ]
+    },
+    {
+      "publication_name": "Alnilin",
+      "publication_website_uri": "https://www.alnilin.com",
+      "category": "News (Arabic)",
+      "publication_rss_feed_uris": [
+        {
+          "uri": "https://www.alnilin.com/feed/",
+          "gated": false,
+          "category": "News (Arabic)"
+        }
+      ]
+    },
+    {
+      "publication_name": "Al-Taghyeer",
+      "publication_website_uri": "https://www.altaghyeer.info",
+      "category": "News (Arabic)",
+      "publication_rss_feed_uris": [
+        {
+          "uri": "https://www.altaghyeer.info/ar/feed/",
+          "gated": false,
+          "category": "News (Arabic)"
+        }
+      ]
+    },
+    {
+      "publication_name": "Darfur24",
+      "publication_website_uri": "https://darfur24.com",
+      "category": "Regional News: Darfur",
+      "publication_rss_feed_uris": [
+        {
+          "uri": "https://darfur24.com/feed/",
+          "gated": false,
+          "category": "Regional News: Darfur"
         }
       ]
     }
