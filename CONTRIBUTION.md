@@ -64,6 +64,32 @@ Follow these steps to add your RSS feed:
      ```
      Feeds with `bot_protection: true` will be marked with ⚠️ in the README and will skip automatic validation.
 
+   - **Optional: Add the publication's subscription page** with `publication_subscription_uri`, at the
+     publication level rather than on a feed:
+     ```json
+     {
+       "publication_name": "Your Publication Name",
+       "publication_website_uri": "https://yourwebsite.com",
+       "publication_subscription_uri": "https://yourwebsite.com/subscribe",
+       "publication_rss_feed_uris": [
+         { "uri": "https://yourwebsite.com/rss" }
+       ]
+     }
+     ```
+     This is the page where a reader can buy a subscription or become a member, on the publication's
+     own domain. Link to the publication's own page, never to a reseller or an affiliate link.
+
+     **`null` is a meaningful value here, and it is not the same as leaving the key out.** Set it to
+     `null` when you have checked and the publication genuinely has no consumer subscription product,
+     for example a free-to-air broadcaster or a government press office:
+     ```json
+     "publication_subscription_uri": null
+     ```
+     Leaving the key out means "nobody has looked yet". Writing `null` means "somebody looked and
+     there is nothing to buy". Tools that read this file are expected to tell those two apart, so
+     please do not write `null` as a guess, and do not invent a subscribe URL that you have not
+     opened. A publication with no entry is a perfectly good entry.
+
 2. **Execute the codegen script** which will validate your feed and generate the README.md:
    ```bash
    ./codegen.sh

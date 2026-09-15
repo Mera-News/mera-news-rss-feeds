@@ -292,6 +292,16 @@ async function generateMarkdown() {
       if (Array.isArray(pub.categories) && pub.categories.length > 0) {
         pubEntry.categories = pub.categories;
       }
+      // PRESENCE, not truthiness. `publication_subscription_uri` is optional
+      // AND nullable, and the two states mean different things: the key being
+      // absent says nothing about this publication, while an explicit `null`
+      // says "checked, this publication has no consumer subscription
+      // product". A truthiness test (`if (pub.publication_subscription_uri)`)
+      // would copy the strings and silently drop every null, which is exactly
+      // the set the consumer needs in order to stop asking.
+      if ('publication_subscription_uri' in pub) {
+        pubEntry.publication_subscription_uri = pub.publication_subscription_uri;
+      }
 
       activePublications.push(pubEntry);
     });
