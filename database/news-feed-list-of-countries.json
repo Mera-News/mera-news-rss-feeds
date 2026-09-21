@@ -47649,6 +47649,25 @@
         "government",
         "crime_justice"
       ]
+    },
+    {
+      "publication_name": "Informed Clearly",
+      "publication_website_uri": "https://informedclearly.com/",
+      "category": "News",
+      "publication_rss_feed_uris": [
+        {
+          "uri": "https://informedclearly.com/feed/rss/en",
+          "gated": false,
+          "category": "News"
+        }
+      ],
+      "publication_type": "digital_native",
+      "categories": [
+        "general_news",
+        "news_politics",
+        "business",
+        "science_tech"
+      ]
     }
   ],
   "NOR": [
