@@ -8353,23 +8353,6 @@
       ]
     },
     {
-      "publication_name": "Pravda Burkina Faso",
-      "publication_website_uri": "https://news-pravda.com",
-      "publication_rss_feed_uris": [
-        {
-          "uri": "https://news-pravda.com/rss.xml",
-          "is_valid": true,
-          "validation_status": "valid",
-          "language_code": "en",
-          "language_name": "English"
-        }
-      ],
-      "publication_type": "newspaper",
-      "categories": [
-        "general_news"
-      ]
-    },
-    {
       "publication_name": "Ouaga Info",
       "publication_website_uri": "https://ouagainfo.com",
       "publication_rss_feed_uris": [

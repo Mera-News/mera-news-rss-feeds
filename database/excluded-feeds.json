@@ -1,0 +1,17 @@
+[
+  {
+    "country_code": "BFA",
+    "publication_name": "Pravda Burkina Faso",
+    "publication_website_uri": "https://news-pravda.com",
+    "feed_uris": [
+      "https://news-pravda.com/rss.xml"
+    ],
+    "reason": "Republishes Telegram, MAX and X posts verbatim as articles. No bylines; each article page names a Telegram channel as its source, titles are the post's first line cut off with '..', and the feed links about 120 different third-party channels per 200 items. Part of the Pravda network, not a Burkina Faso newspaper.",
+    "evidence_urls": [
+      "https://news-pravda.com/usa/2026/09/24/2617533.html",
+      "https://news-pravda.com/world/2026/09/24/2617530.html",
+      "https://news-pravda.com/world/2026/09/24/2617529.html"
+    ],
+    "excluded_on": "2026-09-24"
+  }
+]

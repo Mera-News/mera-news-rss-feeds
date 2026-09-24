@@ -21,6 +21,11 @@ Thank you!
 
 ## How to Contribute
 
+**What does not belong here**: sites that republish social media posts as articles. If a site's
+pages have no author, and each one copies a Telegram, X, Facebook or similar post and names that
+channel as its source, it is not a news source for this list. Removed sites are recorded, with the
+reason and example pages, in `database/excluded-feeds.json`. Please do not add them back.
+
 **Note about data structure**: The database uses ISO 3166-1 Alpha-3 country codes as keys (e.g., `"USA"`, `"GBR"`, `"IND"`). When the README is generated, these codes are automatically converted to full country names for display.
 
 Follow these steps to add your RSS feed:

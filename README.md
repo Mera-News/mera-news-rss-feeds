@@ -835,7 +835,6 @@
 - ❌ [Journal du Faso](https://journaldufaso.com) - [Feed](https://journaldufaso.com/feed)
 - ✅ [Le Pays](https://lepays.bf) - [Feed](https://lepays.bf/feed) - French
 - ❌ [L'Express du Faso](https://lexpressdufaso-bf.com) - [Feed](https://lexpressdufaso-bf.com/feed)
-- ✅ [Pravda Burkina Faso](https://news-pravda.com) - [Feed](https://news-pravda.com/rss.xml) - English
 - ✅ [Ouaga Info](https://ouagainfo.com) - [Feed](https://ouagainfo.com/feed) - English
 - ✅ [Ouaga Press](https://ouagapress.info) - [Feed](https://ouagapress.info/feed) - English
 - ✅ [Ouest Info](https://ouestinfo.bf) - [Feed](https://ouestinfo.bf/feed) - French

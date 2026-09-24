@@ -67313,21 +67313,6 @@
       ]
     },
     {
-      "publication_name": "Pravda Burkina Faso",
-      "publication_website_uri": "https://news-pravda.com",
-      "category": "News",
-      "publication_rss_feed_uris": [
-        {
-          "uri": "https://news-pravda.com/rss.xml",
-          "gated": false
-        }
-      ],
-      "publication_type": "newspaper",
-      "categories": [
-        "general_news"
-      ]
-    },
-    {
       "publication_name": "Ouaga Info",
       "publication_website_uri": "https://ouagainfo.com",
       "category": "News",
