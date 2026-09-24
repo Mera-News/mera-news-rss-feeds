@@ -8300,6 +8300,21 @@
     }
   ],
   "CHE": [
+  {
+    "publication_name": "Eat Well · Feel Well · Live Well",
+    "publication_website_uri": "https://www.healingstone.ch/",
+    "publication_rss_feed_uris": [
+      {
+        "uri": "https://www.healingstone.ch/_functions/rss_en",
+        "gated": false,
+        "category": "Lifestyle"
+      }
+    ],
+    "publication_type": "digital_native",
+    "categories": [
+      "lifestyle"
+    ]
+  },
     {
       "publication_name": "Tages Anzeiger",
       "publication_website_uri": "http://tagesanzeiger.ch/",
