@@ -471,7 +471,7 @@
 - ✅ [Derf](https://derf.ar) News - [Feed](https://derf.ar/feed/) - Spanish
 - ✅ [Desalambrar](https://desalambrar.com.ar) Regional News: Buenos Aires - [Feed](https://desalambrar.com.ar/feed/) - Spanish
 - ✅ [Diagonales](https://www.diagonales.com) News - [Feed](https://www.diagonales.com/rss) - Spanish
-- ❌ [Noticias, historias y tendencias de Córdoba](https://viapais.com.ar) Regional News: Córdoba - [Feed](https://viapais.com.ar/rss/cordoba/)
+- ❌ [Vía País](https://viapais.com.ar) Regional News: Córdoba - [Feed](https://viapais.com.ar/rss/cordoba/)
 - ✅ [Diario 3](https://www.diario3.com.ar) Regional News: Buenos Aires - [Feed](https://www.diario3.com.ar/feed/) - Spanish
 - ✅ [Diario Chilecito](https://diariochilecito.com) News - [Feed](https://diariochilecito.com/feed/) - Spanish
 - ✅ [Diario Textual](https://diariotextual.com) News - [Feed](https://diariotextual.com/inicio/index.php/feed/) - Spanish
@@ -572,7 +572,7 @@
 - ✅ [La Angostura Digital](https://www.laangosturadigital.com.ar) News - [Feed](https://www.laangosturadigital.com.ar/feed/) - Spanish
 - ✅ [La Mañana](https://www.lamanana.com.ar) News - [Feed](https://www.lamanana.com.ar/feed/) - Spanish
 - ❌ [Periódico la Barra](https://www.periodicolabarra.com.ar) News - [Feed](https://www.periodicolabarra.com.ar/feed)
-- ✅ [Desde el 2007 informando con responsabilidad](http://laestaciononline.com.ar) News - [Feed](https://laestaciononline.com.ar/?feed=rss2) - English
+- ✅ [La Estación](http://laestaciononline.com.ar) News - [Feed](https://laestaciononline.com.ar/?feed=rss2) - English
 - ✅ [La Nota Digital](https://lanotadigital.com.ar) News - [Feed](https://lanotadigital.com.ar/feed/) - Spanish
 - ❌ [La Manana de Cordoba](https://www.lmcordoba.com.ar) Regional News: Cordoba - [Feed](https://www.lmcordoba.com.ar/feed/)
 - ✅ [La Bocina](https://labocina.info) News - [Feed](https://labocina.info/feed/) - Spanish
@@ -625,14 +625,14 @@
 - ❌ [Nuevo Ciclo](https://www.nuevociclo.com.ar) News - [Feed](https://www.nuevociclo.com.ar/feed/)
 - ❌ [OPI Santa Cruz](https://www.opisantacruz.com.ar) News - [Feed](https://www.opisantacruz.com.ar/feed/)
 - ✅ [Palermo Online Noticias](https://palermonline.com.ar) News - [Feed](https://palermonline.com.ar/wordpress/feed/) - Spanish
-- ✅ [ON24 Información Precisa. Periodismo en serio](https://www.on24.com.ar) News - [Feed](https://www.on24.com.ar/feed/) - Spanish
+- ✅ [ON24](https://www.on24.com.ar) News - [Feed](https://www.on24.com.ar/feed/) - Spanish
 - ✅ [Parabuenosaires](https://parabuenosaires.com) News - [Feed](https://parabuenosaires.com/feed/) - Spanish
-- ✅ [Córdoba](https://www.pagina12.com.ar) News - [Feed](https://www.pagina12.com.ar/arc/outboundfeeds/rss/?outputType=xml) - Spanish
+- ✅ [Página/12](https://www.pagina12.com.ar) News - [Feed](https://www.pagina12.com.ar/arc/outboundfeeds/rss/?outputType=xml) - Spanish
 - ✅ [Opinión Propia](https://opinionpropia.com.ar) News - [Feed](https://opinionpropia.com.ar/feed/) - Spanish
 - ✅ [Para Todos](https://periodicoparatodos.com.ar) News - [Feed](https://periodicoparatodos.com.ar/feed/) - Spanish
 - ❌ [Paralelo 28](https://www.paralelo28.com.ar) News - [Feed](https://www.paralelo28.com.ar/feed/)
 - ❌ [Pacifico](https://pacifico929.com.ar) News - [Feed](https://pacifico929.com.ar/feed/)
-- ✅ [Parlamentario. El Congreso en tiempo real](https://www.parlamentario.com) News - [Feed](https://www.parlamentario.com/feed/) - Spanish
+- ✅ [Parlamentario](https://www.parlamentario.com) News - [Feed](https://www.parlamentario.com/feed/) - Spanish
 - ✅ [Parana Deportes](http://paranadeportes.com.ar) Sports - [Feed](https://paranadeportes.com.ar/feed/) - Spanish
 - ❌ [Periodico Ciudad](https://www.periodicociudad.com) News - [Feed](https://www.periodicociudad.com/feed/)
 - ✅ [Perico Noticias](https://periconoticias.com.ar) News - [Feed](https://periconoticias.com.ar/feed/) - Spanish
@@ -852,36 +852,36 @@
 - ✅ [Port Lincoln Times](https://portlincolntimes.com.au) Regional News: South Australia - [Feed](https://portlincolntimes.com.au/feed/) - English
 - ✅ [Plains Producer](https://plainsproducer.com.au) Regional News: South Australia - [Feed](https://plainsproducer.com.au/feed/) - English
 - ✅ [Pakenham Gazette](https://pakenhamgazette.com.au) Regional News: Victoria - [Feed](https://pakenhamgazette.com.au/feed/) - English
-- ❌ [Queanbeyan news, sport and weather](https://www.queanbeyanage.com.au) Regional News: New South Wales - [Feed](https://www.queanbeyanage.com.au/rss.xml)
-- ❌ [Singleton Argus news, sport and weather](https://www.singletonargus.com.au) Culture & Arts - [Feed](https://www.singletonargus.com.au/rss.xml)
+- ❌ [The Queanbeyan Age](https://www.queanbeyanage.com.au) Regional News: New South Wales - [Feed](https://www.queanbeyanage.com.au/rss.xml)
+- ❌ [The Singleton Argus](https://www.singletonargus.com.au) Culture & Arts - [Feed](https://www.singletonargus.com.au/rss.xml)
 - ✅ [South Gippsland Sentinel Times](https://www.sgst.com.au) Regional News: Victoria - [Feed](https://www.sgst.com.au/rss/) - English
-- ✅ [Agricultural & rural farm news](https://www.stockandland.com.au) Culture & Arts - [Feed](https://www.stockandland.com.au/rss.xml) - English
+- ✅ [Stock & Land](https://www.stockandland.com.au) Culture & Arts - [Feed](https://www.stockandland.com.au/rss.xml) - English
 - ✅ [Canberra News & Opinion](https://region.com.au) Regional News: Australian Capital Territory - [Feed](https://region.com.au/feed/) - English
-- ✅ [Scone news, sport and weather](https://www.sconeadvocate.com.au) Regional News: New South Wales - [Feed](https://www.sconeadvocate.com.au/comment/rss.xml) - English
-- ✅ [Bowral news, sport and weather](https://www.southernhighlandnews.com.au) Business - [Feed](https://www.southernhighlandnews.com.au/news/world/rss.xml) - English
+- ✅ [The Scone Advocate](https://www.sconeadvocate.com.au) Regional News: New South Wales - [Feed](https://www.sconeadvocate.com.au/comment/rss.xml) - English
+- ✅ [Southern Highland News](https://www.southernhighlandnews.com.au) Business - [Feed](https://www.southernhighlandnews.com.au/news/world/rss.xml) - English
 - ✅ [Recorder](https://portpirierecorder.com.au) Regional News: South Australia - [Feed](https://portpirierecorder.com.au/feed/) - English
-- ✅ [Warrnambool news, sport and weather](https://www.standard.net.au) Regional News: Victoria - [Feed](https://www.standard.net.au/rss.xml) - English
+- ✅ [The Standard](https://www.standard.net.au) Regional News: Victoria - [Feed](https://www.standard.net.au/rss.xml) - English
 - ✅ [The South Eastern Times](https://setimes.com.au) Regional News: South Australia - [Feed](https://setimes.com.au/feed/) - English
-- ✅ [Agricultural & rural farm news](https://www.stockjournal.com.au) Business - [Feed](https://www.stockjournal.com.au/rss.xml) - English
+- ✅ [Stock Journal](https://www.stockjournal.com.au) Business - [Feed](https://www.stockjournal.com.au/rss.xml) - English
 - ✅ [Sunraysia Daily](https://sunraysiadaily.com.au) Culture & Arts - [Feed](https://sunraysiadaily.com.au/feed/) - English
-- ❌ [Wagga Wagga news, sport and weather](https://www.therural.com.au) Regional News: New South Wales - [Feed](https://www.therural.com.au/rss.xml)
+- ❌ [The Rural](https://www.therural.com.au) Regional News: New South Wales - [Feed](https://www.therural.com.au/rss.xml)
 - ✅ [Star Observer](https://www.starobserver.com.au) Culture & Arts - [Feed](https://www.starobserver.com.au/feed) - English
-- ✅ [Tenterfield news, sport and weather](https://www.tenterfieldstar.com.au) Regional News: New South Wales - [Feed](https://www.tenterfieldstar.com.au/rss.xml) - English
-- ✅ [Times](https://victorharbortimes.com.au) Regional News: South Australia - [Feed](https://victorharbortimes.com.au/feed/) - English
-- ✅ [Page](https://www.westernadvocate.com.au) Regional News: New South Wales - [Feed](https://www.westernadvocate.com.au/rss.xml) - English
-- ❌ [Breaking news](https://www.youngwitness.com.au) Sports - [Feed](https://www.youngwitness.com.au/sitemaps/youngwitness/rss)
-- ✅ [Breaking news](https://www.wangarattachronicle.com.au) Regional News: Victoria - [Feed](https://wangarattachronicle.com.au/sitemaps/wangaratta/rss) - English
+- ✅ [Tenterfield Star](https://www.tenterfieldstar.com.au) Regional News: New South Wales - [Feed](https://www.tenterfieldstar.com.au/rss.xml) - English
+- ✅ [Victor Harbor Times](https://victorharbortimes.com.au) Regional News: South Australia - [Feed](https://victorharbortimes.com.au/feed/) - English
+- ✅ [Western Advocate](https://www.westernadvocate.com.au) Regional News: New South Wales - [Feed](https://www.westernadvocate.com.au/rss.xml) - English
+- ❌ [Young Witness](https://www.youngwitness.com.au) Sports - [Feed](https://www.youngwitness.com.au/sitemaps/youngwitness/rss)
+- ✅ [Wangaratta Chronicle](https://www.wangarattachronicle.com.au) Regional News: Victoria - [Feed](https://wangarattachronicle.com.au/sitemaps/wangaratta/rss) - English
 - ✅ [The Western Weekender I Penrith News](https://www.westernweekender.com.au) Regional News: New South Wales - [Feed](https://www.westernweekender.com.au/category/sport/feed/) - English
 - ✅ [The Western Weekender I Penrith News](https://www.westernweekender.com.au) Regional News: New South Wales - [Feed](https://www.westernweekender.com.au/feed/) - English
 - ❌ [Westender](https://westender.com.au) Regional News: Queensland - [Feed](https://westender.com.au/feed/)
-- ✅ [Yass news, sport and weather](https://www.yasstribune.com.au) Regional News: New South Wales - [Feed](https://www.yasstribune.com.au/rss.xml) - English
+- ✅ [Yass Tribune](https://www.yasstribune.com.au) Regional News: New South Wales - [Feed](https://www.yasstribune.com.au/rss.xml) - English
 - ❌ [The Western Echo](https://westernecho.com.au) Culture & Arts - [Feed](https://westernecho.com.au/feed/)
 - ✅ [Whyalla News](https://whyallanewsonline.com.au) Regional News: South Australia - [Feed](https://whyallanewsonline.com.au/feed/) - English
 - ✅ [Yorke Peninsula Country Times](https://www.ypct.com.au) Business - [Feed](https://www.ypct.com.au/rss/) - English
 - ✅ [Transcontinental](https://transcontinental.com.au) Regional News: South Australia - [Feed](https://transcontinental.com.au/feed/) - English
 - ✅ [Williamstown Altona Laverton Star](https://williamstown.starcommunity.com.au) Regional News: Victoria - [Feed](https://starcommunity.com.au/entertainment/feed/) - English
 - ✅ [The Warragul & Drouin Gazette](https://www.thegazette.com.au) Regional News: Victoria - [Feed](https://thegazette.com.au/rss/) - English
-- ✅ [Wellington news, sport and weather](https://www.wellingtontimes.com.au) Sports - [Feed](https://www.wellingtontimes.com.au/sport/rss.xml) - English
+- ✅ [Wellington Times](https://www.wellingtontimes.com.au) Sports - [Feed](https://www.wellingtontimes.com.au/sport/rss.xml) - English
 
 ## Austria
 
@@ -1340,7 +1340,7 @@
 - ✅ [CWB News](https://www.cwbnews.com.br) Regional News: Parana - [Feed](https://www.cwbnews.com.br/feeds/posts/default) - Portuguese
 - ✅ [Campo Grande News](https://www.campograndenews.com.br) Regional News: Mato Grosso do Sul - [Feed](https://www.campograndenews.com.br/rss/rss.xml) - Portuguese
 - ❌ [Conexão Tocantins](https://conexaoto.com.br) Regional News: Tocantins - [Feed](https://conexaoto.com.br//feed/)
-- ✅ [Notícias](https://www.classealem.com.br) Regional News: Bahia - [Feed](https://www.classealem.com.br/blog-feed.xml) - Portuguese
+- ✅ [Jornal Classe A](https://www.classealem.com.br) Regional News: Bahia - [Feed](https://www.classealem.com.br/blog-feed.xml) - Portuguese
 - ❌ [Correio Bragantino](https://correiobragantino.com.br) Regional News: Para - [Feed](https://correiobragantino.com.br/feed/)
 - ✅ [ContilNet Notícias](https://contilnetnoticias.com.br) Regional News: Acre - [Feed](https://contilnetnoticias.com.br/feed/) - Portuguese
 - ✅ [CLMais](https://clmais.com.br) Regional News: Santa Catarina - [Feed](https://clmais.com.br/rss) - Portuguese
@@ -1350,7 +1350,7 @@
 - ✅ [Correio do Brasil](https://correiodobrasil.com.br) Regional News: Rio de Janeiro - [Feed](https://correiodobrasil.com.br/feed) - Portuguese
 - ✅ [Correio do Povo do Parana](https://www.jcorreiodopovo.com.br) Regional News: Parána - [Feed](https://www.jcorreiodopovo.com.br/feed/) - Portuguese
 - ✅ [Costa Rica em Foco](https://www.costaricaemfoco.com.br) Regional News: Mato Grosso do Sul - [Feed](https://www.costaricaemfoco.com.br/sitemap/rss.xml) - Portuguese
-- ✅ [News](https://correiodovale.com.br) Regional News: Parána - [Feed](https://correiodovale.com.br/feed/) - Portuguese
+- ✅ [Correio do Vale](https://correiodovale.com.br) Regional News: Parána - [Feed](https://correiodovale.com.br/feed/) - Portuguese
 - ✅ [Coxim Agora](https://coximagora.com.br) Regional News: Mato Grosso do Sul - [Feed](https://coximagora.com.br/feed/) - Portuguese
 - ✅ [abc+](https://www.abcmais.com) Regional News: Rio Grande do Sul - [Feed](https://www.abcmais.com/feed/) - Portuguese
 - ❌ [Jornal Correio da Semana](https://jornalcorreiodasemana.com.br) Regional News: Mato Grosso - [Feed](https://jornalcorreiodasemana.com.br/feed/)
@@ -1365,7 +1365,7 @@
 - ✅ [Jornal Diário de Contagem On-Line](http://www.diariodecontagem.com.br) Regional News: Minas Gerais - [Feed](http://www.diariodecontagem.com.br/rss) - Portuguese
 - ✅ [Diario de Araxa](https://www.diariodearaxa.com.br) Regional News: Minas Gerais - [Feed](https://www.diariodearaxa.com.br/feed/) - Portuguese
 - ✅ [Diário do Amapá](https://www.diariodoamapa.com.br:443) Regional News: Amapa - [Feed](https://www.diariodoamapa.com.br:443/feed/) - Portuguese
-- ✅ [Diário de Viamão -](http://www.diariodeviamao.com.br) Regional News: Rio Grande do Sul - [Feed](https://www.diariodeviamao.com.br/feed/) - Portuguese
+- ✅ [Diário de Viamão](http://www.diariodeviamao.com.br) Regional News: Rio Grande do Sul - [Feed](https://www.diariodeviamao.com.br/feed/) - Portuguese
 - ✅ [Jornal](https://diariodevotuporanga.com.br) Regional News: São Paulo - [Feed](https://diariodevotuporanga.com.br/feed/) - Portuguese
 - ✅ [Diário do Grande ABC](https://www.dgabc.com.br) Regional News: São Paulo - [Feed](https://www.dgabc.com.br/rss) - Portuguese
 - ✅ [Diário do Rio Claro](http://www.j1diario.com.br) Regional News: São Paulo - [Feed](https://www.j1diario.com.br/feed/) - Portuguese
@@ -1383,11 +1383,11 @@
 - ✅ [Diário do Sudoeste](https://diariodosudoeste.com.br) Regional News: Paraná - [Feed](https://diariodosudoeste.com.br/feed/) - Portuguese
 - ✅ [Estado Alagoas](https://estadaoalagoas.com.br) Regional News: Alagoas - [Feed](https://estadaoalagoas.com.br/feed/) - Portuguese
 - ❌ [E+ Notícias](https://emaisnoticias.com.br) Regional News: Goiás - [Feed](https://emaisnoticias.com.br/feed/)
-- ✅ [feed](https://diariodonordeste.verdesmares.com.br) Regional News: Ceará - [Feed](https://diariodonordeste.verdesmares.com.br/cmlink/feed-1.3009099) - Portuguese
+- ✅ [Diário do Nordeste](https://diariodonordeste.verdesmares.com.br) Regional News: Ceará - [Feed](https://diariodonordeste.verdesmares.com.br/cmlink/feed-1.3009099) - Portuguese
 - ❌ [Estrela Guia News](https://estrelaguianews.com.br) Regional News: Mato Grosso - [Feed](https://estrelaguianews.com.br/feed/)
 - ✅ [Jornal Foco](https://jornalfoco.com.br) Regional News: Bahia - [Feed](https://jornalfoco.com.br/feed/) - Portuguese
 - ❌ [Folha de Indaial](https://folhadeindaial.com.br) Regional News: Santa Catarina - [Feed](https://folhadeindaial.com.br/feed/)
-- ✅ [Folha de Campo Grande -](https://folhacg.com.br) Regional News: Mato Grosso do Sul - [Feed](https://folhacg.com.br/feed/) - Portuguese
+- ✅ [Folha de Campo Grande](https://folhacg.com.br) Regional News: Mato Grosso do Sul - [Feed](https://folhacg.com.br/feed/) - Portuguese
 - ✅ [Folha O Jornal](https://folhaojornal.com.br) Regional News: Santa Catarina - [Feed](https://folhaojornal.com.br/feed/) - Portuguese
 - ✅ [Folha BV](https://www.folhabv.com.br) Regional News: Roraima - [Feed](https://www.folhabv.com.br/feed/) - Portuguese
 - ❌ [Folha BV](https://www.folhabv.com.br) Regional News: Roraima - [Feed](https://www.folhabv.com.br/web-stories/feed/)
@@ -1420,7 +1420,7 @@
 - ✅ [Gazeta Esportiva](https://www.gazetaesportiva.com) Sports - [Feed](https://www.gazetaesportiva.com/feed/) - Portuguese
 - ✅ [Gazeta Regional](https://www.gazetaregional.com) Regional News: Paraná - [Feed](https://www.gazetaregional.com/feed) - Portuguese
 - ✅ [Últimas notícias por GazetaMT](https://gazetamt.com.br) Regional News: Mato Grosso - [Feed](https://gazetamt.com.br/feed/) - Portuguese
-- ❌ [new -](https://gazetapalmeirense.com.br) Regional News: São Paulo - [Feed](https://gazetapalmeirense.com.br/site/feed/)
+- ❌ [Gazeta Palmeirense](https://gazetapalmeirense.com.br) Regional News: São Paulo - [Feed](https://gazetapalmeirense.com.br/site/feed/)
 - ❌ [Click Riomafra](https://www.clickriomafra.com.br) Regional News: Paraná - [Feed](https://www.clickriomafra.com.br/feed/)
 - ❌ [Gazeta de Santarém](https://gazetadesantarem.com.br) Regional News: Pará - [Feed](https://gazetadesantarem.com.br/rss.xml)
 - ❌ [Gente e Negócios](https://genteenegocios.com.br) Regional News: Maranhão - [Feed](https://genteenegocios.com.br/feed/)
@@ -1444,7 +1444,7 @@
 - ✅ [O que é notícia em Sergipe](https://infonet.com.br) Regional News: Sergipe - [Feed](https://infonet.com.br/feed/) - Portuguese
 - ✅ [Portal ITnet](https://itnet.com.br) Regional News: Sergipe - [Feed](https://itnet.com.br/rss) - Portuguese
 - ✅ [Iguatu](https://www.iguatu.net) Regional News: Ceará - [Feed](https://www.iguatu.net/rss.xml) - Portuguese
-- ✅ [https://impactopr.com.br](https://impactopr.com.br) Regional News: Paraná - [Feed](https://impactopr.com.br/feed/) - Portuguese
+- ✅ [Impacto PR](https://impactopr.com.br) Regional News: Paraná - [Feed](https://impactopr.com.br/feed/) - Portuguese
 - ✅ [Hora do Povo](https://horadopovo.com.br) Regional News: São Paulo - [Feed](https://horadopovo.com.br/feed/) - Portuguese
 - ✅ [Integracao](https://jornalintegracao.com.br) Regional News: São Paulo - [Feed](https://jornalintegracao.com.br/feed/) - Portuguese
 - ✅ [Jornal Ita News](https://jornalitanews.com.br) Regional News: São Paulo - [Feed](https://jornalitanews.com.br/feed/) - Portuguese
@@ -1603,7 +1603,7 @@
 - ✅ [Portal Parintins 24 Horas](https://parintins24hs.com.br) Regional News: Amazonas - [Feed](https://parintins24hs.com.br/feed/) - Portuguese
 - ✅ [Jornal Ponto Final](https://jornalpontofinal.com.br) Regional News: Minas Gerais - [Feed](https://jornalpontofinal.com.br/feed/) - Portuguese
 - ✅ [Portal Amazônia](https://portalamazonia.com) Regional News: Amazonas - [Feed](https://portalamazonia.com/feed/) - Portuguese
-- ✅ [TV Bambuí RSS](https://www.jornalponto.com.br) Regional News: Minas Gerais - [Feed](https://www.jornalponto.com.br/feed) - Portuguese
+- ✅ [Jornal Ponto](https://www.jornalponto.com.br) Regional News: Minas Gerais - [Feed](https://www.jornalponto.com.br/feed) - Portuguese
 - ✅ [Perfil News](https://www.perfilnews.com.br) Regional News: Mato Grosso do Sul - [Feed](https://www.perfilnews.com.br/feed/) - Portuguese
 - ✅ [Portal Cambe](https://portalcambe.com.br) Regional News: Parana - [Feed](https://portalcambe.com.br/feed/) - Portuguese
 - ✅ [Portal Palotina](https://portalpalotina.com.br) Regional News: Parana - [Feed](https://portalpalotina.com.br/feed/) - Portuguese
@@ -1664,7 +1664,7 @@
 - ✅ [Tribuna do Norte](https://tribunadonorte.com.br) Regional News: Rio Grande do Norte - [Feed](https://tribunadonorte.com.br/feed/) - Portuguese
 - ✅ [Ubá News](https://ubanews.com) Regional News: Minas Gerais - [Feed](https://ubanews.com/site/feed/) - Portuguese
 - ❌ [Viçosa Urgente](https://www.vicosaurgente.com.br) Regional News: Minas Gerais - [Feed](https://www.vicosaurgente.com.br/feed/)
-- ✅ [ZM NotíciasNova Iguaçu e Baixada Fluminense](https://www.zmnoticias.com.br) Regional News: Rio de Janeiro - [Feed](https://www.zmnoticias.com.br/feed/) - Portuguese
+- ✅ [ZM Notícias](https://www.zmnoticias.com.br) Regional News: Rio de Janeiro - [Feed](https://www.zmnoticias.com.br/feed/) - Portuguese
 - ✅ [VGNNotícias em MT com credibilidade](https://www.vgnoticias.com.br) Regional News: Mato Grosso - [Feed](https://www.vgnoticias.com.br/rss.php) - Portuguese
 - ✅ [Jornal e Revista Via Mão](https://jornalviamao.com.br) Regional News: São Paulo - [Feed](https://jornalviamao.com.br/feed/) - Portuguese
 - ✅ [Visão Oeste](https://visaooeste.com.br) Regional News: São Paulo - [Feed](https://visaooeste.com.br/feed/) - Portuguese
@@ -1972,9 +1972,9 @@
 - ✅ [Airdrie Echo](https://www.airdrieecho.com:443) News - [Feed](https://www.airdrieecho.com:443/feed/) - English
 - ✅ [Alberta Politics](https://albertapolitics.ca) News - [Feed](https://albertapolitics.ca/feed/) - English
 - ✅ [River Town Times](https://www.rivertowntimes.com) News - [Feed](https://www.rivertowntimes.com/blog-feed.xml) - English
-- ✅ [News](https://algonquintimes.com) News - [Feed](https://algonquintimes.com/category/news/feed/) - English
-- ✅ [News](https://algonquintimes.com) News - [Feed](https://algonquintimes.com/feed/) - English
-- ❌ [TownAndCountryToday.com: townandcountrytoday](https://www.townandcountrytoday.com) News - [Feed](https://www.townandcountrytoday.com/rss)
+- ✅ [Algonquin Times](https://algonquintimes.com) News - [Feed](https://algonquintimes.com/category/news/feed/) - English
+- ✅ [Algonquin Times](https://algonquintimes.com) News - [Feed](https://algonquintimes.com/feed/) - English
+- ❌ [Town and Country Today](https://www.townandcountrytoday.com) News - [Feed](https://www.townandcountrytoday.com/rss)
 - ✅ [Ang Peryodiko](https://www.angperyodiko.ca) News - [Feed](https://www.angperyodiko.ca/feed/) - English
 - ✅ [Nakusp Arrow Lakes News](https://arrowlakesnews.com) News - [Feed](https://www.arrowlakesnews.com/rss) - English
 - ❌ [Asian Pacific Post](https://asianpacificpost.com) News - [Feed](https://asianpacificpost.com/rss.xml)
@@ -1984,8 +1984,8 @@
 - ✅ [News ArchivesAlberta Native News](https://www.albertanativenews.com) News - [Feed](https://www.albertanativenews.com/category/news/feed/) - English
 - ✅ [News ArchivesAlberta Native News](https://www.albertanativenews.com) News - [Feed](https://www.albertanativenews.com/feed/) - English
 - ❌ [Airdrie City View: airdrietoday](https://www.airdriecityview.com) News - [Feed](https://www.airdriecityview.com/rss)
-- ✅ [News](https://www.newspapers-online.com) News - [Feed](https://www.newspapers-online.com/auroran/category/news/feed/) - English
-- ✅ [News](https://www.newspapers-online.com) News - [Feed](https://www.newspapers-online.com/auroran/feed/) - English
+- ✅ [The Auroran](https://www.newspapers-online.com) News - [Feed](https://www.newspapers-online.com/auroran/category/news/feed/) - English
+- ✅ [The Auroran](https://www.newspapers-online.com) News - [Feed](https://www.newspapers-online.com/auroran/feed/) - English
 - ❌ [Aux Quatres Coins](https://ascot-corner.com) News - [Feed](https://ascot-corner.com/journal-communautaire/feed/)
 - ✅ [The Aurora News](https://auroranewspaper.com) News - [Feed](https://auroranewspaper.com/feed/) - English
 - ❌ [The B.C. Catholic](https://bccatholic.ca:443) News - [Feed](https://bccatholic.ca/content/feed)
@@ -2083,7 +2083,7 @@
 - ✅ [Kootenay News](https://crestonvalleyadvance.ca) Regional News: British Columbia - [Feed](https://www.crestonvalleyadvance.ca/rss) - English
 - ❌ [Cult MTL](https://cultmtl.com) Regional News: Quebec - [Feed](https://cultmtl.com/category/arts-life/feed/)
 - ❌ [Cult MTL](https://cultmtl.com) Regional News: Quebec - [Feed](https://cultmtl.com/feed/)
-- ❌ [Latest Breaking News Today Around the World](https://www.cbncompass.ca) Regional News: Newfoundland and Labrador - [Feed](https://www.cbncompass.ca/feed/)
+- ❌ [The Compass](https://www.cbncompass.ca) Regional News: Newfoundland and Labrador - [Feed](https://www.cbncompass.ca/feed/)
 - ❌ [Coup d'Oeil](https://www.coupdoeil.info) Regional News: Quebec - [Feed](https://www.coupdoeil.info/feed/)
 - ✅ [Courrier Laval](https://courrierlaval.com) Regional News: Quebec - [Feed](https://courrierlaval.com/feed/) - French
 - ❌ [The Community Press](https://thecommunitypress.com) Regional News: Alberta - [Feed](https://thecommunitypress.com/feed/)
@@ -2434,7 +2434,7 @@
 - ✅ [Cámara de Representantes de Colombia](https://www.camara.gov.co) Parliament - [Feed](https://www.camara.gov.co/feed/) - Spanish
 - ✅ [Alcaldía Mayor de Bogotá D.C.](https://bogota.gov.co) Government News: Bogotá D.C. - [Feed](https://bogota.gov.co/rss.xml) - Spanish
 - ✅ [Instituto de Hidrología, Meteorología y Estudios Ambientales (IDEAM)](https://www.ideam.gov.co) Weather Service - [Feed](https://www.ideam.gov.co/rss.xml) - Spanish
-- ❌ [News](https://thecitypaperbogota.com) Regional News: Colombia - [Feed](https://thecitypaperbogota.com/news/feed/)
+- ❌ [The City Paper Bogotá](https://thecitypaperbogota.com) Regional News: Colombia - [Feed](https://thecitypaperbogota.com/news/feed/)
 - ✅ [Semana](https://www.semana.com) News - [Feed](https://www.semana.com/arc/outboundfeeds/rss/?outputType=xml) - Spanish
 - ✅ [Diario Occidente](https://occidente.co) Regional News: Colombia - [Feed](https://occidente.co/feed/) - Spanish
 - ✅ [Cromos](https://www.elespectador.com) Entertainment - [Feed](https://www.elespectador.com/arc/outboundfeeds/discover/) - Spanish
@@ -3016,8 +3016,8 @@
 - ❌ [Региональное издание Причудья](https://www.peipsirannik.info) News (Russian) - [Feed](https://www.peipsirannik.info/feed/)
 - ✅ [uudised](https://www.err.ee) News - [Feed](https://www.err.ee/rss) - English
 - ❌ [Koit](https://polvaleht.ee) News - [Feed](https://polvaleht.ee/feed/)
-- ✅ [новости](https://rus.err.ee) News (Russian) - [Feed](https://rus.err.ee/rss) - Russian
-- ✅ [sport](https://sport.err.ee) News - [Feed](https://sport.err.ee/rss) - English
+- ✅ [ERR Novosti](https://rus.err.ee) News (Russian) - [Feed](https://rus.err.ee/rss) - Russian
+- ✅ [ERR Sport](https://sport.err.ee) News - [Feed](https://sport.err.ee/rss) - English
 - ❌ [Valgamaalane](https://valgamaalane.ee) News - [Feed](https://valgamaalane.ee/feed/)
 - ❌ [Uma Leht](https://www.umaleht.ee) News - [Feed](https://www.umaleht.ee/feed/)
 - ✅ [Saarte Hääl](https://saartehaal.postimees.ee) News - [Feed](https://saartehaal.postimees.ee/rss) - Estonian
@@ -3044,7 +3044,7 @@
 - ❌ [New Business Ethiopia](https://newbusinessethiopia.com/) News (English) - [Feed](https://newbusinessethiopia.com/feed/)
 - ❌ [Omna Tigray](https://omnatigray.org) News (Tigrinya) - [Feed](https://omnatigray.org/feed/)
 - ✅ [Kulu Media](https://kulu-media.com) News (Tigrinya) - [Feed](https://kulu-media.com/feed/) - English
-- ❌ [Ethiopian News, Politics & In-Depth Analysis](https://zehabesha.com) News - [Feed](https://zehabesha.com/feed/)
+- ❌ [Zehabesha](https://zehabesha.com) News - [Feed](https://zehabesha.com/feed/)
 
 ## Falkland Islands (Malvinas)
 
@@ -3089,12 +3089,12 @@
 - ✅ [Kouvolan sanomat](https://www.kouvolansanomat.fi) Regional News: Kymenlaakso - [Feed](https://www.kouvolansanomat.fi/feed/) - Finnish
 - ✅ [Itä-Häme](https://www.itahame.fi) Regional News: Häme - [Feed](https://www.itahame.fi/feed/) - Finnish
 - ✅ [Etelä-Savon Sanomat](https://www.ess.fi) Regional News: South Savonia - [Feed](https://www.ess.fi/feed/) - Finnish
-- ✅ [Valtioneuvosto (Central Government - Main Feed)](https://valtioneuvosto.fi) Government News - [Feed](https://valtioneuvosto.fi/en/staattiset-feedit-en/-/asset_publisher/LOmkEPY4nk2s/rss) - English
-- ✅ [Valtioneuvosto (Central Government - Feed 2)](https://valtioneuvosto.fi) Government News - [Feed](https://valtioneuvosto.fi/en/staattiset-feedit-en/-/asset_publisher/00Qguh1GvAiJ/rss) - English
-- ❌ [Valtioneuvosto (Central Government - Feed 3)](https://valtioneuvosto.fi) Government News - [Feed](https://valtioneuvosto.fi/en/staattiset-feedit-en/-/asset_publisher/lKJx41DPuWCC/rss)
-- ❌ [Valtioneuvosto (Central Government - Feed 4)](https://valtioneuvosto.fi) Government News - [Feed](https://valtioneuvosto.fi/en/staattiset-feedit-en/-/asset_publisher/P2JabALc50Es/rss)
-- ❌ [Valtioneuvosto (Central Government - Feed 5)](https://valtioneuvosto.fi) Government News - [Feed](https://valtioneuvosto.fi/en/staattiset-feedit-en/-/asset_publisher/fpYJYjw2EcOG/rss)
-- ❌ [Valtioneuvosto (Central Government - Feed 6)](https://valtioneuvosto.fi) Government News - [Feed](https://valtioneuvosto.fi/en/staattiset-feedit-en/-/asset_publisher/CSnDFjXvoBx4/rss)
+- ✅ [Valtioneuvosto](https://valtioneuvosto.fi) Government News - [Feed](https://valtioneuvosto.fi/en/staattiset-feedit-en/-/asset_publisher/LOmkEPY4nk2s/rss) - English
+- ✅ [Valtioneuvosto](https://valtioneuvosto.fi) Government News - [Feed](https://valtioneuvosto.fi/en/staattiset-feedit-en/-/asset_publisher/00Qguh1GvAiJ/rss) - English
+- ❌ [Valtioneuvosto](https://valtioneuvosto.fi) Government News - [Feed](https://valtioneuvosto.fi/en/staattiset-feedit-en/-/asset_publisher/lKJx41DPuWCC/rss)
+- ❌ [Valtioneuvosto](https://valtioneuvosto.fi) Government News - [Feed](https://valtioneuvosto.fi/en/staattiset-feedit-en/-/asset_publisher/P2JabALc50Es/rss)
+- ❌ [Valtioneuvosto](https://valtioneuvosto.fi) Government News - [Feed](https://valtioneuvosto.fi/en/staattiset-feedit-en/-/asset_publisher/fpYJYjw2EcOG/rss)
+- ❌ [Valtioneuvosto](https://valtioneuvosto.fi) Government News - [Feed](https://valtioneuvosto.fi/en/staattiset-feedit-en/-/asset_publisher/CSnDFjXvoBx4/rss)
 - ✅ [Ilmatieteen laitos (Finnish Meteorological Institute)](https://www.ilmatieteenlaitos.fi) Weather Service - [Feed](https://www.ilmatieteenlaitos.fi/api/news/tiedote/rss) - Finnish
 - ✅ [Valtiovarainministeriö (Ministry of Finance)](https://vm.fi) Government News - [Feed](https://vm.fi/en/frontpage/-/asset_publisher/1y6OMBVjRazZ/rss) - English
 - ✅ [Työ- ja elinkeinoministeriö (Ministry of Economic Affairs and Employment)](https://tem.fi) Government News - [Feed](https://tem.fi/en/frontpage/-/asset_publisher/KxL4CyYBq98S/rss) - English
@@ -3104,69 +3104,69 @@
 - ✅ [Maa- ja metsätalousministeriö (Ministry of Agriculture and Forestry)](https://mmm.fi) Government News - [Feed](https://mmm.fi/en/frontpage/-/asset_publisher/gBxZaCBMnvmM/rss) - English
 - ✅ [Alands Radio TV](https://alandsradio.ax) News (Swedish) - [Feed](https://alandsradio.ax/rss.xml) - Swedish
 - ✅ [Akaan Seutu](https://akaanseutu.fi) News - [Feed](https://akaanseutu.fi/feed/) - Finnish
-- ✅ [Etusivu](https://www.forssanlehti.fi) News - [Feed](https://www.forssanlehti.fi/feed/rss) - Finnish
-- ✅ [Etusivu](https://www.hankasalmensanomat.fi) News - [Feed](https://www.hankasalmensanomat.fi/feed/rss) - Finnish
-- ❌ [Etusivu](https://www.heinavedenlehti.fi) News - [Feed](https://www.heinavedenlehti.fi/feed/rss)
+- ✅ [Forssan Lehti](https://www.forssanlehti.fi) News - [Feed](https://www.forssanlehti.fi/feed/rss) - Finnish
+- ✅ [Hankasalmen Sanomat](https://www.hankasalmensanomat.fi) News - [Feed](https://www.hankasalmensanomat.fi/feed/rss) - Finnish
+- ❌ [Heinäveden Lehti](https://www.heinavedenlehti.fi) News - [Feed](https://www.heinavedenlehti.fi/feed/rss)
 - ✅ [Borga Bladet](https://www.bbl.fi) News (Swedish) - [Feed](https://www.bbl.fi/feeds/feed.xml) - Swedish
 - ❌ [Hämeenkyrön sanomat](https://hameenkyronsanomat.fi) Regional News: Hämeenkyrön sanomat - [Feed](https://hameenkyronsanomat.fi/feed/)
 - ✅ [AVL](https://www.avl.fi) News - [Feed](https://www.avl.fi/feed/) - Finnish
 - ✅ [Epari](https://www.ilkkapohjalainen.fi) News - [Feed](https://www.ilkkapohjalainen.fi/feed) - Finnish
-- ❌ [Etusivu](https://www.joroistenlehti.fi) News - [Feed](https://www.joroistenlehti.fi/feed/rss)
-- ✅ [Etusivu](https://www.joutsenolehti.fi) News - [Feed](https://www.joutsenolehti.fi/feed/rss) - Finnish
-- ✅ [Etusivu](https://www.kaakonkulma.fi) News - [Feed](https://www.kaakonkulma.fi/feed/rss) - Finnish
+- ❌ [Joroisten Lehti](https://www.joroistenlehti.fi) News - [Feed](https://www.joroistenlehti.fi/feed/rss)
+- ✅ [Paikallislehti Joutseno](https://www.joutsenolehti.fi) News - [Feed](https://www.joutsenolehti.fi/feed/rss) - Finnish
+- ✅ [Kaakonkulma](https://www.kaakonkulma.fi) News - [Feed](https://www.kaakonkulma.fi/feed/rss) - Finnish
 - ❌ [Ilmajoki Lehti](https://www.ilmajoki-lehti.fi) Regional News: Etusivu - Ilmajoki-lehti - [Feed](https://www.ilmajoki-lehti.fi/feed/)
-- ✅ [Etusivu](https://www.juvanlehti.fi) News - [Feed](https://www.juvanlehti.fi/feed/rss) - Finnish
-- ✅ [Etusivu](https://www.keskilaakso.fi) News - [Feed](https://www.keskilaakso.fi/feed/rss) - Finnish
-- ✅ [Etusivu](https://www.keski-hame.fi) News - [Feed](https://www.keski-hame.fi/feed/rss) - Finnish
+- ✅ [Juvan Lehti](https://www.juvanlehti.fi) News - [Feed](https://www.juvanlehti.fi/feed/rss) - Finnish
+- ✅ [Keskilaakso](https://www.keskilaakso.fi) News - [Feed](https://www.keskilaakso.fi/feed/rss) - Finnish
+- ✅ [Keski-Häme](https://www.keski-hame.fi) News - [Feed](https://www.keski-hame.fi/feed/rss) - Finnish
 - ❌ [Ilkka](https://ilkka.com) News - [Feed](https://ilkka.com/feed/)
 - ✅ [Kangasalan Sanomat](https://kangasalansanomat.fi) Regional News: Kangasalan - [Feed](https://kangasalansanomat.fi/feed/) - Finnish
-- ✅ [Etusivu](https://www.iisalmensanomat.fi) News - [Feed](https://www.iisalmensanomat.fi/feed/rss) - Finnish
-- ✅ [Etusivu](https://www.keski-uusimaa.fi) News - [Feed](https://www.keski-uusimaa.fi/feed/rss) - Finnish
+- ✅ [Iisalmen Sanomat](https://www.iisalmensanomat.fi) News - [Feed](https://www.iisalmensanomat.fi/feed/rss) - Finnish
+- ✅ [Keski-Uusimaa](https://www.keski-uusimaa.fi) News - [Feed](https://www.keski-uusimaa.fi/feed/rss) - Finnish
 - ✅ [Kiuruvesi-lehti](https://kiuruvesilehti.fi) Regional News: Kiuruvesi-lehti - [Feed](https://kiuruvesilehti.fi/feed/) - Finnish
 - ✅ [Kuhmoisten Sanomat](https://kuhmoistensanomat.fi) Regional News: Kuhmoisten - [Feed](https://kuhmoistensanomat.fi/feed/) - Finnish
-- ✅ [Etusivu](https://www.koillis-savo.fi) News - [Feed](https://www.koillis-savo.fi/feed/rss) - Finnish
-- ✅ [Uutiset](https://www.laitilansanomat.fi) News - [Feed](https://www.laitilansanomat.fi/feed/) - Finnish
+- ✅ [Koillis-Savo](https://www.koillis-savo.fi) News - [Feed](https://www.koillis-savo.fi/feed/rss) - Finnish
+- ✅ [Laitilan Sanomat](https://www.laitilansanomat.fi) News - [Feed](https://www.laitilansanomat.fi/feed/) - Finnish
 - ✅ [Kotiseutu Uutiset](https://kotiseutu-uutiset.com) News - [Feed](https://kotiseutu-uutiset.com/rss) - Finnish
 - ✅ [Kotiseudun Sanomat](https://kotiseudunsanomat.fi) Regional News: Kotiseudun - [Feed](https://kotiseudunsanomat.fi/feed/) - Finnish
-- ✅ [Etusivu](https://www.kymensanomat.fi) News - [Feed](https://www.kymensanomat.fi/feed/rss) - Finnish
-- ✅ [Etusivu](https://www.lansisaimaa.fi) News - [Feed](https://www.lansisaimaa.fi/feed/rss) - Finnish
+- ✅ [Kymen Sanomat](https://www.kymensanomat.fi) News - [Feed](https://www.kymensanomat.fi/feed/rss) - Finnish
+- ✅ [Länsi-Saimaan Sanomat](https://www.lansisaimaa.fi) News - [Feed](https://www.lansisaimaa.fi/feed/rss) - Finnish
 - ❌ [Kuntsari](https://www.kuntsari.fi) News - [Feed](https://www.kuntsari.fi/feed/)
-- ✅ [Etusivu](https://www.lansi-savo.fi) News - [Feed](https://www.lansi-savo.fi/feed/rss) - Finnish
-- ✅ [Etusivu](https://www.mantsalanuutiset.fi) News - [Feed](https://www.mantsalanuutiset.fi/feed/rss) - Finnish
+- ✅ [Länsi-Savo](https://www.lansi-savo.fi) News - [Feed](https://www.lansi-savo.fi/feed/rss) - Finnish
+- ✅ [Mäntsälän Uutiset](https://www.mantsalanuutiset.fi) News - [Feed](https://www.mantsalanuutiset.fi/feed/rss) - Finnish
 - ✅ [Lempaalan Vesilahden Sanomat](https://lvs.fi) Regional News: Etusivu - Lempäälän-Vesilahden - [Feed](https://lvs.fi/feed/) - Finnish
-- ✅ [Etusivu](https://www.loviisansanomat.fi:443) News - [Feed](https://www.loviisansanomat.fi/feed/rss) - Finnish
-- ✅ [Etusivu](https://www.pielisjokiseutu.fi) News - [Feed](https://www.pielisjokiseutu.fi/feed/rss) - Finnish
+- ✅ [Loviisan Sanomat](https://www.loviisansanomat.fi:443) News - [Feed](https://www.loviisansanomat.fi/feed/rss) - Finnish
+- ✅ [Pielisjokiseutu](https://www.pielisjokiseutu.fi) News - [Feed](https://www.pielisjokiseutu.fi/feed/rss) - Finnish
 - ✅ [Padasjoen Sanomat](https://padasjoensanomat.fi) Regional News: Etusivu/Uutiset - Padasjoen - [Feed](https://padasjoensanomat.fi/feed/) - Finnish
-- ❌ [Etusivu](https://www.lieksanlehti.fi) News - [Feed](https://www.lieksanlehti.fi/feed/rss)
-- ✅ [Etusivu](https://www.laukaa-konnevesi.fi) News - [Feed](https://www.laukaa-konnevesi.fi/feed/rss) - Finnish
+- ❌ [Lieksan Lehti](https://www.lieksanlehti.fi) News - [Feed](https://www.lieksanlehti.fi/feed/rss)
+- ✅ [Laukaa-Konnevesi](https://www.laukaa-konnevesi.fi) News - [Feed](https://www.laukaa-konnevesi.fi/feed/rss) - Finnish
 - ❌ [Paikallisuutiset](https://www.paikallisuutiset.fi) News - [Feed](https://www.paikallisuutiset.fi/feed/)
-- ✅ [Etusivu](https://www.mattijaliisa.fi) News - [Feed](https://www.mattijaliisa.fi/feed/rss) - Finnish
-- ✅ [Etusivu](https://www.pieksamaenlehti.fi) News - [Feed](https://www.pieksamaenlehti.fi/feed/rss) - Finnish
-- ❌ [Etusivu](https://www.pernionseudunlehti.fi) News - [Feed](https://www.pernionseudunlehti.fi/feed/rss)
-- ❌ [Etusivu](https://www.luumaenlehti.fi) News - [Feed](https://www.luumaenlehti.fi/feed/rss)
-- ✅ [Etusivu](https://www.pielavesi-keitele.fi) News - [Feed](https://www.pielavesi-keitele.fi/feed/rss) - Finnish
+- ✅ [Matti ja Liisa](https://www.mattijaliisa.fi) News - [Feed](https://www.mattijaliisa.fi/feed/rss) - Finnish
+- ✅ [Pieksämäen Lehti](https://www.pieksamaenlehti.fi) News - [Feed](https://www.pieksamaenlehti.fi/feed/rss) - Finnish
+- ❌ [Perniönseudun Lehti](https://www.pernionseudunlehti.fi) News - [Feed](https://www.pernionseudunlehti.fi/feed/rss)
+- ❌ [Luumäen Lehti](https://www.luumaenlehti.fi) News - [Feed](https://www.luumaenlehti.fi/feed/rss)
+- ✅ [Pielavesi-Keitele](https://www.pielavesi-keitele.fi) News - [Feed](https://www.pielavesi-keitele.fi/feed/rss) - Finnish
 - ✅ [Oriveden Sanomat](https://orivedensanomat.fi) Regional News: Etusivu - Oriveden - [Feed](https://orivedensanomat.fi/feed/) - Finnish
 - ✅ [Loimaan Lehti](https://www.loimaanlehti.fi) Regional News: Loimaan - [Feed](https://www.loimaanlehti.fi/feed/) - Finnish
-- ❌ [Etusivu](https://www.miilu.fi) News - [Feed](https://www.miilu.fi/feed/rss)
-- ✅ [Etusivu](https://www.lansi-uusimaa.fi) News - [Feed](https://www.lansi-uusimaa.fi/feed/rss) - Finnish
-- ❌ [Etusivu](https://www.pitajalainen.fi) News - [Feed](https://www.pitajalainen.fi/feed/rss)
-- ✅ [Etusivu](https://www.pogostansanomat.fi) News - [Feed](https://www.pogostansanomat.fi/feed/rss) - Finnish
-- ✅ [Etusivu](https://www.pitajanuutiset.fi) News - [Feed](https://www.pitajanuutiset.fi/feed/rss) - Finnish
-- ✅ [Etusivu](https://www.puruvesi.net) News - [Feed](https://www.puruvesi.net/feed/rss) - Finnish
+- ❌ [Miilu](https://www.miilu.fi) News - [Feed](https://www.miilu.fi/feed/rss)
+- ✅ [Länsi-Uusimaa](https://www.lansi-uusimaa.fi) News - [Feed](https://www.lansi-uusimaa.fi/feed/rss) - Finnish
+- ❌ [Pitäjäläinen](https://www.pitajalainen.fi) News - [Feed](https://www.pitajalainen.fi/feed/rss)
+- ✅ [Pogostan Sanomat](https://www.pogostansanomat.fi) News - [Feed](https://www.pogostansanomat.fi/feed/rss) - Finnish
+- ✅ [Pitäjänuutiset](https://www.pitajanuutiset.fi) News - [Feed](https://www.pitajanuutiset.fi/feed/rss) - Finnish
+- ✅ [Puruvesi](https://www.puruvesi.net) News - [Feed](https://www.puruvesi.net/feed/rss) - Finnish
 - ✅ [STT Info](https://www.sttinfo.fi) News - [Feed](https://www.sttinfo.fi/rss/releases/latest) - Finnish
 - ✅ [Rantapohja](https://www.rantapohja.fi) News - [Feed](https://www.rantapohja.fi/feed/) - Finnish
 - ✅ [Puolanka Lehti](https://www.puolankainfo.fi) News - [Feed](https://www.puolankainfo.fi/blog-feed.xml) - Finnish
 - ✅ [Pyhäjärven Sanomat](https://pyhajarvensanomat.fi) Regional News: Pyhäjärven - [Feed](https://pyhajarvensanomat.fi/feed/) - Finnish
 - ✅ [Salon Seudun Sanomat](https://www.sss.fi) News - [Feed](https://www.sss.fi/feed/) - Finnish
 - ✅ [Suomenmaa](https://www.suomenmaa.fi) News - [Feed](https://www.suomenmaa.fi/feed/) - Finnish
-- ✅ [Etusivu](https://www.savonsanomat.fi) News - [Feed](https://www.savonsanomat.fi/feed/rss) - Finnish
-- ✅ [Etusivu](https://www.sisasuomenlehti.fi) News - [Feed](https://www.sisasuomenlehti.fi/feed/rss) - Finnish
+- ✅ [Savon Sanomat](https://www.savonsanomat.fi) News - [Feed](https://www.savonsanomat.fi/feed/rss) - Finnish
+- ✅ [Sisä-Suomen Lehti](https://www.sisasuomenlehti.fi) News - [Feed](https://www.sisasuomenlehti.fi/feed/rss) - Finnish
 - ✅ [Uutispaiva Demari](https://demokraatti.fi) News - [Feed](https://demokraatti.fi/feed/) - Finnish
-- ✅ [Etusivu](https://www.uusimaa.fi) News - [Feed](https://www.uusimaa.fi/feed/rss) - Finnish
+- ✅ [Uusimaa](https://www.uusimaa.fi) News - [Feed](https://www.uusimaa.fi/feed/rss) - Finnish
 - ✅ [Uudenkaupunginsanomat](https://www.uudenkaupunginsanomat.fi) Regional News: Uudenkaupunginsanomat - [Feed](https://www.uudenkaupunginsanomat.fi/feed/) - Finnish
 - ✅ [Sydan Hameen Lehti](https://shl.fi) Regional News: Etusivu - Sydän-Hämeen - [Feed](https://shl.fi/feed/) - Finnish
-- ✅ [Etusivu](https://www.sisa-savolehti.fi) News - [Feed](https://www.sisa-savolehti.fi/feed/rss) - Finnish
-- ✅ [Etusivu](https://www.sampolehti.fi) News - [Feed](https://www.sampolehti.fi/feed/rss) - Finnish
+- ✅ [Paikallislehti Sisä-Savo](https://www.sisa-savolehti.fi) News - [Feed](https://www.sisa-savolehti.fi/feed/rss) - Finnish
+- ✅ [Sampo](https://www.sampolehti.fi) News - [Feed](https://www.sampolehti.fi/feed/rss) - Finnish
 - ✅ [Urjalan Sanomat](https://urjalansanomat.fi) Regional News: Urjalan - [Feed](https://urjalansanomat.fi/feed/) - Finnish
 - ✅ [Soisalon Seutu](https://www.soisalonseutu.fi) Regional News: Soisalo - [Feed](https://www.soisalonseutu.fi/feed/rss) - Finnish
 - ✅ [Uutisvuoksi](https://www.uutisvuoksi.fi) Regional News: Imatraa - [Feed](https://www.uutisvuoksi.fi/feed/rss) - Finnish
@@ -3323,7 +3323,7 @@
 - ✅ [APSNY Press](https://apsnypress.info) Regional News: Abkhazia - [Feed](https://apsnypress.info/index.php?format=feed&type=rss) - Russian
 - ✅ [Fortuna](https://www.fortuna.ge) News - [Feed](https://fortuna.ge/feed/) - Georgian
 - ✅ [Nasha Abkhaziia](https://www.abkhazeti.info) Regional News: Abkhazia - [Feed](https://www.abkhazeti.info/feed/) - Russian
-- ✅ [News](https://news.ge) News - [Feed](https://news.ge/feed/) - Georgian
+- ✅ [News.ge](https://news.ge) News - [Feed](https://news.ge/feed/) - Georgian
 - ❌ [NewPress](https://newpress.ge) Regional News: Kutaisi - [Feed](https://newpress.ge/feed/)
 
 ## Germany
@@ -4248,8 +4248,8 @@
 - ✅ [Mathrubhumi](https://www.mathrubhumi.com) Regional News: Kerala - [Feed](https://www.mathrubhumi.com/rss)
 - ✅ [Mid-Day Mumbai](https://www.mid-day.com) Regional News: Maharashtra - [Feed](https://www.mid-day.com/Resources/midday/rss/mumbai.xml) - English
 - ✅ [New Kerala](https://www.newkerala.com) Business - [Feed](https://www.newkerala.com/feed) - English
-- ❌ [Latest World News & International Updates](https://www.newdelhitimes.com) Regional News: Delhi - [Feed](https://www.newdelhitimes.com/category/world/feed/)
-- ✅ [Latest World News & International Updates](https://www.newdelhitimes.com) Regional News: Delhi - [Feed](https://www.newdelhitimes.com/feed/) - English
+- ❌ [New Delhi Times](https://www.newdelhitimes.com) Regional News: Delhi - [Feed](https://www.newdelhitimes.com/category/world/feed/)
+- ✅ [New Delhi Times](https://www.newdelhitimes.com) Regional News: Delhi - [Feed](https://www.newdelhitimes.com/feed/) - English
 - ✅ [Nawan Zamana](https://nawanzamana.in) Regional News: Punjab - [Feed](https://nawanzamana.in/?feed=rss2) - English
 - ✅ [Neindia](https://neindia.com) Regional News: Tripura - [Feed](https://neindia.com/feed/) - English
 - ✅ [Nav Gujarat Samay](https://www.iamgujarat.com) Regional News: Gujarat - [Feed](https://www.iamgujarat.com/langapi/sitemap/gstandrssfeed.xml) - Gujarati
@@ -4258,8 +4258,8 @@
 - ✅ [पाञ्चजन्य](https://panchjanya.com) News (Hindi) - [Feed](https://panchjanya.com/feed/) - Hindi
 - ✅ [Online Indian News](https://www.onlineindiannews.com) News - [Feed](https://www.onlineindiannews.com/feed/) - English
 - ✅ [Northeast Today](https://northeasttoday.in) News - [Feed](https://northeasttoday.in/feed/) - English
-- ✅ [Posts feed](https://sahilonline.org) Regional News: Karnataka - [Feed](https://www.sahilonline.org/feed/posts) - English
-- ✅ [Posts feed](https://www.sahilonline.net) Regional News: Karnataka - [Feed](https://www.sahilonline.net/feed/posts) - English
+- ✅ [Sahil Online](https://sahilonline.org) Regional News: Karnataka - [Feed](https://www.sahilonline.org/feed/posts) - English
+- ✅ [Sahil Online (Urdu)](https://www.sahilonline.net) Regional News: Karnataka - [Feed](https://www.sahilonline.net/feed/posts) - English
 - ✅ [Rozana Spokesman](https://www.rozanaspokesman.com) Regional News: Punjab - [Feed](https://www.rozanaspokesman.com/rss_feed/) - English
 - ✅ [Punjabi News Online](https://punjabinewsonline.com) Regional News: Punjab - [Feed](https://punjabinewsonline.com/?feed=rss2) - English
 - ❌ [Sarkari Pulse](https://sarkaripulse.in) Regional News: Maharashtra - [Feed](https://sarkaripulse.in/feed/)
@@ -4413,7 +4413,7 @@
 - ❌ [The Avondhu Newspaper](https://avondhupress.ie) News - [Feed](https://avondhupress.ie/feed/)
 - ✅ [Clare FM](https://www.clare.fm) News - [Feed](https://www.clare.fm/feed/) - English
 - ❌ [Donegal News](https://donegalnews.com) Sports - [Feed](https://donegalnews.com/feed/)
-- ✅ [Irish Times Feeds](https://www.irishtimes.com) News - [Feed](https://www.irishtimes.com/arc/outboundfeeds/rss/?outputType=xml) - English
+- ✅ [The Irish Times](https://www.irishtimes.com) News - [Feed](https://www.irishtimes.com/arc/outboundfeeds/rss/?outputType=xml) - English
 - ✅ [Irish Post](https://www.irishpost.com) News - [Feed](https://www.irishpost.com/feed) - English
 - ❌ [Irish Republican News](https://republican-news.org) News - [Feed](http://republican-news.org/current/news/index.xml)
 - ✅ [Evening Echo](https://www.echolive.ie) Sports - [Feed](https://www.echolive.ie/feed/395-EE_Top_news.xml) - English
@@ -5048,7 +5048,7 @@
 - ❌ [Tauragės kurjeris](https://kurjeris.lt) Regional News: Tauragė - [Feed](https://kurjeris.lt/feed/)
 - ✅ [Šiaulių kraštas](https://www.skrastas.lt) News (Lithuanian) - [Feed](https://www.skrastas.lt/rss.xml) - Lithuanian
 - ✅ [Sekunde](https://sekunde.lt) News (Lithuanian) - [Feed](https://sekunde.lt/feed/) - Lithuanian
-- ✅ [www.traku-zeme.lt, ISSN 2538-6581](https://traku-zeme.lt) News (Lithuanian) - [Feed](https://traku-zeme.lt/feed/) - Lithuanian
+- ✅ [Trakų žemė](https://traku-zeme.lt) News (Lithuanian) - [Feed](https://traku-zeme.lt/feed/) - Lithuanian
 - ✅ [Plunge](https://laikrastisplunge.lt) News (Lithuanian) - [Feed](https://laikrastisplunge.lt/feed/) - Lithuanian
 - ✅ [Suvalkietis](https://www.suvalkietis.lt) News (Lithuanian) - [Feed](https://www.suvalkietis.lt/feed/) - Lithuanian
 - ❌ [Zinios](https://etazinios.lt) News (Lithuanian) - [Feed](https://etazinios.lt/feed/)
@@ -5253,8 +5253,8 @@
 - ❌ [Agence Mauritanienne d'Information (AMI)](https://ami.mr/fr) News (French) - [Feed](https://ami.mr/fr/feed)
 - ❌ [Le Quotidien de Nouakchott](https://lequotidien.mr) News (French) - [Feed](https://lequotidien.mr/?feed=rss2)
 - ✅ [MADAR (édition française)](https://fr.madar.mr) News (French) - [Feed](https://fr.madar.mr/feed/) - French
-- ❌ [L'Authentique RSS](http://www.lauthentic.info) News - [Feed](http://www.lauthentic.info/rss)
-- ❌ [- La généralité de tous !](https://www.quotidien-nouakchott.com) News - [Feed](https://www.quotidien-nouakchott.com/feed/)
+- ❌ [L'Authentique](http://www.lauthentic.info) News - [Feed](http://www.lauthentic.info/rss)
+- ❌ [Quotidien-Nouakchott.com](https://www.quotidien-nouakchott.com) News - [Feed](https://www.quotidien-nouakchott.com/feed/)
 
 ## Mauritius
 
@@ -5485,7 +5485,7 @@
 - ❌ [Monaco Tribune](https://www.monaco-tribune.com/) News - [Feed](https://www.monaco-tribune.com/feed/)
 - ❌ [HelloMonaco](https://www.hellomonaco.com/) News - [Feed](https://www.hellomonaco.com/feed/)
 - ✅ [Monte Carlo News](https://www.montecarlonews.it/) News - [Feed](https://www.montecarlonews.it/links/rss/argomenti/montecarlonewsit/rss.xml) - English
-- ✅ [Latest News](https://www.rivieraradio.mc) Regional News: Riviera Radio - [Feed](https://www.rivieraradio.mc/feed/) - English
+- ✅ [Riviera Radio](https://www.rivieraradio.mc) Regional News: Riviera Radio - [Feed](https://www.rivieraradio.mc/feed/) - English
 
 ## Mongolia
 
@@ -5517,7 +5517,7 @@
 - ✅ [RadioBerane](https://radioberane.me/) - [Feed](https://radioberane.me/feed/) - English
 - ✅ [ULInfo](https://mne.ul-info.com/) - [Feed](https://mne.ul-info.com/feed/) - English
 - ✅ [RadioBar](https://barinfo.me/) - [Feed](https://barinfo.me/feed/) - English
-- ✅ [RSS StoryEditor](https://www.dan.co.me) Regional News: Dan - [Feed](https://www.dan.co.me/feed) - Croatian
+- ✅ [Dan](https://www.dan.co.me) Regional News: Dan - [Feed](https://www.dan.co.me/feed) - Croatian
 
 ## Montserrat
 
@@ -5650,7 +5650,7 @@
 - ✅ [Karobar Daily](https://www.karobardaily.com) Regional News: Karobar - [Feed](https://www.karobardaily.com/feed) - English
 - ❌ [Naya Patrika](https://enayapatrika.com) Regional News: Naya Patrika - [Feed](https://enayapatrika.com/feed/)
 - ✅ [Arghakhanchi Times](https://www.arghakhanchi.com) Regional News: Arghakhanchi Times - [Feed](https://www.arghakhanchi.com/feed/) - English
-- ❌ [avnews -](http://avenues.tv) Regional News: Avenues TV - [Feed](https://avenues.tv/feed/)
+- ❌ [AV News](http://avenues.tv) Regional News: Avenues TV - [Feed](https://avenues.tv/feed/)
 - ✅ [Gorkhapatra](https://www.gorkhapatraonline.com) Regional News: Gorkhapatra - [Feed](https://www.gorkhapatraonline.com/rss) - Nepali
 - ✅ [People's Review](http://peoplesreview.com.np) Regional News: People's Review - [Feed](https://peoplesreview.com.np/category/news/feed/) - English
 - ✅ [People's Review](http://peoplesreview.com.np) Regional News: People's Review - [Feed](https://peoplesreview.com.np/feed/) - English
@@ -5777,26 +5777,26 @@
 - ❌ [RTV Berkelstroom](https://rtvberkelstroom.nl) Regional News: B FM - [Feed](https://rtvberkelstroom.nl/feed/)
 - ✅ [BN DeStem](https://www.bndestem.nl) Regional News: BN de Stem - [Feed](https://www.bndestem.nl/home/rss.xml) - Dutch
 - ✅ [Tubantia](https://www.tubantia.nl) Regional News: De Twentsche Courant Tubantia - [Feed](https://www.tubantia.nl/home/rss.xml) - Dutch
-- ✅ [RSS feed brabantscentrum.nl](https://www.brabantscentrum.nl) Regional News: Brabant Centrum - [Feed](https://www.brabantscentrum.nl/rss) - Dutch
-- ✅ [RSS feed deterschellinger.nl](https://www.deterschellinger.nl) Regional News: De Terschellinger - [Feed](https://www.deterschellinger.nl/rss) - Dutch
-- ✅ [RSS feed barneveldsekrant.nl](https://www.barneveldsekrant.nl) Regional News: Barneveldse Krant - [Feed](https://www.barneveldsekrant.nl/rss) - Dutch
+- ✅ [Brabants Centrum](https://www.brabantscentrum.nl) Regional News: Brabant Centrum - [Feed](https://www.brabantscentrum.nl/rss) - Dutch
+- ✅ [De Terschellinger](https://www.deterschellinger.nl) Regional News: De Terschellinger - [Feed](https://www.deterschellinger.nl/rss) - Dutch
+- ✅ [Barneveldse Krant](https://www.barneveldsekrant.nl) Regional News: Barneveldse Krant - [Feed](https://www.barneveldsekrant.nl/rss) - Dutch
 - ✅ [Brabants Dagblad](https://www.bd.nl) Regional News: Brabants Dagblad - [Feed](https://www.bd.nl/home/rss.xml) - Dutch
-- ✅ [RSS feed almeredezeweek.nl](https://www.almeredezeweek.nl) Regional News: Almere Deze Week - [Feed](https://www.almeredezeweek.nl/rss) - Dutch
+- ✅ [Almere Deze Week](https://www.almeredezeweek.nl) Regional News: Almere Deze Week - [Feed](https://www.almeredezeweek.nl/rss) - Dutch
 - ✅ [Beleggers Belangen](https://www.beleggersbelangen.nl) Regional News: Beleggers Belangen - [Feed](https://www.beleggersbelangen.nl/feed/) - Dutch
 - ✅ [de Gelderlander](https://www.gelderlander.nl) Regional News: De Gelderlander - [Feed](https://www.gelderlander.nl/home/rss.xml) - Dutch
 - ✅ [De Stentor](https://www.destentor.nl) Regional News: De Stentor - [Feed](https://www.destentor.nl/home/rss.xml) - Dutch
 - ✅ [ED](https://www.ed.nl) Regional News: Eindhovens Dagblad - [Feed](https://www.ed.nl/home/rss.xml) - Dutch
-- ✅ [RSS feed edestad.nl](https://www.edestad.nl) Regional News: Ede Stad - [Feed](https://www.edestad.nl/rss) - Dutch
+- ✅ [Ede Stad](https://www.edestad.nl) Regional News: Ede Stad - [Feed](https://www.edestad.nl/rss) - Dutch
 - ✅ [Flakkee Nieuws](https://omroeparchipel.nl) Regional News: Flakkee Nieuws - [Feed](https://omroeparchipel.nl/feed) - Dutch
 - ❌ [Nieuwe Meerbode](https://www.meerbode.nl) Regional News: Nieuwe Meerbode - [Feed](https://www.meerbode.nl/feed/)
 - ✅ [FD](https://fd.nl) Regional News: Het Financieele Dagblad - [Feed](https://fd.nl?rss) - Dutch
 - ✅ [Liwwadders](https://www.liwwadders.nl) Regional News: Liwwadders - [Feed](https://www.liwwadders.nl/feed/) - Dutch
-- ✅ [RSS feed heturkerland.nl](https://www.heturkerland.nl) Regional News: Het Urkerland - [Feed](https://www.heturkerland.nl/rss) - Dutch
+- ✅ [Het Urkerland](https://www.heturkerland.nl) Regional News: Het Urkerland - [Feed](https://www.heturkerland.nl/rss) - Dutch
 - ✅ [Haarlem105](https://haarlem105.nl) Regional News: Haarlem 105 - [Feed](https://haarlem105.nl/feed/) - Dutch
-- ✅ [News feed](https://nltimes.nl) Regional News: NL Times - [Feed](https://nltimes.nl/rssfeed2) - English
-- ✅ [RSS feed hetkontakt.nl](https://www.hetkontakt.nl) Regional News: Het Kontakt - [Feed](https://www.hetkontakt.nl/rss) - Dutch
+- ✅ [NL Times](https://nltimes.nl) Regional News: NL Times - [Feed](https://nltimes.nl/rssfeed2) - English
+- ✅ [Het Kontakt](https://www.hetkontakt.nl) Regional News: Het Kontakt - [Feed](https://www.hetkontakt.nl/rss) - Dutch
 - ✅ [Nieuw-Volendam](https://www.nieuw-volendam.nl) Regional News: Nieuw Volendam - [Feed](https://www.nieuw-volendam.nl/feed/) - Dutch
-- ✅ [RSS feed nd.nl](https://www.nd.nl) Regional News: Nederlands Dagblad - [Feed](https://www.nd.nl/rss) - Dutch
+- ✅ [Nederlands Dagblad](https://www.nd.nl) Regional News: Nederlands Dagblad - [Feed](https://www.nd.nl/rss) - Dutch
 - ✅ [Omroep Tholen](https://www.omroeptholen.nl) Regional News: Tholen - [Feed](https://www.omroeptholen.nl/feed/) - Dutch
 - ✅ [Oisterwijk Nieuws](https://www.oisterwijknieuws.nl) Regional News: Oisterwijk - [Feed](https://www.oisterwijknieuws.nl/feed/) - Dutch
 - ✅ [OneWorld](https://www.oneworld.nl) News - [Feed](https://www.oneworld.nl/feed/) - Dutch
@@ -6131,7 +6131,7 @@
 - ✅ [ReAvisa](http://www.reavisa.no) Regional News: Norway - [Feed](https://www.reavisa.no/feed/) - Norwegian Bokmål
 - ✅ [Romsdals Budstikke](https://www.rbnett.no) Regional News: Norway - [Feed](https://www.rbnett.no/rss) - Norwegian
 - ✅ [Ruijan Kaiku](https://www.ruijan-kaiku.no) News (Finnish) - [Feed](https://www.ruijan-kaiku.no/feed/) - Norwegian Bokmål
-- ❌ [’No deal until there’s a deal’: Trump](https://norwaynews.com) Regional News: Norway - [Feed](https://norwaynews.com/feed/)
+- ❌ [Norway News](https://norwaynews.com) Regional News: Norway - [Feed](https://norwaynews.com/feed/)
 - ✅ [Haramsnytt](https://haramsnytt.no) Regional News: Norway - [Feed](https://haramsnytt.no/atom.xml) - Norwegian
 - ✅ [Haramsnytt](https://haramsnytt.no) Regional News: Norway - [Feed](https://haramsnytt.no/atom.xml?KatID=1) - Norwegian
 - ✅ [Norge IDAG](https://idag.no) Regional News: Norway - [Feed](https://idag.no/atom.xml) - Norwegian
@@ -6350,7 +6350,7 @@
 - ✅ [Interaksyon](https://www.interaksyon.com/) - [Feed](https://www.interaksyon.com/feed/) - English
 - ✅ [Philstar.com](https://www.philstar.com/) - [Feed](https://www.philstar.com/rss/headlines) - English
 - ✅ [GMA News Online / News](https://data.gmanews.tv/) - [Feed](https://data.gmanews.tv/gno/rss/news/feed.xml) - English
-- ✅ [Top Gear: The Philippine authority on cars and the automotive industry](https://www.topgear.com.ph/) - [Feed](https://www.topgear.com.ph/feed/rss1) - English
+- ✅ [Top Gear Philippines](https://www.topgear.com.ph/) - [Feed](https://www.topgear.com.ph/feed/rss1) - English
 - ✅ [UNBOX PH](https://www.unbox.ph/) - [Feed](https://www.unbox.ph/feed/) - English
 - ✅ [Rappler](https://rappler.com) News - [Feed](https://rappler.com/feed) - English
 - ✅ [SunStar](https://www.sunstar.com.ph) News - [Feed](https://www.sunstar.com.ph/feed) - English
@@ -6682,17 +6682,17 @@
 - ✅ [Crai Nou](https://www.crainou.ro) News - [Feed](https://www.crainou.ro/feed/) - Romanian
 - ✅ [Cuvântul Liber](https://www.cuvantul-liber.ro) News - [Feed](https://www.cuvantul-liber.ro/feed/) - Romanian
 - ❌ [Cadran Politic](https://cadranpolitic.ro) News - [Feed](https://cadranpolitic.ro/feed/)
-- ✅ [: Europa FM](https://www.europafm.ro) News - [Feed](https://www.europafm.ro/feed/) - Romanian
+- ✅ [Europa FM](https://www.europafm.ro) News - [Feed](https://www.europafm.ro/feed/) - Romanian
 - ✅ [The Diplomat Bucharest](https://www.thediplomat.ro) News - [Feed](https://www.thediplomat.ro/feed/) - English
-- ✅ [Cum sa i cheltuiesti](https://business24.ro) News - [Feed](https://business24.ro/rss/breaking_news.xml) - Romanian
+- ✅ [Business24](https://business24.ro) News - [Feed](https://business24.ro/rss/breaking_news.xml) - Romanian
 - ✅ [Ziarul Argesul](http://ziarulargesul.ro) News - [Feed](https://ziarulargesul.ro/feed/) - Romanian
 - ✅ [Est News](http://estnews.ro) News - [Feed](https://estnews.ro/feed/) - Romanian
-- ❌ [Revistă săptămânală](https://www.formula-as.ro) News - [Feed](https://www.formula-as.ro/feed/)
+- ❌ [Formula AS](https://www.formula-as.ro) News - [Feed](https://www.formula-as.ro/feed/)
 - ❌ [Hermannstadter Zeitung](https://www.hermannstaedter.ro) News - [Feed](https://www.hermannstaedter.ro/feed/)
 - ✅ [GAZETA de SUD](https://www.gds.ro) News - [Feed](https://www.gds.ro/feed/) - Romanian
-- ✅ [Știri de ultimă oră și ultimele știri online](https://www.gandul.ro) News - [Feed](https://www.gandul.ro/feed) - Romanian
+- ✅ [Gândul](https://www.gandul.ro) News - [Feed](https://www.gandul.ro/feed) - Romanian
 - ❌ [Gazeta de Maramures](https://www.gazetademaramures.ro) News - [Feed](https://www.gazetademaramures.ro/rss)
-- ❌ [Prima pagina](https://www.jupanu.ro) News - [Feed](https://www.jupanu.ro/feed)
+- ❌ [Jupânu'](https://www.jupanu.ro) News - [Feed](https://www.jupanu.ro/feed)
 - ✅ [Informatia Vranceana](https://informatiavranceana.ro) News - [Feed](https://informatiavranceana.ro/feed/) - Romanian
 - ✅ [Monitorul Cluj](https://www.monitorulcj.ro) News - [Feed](https://www.monitorulcj.ro/rss/) - Romanian
 - ✅ [Monitorul de Vrancea](https://www.monitoruldevrancea.ro) News - [Feed](https://www.monitoruldevrancea.ro/feed/) - Romanian
@@ -7284,7 +7284,7 @@
 - ❌ [Kormorant](https://kormorant.co.za) News - [Feed](https://kormorant.co.za/feed/)
 - ✅ [I Africa](https://iafrica.com) News - [Feed](https://iafrica.com/feed/) - English
 - ✅ [Financial Mail](https://fm.co.za) News - [Feed](https://fm.co.za/atom/) - English
-- ❌ [The Newspaper |](https://thenewspaper.co.za) News - [Feed](https://thenewspaper.co.za/feed/)
+- ❌ [The Newspaper](https://thenewspaper.co.za) News - [Feed](https://thenewspaper.co.za/feed/)
 - ✅ [South Africa News](https://southafricatoday.net) News - [Feed](https://southafricatoday.net/category/south-africa-news/feed/) - English
 - ✅ [South Africa News](https://southafricatoday.net) News - [Feed](https://southafricatoday.net/feed/) - English
 - ❌ [St Francis Chronicle](https://stfrancischronicle.com) News - [Feed](https://stfrancischronicle.com/feed/)
@@ -7480,8 +7480,8 @@
 - ✅ [Diario de Arousa](https://diariodearousa.elidealgallego.com) Regional News: Galicia - [Feed](https://diariodearousa.elidealgallego.com/rss) - Spanish
 - ✅ [Diario de Boadilla de Boadilla](https://www.diariodeboadilla.es) News - [Feed](https://www.diariodeboadilla.es/feed) - English
 - ✅ [Diario de Ferrol](https://diariodeferrol.elidealgallego.com) Regional News: Galicia - [Feed](https://diariodeferrol.elidealgallego.com/rss) - Spanish
-- ❌ [Vilanova i la Geltrú, Turismo y Cultura Local](https://www.diaridevilanova.cat) News - [Feed](https://www.diaridevilanova.cat/feed/)
-- ✅ [Diario de Pontevedra, Noticias de Pontevedra](https://www.diariodepontevedra.es) News - [Feed](https://www.diariodepontevedra.es/rss/) - Spanish
+- ❌ [Diari de Vilanova](https://www.diaridevilanova.cat) News - [Feed](https://www.diaridevilanova.cat/feed/)
+- ✅ [Diario de Pontevedra](https://www.diariodepontevedra.es) News - [Feed](https://www.diariodepontevedra.es/rss/) - Spanish
 - ❌ [Diario de Soria](https://www.heraldodiariodesoria.es) News - [Feed](https://www.heraldodiariodesoria.es/rss/home.xml)
 - ❌ [Alhaurín](https://www.alhaurindelatorre.com) News - [Feed](https://www.alhaurindelatorre.com/feed/)
 - ✅ [Diario de Almeria](https://www.diariodealmeria.es) News - [Feed](https://www.diariodealmeria.es/rss/) - Spanish
@@ -7513,7 +7513,7 @@
 - ✅ [El Diario Vasco](https://www.diariovasco.com) News - [Feed](https://www.diariovasco.com/rss/2.0/?section=/ultima-hora) - Spanish
 - ✅ [El Singular](https://elmon.cat) News - [Feed](https://elmon.cat/politica/feed/) - Catalan
 - ❌ [El Singular](https://elmon.cat) News - [Feed](https://elmon.cat/comunicacio/feed/)
-- ❌ [Últimas noticias de Ceuta: El Pueblo de Ceuta](https://www.elpueblodeceuta.es) News - [Feed](https://www.elpueblodeceuta.es/rss/)
+- ❌ [El Pueblo de Ceuta](https://www.elpueblodeceuta.es) News - [Feed](https://www.elpueblodeceuta.es/rss/)
 - ✅ [El Progreso](https://www.elprogreso.es) News - [Feed](https://www.elprogreso.es/rss/) - Spanish
 - ✅ [El Temps](https://www.eltemps.cat) News - [Feed](https://www.eltemps.cat/sindica) - Catalan
 - ✅ [Estadio Deportivo](https://www.estadiodeportivo.com) News - [Feed](https://www.estadiodeportivo.com/sitemaps/rss.xml) - Spanish
@@ -7523,15 +7523,15 @@
 - ✅ [Estrella Digital](https://www.estrelladigital.es) News - [Feed](https://www.estrelladigital.es/rss/) - Spanish
 - ✅ [ESdiario: Información para decidir](https://www.esdiario.com) News - [Feed](https://www.esdiario.com/rss/home.xml) - Spanish
 - ✅ [GARA Euskal Herriko egunkaria](https://www.naiz.eus) News - [Feed](https://www.naiz.eus/eu/rss/publications/gara.rss) - Basque
-- ✅ [IDEAL: Periódico de las noticias de Granada](https://www.ideal.es) News - [Feed](https://www.ideal.es/rss/2.0/?section=) - Spanish
-- ✅ [IDEAL: Periódico de las noticias de Granada](https://www.ideal.es) News - [Feed](https://www.ideal.es/rss/2.0/?section=/ultima-hora) - Spanish
-- ✅ [IDEAL: Periódico de las noticias de Granada](https://www.ideal.es) News - [Feed](https://www.ideal.es/rss/2.0/?section=almeria) - Spanish
+- ✅ [Ideal](https://www.ideal.es) News - [Feed](https://www.ideal.es/rss/2.0/?section=) - Spanish
+- ✅ [Ideal](https://www.ideal.es) News - [Feed](https://www.ideal.es/rss/2.0/?section=/ultima-hora) - Spanish
+- ✅ [Ideal](https://www.ideal.es) News - [Feed](https://www.ideal.es/rss/2.0/?section=almeria) - Spanish
 - ✅ [Goierriko Hitza](https://goierri.hitza.eus) News - [Feed](https://goierri.hitza.eus/rss/albisteak/azala.xml) - Basque
 - ✅ [Goierriko Hitza](https://goierri.hitza.eus) News - [Feed](https://goierri.hitza.eus/feed/) - Basque
 - ✅ [Hoy](https://www.hoy.es) Regional News: Extremadura - [Feed](https://www.hoy.es/rss/2.0/?section=) - Spanish
 - ✅ [Hoy](https://www.hoy.es) Regional News: Extremadura - [Feed](https://www.hoy.es/rss/2.0/?section=/ultima-hora) - Spanish
 - ✅ [Galicia Ártabra](https://galiciaartabra.es) Regional News: Galicia - [Feed](https://galiciaartabra.es/feed) - Spanish
-- ✅ [Hispanidad: Noticias de última hora](https://www.hispanidad.com) News - [Feed](https://www.hispanidad.com/feed) - Spanish
+- ✅ [Hispanidad](https://www.hispanidad.com) News - [Feed](https://www.hispanidad.com/feed) - Spanish
 - ✅ [Huelva Informacion](https://www.huelvainformacion.es) Regional News: Huelva - [Feed](https://www.huelvainformacion.es/rss/) - Spanish
 - ✅ [Informacion Arcos](https://www.andaluciainformacion.es) News - [Feed](https://www.andaluciainformacion.es/rss/) - Spanish
 - ✅ [La Cronica de Guadalajara](https://www.lacronica.net) News - [Feed](https://www.lacronica.net/feed/) - Spanish
@@ -7561,11 +7561,11 @@
 - ✅ [Lanza Digital](https://www.lanzadigital.com) Regional News: Castilla - [Feed](https://www.lanzadigital.com/feed/) - Spanish
 - ✅ [Malaga Hoy](https://www.malagahoy.es) News - [Feed](https://www.malagahoy.es/rss/) - Spanish
 - ✅ [Madrid Actualidad](https://madridactualidad.es) Regional News: Madrid - [Feed](https://madridactualidad.es/rss.xml) - Spanish
-- ✅ [Últimas noticias // Noticias de Almeria](https://www.noticiasdealmeria.com) Regional News: Almería - [Feed](https://www.noticiasdealmeria.com/rss/ultimasNoticias/) - Spanish
+- ✅ [Noticias de Almería](https://www.noticiasdealmeria.com) Regional News: Almería - [Feed](https://www.noticiasdealmeria.com/rss/ultimasNoticias/) - Spanish
 - ✅ [Noticias Oviedo](http://noticiasoviedo.es) Regional News: Oviedo - [Feed](https://noticiasoviedo.es/feed/) - Spanish
 - ✅ [Montilla Digital](https://www.montilladigital.com) News - [Feed](https://www.montilladigital.com/feeds/posts/default) - Spanish
 - ✅ [Montilla Digital](https://www.montilladigital.com) News - [Feed](https://www.montilladigital.com/rss.xml) - Spanish
-- ❌ [Noticias Vigo: Periódico de Vigo digital](https://www.noticiasvigo.es) Regional News: Vigo - [Feed](https://www.noticiasvigo.es/feed/)
+- ❌ [Noticias de Vigo](https://www.noticiasvigo.es) Regional News: Vigo - [Feed](https://www.noticiasvigo.es/feed/)
 - ✅ [Nueva Alcarria.com](https://nuevaalcarria.com) News - [Feed](https://nuevaalcarria.com/secciones/rss/5) - Spanish
 - ✅ [Nya Svenska Magasinet](https://svenskamagasinet.nu) News - [Feed](https://svenskamagasinet.nu/feed/) - English
 - ✅ [Melilla Hoy](https://melillahoy.es) Regional News: Melilla - [Feed](https://melillahoy.es/feed/) - Spanish
@@ -8865,7 +8865,7 @@
 - ✅ [Zenger](https://zenger.news) News - [Feed](https://zenger.news/feed/) - English
 - ✅ [Alabama Political Reporter](https://www.alreporter.com) Regional News: Alabama - [Feed](https://www.alreporter.com/feed/) - English
 - ❌ [Alabama Media Group](https://www.alabamamediagroup.com) Business - [Feed](https://www.alabamamediagroup.com/feed/)
-- ✅ [All the news from Alabama](https://alabama.statenews.net) Regional News: Alabama - [Feed](http://feeds.alabama.statenews.net/rss/dc5bac5ce154af20) - English
+- ✅ [Alabama State News](https://alabama.statenews.net) Regional News: Alabama - [Feed](http://feeds.alabama.statenews.net/rss/dc5bac5ce154af20) - English
 - ✅ [WAKA Action 8 News](https://www.waka.com) Regional News: Alabama - [Feed](https://www.alabamanews.net/feed/) - English
 - ✅ [The Choctaw Sun-Advocate](https://www.choctawsun.org) Regional News: Alabama - [Feed](https://www.choctawsun.org/feed/) - English
 - ✅ [FOX10 News](https://www.fox10tv.com) Sports - [Feed](https://www.fox10tv.com/arc/outboundfeeds/rss/?outputType=xml) - English
@@ -9165,7 +9165,7 @@
 - ✅ [WHYY](https://whyy.org) Regional News: Delaware - [Feed](https://whyy.org/feed/) - English
 - ✅ [El Pregonero](https://www.elpreg.org) Regional News: District Of Columbia - [Feed](https://elpreg.org/content/feed) - Spanish
 - ✅ [Laurel Community News](https://starpublications.online) Regional News: Delaware - [Feed](https://starpublications.online/feed/) - English
-- ✅ [News](http://thedialog.org) Regional News: Delaware - [Feed](http://thedialog.org/feed/) - English
+- ✅ [The Dialog](http://thedialog.org) Regional News: Delaware - [Feed](http://thedialog.org/feed/) - English
 - ❌ [Hispanic Newspaper](https://hoyendelaware.com) Regional News: Delaware - [Feed](http://hoyendelaware.com/feed/)
 - ✅ [Catholic Standard](https://www.cathstan.org) Regional News: District of Columbia - [Feed](https://www.cathstan.org/all/rss) - English
 - ❌ [WGMD](https://www.wgmd.com) Regional News: Delaware - [Feed](https://www.wgmd.com/feed/)
@@ -9220,10 +9220,10 @@
 - ❌ [Folio Weekly](https://folioweekly.com) Regional News: Florida - [Feed](https://folioweekly.com/feed/)
 - ❌ [The Florida Star](https://www.thefloridastar.com) Regional News: Florida - [Feed](https://www.thefloridastar.com/feed/)
 - ✅ [GadcoTimes](https://gadsdencountytimes.com) Regional News: Florida - [Feed](https://gadsdencountytimes.com/feed/) - English
-- ✅ [School](https://www.gulfbreezenews.com) Regional News: Florida - [Feed](https://news.gulfbreezenews.com/category/school/feed/) - English
+- ✅ [Gulf Breeze News](https://www.gulfbreezenews.com) Regional News: Florida - [Feed](https://news.gulfbreezenews.com/category/school/feed/) - English
 - ✅ [Greene Publishing Inc](https://www.greenepublishing.com) Regional News: Florida - [Feed](http://www.greenepublishing.com/feed/) - English
 - ❌ [Current Issue](https://hotspots.lgbt) Regional News: Florida - [Feed](https://hotspots.lgbt/feed/)
-- ❌ [Southwest Florida Luxury Lifestyle Magazine](https://gulfshorelife.com) Regional News: Florida - [Feed](https://gulfshorelife.com/api/rss/content.rss)
+- ❌ [Gulfshore Life](https://gulfshorelife.com) Regional News: Florida - [Feed](https://gulfshorelife.com/api/rss/content.rss)
 - ❌ [Jewish Press of Pinellas County](https://www.jewishpressgulfcoast.com) Regional News: Florida - [Feed](https://www.jewishpressgulfcoast.com/feed/)
 - ✅ [Miami's Community Newspapers](https://communitynewspapers.com) Regional News: Florida - [Feed](https://communitynewspapers.com/feed/) - English
 - ✅ [North Fort Myers Neighbor](https://www.northfortmyersneighbor.com) Regional News: Florida - [Feed](https://www.northfortmyersneighbor.com/feed/) - English
@@ -9467,7 +9467,7 @@
 - ✅ [The Times](https://timesdelphic.com) Regional News: Iowa - [Feed](https://timesdelphic.com/feed/) - English
 - ✅ [Newton Daily News](https://www.newtondailynews.com) Regional News: Iowa - [Feed](https://www.newtondailynews.com/rss/articles) - English
 - ✅ [Times Republican](https://www.timesrepublican.com) Regional News: Iowa - [Feed](https://www.timesrepublican.com/feed/) - English
-- ❌ [Page](https://www.waukonstandard.com) Regional News: Iowa - [Feed](http://www.waukonstandard.com/rss.xml)
+- ❌ [Waukon Standard](https://www.waukonstandard.com) Regional News: Iowa - [Feed](http://www.waukonstandard.com/rss.xml)
 - ❌ [West Branch Times](https://www.westbranchtimes.com) Regional News: Iowa - [Feed](https://www.westbranchtimes.com/feed)
 - ✅ [High Plains Journal](https://hpj.com) Regional News: Kansas - [Feed](https://www.hpj.com/category/crops/feed/) - English
 - ✅ [High Plains Journal](https://hpj.com) Regional News: Kansas - [Feed](https://hpj.com/feed/) - English
@@ -9509,21 +9509,21 @@
 - ❌ [Garrard Central Record](https://garrardcentralrecord.com) Regional News: Kentucky - [Feed](http://garrardcentralrecord.com/news-briefs?format=rss)
 - ❌ [Clinton County News](https://clintonnews.net) Regional News: Kentucky - [Feed](https://clintonnews.net/feed/)
 - ✅ [The Washburn Review](https://washburnreview.org) Regional News: Kansas - [Feed](https://washburnreview.org/feed/) - English
-- ❌ [Business](https://smileypete.com) Business - [Feed](https://smileypete.com/api/rss/content.rss)
-- ❌ [Business](https://smileypete.com) Business - [Feed](https://smileypete.com/business/index.rss)
-- ❌ [Business](https://smileypete.com) Business - [Feed](https://smileypete.com/community/index.rss)
+- ❌ [Smiley Pete](https://smileypete.com) Business - [Feed](https://smileypete.com/api/rss/content.rss)
+- ❌ [Smiley Pete](https://smileypete.com) Business - [Feed](https://smileypete.com/business/index.rss)
+- ❌ [Smiley Pete](https://smileypete.com) Business - [Feed](https://smileypete.com/community/index.rss)
 - ✅ [Hancock Clarion](https://www.hancockclarion.com) Regional News: Kentucky - [Feed](https://www.hancockclarion.com/feed/) - English
 - ✅ [KyPost News](https://www.wcpo.com) Regional News: Kentucky - [Feed](https://www.wcpo.com/news/state/state-kentucky.rss) - English
 - ❌ [Kentucky Monthly](http://www.kentuckymonthly.com) Regional News: Kentucky - [Feed](http://www.kentuckymonthly.com/api/rss/content.rss)
 - ❌ [Lewis County Herald](https://lewiscountyherald.com) Regional News: Kentucky - [Feed](https://lewiscountyherald.com/feed/)
-- ❌ [LEO Weekly Louisville Eccentric Observer](https://leoweekly.com) Regional News: Kentucky - [Feed](https://www.leoweekly.com/category/food-drink/feed/)
-- ✅ [LEO Weekly Louisville Eccentric Observer](https://leoweekly.com) Regional News: Kentucky - [Feed](https://leoweekly.com/feed/) - English
+- ❌ [LEO Weekly](https://leoweekly.com) Regional News: Kentucky - [Feed](https://www.leoweekly.com/category/food-drink/feed/)
+- ✅ [LEO Weekly](https://leoweekly.com) Regional News: Kentucky - [Feed](https://leoweekly.com/feed/) - English
 - ❌ [Louisville Magazine](https://www.louisville.com) Regional News: Kentucky - [Feed](https://www.louisville.com/feed)
 - ✅ [Bowling Green Daily News](https://bgdailynews.com) Regional News: Kentucky - [Feed](https://www.bgdailynews.com/category/news/feed/) - English
 - ✅ [Bowling Green Daily News](https://bgdailynews.com) Regional News: Kentucky - [Feed](https://bgdailynews.com/feed/) - English
 - ✅ [The Concord](https://www.knightsmedianetwork.org) Regional News: Kentucky - [Feed](https://www.knightsmedianetwork.org/blog-feed.xml) - English
 - ✅ [Harlan Enterprise](https://harlanenterprise.net) Regional News: Kentucky - [Feed](https://harlanenterprise.net/feed/) - English
-- ❌ [Salyersville Independent -](https://salyersvilleindependent.com) Regional News: Kentucky - [Feed](https://salyersvilleindependent.com/feed/)
+- ❌ [Salyersville Independent](https://salyersvilleindependent.com) Regional News: Kentucky - [Feed](https://salyersvilleindependent.com/feed/)
 - ✅ [The Advocate Messenger](https://amnews.com) Regional News: Kentucky - [Feed](https://amnews.com/feed/) - English
 - ✅ [The College Heights Herald](https://wkuherald.com) Regional News: Kentucky - [Feed](https://wkuherald.com/feed/) - English
 - ✅ [The Harrodsburg Herald](https://www.harrodsburgherald.com) Regional News: Kentucky - [Feed](https://www.harrodsburgherald.com/feed/) - English
@@ -9538,7 +9538,7 @@
 - ✅ [WAVE 3](https://www.wdrbwave.com) Regional News: Kentucky - [Feed](https://www.wdrbwave.com/arc/outboundfeeds/rss/?outputType=xml) - English
 - ✅ [WBKO 13](https://www.wbko.com) Regional News: Kentucky - [Feed](https://www.wbko.com/arc/outboundfeeds/rss/?outputType=xml) - English
 - ❌ [WCLU Radio](https://www.wcluradio.com) Regional News: Kentucky - [Feed](https://www.wcluradio.com/feed/)
-- ✅ [First in local news since 1902 State-Journal](https://state-journal.com) Regional News: Kentucky - [Feed](https://www.state-journal.com/feed/) - English
+- ✅ [State-Journal](https://state-journal.com) Regional News: Kentucky - [Feed](https://www.state-journal.com/feed/) - English
 - ❌ [Troublesome Creek Times](https://www.troublesomecreektimes.com) Regional News: Kentucky - [Feed](https://www.troublesomecreektimes.com/feed/)
 - ✅ [The Voice Tribune](https://www.voice-tribune.com) Regional News: Kentucky - [Feed](https://www.voice-tribune.com/blog-feed.xml) - English
 - ❌ [NewsTalk 590 WVLK-AM](https://www.wvlkam.com) Regional News: Kentucky - [Feed](https://www.wvlkam.com/feed/)
@@ -9681,19 +9681,19 @@
 - ❌ [1450 AM 99.7 FM WHTC](https://whtc.com) Regional News: Michigan - [Feed](https://whtc.com/feed/)
 - ❌ [Calvin University Chimes](https://calvinchimes.org) Regional News: Michigan - [Feed](https://calvinchimes.org/feed/)
 - ✅ [DBusiness Magazine](https://www.dbusiness.com) Regional News: Michigan - [Feed](https://www.dbusiness.com/feed/) - English
-- ✅ [Award-Winning LGBTQ+ News & Entertainment](https://pridesource.com) Regional News: Michigan - [Feed](https://pridesource.com/feed.rss) - English
+- ✅ [Pride Source](https://pridesource.com) Regional News: Michigan - [Feed](https://pridesource.com/feed.rss) - English
 - ✅ [The Antrim Review](https://www.antrimreview.net) Regional News: Michigan - [Feed](http://www.antrimreview.net/rss.xml) - English
 - ❌ [Berrien County Record Legal News](https://bcrnews.net) Regional News: Michigan - [Feed](https://bcrnews.net/feed/)
 - ✅ [The Mining Gazette](https://www.mininggazette.com) Regional News: Michigan - [Feed](https://www.mininggazette.com/feed/) - English
-- ❌ [Front Page](https://clarkstonnews.com) Regional News: Michigan - [Feed](https://clarkstonnews.com/feed/)
+- ❌ [Clarkston News](https://clarkstonnews.com) Regional News: Michigan - [Feed](https://clarkstonnews.com/feed/)
 - ❌ [Wilcox Newspapers](https://wilcoxnewspapers.com) Regional News: Michigan - [Feed](https://wilcoxnewspapers.com/feed/)
 - ❌ [Wilcox Newspapers](https://wilcoxnewspapers.com) Regional News: Michigan - [Feed](https://wilcoxnewspapers.com/category/alr/feed/)
 - ✅ [Big Rapids Pioneer](https://www.bigrapidsnews.com) Regional News: Michigan - [Feed](https://www.bigrapidsnews.com/news/feed/Latest-News-Feed-2561.php) - English
 - ✅ [The Daily News](https://www.thedailynews.cc) Regional News: Michigan - [Feed](https://www.thedailynews.cc/category/sports/feed/) - English
 - ✅ [The Daily News](https://www.thedailynews.cc) Regional News: Michigan - [Feed](https://www.thedailynews.cc/feed/) - English
-- ✅ [Front Page](https://geneseecountyview.com) Regional News: Michigan - [Feed](https://geneseecountyview.com/feed/) - English
+- ✅ [Genesee County View](https://geneseecountyview.com) Regional News: Michigan - [Feed](https://geneseecountyview.com/feed/) - English
 - ❌ [Current Magazine](https://www.ecurrent.com) Regional News: Michigan - [Feed](https://www.ecurrent.com/feed/)
-- ❌ [Front Page](https://www.crawfordcountyavalanche.com) Regional News: Michigan - [Feed](https://www.crawfordcountyavalanche.com/feed/)
+- ❌ [Crawford County Avalanche](https://www.crawfordcountyavalanche.com) Regional News: Michigan - [Feed](https://www.crawfordcountyavalanche.com/feed/)
 - ✅ [Detroit Catholic](https://detroitcatholic.com) Regional News: Michigan - [Feed](https://detroitcatholic.com/content/feed) - English
 - ✅ [Detroit Metro Times](https://www.metrotimes.com) Regional News: Michigan - [Feed](https://www.metrotimes.com/detroit/Rss.xml) - English
 - ✅ [Gratiot County Herald](https://gcherald.com) Regional News: Michigan - [Feed](http://gcherald.com/feed/) - English
@@ -9706,10 +9706,10 @@
 - ✅ [Hillsdale Collegian](https://hillsdalecollegian.com) Regional News: Michigan - [Feed](https://hillsdalecollegian.com/feed/) - English
 - ❌ [Glen Arbor Sun](https://glenarborsun.com) Regional News: Michigan - [Feed](http://glenarborsun.com/feed/)
 - ✅ [El Vocero Hispano](https://www.elvocero.net) Regional News: Michigan - [Feed](https://www.elvocero.net/api/rss) - Spanish
-- ✅ [FOX 17 news, traffic, weather and sports](https://www.fox17online.com) Regional News: Michigan - [Feed](https://www.fox17online.com/index.rss) - English
-- ❌ [Front Page](https://countypress.com) Regional News: Michigan - [Feed](https://countypress.com/feed/)
+- ✅ [FOX 17 West Michigan](https://www.fox17online.com) Regional News: Michigan - [Feed](https://www.fox17online.com/index.rss) - English
+- ❌ [The County Press](https://countypress.com) Regional News: Michigan - [Feed](https://countypress.com/feed/)
 - ✅ [HOUR Detroit Magazine](https://www.hourdetroit.com) Regional News: Michigan - [Feed](https://www.hourdetroit.com/feed/) - English
-- ❌ [Front Page](https://lakeorionreview.com) Regional News: Michigan - [Feed](https://lakeorionreview.com/feed/)
+- ❌ [The Lake Orion Review](https://lakeorionreview.com) Regional News: Michigan - [Feed](https://lakeorionreview.com/feed/)
 - ❌ [Huron County View](https://huroncountyview.com) Regional News: Michigan - [Feed](https://huroncountyview.com/feed/)
 - ❌ [Lapeer Area View](https://laview.net) Regional News: Michigan - [Feed](https://laview.net/feed/)
 - ❌ [The Lode Student Newspaper at Michigan Tech](https://mtulode.com) Regional News: Michigan - [Feed](https://mtulode.com/feed/)
@@ -9719,18 +9719,18 @@
 - ❌ [L'Anse Sentinel](https://lansesentinel.net) Regional News: Michigan - [Feed](http://lansesentinel.net/feed/)
 - ❌ [Leelanau News](https://www.leelanaunews.com) Regional News: Michigan - [Feed](https://www.leelanaunews.com/rss/articles)
 - ✅ [News/Talk/Sports 94.9 WSJM](https://www.wsjm.com) Regional News: Michigan - [Feed](https://www.wsjm.com/feed/) - English
-- ❌ [Front Page](https://oxfordleader.com) Regional News: Michigan - [Feed](https://oxfordleader.com/feed/)
+- ❌ [Oxford Leader](https://oxfordleader.com) Regional News: Michigan - [Feed](https://oxfordleader.com/feed/)
 - ❌ [Grand Valley Lanthorn](https://lanthorn.com) Regional News: Michigan - [Feed](https://lanthorn.com/feed/)
 - ✅ [St. Ignace News](https://www.stignacenews.com) Regional News: Michigan - [Feed](https://www.stignacenews.com/feed/) - English
 - ❌ [Northern Express](https://www.northernexpress.com) Regional News: Michigan - [Feed](https://www.northernexpress.com/news/rss/)
-- ✅ [Muskegon Tribune -](http://muskegontribune.com) Regional News: Michigan - [Feed](http://muskegontribune.com/feed/) - English
+- ✅ [Muskegon Tribune](http://muskegontribune.com) Regional News: Michigan - [Feed](http://muskegontribune.com/feed/) - English
 - ❌ [Sanilac County News](https://sanilaccountynews.com) Regional News: Michigan - [Feed](https://sanilaccountynews.com/feed/)
 - ❌ [Pioneer Tribune](https://www.pioneertribune.com) Regional News: Michigan - [Feed](https://www.pioneertribune.com/feed/)
 - ✅ [The Torch](https://fsutorch.com) Regional News: Michigan - [Feed](https://fsutorch.com/feed/) - English
 - ❌ [The Italian Tribune](https://italian-tribune.com) Regional News: Michigan - [Feed](https://italian-tribune.com/feed/)
 - ✅ [The Oakland Post](https://oaklandpostonline.com) Regional News: Michigan - [Feed](https://oaklandpostonline.com/feed/) - English
 - ✅ [The Daily News](https://www.ironmountaindailynews.com) Regional News: Michigan - [Feed](https://www.ironmountaindailynews.com/feed/) - English
-- ✅ [Front Page](https://hastingsbanner.com) Regional News: Michigan - [Feed](https://hastingsbanner.com/feed/) - English
+- ✅ [Hastings Banner](https://hastingsbanner.com) Regional News: Michigan - [Feed](https://hastingsbanner.com/feed/) - English
 - ❌ [Dundee Online](https://dundeeonline.com) Regional News: Michigan - [Feed](https://dundeeonline.com/feed/)
 - ❌ [The Michigan Times](https://themichigantimes.com) Regional News: Michigan - [Feed](https://themichigantimes.com/feed/)
 - ✅ [The Mining Journal](https://www.miningjournal.net) Regional News: Michigan - [Feed](https://www.miningjournal.net/feed/) - English
@@ -9892,7 +9892,7 @@
 - ✅ [Red Latina STL](https://www.redlatinastl.com) Regional News: Missouri - [Feed](https://www.redlatinastl.com/blog-feed.xml) - Spanish
 - ✅ [The Kansas City Jewish Chronicle](https://www.kcjc.com) Regional News: Missouri - [Feed](http://www.kcjc.com/index.php?format=feed&type=rss) - English
 - ✅ [Univision Kansas City](https://www.kukctv.com) News (Spanish) - [Feed](http://www.univisionkansascity.com/feed/) - Spanish
-- ❌ [Promoting this area and its fine people](https://thesalemnewsonline.com) Regional News: Missouri - [Feed](https://thesalemnewsonline.com/feed/)
+- ❌ [Salem News Online](https://thesalemnewsonline.com) Regional News: Missouri - [Feed](https://thesalemnewsonline.com/feed/)
 - ❌ [The Big Sandy Mountaineer](https://www.bigsandymountaineer.com) Regional News: Montana - [Feed](https://www.bigsandymountaineer.com/rss)
 - ❌ [Daniels County Leader Website](https://www.danielscountyleader.com) Regional News: Montana - [Feed](https://www.danielscountyleader.com/feed/)
 - ✅ [Butte News](https://www.buttenews.net) Regional News: Montana - [Feed](https://www.buttenews.net/index.php?format=feed&type=rss) - English
@@ -9900,7 +9900,7 @@
 - ✅ [Flathead Beacon](https://flatheadbeacon.com) Regional News: Montana - [Feed](https://flatheadbeacon.com/feed/) - English
 - ❌ [Big Sky Business Journal](http://bigskybusinessjournal.com) Regional News: Montana - [Feed](http://bigskybusinessjournal.com/feed/)
 - ✅ [Explore Big Sky](https://www.explorebigsky.com) Regional News: Montana - [Feed](http://www.explorebigsky.com/feed) - English
-- ✅ [Hi](https://hilinetoday.com) Regional News: Montana - [Feed](https://hilinetoday.com/feed/) - English
+- ✅ [Hi-Line Today](https://hilinetoday.com) Regional News: Montana - [Feed](https://hilinetoday.com/feed/) - English
 - ❌ [KSEN](https://ksenam.com) Regional News: Montana - [Feed](https://ksenam.com/feed/)
 - ✅ [Butte and Southwest Montana](https://www.kxlf.com) Regional News: Montana - [Feed](https://www.kxlf.com/index.rss) - English
 - ✅ [KPAX TV](https://www.kpax.com) Regional News: Montana - [Feed](https://www.kpax.com/index.rss) - English
@@ -9910,8 +9910,8 @@
 - ✅ [KXLH Helena](https://www.kxlh.com) Regional News: Montana - [Feed](https://www.kxlh.com/index.rss) - English
 - ❌ [News Talk KGVO](https://newstalkkgvo.com) Regional News: Montana - [Feed](https://newstalkkgvo.com/feed/)
 - ✅ [Northern Broadcasting System, Inc.](https://northernbroadcasting.com) Regional News: Montana - [Feed](https://northernbroadcasting.com/feed/) - English
-- ❌ [News](https://www.madisoniannews.com) Regional News: Montana - [Feed](https://www.madisoniannews.com/taxonomy/term/1/feed)
-- ❌ [News](https://www.madisoniannews.com) Regional News: Montana - [Feed](https://www.madisoniannews.com/rss.xml)
+- ❌ [The Madisonian](https://www.madisoniannews.com) Regional News: Montana - [Feed](https://www.madisoniannews.com/taxonomy/term/1/feed)
+- ❌ [The Madisonian](https://www.madisoniannews.com) Regional News: Montana - [Feed](https://www.madisoniannews.com/rss.xml)
 - ❌ [The Whitehall Ledger](https://www.whitehallledger.com) Regional News: Montana - [Feed](https://www.whitehallledger.com/rss)
 - ✅ [Chadrad Communications](https://chadronradio.com) Regional News: Nebraska - [Feed](https://chadronradio.com/feed/) - English
 - ❌ [Alliance Times](https://alliancetimes.com) Regional News: Nebraska - [Feed](https://alliancetimes.com/feed/)
@@ -9919,7 +9919,7 @@
 - ❌ [Cedar County News](https://www.hartington.net) Regional News: Nebraska - [Feed](https://www.hartington.net/rss/articles)
 - ❌ [Antelope County News](https://www.antelopecountynews.com) Regional News: Nebraska - [Feed](https://www.antelopecountynews.com/rss/articles)
 - ❌ [Sidney Herald](https://www.sidneyherald.com) Regional News: Montana - [Feed](https://www.sidneyherald.com/index.rss)
-- ✅ [Omaha News, Weather, Sports, and Traffic](https://www.3newsnow.com) Regional News: Nebraska - [Feed](https://www.3newsnow.com/index.rss) - English
+- ✅ [KMTV 3 News Now](https://www.3newsnow.com) Regional News: Nebraska - [Feed](https://www.3newsnow.com/index.rss) - English
 - ❌ [Gretna Guide & News](https://www.dcpostgazette.com) Regional News: Nebraska - [Feed](https://www.dcpostgazette.com/category/gretna-guide-news/business-gretna-guide-news/feed/)
 - ❌ [Gretna Guide & News](https://www.dcpostgazette.com) Regional News: Nebraska - [Feed](https://www.dcpostgazette.com/feed/)
 - ✅ [Hebron Journal Register](http://hebronjournalregister.com) Regional News: Nebraska - [Feed](https://hebronjournalregister.com/feed/) - English
@@ -9932,7 +9932,7 @@
 - ❌ [Knox County News](https://www.myknoxcountynews.com:443) Regional News: Nebraska - [Feed](https://www.myknoxcountynews.com/rss/articles)
 - ✅ [The Elgin Review Online Edition](https://elginreview.com) Regional News: Nebraska - [Feed](http://www.elginreview.com/feed/) - English
 - ✅ [The Fence Post News](https://www.thefencepost.com) Regional News: Nebraska - [Feed](https://www.thefencepost.com/feed/) - English
-- ✅ [North Platte Nebraska's favorite newspaper](https://northplattebulletin.com) Regional News: Nebraska - [Feed](https://northplattebulletin.com/feed/) - English
+- ✅ [North Platte Bulletin](https://northplattebulletin.com) Regional News: Nebraska - [Feed](https://northplattebulletin.com/feed/) - English
 - ❌ [Jewish Press](https://www.jewishomaha.org) Regional News: Nebraska - [Feed](https://www.jewishomaha.org/feed/)
 - ❌ [Nemaha Valley Observer](https://www.anewspaper.net) Regional News: Nebraska - [Feed](https://www.anewspaper.net/rss/articles)
 - ❌ [The Nebraska Signal](https://thenebraskasignal.com) Regional News: Nebraska - [Feed](https://www.thenebraskasignal.com/feed/)
@@ -10820,7 +10820,7 @@
 - ✅ [La Prensa](https://semanariolaprensa.com) Regional News: Uruguay - [Feed](https://semanariolaprensa.com/feed/) - Spanish
 - ❌ [Rocha Total](http://rochatotal.com) News - [Feed](https://rochatotal.com/feed/)
 - ❌ [La Prensa](https://www.laprensa.com.uy) News - [Feed](https://www.laprensa.com.uy/?list=writings&date=06-13&key=วิธี-สมัคร-lsm99&format=feed&type=rss)
-- ✅ [Fm Gente noticias 107.1 Maldonado, Uruguay.](https://www.fmgente.com.uy) News - [Feed](https://www.fmgente.com.uy/rss.xml) - Spanish
+- ✅ [FM Gente](https://www.fmgente.com.uy) News - [Feed](https://www.fmgente.com.uy/rss.xml) - Spanish
 - ✅ [Hoy Canelones](http://hoycanelones.com.uy) News - [Feed](https://hoycanelones.com.uy/?feed=rss2) - Spanish
 
 ## Uzbekistan
@@ -11130,7 +11130,7 @@
 - ❌ [Sawbones](https://feeds.simplecast.com/) Science - [Feed](https://feeds.simplecast.com/y1LF_sn2)
 - ✅ [Wired](https://www.wired.com/) Science - [Feed](https://www.wired.com/feed/category/science/latest/rss) - English
 - ✅ [TED Talks Daily (SD video)](https://pa.tedcdn.com/) Science - [Feed](https://pa.tedcdn.com/feeds/talks.rss) - English
-- ✅ [NASA Breaking News](https://www.nasa.gov/) Space - [Feed](https://www.nasa.gov/rss/dyn/breaking_news.rss) - English
+- ✅ [NASA](https://www.nasa.gov/) Space - [Feed](https://www.nasa.gov/rss/dyn/breaking_news.rss) - English
 - ❌ [New Scientist](https://www.newscientist.com/) Space - [Feed](https://www.newscientist.com/subject/space/feed/)
 - ✅ [Space.com](https://www.space.com/) Space - [Feed](https://www.space.com/feeds/all) - English
 - ✅ [Sky News](http://feeds.skynews.com/) Sports - [Feed](http://feeds.skynews.com/feeds/rss/sports.xml) - English
