@@ -7592,6 +7592,7 @@
 - ✅ [Última Hora](https://www.ultimahora.es) Regional News: Balearic Islands - [Feed](https://www.ultimahora.es/feed.rss) - Spanish
 - ✅ [Diario Sur](https://www.diariosur.es) Regional News: Málaga - [Feed](https://www.diariosur.es/rss/2.0/?section=/ultima-hora) - Spanish
 - ✅ [Diario Sur](https://www.diariosur.es) Regional News: Málaga - [Feed](https://www.diariosur.es/rss/2.0/?section=) - Spanish
+- ✅ [El PulsoTech](https://www.elpulsotech.com) Technology - [Feed](https://www.elpulsotech.com/feeds/posts/default?alt=rss) - Spanish
 
 ## Sri Lanka
 
