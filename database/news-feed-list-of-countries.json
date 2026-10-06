@@ -42938,6 +42938,22 @@
           "category": "Regional News: Málaga"
         }
       ]
+    },
+    {
+      "publication_name": "El PulsoTech",
+      "publication_website_uri": "https://www.elpulsotech.com",
+      "category": "Technology",
+      "publication_type": "digital_native",
+      "categories": [
+        "science_tech"
+      ],
+      "publication_rss_feed_uris": [
+        {
+          "uri": "https://www.elpulsotech.com/feeds/posts/default?alt=rss",
+          "gated": false,
+          "category": "Technology"
+        }
+      ]
     }
   ],
   "EST": [
