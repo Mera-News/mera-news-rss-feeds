@@ -70481,6 +70481,15 @@
           "category": "Regional News: Hokkaido"
         }
       ]
+    },
+    {
+      "publication_name": "Joho no Todai (情報の灯台)",
+      "publication_website_uri": "https://joho-todai.com/",
+      "publication_rss_feed_uris": [
+        {
+          "uri": "https://joho-todai.com/rss/"
+        }
+      ]
     }
   ],
   "KAZ": [
