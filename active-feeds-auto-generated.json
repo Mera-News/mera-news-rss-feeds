@@ -130484,6 +130484,32 @@
   ],
   "USA": [
     {
+      "publication_name": "NewsCubby",
+      "publication_website_uri": "https://www.newscubby.com",
+      "publication_rss_feed_uris": [
+        {
+          "uri": "https://www.newscubby.com/briefings/feed.xml",
+          "is_valid": true,
+          "validation_status": "valid",
+          "category": "English articles",
+          "language_code": "en",
+          "language_name": "English"
+        },
+        {
+          "uri": "https://www.newscubby.com/es/briefings/feed.xml",
+          "is_valid": true,
+          "validation_status": "valid",
+          "category": "Spanish translations",
+          "language_code": "es",
+          "language_name": "Spanish"
+        }
+      ],
+      "publication_type": "digital_native",
+      "categories": [
+        "general_news"
+      ]
+    },
+    {
       "publication_name": "ESPN",
       "publication_website_uri": "http://espn.go.com/",
       "publication_rss_feed_uris": [

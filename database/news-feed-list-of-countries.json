@@ -108931,6 +108931,27 @@
   ],
   "USA": [
     {
+      "publication_name": "NewsCubby",
+      "publication_website_uri": "https://www.newscubby.com",
+      "category": "News",
+      "publication_rss_feed_uris": [
+        {
+          "uri": "https://www.newscubby.com/briefings/feed.xml",
+          "gated": false,
+          "category": "English articles"
+        },
+        {
+          "uri": "https://www.newscubby.com/es/briefings/feed.xml",
+          "gated": false,
+          "category": "Spanish translations"
+        }
+      ],
+      "publication_type": "digital_native",
+      "categories": [
+        "general_news"
+      ]
+    },
+    {
       "publication_name": "ESPN",
       "publication_website_uri": "http://espn.go.com/",
       "publication_rss_feed_uris": [

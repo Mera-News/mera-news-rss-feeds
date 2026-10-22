@@ -8585,6 +8585,8 @@
 
 ## United States of America
 
+- ✅ [NewsCubby](https://www.newscubby.com) English articles - [Feed](https://www.newscubby.com/briefings/feed.xml) - English
+- ✅ [NewsCubby](https://www.newscubby.com) Spanish translations - [Feed](https://www.newscubby.com/es/briefings/feed.xml) - Spanish
 - ✅ [ESPN](http://espn.go.com/) - [Feed](http://sports.espn.go.com/espn/rss/news) - English
 - ✅ [The New York Times](http://nytimes.com/) - [Feed](http://rss.nytimes.com/services/xml/rss/nyt/HomePage.xml) - English
 - ✅ [ABCNews.com](http://abcnews.go.com/) - [Feed](http://abcnews.go.com/xmldata/rss?id=4380645) - English
