@@ -90932,6 +90932,15 @@
           "category": "News"
         }
       ]
+    },
+    {
+      "publication_name": "TradeTrend",
+      "publication_website_uri": "https://www.tradetrend.net/",
+      "publication_rss_feed_uris": [
+        {
+          "uri": "https://www.tradetrend.net/feeds/posts/default?alt=rss"
+        }
+      ]
     }
   ],
   "PAN": [
