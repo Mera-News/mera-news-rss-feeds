@@ -47303,6 +47303,24 @@
   ],
   "GBR": [
     {
+      "publication_name": "ALTIUS Journal",
+      "publication_website_uri": "https://www.altiusjournal.com/",
+      "category": "Analysis",
+      "publication_rss_feed_uris": [
+        {
+          "uri": "https://www.altiusjournal.com/rss/",
+          "gated": false,
+          "category": "Analysis"
+        }
+      ],
+      "publication_type": "magazine",
+      "categories": [
+        "health",
+        "sports",
+        "science_tech"
+      ]
+    },
+    {
       "publication_name": "BBC",
       "publication_website_uri": "http://bbc.co.uk/",
       "publication_rss_feed_uris": [
@@ -52217,6 +52235,22 @@
     }
   ],
   "GLOBAL": [
+    {
+      "publication_name": "Imperceptions Wire",
+      "publication_website_uri": "https://wire.imperceptions.com/",
+      "category": "Press Releases",
+      "publication_rss_feed_uris": [
+        {
+          "uri": "https://wire.imperceptions.com/feed/imperceptions-full/",
+          "gated": false,
+          "category": "Press Releases"
+        }
+      ],
+      "publication_type": "wire_agency",
+      "categories": [
+        "business"
+      ]
+    },
     {
       "publication_name": "Jake Wharton",
       "publication_website_uri": "https://jakewharton.com/",
@@ -59661,6 +59695,22 @@
     }
   ],
   "IND": [
+    {
+      "publication_name": "Hosa Suddi",
+      "publication_website_uri": "https://hosasuddi.in/",
+      "category": "News (Kannada)",
+      "publication_rss_feed_uris": [
+        {
+          "uri": "https://hosasuddi.in/feed/",
+          "gated": false,
+          "category": "News (Kannada)"
+        }
+      ],
+      "publication_type": "digital_native",
+      "categories": [
+        "general_news"
+      ]
+    },
     {
       "publication_name": "Times of India",
       "publication_website_uri": "http://timesofindia.indiatimes.com/",

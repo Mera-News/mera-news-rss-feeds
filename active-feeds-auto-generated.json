@@ -58196,6 +58196,24 @@
   ],
   "IND": [
     {
+      "publication_name": "Hosa Suddi",
+      "publication_website_uri": "https://hosasuddi.in/",
+      "publication_rss_feed_uris": [
+        {
+          "uri": "https://hosasuddi.in/feed/",
+          "is_valid": true,
+          "validation_status": "valid",
+          "category": "News (Kannada)",
+          "language_code": "kn",
+          "language_name": "Kannada"
+        }
+      ],
+      "publication_type": "digital_native",
+      "categories": [
+        "general_news"
+      ]
+    },
+    {
       "publication_name": "Times of India",
       "publication_website_uri": "http://timesofindia.indiatimes.com/",
       "publication_rss_feed_uris": [
@@ -125673,6 +125691,26 @@
   ],
   "GBR": [
     {
+      "publication_name": "ALTIUS Journal",
+      "publication_website_uri": "https://www.altiusjournal.com/",
+      "publication_rss_feed_uris": [
+        {
+          "uri": "https://www.altiusjournal.com/rss/",
+          "is_valid": true,
+          "validation_status": "valid",
+          "category": "Analysis",
+          "language_code": "en",
+          "language_name": "English"
+        }
+      ],
+      "publication_type": "magazine",
+      "categories": [
+        "health",
+        "sports",
+        "science_tech"
+      ]
+    },
+    {
       "publication_name": "BBC",
       "publication_website_uri": "http://bbc.co.uk/",
       "publication_rss_feed_uris": [
@@ -170644,6 +170682,24 @@
     }
   ],
   "GLOBAL": [
+    {
+      "publication_name": "Imperceptions Wire",
+      "publication_website_uri": "https://wire.imperceptions.com/",
+      "publication_rss_feed_uris": [
+        {
+          "uri": "https://wire.imperceptions.com/feed/imperceptions-full/",
+          "is_valid": true,
+          "validation_status": "valid",
+          "category": "Press Releases",
+          "language_code": "en",
+          "language_name": "English"
+        }
+      ],
+      "publication_type": "wire_agency",
+      "categories": [
+        "business"
+      ]
+    },
     {
       "publication_name": "Jake Wharton",
       "publication_website_uri": "https://jakewharton.com/",
