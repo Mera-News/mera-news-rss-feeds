@@ -37890,6 +37890,15 @@
   ],
   "DOM": [
     {
+      "publication_name": "Orgullo Dominicano",
+      "publication_website_uri": "https://orgullodominicano.org/",
+      "publication_rss_feed_uris": [
+        {
+          "uri": "https://orgullodominicano.org/feed/"
+        }
+      ]
+    },
+    {
       "publication_name": "Remolacha.net",
       "publication_website_uri": "http://remolacha.net/",
       "publication_rss_feed_uris": [
