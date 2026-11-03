@@ -3898,6 +3898,7 @@
 
 ## India
 
+- ✅ [Hosa Suddi](https://hosasuddi.in/) News (Kannada) - [Feed](https://hosasuddi.in/feed/) - Kannada
 - ✅ [Times of India](http://timesofindia.indiatimes.com/) Mumbai - [Feed](http://timesofindia.indiatimes.com/rssfeeds/-2128838597.cms) - English
 - ✅ [Times of India](http://timesofindia.indiatimes.com/) Delhi - [Feed](http://timesofindia.indiatimes.com/rssfeeds/-2128839596.cms) - English
 - ✅ [Times of India](http://timesofindia.indiatimes.com/) Bangalore - [Feed](http://timesofindia.indiatimes.com/rssfeeds/-2128833038.cms) - English
@@ -8310,6 +8311,7 @@
 
 ## United Kingdom
 
+- ✅ [ALTIUS Journal](https://www.altiusjournal.com/) Analysis - [Feed](https://www.altiusjournal.com/rss/) - English
 - ✅ [BBC](http://bbc.co.uk/) - [Feed](http://feeds.bbci.co.uk/news/rss.xml) - English
 - ✅ [Yahoo! UK News](http://uk.news.yahoo.com/) - [Feed](https://uk.news.yahoo.com/rss/uk) - English
 - ✅ [BBC News](http://news.bbc.co.uk/) - [Feed](http://feeds.bbci.co.uk/news/england/rss.xml) - English
@@ -11005,6 +11007,7 @@
 
 ## Global
 
+- ✅ [Imperceptions Wire](https://wire.imperceptions.com/) Press Releases - [Feed](https://wire.imperceptions.com/feed/imperceptions-full/) - English
 - ❌ [Jake Wharton](https://jakewharton.com/) Android Development - [Feed](https://jakewharton.com/atom.xml)
 - ✅ [Public Object](https://publicobject.com/) Android Development - [Feed](https://publicobject.com/rss/) - English
 - ❌ [This Week in Tech (Audio)](https://twit.tv/shows/this-week-in-tech) Tech - [Feed](https://feeds.twit.tv/twit.xml)
