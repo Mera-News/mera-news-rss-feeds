@@ -8587,6 +8587,8 @@
 
 ## United States of America
 
+- ✅ [Sunday Dinner Media](https://www.sundaydinnermedia.com/) Commentary - [Feed](https://www.sundaydinnermedia.com/rss.xml) - English
+- ✅ [The Microdose](https://themicrodose.ai/) Technology - [Feed](https://themicrodose.ai/feed/) - English
 - ✅ [ESPN](http://espn.go.com/) - [Feed](http://sports.espn.go.com/espn/rss/news) - English
 - ✅ [The New York Times](http://nytimes.com/) - [Feed](http://rss.nytimes.com/services/xml/rss/nyt/HomePage.xml) - English
 - ✅ [ABCNews.com](http://abcnews.go.com/) - [Feed](http://abcnews.go.com/xmldata/rss?id=4380645) - English

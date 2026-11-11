@@ -108981,6 +108981,40 @@
   ],
   "USA": [
     {
+      "publication_name": "Sunday Dinner Media",
+      "publication_website_uri": "https://www.sundaydinnermedia.com/",
+      "category": "Commentary",
+      "publication_rss_feed_uris": [
+        {
+          "uri": "https://www.sundaydinnermedia.com/rss.xml",
+          "gated": false,
+          "category": "Commentary"
+        }
+      ],
+      "publication_type": "digital_native",
+      "categories": [
+        "news_politics",
+        "opinion",
+        "culture_arts"
+      ]
+    },
+    {
+      "publication_name": "The Microdose",
+      "publication_website_uri": "https://themicrodose.ai/",
+      "category": "Technology",
+      "publication_rss_feed_uris": [
+        {
+          "uri": "https://themicrodose.ai/feed/",
+          "gated": false,
+          "category": "Technology"
+        }
+      ],
+      "publication_type": "digital_native",
+      "categories": [
+        "science_tech"
+      ]
+    },
+    {
       "publication_name": "ESPN",
       "publication_website_uri": "http://espn.go.com/",
       "publication_rss_feed_uris": [
