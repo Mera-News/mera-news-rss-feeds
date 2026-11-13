@@ -170740,6 +170740,25 @@
   ],
   "GLOBAL": [
     {
+      "publication_name": "UpNext Global",
+      "publication_website_uri": "https://upnext.world/",
+      "publication_rss_feed_uris": [
+        {
+          "uri": "https://upnext.world/rss/",
+          "is_valid": true,
+          "validation_status": "valid",
+          "category": "Startups",
+          "language_code": "en",
+          "language_name": "English"
+        }
+      ],
+      "publication_type": "digital_native",
+      "categories": [
+        "business",
+        "science_tech"
+      ]
+    },
+    {
       "publication_name": "Omar Alshal",
       "publication_website_uri": "https://omaralshal.com/",
       "publication_rss_feed_uris": [
