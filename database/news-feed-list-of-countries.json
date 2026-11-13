@@ -109030,6 +109030,40 @@
   ],
   "USA": [
     {
+      "publication_name": "The Free Financial Advisor",
+      "publication_website_uri": "https://www.thefreefinancialadvisor.com/",
+      "category": "Personal Finance",
+      "publication_rss_feed_uris": [
+        {
+          "uri": "https://www.thefreefinancialadvisor.com/feed/",
+          "gated": false,
+          "category": "Personal Finance"
+        }
+      ],
+      "publication_type": "digital_native",
+      "categories": [
+        "business",
+        "lifestyle"
+      ]
+    },
+    {
+      "publication_name": "Everybody Loves Your Money",
+      "publication_website_uri": "https://www.everybodylovesyourmoney.com/",
+      "category": "Personal Finance",
+      "publication_rss_feed_uris": [
+        {
+          "uri": "https://www.everybodylovesyourmoney.com/feed",
+          "gated": false,
+          "category": "Personal Finance"
+        }
+      ],
+      "publication_type": "digital_native",
+      "categories": [
+        "business",
+        "lifestyle"
+      ]
+    },
+    {
       "publication_name": "SavingAdvice",
       "publication_website_uri": "https://www.savingadvice.com/",
       "category": "Personal Finance",
