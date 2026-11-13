@@ -8587,6 +8587,8 @@
 
 ## United States of America
 
+- ✅ [The Free Financial Advisor](https://www.thefreefinancialadvisor.com/) Personal Finance - [Feed](https://www.thefreefinancialadvisor.com/feed/) - English
+- ✅ [Everybody Loves Your Money](https://www.everybodylovesyourmoney.com/) Personal Finance - [Feed](https://www.everybodylovesyourmoney.com/feed) - English
 - ✅ [SavingAdvice](https://www.savingadvice.com/) Personal Finance - [Feed](https://www.savingadvice.com/feed/) - English
 - ✅ [Sunday Dinner Media](https://www.sundaydinnermedia.com/) Commentary - [Feed](https://www.sundaydinnermedia.com/rss.xml) - English
 - ✅ [The Microdose](https://themicrodose.ai/) Technology - [Feed](https://themicrodose.ai/feed/) - English
