@@ -52236,6 +52236,38 @@
   ],
   "GLOBAL": [
     {
+      "publication_name": "Omar Alshal",
+      "publication_website_uri": "https://omaralshal.com/",
+      "category": "Technology",
+      "publication_rss_feed_uris": [
+        {
+          "uri": "https://omaralshal.com/feed/",
+          "gated": false,
+          "category": "Technology"
+        }
+      ],
+      "publication_type": "digital_native",
+      "categories": [
+        "science_tech"
+      ]
+    },
+    {
+      "publication_name": "Hitecweb News",
+      "publication_website_uri": "https://hitecweb.com/",
+      "category": "Technology",
+      "publication_rss_feed_uris": [
+        {
+          "uri": "https://hitecweb.com/feed/",
+          "gated": false,
+          "category": "Technology"
+        }
+      ],
+      "publication_type": "digital_native",
+      "categories": [
+        "science_tech"
+      ]
+    },
+    {
       "publication_name": "Imperceptions Wire",
       "publication_website_uri": "https://wire.imperceptions.com/",
       "category": "Press Releases",
@@ -108980,6 +109012,23 @@
     }
   ],
   "USA": [
+    {
+      "publication_name": "SavingAdvice",
+      "publication_website_uri": "https://www.savingadvice.com/",
+      "category": "Personal Finance",
+      "publication_rss_feed_uris": [
+        {
+          "uri": "https://www.savingadvice.com/feed/",
+          "gated": false,
+          "category": "Personal Finance"
+        }
+      ],
+      "publication_type": "digital_native",
+      "categories": [
+        "business",
+        "lifestyle"
+      ]
+    },
     {
       "publication_name": "Sunday Dinner Media",
       "publication_website_uri": "https://www.sundaydinnermedia.com/",

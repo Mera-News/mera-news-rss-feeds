@@ -8587,6 +8587,7 @@
 
 ## United States of America
 
+- ✅ [SavingAdvice](https://www.savingadvice.com/) Personal Finance - [Feed](https://www.savingadvice.com/feed/) - English
 - ✅ [Sunday Dinner Media](https://www.sundaydinnermedia.com/) Commentary - [Feed](https://www.sundaydinnermedia.com/rss.xml) - English
 - ✅ [The Microdose](https://themicrodose.ai/) Technology - [Feed](https://themicrodose.ai/feed/) - English
 - ✅ [ESPN](http://espn.go.com/) - [Feed](http://sports.espn.go.com/espn/rss/news) - English
@@ -11009,6 +11010,8 @@
 
 ## Global
 
+- ✅ [Omar Alshal](https://omaralshal.com/) Technology - [Feed](https://omaralshal.com/feed/) - English
+- ✅ [Hitecweb News](https://hitecweb.com/) Technology - [Feed](https://hitecweb.com/feed/) - Arabic
 - ✅ [Imperceptions Wire](https://wire.imperceptions.com/) Press Releases - [Feed](https://wire.imperceptions.com/feed/imperceptions-full/) - English
 - ❌ [Jake Wharton](https://jakewharton.com/) Android Development - [Feed](https://jakewharton.com/atom.xml)
 - ✅ [Public Object](https://publicobject.com/) Android Development - [Feed](https://publicobject.com/rss/) - English
