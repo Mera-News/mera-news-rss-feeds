@@ -84916,6 +84916,57 @@
   ],
   "NLD": [
     {
+      "publication_name": "AT5",
+      "publication_website_uri": "https://www.at5.nl/",
+      "publication_rss_feed_uris": [
+        {
+          "uri": "https://rss.at5.nl/rss",
+          "is_valid": true,
+          "validation_status": "valid",
+          "category": "News",
+          "language_code": "nl",
+          "language_name": "Dutch"
+        },
+        {
+          "uri": "https://rss.at5.nl/rss/achtergrond",
+          "is_valid": true,
+          "validation_status": "valid",
+          "category": "Background",
+          "language_code": "nl",
+          "language_name": "Dutch"
+        },
+        {
+          "uri": "https://rss.at5.nl/rss/cultuur",
+          "is_valid": true,
+          "validation_status": "valid",
+          "category": "Culture",
+          "language_code": "nl",
+          "language_name": "Dutch"
+        },
+        {
+          "uri": "https://rss.at5.nl/rss/ajax",
+          "is_valid": true,
+          "validation_status": "valid",
+          "category": "Sports",
+          "language_code": "nl",
+          "language_name": "Dutch"
+        },
+        {
+          "uri": "https://rss.at5.nl/rss/politiek",
+          "is_valid": true,
+          "validation_status": "valid",
+          "category": "Politics",
+          "language_code": "nl",
+          "language_name": "Dutch"
+        }
+      ],
+      "publication_type": "tv",
+      "categories": [
+        "regional_news",
+        "general_news"
+      ]
+    },
+    {
       "publication_name": "nu.nl",
       "publication_website_uri": "http://nu.nl/",
       "publication_rss_feed_uris": [

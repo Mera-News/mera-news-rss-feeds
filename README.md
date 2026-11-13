@@ -5665,6 +5665,11 @@
 
 ## Netherlands
 
+- ✅ [AT5](https://www.at5.nl/) News - [Feed](https://rss.at5.nl/rss) - Dutch
+- ✅ [AT5](https://www.at5.nl/) Background - [Feed](https://rss.at5.nl/rss/achtergrond) - Dutch
+- ✅ [AT5](https://www.at5.nl/) Culture - [Feed](https://rss.at5.nl/rss/cultuur) - Dutch
+- ✅ [AT5](https://www.at5.nl/) Sports - [Feed](https://rss.at5.nl/rss/ajax) - Dutch
+- ✅ [AT5](https://www.at5.nl/) Politics - [Feed](https://rss.at5.nl/rss/politiek) - Dutch
 - ✅ [nu.nl](http://nu.nl/) - [Feed](http://www.nu.nl/feeds/rss/algemeen.rss) - Dutch
 - ✅ [NOS.nl](http://nos.nl/) - [Feed](https://feeds.nos.nl/nosnieuwsalgemeen) - Dutch
 - ✅ [AD.nl](http://ad.nl/) - [Feed](http://www.ad.nl/rss.xml) - Dutch
