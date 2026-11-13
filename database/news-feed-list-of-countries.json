@@ -52236,6 +52236,23 @@
   ],
   "GLOBAL": [
     {
+      "publication_name": "UpNext Global",
+      "publication_website_uri": "https://upnext.world/",
+      "category": "Startups",
+      "publication_rss_feed_uris": [
+        {
+          "uri": "https://upnext.world/rss/",
+          "gated": false,
+          "category": "Startups"
+        }
+      ],
+      "publication_type": "digital_native",
+      "categories": [
+        "business",
+        "science_tech"
+      ]
+    },
+    {
       "publication_name": "Omar Alshal",
       "publication_website_uri": "https://omaralshal.com/",
       "category": "Technology",

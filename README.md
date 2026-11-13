@@ -11010,6 +11010,7 @@
 
 ## Global
 
+- ✅ [UpNext Global](https://upnext.world/) Startups - [Feed](https://upnext.world/rss/) - English
 - ✅ [Omar Alshal](https://omaralshal.com/) Technology - [Feed](https://omaralshal.com/feed/) - English
 - ✅ [Hitecweb News](https://hitecweb.com/) Technology - [Feed](https://hitecweb.com/feed/) - Arabic
 - ✅ [Imperceptions Wire](https://wire.imperceptions.com/) Press Releases - [Feed](https://wire.imperceptions.com/feed/imperceptions-full/) - English
