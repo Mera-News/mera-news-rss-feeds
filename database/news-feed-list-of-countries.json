@@ -85066,6 +85066,43 @@
   ],
   "NLD": [
     {
+      "publication_name": "AT5",
+      "publication_website_uri": "https://www.at5.nl/",
+      "category": "News",
+      "publication_rss_feed_uris": [
+        {
+          "uri": "https://rss.at5.nl/rss",
+          "gated": false,
+          "category": "News"
+        },
+        {
+          "uri": "https://rss.at5.nl/rss/achtergrond",
+          "gated": false,
+          "category": "Background"
+        },
+        {
+          "uri": "https://rss.at5.nl/rss/cultuur",
+          "gated": false,
+          "category": "Culture"
+        },
+        {
+          "uri": "https://rss.at5.nl/rss/ajax",
+          "gated": false,
+          "category": "Sports"
+        },
+        {
+          "uri": "https://rss.at5.nl/rss/politiek",
+          "gated": false,
+          "category": "Politics"
+        }
+      ],
+      "publication_type": "tv",
+      "categories": [
+        "regional_news",
+        "general_news"
+      ]
+    },
+    {
       "publication_name": "nu.nl",
       "publication_website_uri": "http://nu.nl/",
       "publication_rss_feed_uris": [
