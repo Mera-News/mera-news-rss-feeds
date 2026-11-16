@@ -48525,6 +48525,14 @@
       "publication_website_uri": "https://www.euronews.com",
       "publication_rss_feed_uris": [
         {
+          "uri": "https://pt.euronews.com/rss",
+          "is_valid": true,
+          "validation_status": "valid",
+          "category": "News",
+          "language_code": "pt",
+          "language_name": "Portuguese"
+        },
+        {
           "uri": "https://www.euronews.com/rss",
           "is_valid": true,
           "validation_status": "valid",
