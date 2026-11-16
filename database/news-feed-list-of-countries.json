@@ -52236,6 +52236,22 @@
   ],
   "GLOBAL": [
     {
+      "publication_name": "BondStats Daily",
+      "publication_website_uri": "https://www.bondstats.org/daily/",
+      "category": "Bond Markets",
+      "publication_rss_feed_uris": [
+        {
+          "uri": "https://www.bondstats.org/daily/feed.xml",
+          "gated": false,
+          "category": "Bond Markets"
+        }
+      ],
+      "publication_type": "digital_native",
+      "categories": [
+        "business"
+      ]
+    },
+    {
       "publication_name": "UpNext Global",
       "publication_website_uri": "https://upnext.world/",
       "category": "Startups",
@@ -68900,6 +68916,22 @@
   ],
   "JPN": [
     {
+      "publication_name": "Joho no Todai",
+      "publication_website_uri": "https://joho-todai.com/",
+      "category": "Technology",
+      "publication_rss_feed_uris": [
+        {
+          "uri": "https://joho-todai.com/rss/",
+          "gated": false,
+          "category": "Technology"
+        }
+      ],
+      "publication_type": "digital_native",
+      "categories": [
+        "science_tech"
+      ]
+    },
+    {
       "publication_name": "NHK",
       "publication_website_uri": "http://nhk.or.jp/",
       "publication_rss_feed_uris": [
@@ -82713,6 +82745,22 @@
     }
   ],
   "NGA": [
+    {
+      "publication_name": "Sunday Okekwu Independent Research Centre",
+      "publication_website_uri": "https://sundayokekwuinsurance.wordpress.com/",
+      "category": "Insurance & Finance",
+      "publication_rss_feed_uris": [
+        {
+          "uri": "https://sundayokekwuinsurance.wordpress.com/feed/",
+          "gated": false,
+          "category": "Insurance & Finance"
+        }
+      ],
+      "publication_type": "digital_native",
+      "categories": [
+        "business"
+      ]
+    },
     {
       "publication_name": "Information Nigeria",
       "publication_website_uri": "http://www.informationnigeria.org/",
