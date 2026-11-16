@@ -4624,6 +4624,7 @@
 
 ## Japan
 
+- ✅ [Joho no Todai](https://joho-todai.com/) Technology - [Feed](https://joho-todai.com/rss/) - Japanese
 - ✅ [NHK](http://nhk.or.jp/) - [Feed](http://www.nhk.or.jp/rj/podcast/rss/english.xml) - English
 - ✅ [nikkansports.com](http://www.nikkansports.com/) - [Feed](http://www.nikkansports.com/soccer/atom.xml) - Japanese
 - ❌ [Japan Today](https://japantoday.com/) - [Feed](https://japantoday.com/feed)
@@ -5882,6 +5883,7 @@
 
 ## Nigeria
 
+- ✅ [Sunday Okekwu Independent Research Centre](https://sundayokekwuinsurance.wordpress.com/) Insurance & Finance - [Feed](https://sundayokekwuinsurance.wordpress.com/feed/) - English
 - ✅ [Information Nigeria](http://www.informationnigeria.org/) - [Feed](http://www.informationng.com/feed) - English
 - ✅ [Nigerian Eye](https://www.nigerianeye.com/) - [Feed](http://feeds.feedburner.com/Nigerianeye) - English
 - ✅ [Legit.ng](https://www.legit.ng/) - [Feed](https://www.legit.ng/rss/all.rss) - English
@@ -11017,6 +11019,7 @@
 
 ## Global
 
+- ✅ [BondStats Daily](https://www.bondstats.org/daily/) Bond Markets - [Feed](https://www.bondstats.org/daily/feed.xml) - English
 - ✅ [UpNext Global](https://upnext.world/) Startups - [Feed](https://upnext.world/rss/) - English
 - ✅ [Omar Alshal](https://omaralshal.com/) Technology - [Feed](https://omaralshal.com/feed/) - English
 - ✅ [Hitecweb News](https://hitecweb.com/) Technology - [Feed](https://hitecweb.com/feed/) - Arabic
