@@ -3249,6 +3249,7 @@
 - ✅ [Ville de Montpellier](https://www.montpellier.fr) Government News: Montpellier - [Feed](https://www.montpellier.fr/rss.xml) - French
 - ✅ [Ville de Bordeaux](https://www.bordeaux.fr) Government News: Bordeaux - [Feed](https://www.bordeaux.fr/rss.xml) - French
 - ✅ [Paris Match](https://www.parismatch.com) News - [Feed](https://www.parismatch.com/rss.xml) - French
+- ✅ [Euronews](https://www.euronews.com) News - [Feed](https://pt.euronews.com/rss) - Portuguese
 - ✅ [Euronews](https://www.euronews.com) News - [Feed](https://www.euronews.com/rss) - English
 - ✅ [Radio France Internationale](https://www.rfi.fr) News - [Feed](https://www.rfi.fr/fr/rss) - French
 - ✅ [Centre Presse Aveyron](https://www.centrepresseaveyron.fr) Regional News: Aveyron - [Feed](https://www.centrepresseaveyron.fr/rss.xml) - French

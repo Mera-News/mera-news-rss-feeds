@@ -46659,6 +46659,11 @@
       ],
       "publication_rss_feed_uris": [
         {
+          "uri": "https://pt.euronews.com/rss",
+          "gated": false,
+          "category": "News"
+        },
+        {
           "uri": "https://www.euronews.com/rss",
           "gated": false,
           "category": "News"
