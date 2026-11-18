@@ -52257,6 +52257,22 @@
   ],
   "GLOBAL": [
     {
+      "publication_name": "Future Feed",
+      "publication_website_uri": "https://www.futurefeed.to/",
+      "category": "Technology",
+      "publication_rss_feed_uris": [
+        {
+          "uri": "https://www.futurefeed.to/rss.xml",
+          "gated": false,
+          "category": "Technology"
+        }
+      ],
+      "publication_type": "digital_native",
+      "categories": [
+        "science_tech"
+      ]
+    },
+    {
       "publication_name": "MaxGG News",
       "publication_website_uri": "https://maxgg.cc",
       "category": "Gaming",

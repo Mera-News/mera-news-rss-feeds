@@ -11022,6 +11022,7 @@
 
 ## Global
 
+- ✅ [Future Feed](https://www.futurefeed.to/) Technology - [Feed](https://www.futurefeed.to/rss.xml) - English
 - ✅ [MaxGG News](https://maxgg.cc) Gaming - [Feed](https://maxgg.cc/feed.xml) - English
 - ✅ [TheBareNews](https://thebarenews.ai) General News - [Feed](https://thebarenews.ai/feed.xml) - English
 - ✅ [BondStats Daily](https://www.bondstats.org/daily/) Bond Markets - [Feed](https://www.bondstats.org/daily/feed.xml) - English
