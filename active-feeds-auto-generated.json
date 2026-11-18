@@ -168330,6 +168330,24 @@
       ]
     },
     {
+      "publication_name": "La Prensa",
+      "publication_website_uri": "https://www.laprensa.com.uy",
+      "publication_rss_feed_uris": [
+        {
+          "uri": "https://www.laprensa.com.uy/?format=feed&type=rss",
+          "is_valid": true,
+          "validation_status": "valid",
+          "category": "News",
+          "language_code": "es",
+          "language_name": "Spanish"
+        }
+      ],
+      "publication_type": "newspaper",
+      "categories": [
+        "general_news"
+      ]
+    },
+    {
       "publication_name": "FM Gente",
       "publication_website_uri": "https://www.fmgente.com.uy",
       "publication_rss_feed_uris": [
