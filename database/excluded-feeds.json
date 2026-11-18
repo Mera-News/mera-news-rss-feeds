@@ -24,16 +24,5 @@
     "reason": "The address carried a credential (a key query value) that the publisher did not publish. Replaced by the publisher's public feed, https://dailycaller.com/feed/.",
     "evidence_urls": [],
     "excluded_on": "2026-11-18"
-  },
-  {
-    "country_code": "URY",
-    "publication_name": "La Prensa",
-    "publication_website_uri": "https://www.laprensa.com.uy",
-    "feed_uris": [
-      "www.laprensa.com.uy (address withheld)"
-    ],
-    "reason": "The address carried scraped junk in its query (an advertisement for a gambling site) and did not serve a feed.",
-    "evidence_urls": [],
-    "excluded_on": "2026-11-18"
   }
 ]
