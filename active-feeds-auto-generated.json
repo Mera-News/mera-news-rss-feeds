@@ -163988,7 +163988,7 @@
       "publication_website_uri": "https://dailycaller.com",
       "publication_rss_feed_uris": [
         {
-          "uri": "https://api.dailycaller.com/?feed=full&key=abad8678eeda58de4efcc7e9a704d008",
+          "uri": "https://dailycaller.com/feed/",
           "is_valid": true,
           "validation_status": "valid",
           "category": "News",
@@ -168325,22 +168325,6 @@
         }
       ],
       "publication_type": "digital_native",
-      "categories": [
-        "general_news"
-      ]
-    },
-    {
-      "publication_name": "La Prensa",
-      "publication_website_uri": "https://www.laprensa.com.uy",
-      "publication_rss_feed_uris": [
-        {
-          "uri": "https://www.laprensa.com.uy/?list=writings&date=06-13&key=วิธี-สมัคร-lsm99&format=feed&type=rss",
-          "is_valid": false,
-          "validation_status": "invalid",
-          "category": "News"
-        }
-      ],
-      "publication_type": "newspaper",
       "categories": [
         "general_news"
       ]
