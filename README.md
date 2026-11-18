@@ -10581,7 +10581,7 @@
 - ❌ [West Austin News](https://westaustinnews.com) Regional News: Texas - [Feed](https://westaustinnews.com/feed/)
 - ✅ [Blaze Media](https://www.theblaze.com) News - [Feed](https://www.theblaze.com/feeds/feed.rss) - English
 - ✅ [FanSided](https://fansided.com) Sports - [Feed](https://fansided.com/feed) - English
-- ✅ [Daily Caller](https://dailycaller.com) News - [Feed](https://api.dailycaller.com/?feed=full&key=REMOVED) - English
+- ✅ [Daily Caller](https://dailycaller.com) News - [Feed](https://dailycaller.com/feed/) - English
 - ✅ [Fox News](https://www.foxnews.com) News - [Feed](https://moxie.foxnews.com/google-publisher/latest.xml) - English
 - ✅ [Fox Business Network](https://www.foxbusiness.com) Business - [Feed](https://moxie.foxbusiness.com/google-publisher/latest.xml) - English
 - ❌ [Harper's Magazine](https://harpers.org) News - [Feed](https://harpers.org/feed/)
@@ -10835,7 +10835,6 @@
 - ✅ [Sociedad Uruguaya](https://www.sociedaduruguaya.org) Regional News: Uruguay - [Feed](https://www.sociedaduruguaya.org/feed) - Spanish
 - ✅ [La Prensa](https://semanariolaprensa.com) Regional News: Uruguay - [Feed](https://semanariolaprensa.com/feed/) - Spanish
 - ❌ [Rocha Total](http://rochatotal.com) News - [Feed](https://rochatotal.com/feed/)
-- ❌ [La Prensa](https://www.laprensa.com.uy) News - [Feed](https://www.laprensa.com.uy/?list=writings&date=06-13&key=REMOVED&format=feed&type=rss)
 - ✅ [FM Gente](https://www.fmgente.com.uy) News - [Feed](https://www.fmgente.com.uy/rss.xml) - Spanish
 - ✅ [Hoy Canelones](http://hoycanelones.com.uy) News - [Feed](https://hoycanelones.com.uy/?feed=rss2) - Spanish
 
@@ -11190,8 +11189,8 @@
 
 ```
 Countries with valid feeds: 244
-Total publications parsed: 10177
+Total publications parsed: 10176
 Valid feeds (✅): 7317
-Invalid/Outdated feeds (❌): 2860
+Invalid/Outdated feeds (❌): 2859
 Success rate: 71.9%
 ```

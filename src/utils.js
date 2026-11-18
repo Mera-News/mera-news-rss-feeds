@@ -118,3 +118,36 @@ Success rate: ${successRate}%
 `;
 }
 
+
+// Query names that carry a credential or a session. A feed address with one of
+// them, with a user name or password, or with a non-ASCII query is not a
+// published feed address, so the list refuses it.
+const CREDENTIAL_PARAMS = new Set([
+  'key', 'apikey', 'api_key', 'api-key', 'token', 'access_token', 'accesstoken',
+  'auth', 'authtoken', 'auth_token', 'secret', 'client_secret', 'sig',
+  'signature', 'password', 'pwd', 'pass', 'session', 'sessionid', 'sid', 'hash',
+]);
+
+/**
+ * Why a feed address must not be in the list, or null when it may be.
+ * @param {string} uri - The feed address
+ * @returns {string|null}
+ */
+export function credentialReason(uri) {
+  let url;
+  try {
+    url = new URL(uri);
+  } catch {
+    return 'not a valid address';
+  }
+  if (url.username || url.password) return 'carries a user name or password';
+  for (const name of url.searchParams.keys()) {
+    if (CREDENTIAL_PARAMS.has(name.toLowerCase())) {
+      return `carries a credential-shaped query value (${name})`;
+    }
+  }
+  if (/[^\x00-\x7F]/.test(decodeURIComponent(url.search))) {
+    return 'carries a non-ASCII query';
+  }
+  return null;
+}

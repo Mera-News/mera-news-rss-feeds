@@ -7,7 +7,7 @@ import cliProgress from 'cli-progress';
 import pLimit from 'p-limit';
 import countries from 'i18n-iso-countries';
 import { createRequire } from 'module';
-import { validateFeed, generateStatisticsBlock, PARALLEL_WORKERS } from './utils.js';
+import { validateFeed, generateStatisticsBlock, PARALLEL_WORKERS, credentialReason } from './utils.js';
 import { initLanguageDetector } from './language-detection.js';
 
 const require = createRequire(import.meta.url);
@@ -87,6 +87,18 @@ function generateCountrySection(countryCode, publications) {
 async function generateMarkdown() {
   // Check for -log parameter
   const enableLogging = process.argv.includes('-log') || process.argv.includes('--log');
+  // --reuse-status: keep the last run's result for every address already in the
+  // generated file, and fetch only new addresses. For a small edit; a full run
+  // re-checks every feed.
+  const reuseStatus = process.argv.includes('--reuse-status');
+
+  // Self-check: the credential rule must refuse a planted address.
+  for (const planted of ['https://feeds.example.test/rss?key=abc', 'https://u:p@feeds.example.test/rss']) {
+    if (!credentialReason(planted)) {
+      console.error(`❌ Credential check is broken: it accepted ${planted}`);
+      process.exit(1);
+    }
+  }
 
   await initLanguageDetector();
 
@@ -104,6 +116,36 @@ async function generateMarkdown() {
   } catch (error) {
     console.error(`❌ Error reading JSON file: ${error.message}`);
     process.exit(1);
+  }
+
+  // Refuse any address that carries a credential, before anything is fetched.
+  const refused = [];
+  for (const [country, pubs] of Object.entries(data)) {
+    for (const pub of pubs) {
+      for (const feedObj of pub.publication_rss_feed_uris) {
+        const reason = credentialReason(feedObj.uri);
+        if (reason) {
+          let host = feedObj.uri;
+          try { host = new URL(feedObj.uri).host; } catch { /* keep the raw text */ }
+          refused.push(`${country} ${pub.publication_name} (${host}): ${reason}`);
+        }
+      }
+    }
+  }
+  if (refused.length > 0) {
+    console.error('❌ These feed addresses are refused. Remove them, or use the publisher\'s public feed address:');
+    refused.forEach((line) => console.error(`   ${line}`));
+    process.exit(1);
+  }
+
+  const previousStatus = new Map();
+  if (reuseStatus) {
+    const previous = JSON.parse(fs.readFileSync(OUTPUT_JSON_ACTIVE, 'utf8'));
+    for (const pubs of Object.values(previous)) {
+      for (const pub of pubs) {
+        for (const f of pub.publication_rss_feed_uris) previousStatus.set(f.uri, f);
+      }
+    }
   }
 
   const validatedData = {};
@@ -173,8 +215,13 @@ async function generateMarkdown() {
             let isValid = false;
             let language_code = null;
             let language_name = null;
+            const previous = previousStatus.get(feedObj.uri);
             if (feedObj.bot_protection === true) {
               isValid = 'bot_protected';
+            } else if (previous) {
+              isValid = previous.validation_status === 'valid';
+              language_code = previous.language_code ?? null;
+              language_name = previous.language_name ?? null;
             } else {
               ({ isValid, language_code, language_name } = await validateFeed(
                 feedObj.uri,

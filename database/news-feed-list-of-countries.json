@@ -109070,22 +109070,6 @@
       ]
     },
     {
-      "publication_name": "La Prensa",
-      "publication_website_uri": "https://www.laprensa.com.uy",
-      "category": "News",
-      "publication_type": "newspaper",
-      "categories": [
-        "general_news"
-      ],
-      "publication_rss_feed_uris": [
-        {
-          "uri": "https://www.laprensa.com.uy/?list=writings&date=06-13&key=REMOVED&format=feed&type=rss",
-          "gated": false,
-          "category": "News"
-        }
-      ]
-    },
-    {
       "publication_name": "FM Gente",
       "publication_website_uri": "https://www.fmgente.com.uy",
       "category": "News",
@@ -139609,7 +139593,7 @@
       ],
       "publication_rss_feed_uris": [
         {
-          "uri": "https://api.dailycaller.com/?feed=full&key=REMOVED",
+          "uri": "https://dailycaller.com/feed/",
           "gated": false,
           "category": "News"
         }

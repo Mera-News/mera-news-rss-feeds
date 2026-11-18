@@ -26,6 +26,13 @@ pages have no author, and each one copies a Telegram, X, Facebook or similar pos
 channel as its source, it is not a news source for this list. Removed sites are recorded, with the
 reason and example pages, in `database/excluded-feeds.json`. Please do not add them back.
 
+**Only published feed addresses**: an address with a user name or password, a credential-shaped
+query value (such as `key=`, `token=`, `apikey=` or `signature=`) or a non-ASCII query is refused
+by the generator. Use the feed address the publisher shows on its own site.
+
+**Small edits**: `./codegen.sh --reuse-status` keeps the last run's result for every address
+already in `active-feeds-auto-generated.json` and fetches only new addresses.
+
 **Note about data structure**: The database uses ISO 3166-1 Alpha-3 country codes as keys (e.g., `"USA"`, `"GBR"`, `"IND"`). When the README is generated, these codes are automatically converted to full country names for display.
 
 Follow these steps to add your RSS feed:
