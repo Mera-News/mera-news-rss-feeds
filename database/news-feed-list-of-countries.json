@@ -39773,6 +39773,22 @@
   ],
   "ESP": [
     {
+      "publication_name": "AutosOcasion",
+      "publication_website_uri": "https://www.autosocasion.com/",
+      "category": "Motor",
+      "publication_rss_feed_uris": [
+        {
+          "uri": "https://www.autosocasion.com/rss.xml",
+          "gated": false,
+          "category": "Motor"
+        }
+      ],
+      "publication_type": "digital_native",
+      "categories": [
+        "cars"
+      ]
+    },
+    {
       "publication_name": "EL PAIS",
       "publication_website_uri": "https://elpais.com/",
       "publication_rss_feed_uris": [
@@ -52240,6 +52256,38 @@
     }
   ],
   "GLOBAL": [
+    {
+      "publication_name": "MaxGG News",
+      "publication_website_uri": "https://maxgg.cc",
+      "category": "Gaming",
+      "publication_rss_feed_uris": [
+        {
+          "uri": "https://maxgg.cc/feed.xml",
+          "gated": false,
+          "category": "Gaming"
+        }
+      ],
+      "publication_type": "digital_native",
+      "categories": [
+        "entertainment"
+      ]
+    },
+    {
+      "publication_name": "TheBareNews",
+      "publication_website_uri": "https://thebarenews.ai",
+      "category": "General News",
+      "publication_rss_feed_uris": [
+        {
+          "uri": "https://thebarenews.ai/feed.xml",
+          "gated": false,
+          "category": "General News"
+        }
+      ],
+      "publication_type": "digital_native",
+      "categories": [
+        "general_news"
+      ]
+    },
     {
       "publication_name": "BondStats Daily",
       "publication_website_uri": "https://www.bondstats.org/daily/",
@@ -109119,6 +109167,22 @@
     }
   ],
   "USA": [
+    {
+      "publication_name": "HeadlinesXtra",
+      "publication_website_uri": "https://headlinesxtra.com/",
+      "category": "General News",
+      "publication_rss_feed_uris": [
+        {
+          "uri": "https://headlinesxtra.com/feed/",
+          "gated": false,
+          "category": "General News"
+        }
+      ],
+      "publication_type": "digital_native",
+      "categories": [
+        "general_news"
+      ]
+    },
     {
       "publication_name": "The Free Financial Advisor",
       "publication_website_uri": "https://www.thefreefinancialadvisor.com/",

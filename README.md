@@ -7387,6 +7387,7 @@
 
 ## Spain
 
+- ✅ [AutosOcasion](https://www.autosocasion.com/) Motor - [Feed](https://www.autosocasion.com/rss.xml) - Spanish
 - ✅ [EL PAIS](https://elpais.com/) - [Feed](https://feeds.elpais.com/mrss-s/pages/ep/site/elpais.com/portada) - Spanish
 - ✅ [elmundo.es](https://elmundo.es/) - [Feed](https://e00-elmundo.uecdn.es/rss/portada.xml) - Spanish
 - ❌ [Antena 3](https://www.antena3.com/) - [Feed](https://www.antena3.com/noticias/rss/4013050.xml)
@@ -8595,6 +8596,7 @@
 
 ## United States of America
 
+- ✅ [HeadlinesXtra](https://headlinesxtra.com/) General News - [Feed](https://headlinesxtra.com/feed/) - English
 - ✅ [The Free Financial Advisor](https://www.thefreefinancialadvisor.com/) Personal Finance - [Feed](https://www.thefreefinancialadvisor.com/feed/) - English
 - ✅ [Everybody Loves Your Money](https://www.everybodylovesyourmoney.com/) Personal Finance - [Feed](https://www.everybodylovesyourmoney.com/feed) - English
 - ✅ [SavingAdvice](https://www.savingadvice.com/) Personal Finance - [Feed](https://www.savingadvice.com/feed/) - English
@@ -11020,6 +11022,8 @@
 
 ## Global
 
+- ✅ [MaxGG News](https://maxgg.cc) Gaming - [Feed](https://maxgg.cc/feed.xml) - English
+- ✅ [TheBareNews](https://thebarenews.ai) General News - [Feed](https://thebarenews.ai/feed.xml) - English
 - ✅ [BondStats Daily](https://www.bondstats.org/daily/) Bond Markets - [Feed](https://www.bondstats.org/daily/feed.xml) - English
 - ✅ [UpNext Global](https://upnext.world/) Startups - [Feed](https://upnext.world/rss/) - English
 - ✅ [Omar Alshal](https://omaralshal.com/) Technology - [Feed](https://omaralshal.com/feed/) - English
