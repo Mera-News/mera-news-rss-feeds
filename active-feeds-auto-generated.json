@@ -58240,6 +58240,24 @@
   ],
   "IND": [
     {
+      "publication_name": "NewX",
+      "publication_website_uri": "https://newx.in",
+      "publication_rss_feed_uris": [
+        {
+          "uri": "https://newx.in/en/feed",
+          "is_valid": true,
+          "validation_status": "valid",
+          "category": "General News",
+          "language_code": "en",
+          "language_name": "English"
+        }
+      ],
+      "publication_type": "digital_native",
+      "categories": [
+        "general_news"
+      ]
+    },
+    {
       "publication_name": "Hosa Suddi",
       "publication_website_uri": "https://hosasuddi.in/",
       "publication_rss_feed_uris": [
@@ -67520,6 +67538,24 @@
     }
   ],
   "ITA": [
+    {
+      "publication_name": "TGFlash24",
+      "publication_website_uri": "https://www.tgflash24.it/",
+      "publication_rss_feed_uris": [
+        {
+          "uri": "https://www.tgflash24.it/feed/",
+          "is_valid": true,
+          "validation_status": "valid",
+          "category": "General News",
+          "language_code": "it",
+          "language_name": "Italian"
+        }
+      ],
+      "publication_type": "digital_native",
+      "categories": [
+        "general_news"
+      ]
+    },
     {
       "publication_name": "La Repubblica",
       "publication_website_uri": "http://repubblica.it/",
@@ -82846,6 +82882,24 @@
   ],
   "MSR": [],
   "MAR": [
+    {
+      "publication_name": "Darb24",
+      "publication_website_uri": "https://darb24.com/",
+      "publication_rss_feed_uris": [
+        {
+          "uri": "https://darb24.com/feed/",
+          "is_valid": true,
+          "validation_status": "valid",
+          "category": "General News",
+          "language_code": "ar",
+          "language_name": "Arabic"
+        }
+      ],
+      "publication_type": "digital_native",
+      "categories": [
+        "general_news"
+      ]
+    },
     {
       "publication_name": "Hespress",
       "publication_website_uri": "http://www.hespress.com/",
@@ -170964,6 +171018,24 @@
     }
   ],
   "GLOBAL": [
+    {
+      "publication_name": "Edition Business",
+      "publication_website_uri": "https://www.edition.business/es",
+      "publication_rss_feed_uris": [
+        {
+          "uri": "https://www.edition.business/es/rss.xml",
+          "is_valid": true,
+          "validation_status": "valid",
+          "category": "Business",
+          "language_code": "es",
+          "language_name": "Spanish"
+        }
+      ],
+      "publication_type": "digital_native",
+      "categories": [
+        "business"
+      ]
+    },
     {
       "publication_name": "IPL.com",
       "publication_website_uri": "https://www.ipl.com/",

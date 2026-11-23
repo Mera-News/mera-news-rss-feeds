@@ -52305,6 +52305,22 @@
   ],
   "GLOBAL": [
     {
+      "publication_name": "Edition Business",
+      "publication_website_uri": "https://www.edition.business/es",
+      "category": "Business",
+      "publication_rss_feed_uris": [
+        {
+          "uri": "https://www.edition.business/es/rss.xml",
+          "gated": false,
+          "category": "Business"
+        }
+      ],
+      "publication_type": "digital_native",
+      "categories": [
+        "business"
+      ]
+    },
+    {
       "publication_name": "IPL.com",
       "publication_website_uri": "https://www.ipl.com/",
       "category": "Cricket",
@@ -59894,6 +59910,22 @@
   ],
   "IND": [
     {
+      "publication_name": "NewX",
+      "publication_website_uri": "https://newx.in",
+      "category": "General News",
+      "publication_rss_feed_uris": [
+        {
+          "uri": "https://newx.in/en/feed",
+          "gated": false,
+          "category": "General News"
+        }
+      ],
+      "publication_type": "digital_native",
+      "categories": [
+        "general_news"
+      ]
+    },
+    {
       "publication_name": "Hosa Suddi",
       "publication_website_uri": "https://hosasuddi.in/",
       "category": "News (Kannada)",
@@ -67040,6 +67072,22 @@
     }
   ],
   "ITA": [
+    {
+      "publication_name": "TGFlash24",
+      "publication_website_uri": "https://www.tgflash24.it/",
+      "category": "General News",
+      "publication_rss_feed_uris": [
+        {
+          "uri": "https://www.tgflash24.it/feed/",
+          "gated": false,
+          "category": "General News"
+        }
+      ],
+      "publication_type": "digital_native",
+      "categories": [
+        "general_news"
+      ]
+    },
     {
       "publication_name": "La Repubblica",
       "publication_website_uri": "http://repubblica.it/",
@@ -76360,6 +76408,22 @@
     }
   ],
   "MAR": [
+    {
+      "publication_name": "Darb24",
+      "publication_website_uri": "https://darb24.com/",
+      "category": "General News",
+      "publication_rss_feed_uris": [
+        {
+          "uri": "https://darb24.com/feed/",
+          "gated": false,
+          "category": "General News"
+        }
+      ],
+      "publication_type": "digital_native",
+      "categories": [
+        "general_news"
+      ]
+    },
     {
       "publication_name": "Hespress",
       "publication_website_uri": "http://www.hespress.com/",

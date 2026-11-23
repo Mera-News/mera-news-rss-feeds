@@ -3901,6 +3901,7 @@
 
 ## India
 
+- ✅ [NewX](https://newx.in) General News - [Feed](https://newx.in/en/feed) - English
 - ✅ [Hosa Suddi](https://hosasuddi.in/) News (Kannada) - [Feed](https://hosasuddi.in/feed/) - Kannada
 - ✅ [Times of India](http://timesofindia.indiatimes.com/) Mumbai - [Feed](http://timesofindia.indiatimes.com/rssfeeds/-2128838597.cms) - English
 - ✅ [Times of India](http://timesofindia.indiatimes.com/) Delhi - [Feed](http://timesofindia.indiatimes.com/rssfeeds/-2128839596.cms) - English
@@ -4501,6 +4502,7 @@
 
 ## Italy
 
+- ✅ [TGFlash24](https://www.tgflash24.it/) General News - [Feed](https://www.tgflash24.it/feed/) - Italian
 - ✅ [La Repubblica](http://repubblica.it/) - [Feed](http://www.repubblica.it/rss/homepage/rss2.0.xml) - Italian
 - ✅ [ANSA.it](http://ansa.it/) - [Feed](http://www.ansa.it/english/english_rss.xml) - Italian
 - ✅ [TGcom24](http://tgcom24.mediaset.it/) - [Feed](http://www.tgcom24.mediaset.it/rss/homepage.xml) - Italian
@@ -5529,6 +5531,7 @@
 
 ## Morocco
 
+- ✅ [Darb24](https://darb24.com/) General News - [Feed](https://darb24.com/feed/) - Arabic
 - ✅ [Hespress](http://www.hespress.com/) - [Feed](http://www.hespress.com/feed/index.rss) - Arabic
 - ✅ [yabiladi.com](http://www.yabiladi.com/) - [Feed](http://www.yabiladi.com/rss/?url=rubrik/) - French
 - ❌ [Elbotola.com](http://www.elbotola.com/) - [Feed](http://www.elbotola.com/feeds/)
@@ -11025,6 +11028,7 @@
 
 ## Global
 
+- ✅ [Edition Business](https://www.edition.business/es) Business - [Feed](https://www.edition.business/es/rss.xml) - Spanish
 - ✅ [IPL.com](https://www.ipl.com/) Cricket - [Feed](https://www.ipl.com/rss) - English
 - ✅ [Future Feed](https://www.futurefeed.to/) Technology - [Feed](https://www.futurefeed.to/rss.xml) - English
 - ✅ [MaxGG News](https://maxgg.cc) Gaming - [Feed](https://maxgg.cc/feed.xml) - English
