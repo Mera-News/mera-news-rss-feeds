@@ -2,6 +2,10 @@
 
 **See [CONTRIBUTION.md](CONTRIBUTION.md) for instructions on how to contribute.**
 
+## Licence
+
+Mera Labs' additions are CC0 1.0 Universal. The upstream's part states no licence and is passed on as found. See [NOTICE.md](NOTICE.md) and [LICENSE](LICENSE).
+
 ----------
 
 ## Legend

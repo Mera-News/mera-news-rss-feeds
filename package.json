@@ -15,7 +15,7 @@
     "media"
   ],
   "author": "",
-  "license": "MIT",
+  "license": "SEE LICENSE IN NOTICE.md",
   "dependencies": {
     "cld3-asm": "^4.0.0",
     "cli-progress": "^3.12.0",
