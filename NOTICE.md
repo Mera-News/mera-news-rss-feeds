@@ -2,7 +2,7 @@
 
 ## Where this list comes from
 
-This list began as a fork of [news-feed-list-of-countries](https://github.com/yavuz/news-feed-list-of-countries) by yavuz. The upstream states no licence. Mera Labs grants no rights in the upstream's part. It is passed on as found.
+This list began as a fork of [news-feed-list-of-countries](https://github.com/yavuz/news-feed-list-of-countries) by yavuz. The upstream ships no licence file. Its package.json declares MIT. Its part is passed on under that declaration, with credit to yavuz. Mera Labs grants no further rights in the upstream's part.
 
 ## What Mera Labs added
 

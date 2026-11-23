@@ -283,6 +283,8 @@ async function generateMarkdown() {
 
   let markdown = '# AUTO-GENERATED: DO NOT MODIFY MANUALLY\n\n';
   markdown += '**See [CONTRIBUTION.md](CONTRIBUTION.md) for instructions on how to contribute.**\n\n';
+  markdown += '## Licence\n\n';
+  markdown += "The upstream's part is MIT as its package.json declares. Mera Labs' additions are CC0 1.0 Universal. See [NOTICE.md](NOTICE.md) and [LICENSE](LICENSE).\n\n";
   markdown += '----------\n\n';
 
   // Add legend
