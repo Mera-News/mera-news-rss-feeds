@@ -47350,6 +47350,42 @@
   ],
   "FRA": [
     {
+      "publication_name": "La Gazette Crypto",
+      "publication_website_uri": "https://lagazettecrypto.fr/",
+      "publication_rss_feed_uris": [
+        {
+          "uri": "https://lagazettecrypto.fr/feed/",
+          "is_valid": true,
+          "validation_status": "valid",
+          "category": "Crypto",
+          "language_code": "fr",
+          "language_name": "French"
+        }
+      ],
+      "publication_type": "digital_native",
+      "categories": [
+        "business"
+      ]
+    },
+    {
+      "publication_name": "La Gazette IA",
+      "publication_website_uri": "https://lagazetteia.fr/",
+      "publication_rss_feed_uris": [
+        {
+          "uri": "https://lagazetteia.fr/feed/",
+          "is_valid": true,
+          "validation_status": "valid",
+          "category": "Artificial Intelligence",
+          "language_code": "fr",
+          "language_name": "French"
+        }
+      ],
+      "publication_type": "digital_native",
+      "categories": [
+        "science_tech"
+      ]
+    },
+    {
       "publication_name": "France 24",
       "publication_website_uri": "https://www.france24.com/fr",
       "publication_rss_feed_uris": [
@@ -111293,6 +111329,24 @@
   ],
   "ESP": [
     {
+      "publication_name": "Weblimpieza",
+      "publication_website_uri": "https://weblimpieza.com/",
+      "publication_rss_feed_uris": [
+        {
+          "uri": "https://weblimpieza.com/feed/",
+          "is_valid": true,
+          "validation_status": "valid",
+          "category": "Professional Cleaning",
+          "language_code": "es",
+          "language_name": "Spanish"
+        }
+      ],
+      "publication_type": "digital_native",
+      "categories": [
+        "business"
+      ]
+    },
+    {
       "publication_name": "AutosOcasion",
       "publication_website_uri": "https://www.autosocasion.com/",
       "publication_rss_feed_uris": [
@@ -170910,6 +170964,24 @@
     }
   ],
   "GLOBAL": [
+    {
+      "publication_name": "IPL.com",
+      "publication_website_uri": "https://www.ipl.com/",
+      "publication_rss_feed_uris": [
+        {
+          "uri": "https://www.ipl.com/rss",
+          "is_valid": true,
+          "validation_status": "valid",
+          "category": "Cricket",
+          "language_code": "en",
+          "language_name": "English"
+        }
+      ],
+      "publication_type": "digital_native",
+      "categories": [
+        "sports"
+      ]
+    },
     {
       "publication_name": "Future Feed",
       "publication_website_uri": "https://www.futurefeed.to/",

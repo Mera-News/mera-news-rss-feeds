@@ -39773,6 +39773,22 @@
   ],
   "ESP": [
     {
+      "publication_name": "Weblimpieza",
+      "publication_website_uri": "https://weblimpieza.com/",
+      "category": "Professional Cleaning",
+      "publication_rss_feed_uris": [
+        {
+          "uri": "https://weblimpieza.com/feed/",
+          "gated": false,
+          "category": "Professional Cleaning"
+        }
+      ],
+      "publication_type": "digital_native",
+      "categories": [
+        "business"
+      ]
+    },
+    {
       "publication_name": "AutosOcasion",
       "publication_website_uri": "https://www.autosocasion.com/",
       "category": "Motor",
@@ -45658,6 +45674,38 @@
     }
   ],
   "FRA": [
+    {
+      "publication_name": "La Gazette Crypto",
+      "publication_website_uri": "https://lagazettecrypto.fr/",
+      "category": "Crypto",
+      "publication_rss_feed_uris": [
+        {
+          "uri": "https://lagazettecrypto.fr/feed/",
+          "gated": false,
+          "category": "Crypto"
+        }
+      ],
+      "publication_type": "digital_native",
+      "categories": [
+        "business"
+      ]
+    },
+    {
+      "publication_name": "La Gazette IA",
+      "publication_website_uri": "https://lagazetteia.fr/",
+      "category": "Artificial Intelligence",
+      "publication_rss_feed_uris": [
+        {
+          "uri": "https://lagazetteia.fr/feed/",
+          "gated": false,
+          "category": "Artificial Intelligence"
+        }
+      ],
+      "publication_type": "digital_native",
+      "categories": [
+        "science_tech"
+      ]
+    },
     {
       "publication_name": "France 24",
       "publication_website_uri": "https://www.france24.com/fr",
@@ -52256,6 +52304,22 @@
     }
   ],
   "GLOBAL": [
+    {
+      "publication_name": "IPL.com",
+      "publication_website_uri": "https://www.ipl.com/",
+      "category": "Cricket",
+      "publication_rss_feed_uris": [
+        {
+          "uri": "https://www.ipl.com/rss",
+          "gated": false,
+          "category": "Cricket"
+        }
+      ],
+      "publication_type": "digital_native",
+      "categories": [
+        "sports"
+      ]
+    },
     {
       "publication_name": "Future Feed",
       "publication_website_uri": "https://www.futurefeed.to/",

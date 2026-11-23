@@ -3181,6 +3181,8 @@
 
 ## France
 
+- ✅ [La Gazette Crypto](https://lagazettecrypto.fr/) Crypto - [Feed](https://lagazettecrypto.fr/feed/) - French
+- ✅ [La Gazette IA](https://lagazetteia.fr/) Artificial Intelligence - [Feed](https://lagazetteia.fr/feed/) - French
 - ✅ [France 24](https://www.france24.com/fr) - [Feed](https://www.france24.com/fr/rss) - French
 - ✅ [Le Monde](https://www.lemonde.fr/fr) - [Feed](https://www.lemonde.fr/rss/une.xml) - French
 - ✅ [Le Figaro](https://www.lefigaro.fr/) - [Feed](https://www.lefigaro.fr/rss/figaro_actualites.xml) - French
@@ -7387,6 +7389,7 @@
 
 ## Spain
 
+- ✅ [Weblimpieza](https://weblimpieza.com/) Professional Cleaning - [Feed](https://weblimpieza.com/feed/) - Spanish
 - ✅ [AutosOcasion](https://www.autosocasion.com/) Motor - [Feed](https://www.autosocasion.com/rss.xml) - Spanish
 - ✅ [EL PAIS](https://elpais.com/) - [Feed](https://feeds.elpais.com/mrss-s/pages/ep/site/elpais.com/portada) - Spanish
 - ✅ [elmundo.es](https://elmundo.es/) - [Feed](https://e00-elmundo.uecdn.es/rss/portada.xml) - Spanish
@@ -11022,6 +11025,7 @@
 
 ## Global
 
+- ✅ [IPL.com](https://www.ipl.com/) Cricket - [Feed](https://www.ipl.com/rss) - English
 - ✅ [Future Feed](https://www.futurefeed.to/) Technology - [Feed](https://www.futurefeed.to/rss.xml) - English
 - ✅ [MaxGG News](https://maxgg.cc) Gaming - [Feed](https://maxgg.cc/feed.xml) - English
 - ✅ [TheBareNews](https://thebarenews.ai) General News - [Feed](https://thebarenews.ai/feed.xml) - English
