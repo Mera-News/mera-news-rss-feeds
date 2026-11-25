@@ -118450,6 +118450,25 @@
   ],
   "CHE": [
     {
+      "publication_name": "The Cryptonomist",
+      "publication_website_uri": "https://en.cryptonomist.ch/",
+      "publication_rss_feed_uris": [
+        {
+          "uri": "https://en.cryptonomist.ch/feed/",
+          "is_valid": true,
+          "validation_status": "valid",
+          "category": "Crypto",
+          "language_code": "en",
+          "language_name": "English"
+        }
+      ],
+      "publication_type": "digital_native",
+      "categories": [
+        "business",
+        "science_tech"
+      ]
+    },
+    {
       "publication_name": "Tages Anzeiger",
       "publication_website_uri": "http://tagesanzeiger.ch/",
       "publication_rss_feed_uris": [
@@ -171018,6 +171037,25 @@
     }
   ],
   "GLOBAL": [
+    {
+      "publication_name": "White Space Crypto",
+      "publication_website_uri": "https://www.whitespacecrypto.com/newsroom",
+      "publication_rss_feed_uris": [
+        {
+          "uri": "https://www.whitespacecrypto.com/newsroom/feed.xml",
+          "is_valid": true,
+          "validation_status": "valid",
+          "category": "Crypto",
+          "language_code": "en",
+          "language_name": "English"
+        }
+      ],
+      "publication_type": "digital_native",
+      "categories": [
+        "business",
+        "science_tech"
+      ]
+    },
     {
       "publication_name": "Edition Business",
       "publication_website_uri": "https://www.edition.business/es",

@@ -7829,6 +7829,7 @@ The upstream's part is MIT as its package.json declares. Mera Labs' additions ar
 
 ## Switzerland
 
+- ✅ [The Cryptonomist](https://en.cryptonomist.ch/) Crypto - [Feed](https://en.cryptonomist.ch/feed/) - English
 - ✅ [Tages Anzeiger](http://tagesanzeiger.ch/) - [Feed](http://www.tagesanzeiger.ch/rss.html) - German
 - ✅ [Neue Zuercher Zeitung](http://nzz.ch/) - [Feed](http://www.nzz.ch/startseite.rss) - German
 - ✅ [SRF Sport](http://sport.sf.tv/) - [Feed](http://www.srf.ch/sport/bnf/rss/718) - German
@@ -11032,6 +11033,7 @@ The upstream's part is MIT as its package.json declares. Mera Labs' additions ar
 
 ## Global
 
+- ✅ [White Space Crypto](https://www.whitespacecrypto.com/newsroom) Crypto - [Feed](https://www.whitespacecrypto.com/newsroom/feed.xml) - English
 - ✅ [Edition Business](https://www.edition.business/es) Business - [Feed](https://www.edition.business/es/rss.xml) - Spanish
 - ✅ [IPL.com](https://www.ipl.com/) Cricket - [Feed](https://www.ipl.com/rss) - English
 - ✅ [Future Feed](https://www.futurefeed.to/) Technology - [Feed](https://www.futurefeed.to/rss.xml) - English
