@@ -2862,6 +2862,7 @@ The upstream's part is MIT as its package.json declares. Mera Labs' additions ar
 
 ## Dominican Republic
 
+- ✅ [Orgullo Dominicano](https://orgullodominicano.org/) - [Feed](https://orgullodominicano.org/feed/) - Spanish
 - ✅ [Remolacha.net](http://remolacha.net/) - [Feed](http://remolacha.net/feed/) - Spanish
 - ✅ [Almomento.net](http://almomento.net/) - [Feed](http://almomento.net/feed/) - Spanish
 - ✅ [GenteTuya.com](http://gentetuya.com/) - [Feed](http://www.gentetuya.com/feed/) - Spanish
