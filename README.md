@@ -5676,6 +5676,7 @@ The upstream's part is MIT as its package.json declares. Mera Labs' additions ar
 
 ## Netherlands
 
+- ✅ [Gemeente Amsterdam](https://www.amsterdam.nl) Government News: Amsterdam - [Feed](https://www.amsterdam.nl/nieuws/nieuwsoverzicht/?rss=true) - Dutch
 - ✅ [AT5](https://www.at5.nl/) News - [Feed](https://rss.at5.nl/rss) - Dutch
 - ✅ [AT5](https://www.at5.nl/) Background - [Feed](https://rss.at5.nl/rss/achtergrond) - Dutch
 - ✅ [AT5](https://www.at5.nl/) Culture - [Feed](https://rss.at5.nl/rss/cultuur) - Dutch

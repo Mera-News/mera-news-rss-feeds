@@ -85345,6 +85345,22 @@
   ],
   "NLD": [
     {
+      "publication_name": "Gemeente Amsterdam",
+      "publication_website_uri": "https://www.amsterdam.nl",
+      "category": "Government News: Amsterdam",
+      "publication_rss_feed_uris": [
+        {
+          "uri": "https://www.amsterdam.nl/nieuws/nieuwsoverzicht/?rss=true",
+          "gated": false,
+          "category": "Government News: Amsterdam"
+        }
+      ],
+      "publication_type": "government",
+      "categories": [
+        "government"
+      ]
+    },
+    {
       "publication_name": "AT5",
       "publication_website_uri": "https://www.at5.nl/",
       "category": "News",
